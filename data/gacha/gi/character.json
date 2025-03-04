@@ -1,5 +1,62 @@
 [
 	{
+		"version": "5.4.2",
+		"items": [
+			{
+				"itemId": 10000089,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Furina.webp",
+				"itemType": "Character",
+				"name": "芙宁娜",
+				"nameEn": "Furina",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000086,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Wriothesley.webp",
+				"itemType": "Character",
+				"name": "莱欧斯利",
+				"nameEn": "Wriothesley",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000088,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Charlotte.webp",
+				"itemType": "Character",
+				"name": "夏洛蒂",
+				"nameEn": "Charlotte",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000036,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chongyun.webp",
+				"itemType": "Character",
+				"name": "重云",
+				"nameEn": "Chongyun",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000080,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Mika.webp",
+				"itemType": "Character",
+				"name": "米卡",
+				"nameEn": "Mika",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2025-03-04 18:00:00",
+		"end": "2025-03-25 14:59:59"
+	},
+	{
 		"version": "5.4.1",
 		"items": [
 			{

@@ -1,5 +1,75 @@
 [
 	{
+		"version": "5.4.2",
+		"items": [
+			{
+				"itemId": 11513,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Regalis.webp",
+				"itemType": "Weapon",
+				"name": "静水流涌之辉",
+				"nameEn": "Splendor of Tranquil Waters",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 14513,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Wheatley.webp",
+				"itemType": "Weapon",
+				"name": "金流监督",
+				"nameEn": "Cashflow Supervision",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 11401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风剑",
+				"nameEn": "Favonius Sword",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "Sacrificial Fragments",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15405,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "Rust",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2025-03-04 18:00:00",
+		"end": "2025-03-25 14:59:59"
+	},
+	{
 		"version": "5.4.1",
 		"items": [
 			{

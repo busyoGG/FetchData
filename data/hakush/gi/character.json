@@ -113,6 +113,25 @@
 		"release": "2021-12-14 18:00:00",
 		"weapon": "WEAPON_BOW"
 	},
+	"伊安珊": {
+		"birth": [
+			8,
+			8
+		],
+		"CHS": "伊安珊",
+		"cn": "伊安珊",
+		"desc": "Head coach of the fitness club at the Collective of Plenty, and a renowned Natlanese nutritionist.",
+		"element": "Electro",
+		"EN": "Iansan",
+		"icon": "UI_AvatarIcon_Iansan",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Iansan.webp",
+		"id": "10000110",
+		"JP": "イアンサ",
+		"KR": "얀사",
+		"rank": "QUALITY_PURPLE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_POLE"
+	},
 	"优菈": {
 		"birth": [
 			10,
@@ -986,6 +1005,25 @@
 		"rank": "QUALITY_PURPLE",
 		"release": "2023-01-17 00:00:00",
 		"weapon": "WEAPON_POLE"
+	},
+	"瓦雷莎": {
+		"birth": [
+			11,
+			15
+		],
+		"CHS": "瓦雷莎",
+		"cn": "瓦雷莎",
+		"desc": "",
+		"element": "Electro",
+		"EN": "Varesa",
+		"icon": "UI_AvatarIcon_Varesa",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Varesa.webp",
+		"id": "10000111",
+		"JP": "ヴァレサ",
+		"KR": "바레사",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_CATALYST"
 	},
 	"甘雨": {
 		"birth": [
