@@ -24,7 +24,8 @@
 		"id": "1404",
 		"jp": "モーディス",
 		"kr": "마이데이",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1742378400
 	},
 	"三月七": {
 		"baseType": "Rogue",
@@ -590,14 +591,15 @@
 		"baseType": "Shaman",
 		"cn": "缇宝",
 		"damageType": "Quantum",
-		"desc": "From that holy land blessed by the tripartite prophecy, the messenger split into a thousand forms, embarking on a long journey.\\nTribios, Holy Maidens of Janusopolis, the Chrysos Heir who stole Passage's Coreflame. She toiled for the masses, bringing the news of deliverance to all domains.\\n— Go find the children of humanity with golden blood in their veins, shatter the dimmest dark in this world, and walk toward the tomorrow where the stars gleam.",
+		"desc": "From that holy land blessed by the tripartite prophecy, the messenger split into a thousand forms, embarking on a long journey.\\nTribios, Holy Maiden of Janusopolis, the Chrysos Heir who stole Passage's Coreflame, toiled for the masses and brought the news of deliverance to all domains.\\n—Seek the children of humanity with golden blood in their veins, shatter the dimmest dark in this world, and walk toward the tomorrow where the stars gleam.",
 		"en": "Tribbie",
 		"icon": "tribbie",
 		"iconUrl": "/hsr/UI/avatarshopicon/1403.webp",
 		"id": "1403",
 		"jp": "トリビー",
 		"kr": "트리비",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1740564000
 	},
 	"罗刹": {
 		"baseType": "Priest",
@@ -696,6 +698,32 @@
 		"kr": "맥택",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1725958800
+	},
+	"遐蝶": {
+		"baseType": "Memory",
+		"cn": "遐蝶",
+		"damageType": "Quantum",
+		"desc": "Aidonia, the snowy land that respects and worships death, has already sunken into sweet slumber.\\nO Castorice, daughter of the River of Souls, the Chrysos Heir in search of the Coreflame of \"Death,\" set forth! Guard the lament of the souls in this world, and embrace the solitude of destiny.\\n— Life and death is a journey. When a butterfly rests on that dead branch, the withered will be reborn again.",
+		"en": "Castorice",
+		"icon": "castorice",
+		"iconUrl": "/hsr/UI/avatarshopicon/1407.webp",
+		"id": "1407",
+		"jp": "キャストリス",
+		"kr": "카스토리스",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
+	"那刻夏": {
+		"baseType": "Mage",
+		"cn": "那刻夏",
+		"damageType": "Wind",
+		"desc": "The Grove of Epiphany, where knowledge flourishes and philosophers are born.\\nYet here stands Anaxagoras the blasphemer, the Chrysos Heir who challenges the Coreflame of Reason. He is questioned: Would you defy the prophecy even if you must bear infamy, and insist on driving the thorns of doubt into the Sacred Tree of wisdom?\\n——<i>\"Ridiculous. In a world full of lies, I am the only truth.\"</i>",
+		"en": "Anaxa",
+		"icon": "anaxa",
+		"iconUrl": "/hsr/UI/avatarshopicon/1405.webp",
+		"id": "1405",
+		"jp": "アナイクス",
+		"kr": "아낙사",
+		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"银枝": {
 		"baseType": "Mage",

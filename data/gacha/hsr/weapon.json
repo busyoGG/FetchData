@@ -1,5 +1,109 @@
 [
 	{
+		"version": "3.1.2",
+		"items": [
+			{
+				"itemId": 23039,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23039.webp",
+				"itemType": "Weapon",
+				"name": "血火啊，燃烧前路",
+				"nameEn": "Flame of Blood, Blaze My Path",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 23017,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23017.webp",
+				"itemType": "Weapon",
+				"name": "惊魂夜",
+				"nameEn": "Night of Fright",
+				"rankType": 5,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 21014,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
+				"itemType": "Weapon",
+				"name": "此时恰好",
+				"nameEn": "Perfect Timing",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 21012,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
+				"itemType": "Weapon",
+				"name": "秘密誓心",
+				"nameEn": "A Secret Vow",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2025-03-19 12:00:00",
+		"end": "2025-04-08 14:59:59"
+	},
+	{
+		"version": "3.1.1",
+		"items": [
+			{
+				"itemId": 23038,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23038.webp",
+				"itemType": "Weapon",
+				"name": "如果时间是一朵花",
+				"nameEn": "If Time Were a Flower",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 23030,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23030.webp",
+				"itemType": "Weapon",
+				"name": "落日时起舞",
+				"nameEn": "Dance at Sunset",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "Planetary Rendezvous",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21000,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
+				"itemType": "Weapon",
+				"name": "一场术后对话",
+				"nameEn": "Post-Op Conversation",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 21016,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势",
+				"nameEn": "Trend of the Universal Market",
+				"rankType": 4,
+				"avatarBaseType": "knight",
+				"weaponType": "knight"
+			}
+		],
+		"start": "2025-02-26 06:00:00",
+		"end": "2025-03-19 11:59:59"
+	},
+	{
 		"version": "3.0.2",
 		"items": [
 			{

@@ -442,7 +442,7 @@
 	"如果时间是一朵花": {
 		"baseType": "Shaman",
 		"cn": "如果时间是一朵花",
-		"desc": "<i>\"Mama, I want to hear another story!\"\\n\\n\"My sweet girl, how about we talk about time today?\"\\n\\n\"Time... what is it?\"\\n\\n\"Time, my dear, is like a flower.\"\\n\\n\"Like the dandelions blooming in the fields?\"\\n\\n\"Yes, just like dandelions. Time grows, blossoms, and bears fruit. We call its petals 'moments.'\"\\n\\n\"And then what happens?\"\\n\\n\"Then, it withers into a thousand pieces, leaving seeds that drift everywhere...\"\\n\\n\"Mama, does that mean it becomes the 'future'?\"\\n\\n\"Guess what it turns into after that?\"\\n\\n\"It turns into so many flowers, blooming into a vibrant sea of blossoms, right?\"</i>\\n\\nThe mother didn't have time to answer as the sunlight from the window warmed the girl's face. That gentle figure vanished once more into her dream.\\nShe opened her eyes—\\n<i>\"If time were a flower...\"</i> she murmured.\\n<i>\"It would surely become a sea of flowers,\"</i> said the serene girl.\\n<i>\"Of course it would!\"</i> Exclaimed the playful girl, cheering at her masterpiece.",
+		"desc": "<i>\"Mama, I want to hear another story!\"\\n\\n\"My sweet girl, how about a story about time?\"\\n\\n\"Time... what is it?\"\\n\\n\"Time, my dear, is like a flower.\"\\n\\n\"Like the dandelions blooming in the fields?\"\\n\\n\"Yes, just like dandelions. Time grows, blossoms, and bears fruit. We call its petals 'moments.'\"\\n\\n\"And then what happens?\"\\n\\n\"Then, it withers into a thousand pieces, leaving seeds that drift everywhere...\"\\n\\n\"Mama, does that mean it becomes the 'future'?\"\\n\\n\"Guess what it turns into after that?\"\\n\\n\"It turns into so many flowers, blooming into a vibrant sea of blossoms, right?\"</i>\\n\\nThe mother didn't have time to answer as the sunlight from the window warmed the girl's face. That gentle figure vanished once more into her dream.\\nShe opened her eyes—\\n<i>\"If time were a flower...\"</i> she murmured.\\n<i>\"It would surely become a sea of flowers,\"</i> said the serene girl.\\n<i>\"Of course it would!\"</i> Exclaimed the playful girl, cheering at her masterpiece.",
 		"en": "If Time Were a Flower",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23038.webp",
 		"id": "23038",
@@ -471,6 +471,17 @@
 		"jp": "{RUBY_B#こどく}孤独{RUBY_E#}の{RUBY_B#いや}癒{RUBY_E#}し",
 		"kr": "고독의 치유",
 		"rank": "CombatPowerLightconeRarity5"
+	},
+	"宇宙大生意": {
+		"baseType": "Mage",
+		"cn": "宇宙大生意",
+		"desc": null,
+		"en": "The Great Cosmic Enterprise",
+		"iconUrl": "/hsr/UI/lightconemediumicon/22004.webp",
+		"id": "22004",
+		"jp": "宇宙一の大商売",
+		"kr": "우주 대사업",
+		"rank": "CombatPowerLightconeRarity4"
 	},
 	"宇宙市场趋势": {
 		"baseType": "Knight",
@@ -934,6 +945,17 @@
 		"kr": "앰버",
 		"rank": "CombatPowerLightconeRarity3"
 	},
+	"生命当付之一炬": {
+		"baseType": "Mage",
+		"cn": "生命当付之一炬",
+		"desc": "In that hidden experiment, various illusions constantly surged forward, pulling at his steps.\\n\\nThe seductive whispers beckoned him to give up on that treacherous topic, for what reason was there to gamble his life?\\nThe cold, threatening voice declared that those who walk the edge of life and death will ultimately burn their lives away.\\nThen there were the angry accusations, shouting to cast the blasphemer — the one who had desecrated the gods — into an execution grounds most cruel.\\n\\n<i>\"The performance of life, too, must eventually reach the curtain call.\"</i>\\n\\nHe closed his eyes, grasped the divine flame, and let the pain drown his fading soul.\\nFirst, his resolute gaze. Then, his beating heart. The complete soul... He threw himself willingly into that most pure and intense flame to be used for the smelting—\\n\\nThe voices bubbled and then became silent.\\nIn the darkness, the brilliant truth began to take shape in his hands.",
+		"en": "Life Should Be Cast to Flames",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23041.webp",
+		"id": "23041",
+		"jp": "命は燃やすべし",
+		"kr": "생명은 불태워야 하는 것",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"相抗": {
 		"baseType": "Rogue",
 		"cn": "相抗",
@@ -1084,7 +1106,7 @@
 		"en": "Flame of Blood, Blaze My Path",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23039.webp",
 		"id": "23039",
-		"jp": "{RUBY_B#ぜんど}前途{RUBY_E#}{RUBY_B#も}燃{RUBY_E#}やす{RUBY_B#ち}血{RUBY_E#}の{RUBY_B#ごと}如{RUBY_E#}き{RUBY_B#ほのお}炎{RUBY_E#}",
+		"jp": "{RUBY_B#ぜんと}前途{RUBY_E#}{RUBY_B#も}燃{RUBY_E#}やす{RUBY_B#ち}血{RUBY_E#}の{RUBY_B#ごと}如{RUBY_E#}き{RUBY_B#ほのお}炎{RUBY_E#}",
 		"kr": "피의 불꽃이여, 앞길을 태워라",
 		"rank": "CombatPowerLightconeRarity5"
 	},
@@ -1097,6 +1119,17 @@
 		"id": "23024",
 		"jp": "{RUBY_B#なが}流{RUBY_E#}れ{RUBY_B#ゆ}逝{RUBY_E#}く{RUBY_B#きし}岸{RUBY_E#}を{RUBY_B#ある}歩{RUBY_E#}いて",
 		"kr": "흘러가는 강가를 따라",
+		"rank": "CombatPowerLightconeRarity5"
+	},
+	"让告别，更美一些": {
+		"baseType": "Memory",
+		"cn": "让告别，更美一些",
+		"desc": "Another farewell ceremony was underway.\\nA young girl, stepping on broken moonlight, wove a garland of parting by the riverbank.\\n\\nAncient laments crystallized in the cold air, while the quiet river flowed into a distant land of blossoms.\\nBlood-stained scrolls, rusted long swords, handkerchiefs embroidered with poetry... She accepted their remains, along with the tales of their lives.\\n\\n<i>\"My eyes are like lenses, forever longing for the starry sky.\"</i>\\n—An epitaph dedicated to the departed scholar.\\n<i>\"For life and for death, the knight grants only a cold glance.\"</i>\\n—The maxim that the nameless warrior upheld all his life.\\n<i>\"Life is nothing but death, aglow with shimmering light.\"</i>\\n—The final verse penned by the eternal-seeking poet with his life.\\n\\n...<i>\"Every flower once bloomed with pride...\"</i>\\nAccompanied by the river's soft lament, she offered the departed poems, garlands, and remembrances—\\n<i>\"If withering is inevitable, at least let our farewell be... a little more beautiful.\"</i>",
+		"en": "Make Farewells More Beautiful",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23040.webp",
+		"id": "23040",
+		"jp": "別れを、より美しいものに",
+		"kr": "이별이 더 아름답도록",
 		"rank": "CombatPowerLightconeRarity5"
 	},
 	"记一位星神的陨落": {
