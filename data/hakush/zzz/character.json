@@ -22,7 +22,7 @@
 		"CHS": "「扳机」",
 		"cn": "「扳机」",
 		"code": "Trigger",
-		"desc": "",
+		"desc": "...",
 		"element": 203,
 		"EN": "Trigger",
 		"hit": 103,
@@ -320,8 +320,8 @@
 		"camp": 4,
 		"CHS": "波可娜",
 		"cn": "波可娜",
-		"code": "Pulchra Feliny",
-		"desc": "",
+		"code": "Avatar_Female_Size03_Pulchra_En",
+		"desc": "...",
 		"element": 200,
 		"EN": "Pulchra",
 		"hit": 101,
@@ -423,14 +423,14 @@
 		"rank": 4,
 		"skin": {
 			"3113110": {
-				"Desc": "The bold red is only to ignite the freedom deep within. On stage, nothing can overshadow her brilliance.",
+				"Desc": "AvatarSkin_Astra_Desc_000",
 				"Image": "IconRole36",
-				"Name": "Astra Yao: Scarlet Rock"
+				"Name": "AvatarSkin_Astra_Name_000"
 			},
 			"3113111": {
-				"Desc": "The black-and-white dress glimmers in both light and shadows. Every smile of hers seems to sink into the flowing light of the night, becoming a timeless classic.",
+				"Desc": "AvatarSkin_Astra_Desc_001",
 				"Image": "IconRole36_01",
-				"Name": "Astra Yao: Chandelier"
+				"Name": "AvatarSkin_Astra_Name_001"
 			}
 		},
 		"type": 4
@@ -452,14 +452,14 @@
 		"rank": 4,
 		"skin": {
 			"3111910": {
-				"Desc": "The sharp scissors of Victoria Housekeeping, if only she weren't sleeping...",
+				"Desc": "AvatarSkin_Ellen_Desc_000",
 				"Image": "IconRole21",
-				"Name": "Ellen: Ellen Scissorhands"
+				"Name": "AvatarSkin_Ellen_Name_000"
 			},
 			"3111911": {
-				"Desc": "The tail doesn't quite match the school uniform, but with just a little bit of needlework, it can become even cuter!",
+				"Desc": "AvatarSkin_Ellen_Desc_001",
 				"Image": "IconRole21_01",
-				"Name": "Ellen: On Campus"
+				"Name": "AvatarSkin_Ellen_Name_001"
 			}
 		},
 		"type": 1
@@ -554,24 +554,6 @@
 		"skin": {},
 		"type": 1
 	},
-	"银心锡兵·安比": {
-		"camp": 5,
-		"CHS": "银心锡兵·安比",
-		"cn": "银心锡兵·安比",
-		"code": "SilverAnby",
-		"desc": "",
-		"element": 203,
-		"EN": "Silver Soldier - Anby",
-		"hit": 101,
-		"icon": "IconRole40",
-		"iconUrl": "/zzz/UI/IconRoleSelect40.webp",
-		"id": "1381",
-		"JA": "シルバーソルジャー・アンビー",
-		"KO": "실버 솔져 엔비",
-		"rank": 4,
-		"skin": {},
-		"type": 1
-	},
 	"雅": {
 		"camp": 6,
 		"CHS": "雅",
@@ -590,6 +572,24 @@
 		"skin": {},
 		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
 		"type": 3
+	},
+	"零号·安比": {
+		"camp": 5,
+		"CHS": "零号·安比",
+		"cn": "零号·安比",
+		"code": "Soldier 0 - Anby",
+		"desc": "",
+		"element": 203,
+		"EN": "Soldier 0 - Anby",
+		"hit": 101,
+		"icon": "IconRole40",
+		"iconUrl": "/zzz/UI/IconRoleSelect40.webp",
+		"id": "1381",
+		"JA": "0号・アンビー",
+		"KO": "0호·엔비",
+		"rank": 4,
+		"skin": {},
+		"type": 1
 	},
 	"露西": {
 		"camp": 4,
