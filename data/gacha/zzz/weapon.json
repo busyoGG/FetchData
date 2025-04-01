@@ -1,5 +1,89 @@
 [
 	{
+		"version": "1.6.2",
+		"items": [
+			{
+				"itemId": 14136,
+				"imageUrl": "/zzz/UI/Weapon_S_1361.webp",
+				"itemType": "Weapon",
+				"name": "索魂影眸",
+				"nameEn": "Spectral Gaze",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "Kaboom the Cannon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13108,
+				"imageUrl": "/zzz/UI/Weapon_A_1081.webp",
+				"itemType": "Weapon",
+				"name": "仿制星徽引擎",
+				"nameEn": "Starlight Engine Replica",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4
+			}
+		],
+		"start": "2024-04-02 12:00:00",
+		"end": "2025-04-22 14:59:59"
+	},
+	{
+		"version": "1.6.1",
+		"items": [
+			{
+				"itemId": 14138,
+				"imageUrl": "/zzz/UI/Weapon_S_1381.webp",
+				"itemType": "Weapon",
+				"name": "牺牲洁纯",
+				"nameEn": "Severed Innocence",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 14117,
+				"imageUrl": "/zzz/UI/Weapon_S_1171.webp",
+				"itemType": "Weapon",
+				"name": "灼心摇壶",
+				"nameEn": "Flamemaker Shaker",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 13135,
+				"imageUrl": "/zzz/UI/Weapon_A_1351.webp",
+				"itemType": "Weapon",
+				"name": "裁纸刀",
+				"nameEn": "Box Cutter",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4
+			},
+			{
+				"itemId": 13112,
+				"imageUrl": "/zzz/UI/Weapon_A_1121.webp",
+				"itemType": "Weapon",
+				"name": "比格气缸",
+				"nameEn": "Big Cylinder",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			}
+		],
+		"start": "2024-03-12 06:00:00",
+		"end": "2025-04-02 11:59:59"
+	},
+	{
 		"version": "1.5.2",
 		"items": [
 			{

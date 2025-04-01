@@ -233,6 +233,19 @@
 		"rank": 3,
 		"type": 1
 	},
+	"千面日陨": {
+		"CHS": "千面日陨",
+		"cn": "千面日陨",
+		"desc": "...",
+		"EN": "...",
+		"icon": "Weapon_S_1291",
+		"iconUrl": "/zzz/UI/Weapon_S_1291.webp",
+		"id": "14129",
+		"JA": "千面の落日",
+		"KO": "...",
+		"rank": 4,
+		"type": 1
+	},
 	"双生泣星": {
 		"CHS": "双生泣星",
 		"cn": "双生泣星",
@@ -727,19 +740,6 @@
 		"rank": 3,
 		"type": 4
 	},
-	"鎏金花信": {
-		"CHS": "鎏金花信",
-		"cn": "鎏金花信",
-		"desc": "A W-Engine with a grandiose and luxurious appearance equipped with a premium Ether-powered anti-theft device. It's actually used to provide the equipper with energy.",
-		"EN": "Gilded Blossom",
-		"icon": "Weapon_A_Common_13",
-		"iconUrl": "/zzz/UI/Weapon_A_Common_13.webp",
-		"id": "13013",
-		"JA": "金メッキの花信",
-		"KO": "도금된 화신풍",
-		"rank": 3,
-		"type": 1
-	},
 	"钢铁肉垫": {
 		"CHS": "钢铁肉垫",
 		"cn": "钢铁肉垫",
@@ -751,6 +751,19 @@
 		"JA": "鋼の肉球",
 		"KO": "스틸 쿠션",
 		"rank": 4,
+		"type": 1
+	},
+	"鎏金花信": {
+		"CHS": "鎏金花信",
+		"cn": "鎏金花信",
+		"desc": "A W-Engine with a grandiose and luxurious appearance equipped with a premium Ether-powered anti-theft device. It's actually used to provide the equipper with energy.",
+		"EN": "Gilded Blossom",
+		"icon": "Weapon_A_Common_13",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_13.webp",
+		"id": "13013",
+		"JA": "金メッキの花信",
+		"KO": "도금된 화신풍",
+		"rank": 3,
 		"type": 1
 	},
 	"防暴者Ⅵ型": {
@@ -789,6 +802,19 @@
 		"id": "14109",
 		"JA": "あられ落つ星殿",
 		"KO": "싸락눈 내린 별각",
+		"rank": 4,
+		"type": 3
+	},
+	"飞鸟星梦": {
+		"CHS": "飞鸟星梦",
+		"cn": "飞鸟星梦",
+		"desc": "...",
+		"EN": "...",
+		"icon": "Weapon_S_1331",
+		"iconUrl": "/zzz/UI/Weapon_S_1331.webp",
+		"id": "14133",
+		"JA": "鳥は夢へと羽ばたいて",
+		"KO": "...",
 		"rank": 4,
 		"type": 3
 	}

@@ -320,7 +320,7 @@
 		"camp": 4,
 		"CHS": "波可娜",
 		"cn": "波可娜",
-		"code": "Avatar_Female_Size03_Pulchra_En",
+		"code": "Pulchra",
 		"desc": "...",
 		"element": 200,
 		"EN": "Pulchra",
@@ -518,6 +518,24 @@
 		"skin": {},
 		"type": 2
 	},
+	"薇薇安": {
+		"camp": 9,
+		"CHS": "薇薇安",
+		"cn": "薇薇安",
+		"code": "Vivian",
+		"desc": "...",
+		"element": 205,
+		"EN": "Vivian",
+		"hit": 101,
+		"icon": "IconRole41",
+		"iconUrl": "/zzz/UI/IconRoleSelect41.webp",
+		"id": "1331",
+		"JA": "ビビアン",
+		"KO": "비비안",
+		"rank": 4,
+		"skin": {},
+		"type": 3
+	},
 	"赛斯": {
 		"camp": 7,
 		"CHS": "赛斯",
@@ -572,6 +590,24 @@
 		"skin": {},
 		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
 		"type": 3
+	},
+	"雨果": {
+		"camp": 9,
+		"CHS": "雨果",
+		"cn": "雨果",
+		"code": "Hugo",
+		"desc": "...",
+		"element": 202,
+		"EN": "Hugo",
+		"hit": 101,
+		"icon": "IconRole42",
+		"iconUrl": "/zzz/UI/IconRoleSelect42.webp",
+		"id": "1291",
+		"JA": "ヒューゴ",
+		"KO": "휴고",
+		"rank": 4,
+		"skin": {},
+		"type": 1
 	},
 	"零号·安比": {
 		"camp": 5,
