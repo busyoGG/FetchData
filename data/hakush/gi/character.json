@@ -129,8 +129,27 @@
 		"JP": "イアンサ",
 		"KR": "얀사",
 		"rank": "QUALITY_PURPLE",
-		"release": "1970-01-01 00:00:00",
+		"release": "2025-03-25 00:00:00",
 		"weapon": "WEAPON_POLE"
+	},
+	"伊法": {
+		"birth": [
+			1,
+			1
+		],
+		"CHS": "伊法",
+		"cn": "伊法",
+		"desc": "",
+		"element": "Anemo",
+		"EN": "Ifa",
+		"icon": "UI_AvatarIcon_Ifa",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Ifa.webp",
+		"id": "10000113",
+		"JP": "イファ",
+		"KR": "이파",
+		"rank": "QUALITY_PURPLE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_CATALYST"
 	},
 	"优菈": {
 		"birth": [
@@ -854,6 +873,25 @@
 		"release": "2021-04-27 00:00:00",
 		"weapon": "WEAPON_CATALYST"
 	},
+	"爱可菲": {
+		"birth": [
+			1,
+			1
+		],
+		"CHS": "爱可菲",
+		"cn": "爱可菲",
+		"desc": "",
+		"element": "Cryo",
+		"EN": "Escoffier",
+		"icon": "UI_AvatarIcon_Escoffier",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Escoffier.webp",
+		"id": "10000112",
+		"JP": "エスコフィエ",
+		"KR": "에스코피에",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_POLE"
+	},
 	"玛拉妮": {
 		"birth": [
 			8,
@@ -1013,7 +1051,7 @@
 		],
 		"CHS": "瓦雷莎",
 		"cn": "瓦雷莎",
-		"desc": "",
+		"desc": "A laid-back orchard manager and warrior of the Collective of Plenty. An aspiring hero who hungers for justice... and lots and lots of food!",
 		"element": "Electro",
 		"EN": "Varesa",
 		"icon": "UI_AvatarIcon_Varesa",
@@ -1022,7 +1060,7 @@
 		"JP": "ヴァレサ",
 		"KR": "바레사",
 		"rank": "QUALITY_ORANGE",
-		"release": "1970-01-01 00:00:00",
+		"release": "2025-03-25 00:00:00",
 		"weapon": "WEAPON_CATALYST"
 	},
 	"甘雨": {

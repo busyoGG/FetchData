@@ -1,5 +1,75 @@
 [
 	{
+		"version": "5.5.1",
+		"items": [
+			{
+				"itemId": 14519,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_VaresaTransformer.webp",
+				"itemType": "Weapon",
+				"name": "溢彩心念",
+				"nameEn": "Vivid Notions",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 14515,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_MountainGale.webp",
+				"itemType": "Weapon",
+				"name": "鹤鸣余音",
+				"nameEn": "Crane's Echoing Call",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 11430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "弥坚骨",
+				"nameEn": "Sturdy Bone",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "硕果钩",
+				"nameEn": "Fruitful Hook",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "镇山之钉",
+				"nameEn": "Mountain-Bracing Bolt",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "乘浪的回旋",
+				"nameEn": "Waveriding Whirl",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "缀花之翎",
+				"nameEn": "Flower-Wreathed Feathers",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2025-03-26 06:00:00",
+		"end": "2025-04-15 17:59:59"
+	},
+	{
 		"version": "5.4.2",
 		"items": [
 			{
