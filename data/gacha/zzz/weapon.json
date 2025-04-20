@@ -1,5 +1,99 @@
 [
 	{
+		"version": "2.0.2",
+		"items": [
+			{
+				"itemId": 14129,
+				"imageUrl": "/zzz/UI/Weapon_S_1291.webp",
+				"itemType": "Weapon",
+				"name": "千面日陨",
+				"nameEn": "Myriad Eclipse",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 14116,
+				"imageUrl": "/zzz/UI/Weapon_S_1161.webp",
+				"itemType": "Weapon",
+				"name": "焰心桂冠",
+				"nameEn": "Blazing Laurel",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13113,
+				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "Bashful Demon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13111,
+				"imageUrl": "/zzz/UI/Weapon_A_1111.webp",
+				"itemType": "Weapon",
+				"name": "旋钻机-赤轴",
+				"nameEn": "Drill Rig - Red Axis",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4
+			}
+		],
+		"start": "2025-05-14 12:00:00",
+		"end": "2025-06-05 14:59:59"
+	},
+	{
+		"version": "2.0.1",
+		"items": [
+			{
+				"itemId": 14133,
+				"imageUrl": "/zzz/UI/Weapon_S_1331.webp",
+				"itemType": "Weapon",
+				"name": "飞鸟星梦",
+				"nameEn": "Flight of Fancy",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 14126,
+				"imageUrl": "/zzz/UI/Weapon_S_1261.webp",
+				"itemType": "Weapon",
+				"name": "淬锋钳刺",
+				"nameEn": "Sharpened Stinger",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 13128,
+				"imageUrl": "/zzz/UI/Weapon_A_1281.webp",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "Roaring Ride",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4
+			},
+			{
+				"itemId": 13127,
+				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "Peacekeeper - Specialized",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			}
+		],
+		"start": "2025-04-23 06:00:00",
+		"end": "2025-05-14 11:59:59"
+	},
+	{
 		"version": "1.6.2",
 		"items": [
 			{

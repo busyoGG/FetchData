@@ -236,13 +236,13 @@
 	"千面日陨": {
 		"CHS": "千面日陨",
 		"cn": "千面日陨",
-		"desc": "...",
-		"EN": "...",
+		"desc": "Shadowed by darkness at every step, he laid bare his heart to kindle a single, flickering flame.",
+		"EN": "Myriad Eclipse",
 		"icon": "Weapon_S_1291",
 		"iconUrl": "/zzz/UI/Weapon_S_1291.webp",
 		"id": "14129",
 		"JA": "千面の落日",
-		"KO": "...",
+		"KO": "천변하는 태양의 몰락",
 		"rank": 4,
 		"type": 1
 	},
@@ -574,7 +574,7 @@
 	"牺牲洁纯": {
 		"CHS": "牺牲洁纯",
 		"cn": "牺牲洁纯",
-		"desc": "...",
+		"desc": "The sheen of silver is not innocence. Can the blades of the past cut through fate's connections?",
 		"EN": "Severed Innocence",
 		"icon": "Weapon_S_1381",
 		"iconUrl": "/zzz/UI/Weapon_S_1381.webp",
@@ -626,7 +626,7 @@
 	"索魂影眸": {
 		"CHS": "索魂影眸",
 		"cn": "索魂影眸",
-		"desc": "...",
+		"desc": "Broken eyes hold both resilience and vulnerability.",
 		"EN": "Spectral Gaze",
 		"icon": "Weapon_S_1361",
 		"iconUrl": "/zzz/UI/Weapon_S_1361.webp",
@@ -808,13 +808,13 @@
 	"飞鸟星梦": {
 		"CHS": "飞鸟星梦",
 		"cn": "飞鸟星梦",
-		"desc": "...",
-		"EN": "...",
+		"desc": "A bird landed on the windowsill, scattering starlight from its tail feathers.",
+		"EN": "Flight of Fancy",
 		"icon": "Weapon_S_1331",
 		"iconUrl": "/zzz/UI/Weapon_S_1331.webp",
 		"id": "14133",
 		"JA": "鳥は夢へと羽ばたいて",
-		"KO": "...",
+		"KO": "별빛 꿈을 누비는 새",
 		"rank": 4,
 		"type": 3
 	}
