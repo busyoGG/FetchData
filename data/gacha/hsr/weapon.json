@@ -1,5 +1,82 @@
 [
 	{
+		"version": "3.2.1",
+		"items": [
+			{
+				"itemId": 23040,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23040.webp",
+				"itemType": "Weapon",
+				"name": "让告别，更美一些",
+				"nameEn": "",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 23035,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23035.webp",
+				"itemType": "Weapon",
+				"name": "长路终有归途",
+				"nameEn": "Long Road Leads Home",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 23029,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23029.webp",
+				"itemType": "Weapon",
+				"name": "那无数个春天",
+				"nameEn": "Those Many Springs",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 23024,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23024.webp",
+				"itemType": "Weapon",
+				"name": "行于流逝的岸",
+				"nameEn": "Along the Passing Shore",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 21001,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
+				"itemType": "Weapon",
+				"name": "晚安与睡颜",
+				"nameEn": "Good Night and Sleep Well",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 21000,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
+				"itemType": "Weapon",
+				"name": "一场术后对话",
+				"nameEn": "Post-Op Conversation",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 21044,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
+				"itemType": "Weapon",
+				"name": "无边曼舞",
+				"nameEn": "Boundless Choreo",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2025-04-09 06:00:00",
+		"end": "2025-04-30 11:59:59"
+	},
+	{
 		"version": "3.1.2",
 		"items": [
 			{

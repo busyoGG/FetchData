@@ -3,7 +3,7 @@
 		"baseType": "Memory",
 		"cn": "{NICKNAME}",
 		"damageType": "Ice",
-		"desc": "A {F#girl}{M#boy} who boarded the Astral Express.\\nThey chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
+		"desc": "A {F#girl}{M#boy} who boarded the Astral Express.\\n{F#She}{M#He} chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron.",
 		"en": "{NICKNAME}",
 		"icon": "playergirl4",
 		"iconUrl": "/hsr/UI/avatarshopicon/8008.webp",
@@ -36,7 +36,7 @@
 		"icon": "mar7th2",
 		"iconUrl": "/hsr/UI/avatarshopicon/1224.webp",
 		"id": "1224",
-		"jp": "三月なのか",
+		"jp": "{RUBY_B#みつき}三月{RUBY_E#}なのか",
 		"kr": "Mar. 7th",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1722416400
@@ -50,7 +50,7 @@
 		"icon": "danheng",
 		"iconUrl": "/hsr/UI/avatarshopicon/1002.webp",
 		"id": "1002",
-		"jp": "丹恒",
+		"jp": "{RUBY_B#タンコウ}丹恒{RUBY_E#}",
 		"kr": "단항",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1682460000
@@ -64,7 +64,7 @@
 		"icon": "danhengil",
 		"iconUrl": "/hsr/UI/avatarshopicon/1213.webp",
 		"id": "1213",
-		"jp": "丹恒・飲月",
+		"jp": "{RUBY_B#タンコウ}丹恒{RUBY_E#}・{RUBY_B#インゲツ}飲月{RUBY_E#}",
 		"kr": "단항•음월",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1693386000
@@ -78,7 +78,7 @@
 		"icon": "rappa",
 		"iconUrl": "/hsr/UI/avatarshopicon/1317.webp",
 		"id": "1317",
-		"jp": "乱破",
+		"jp": "{RUBY_B#らんは}乱破{RUBY_E#}",
 		"kr": "라파",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1729674000
@@ -92,7 +92,7 @@
 		"icon": "yunli",
 		"iconUrl": "/hsr/UI/avatarshopicon/1221.webp",
 		"id": "1221",
-		"jp": "雲璃",
+		"jp": "{RUBY_B#ウンリ}雲璃{RUBY_E#}",
 		"kr": "운리",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1722416400
@@ -120,7 +120,7 @@
 		"icon": "tingyun",
 		"iconUrl": "/hsr/UI/avatarshopicon/1202.webp",
 		"id": "1202",
-		"jp": "停雲",
+		"jp": "{RUBY_B#テイウン}停雲{RUBY_E#}",
 		"kr": "정운",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1682460000
@@ -148,7 +148,7 @@
 		"icon": "blade",
 		"iconUrl": "/hsr/UI/avatarshopicon/1205.webp",
 		"id": "1205",
-		"jp": "刃",
+		"jp": "{RUBY_B#ジン}刃{RUBY_E#}",
 		"kr": "블레이드",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1689757200
@@ -218,7 +218,7 @@
 		"icon": "himeko",
 		"iconUrl": "/hsr/UI/avatarshopicon/1003.webp",
 		"id": "1003",
-		"jp": "姫子",
+		"jp": "{RUBY_B#ひめこ}姫子{RUBY_E#}",
 		"kr": "히메코",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1682460000
@@ -246,7 +246,7 @@
 		"icon": "hanya",
 		"iconUrl": "/hsr/UI/avatarshopicon/1215.webp",
 		"id": "1215",
-		"jp": "寒鴉",
+		"jp": "{RUBY_B#カンア}寒鴉{RUBY_E#}",
 		"kr": "한아",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1701856800
@@ -302,7 +302,7 @@
 		"icon": "yanqing",
 		"iconUrl": "/hsr/UI/avatarshopicon/1209.webp",
 		"id": "1209",
-		"jp": "彦卿",
+		"jp": "{RUBY_B#ゲンキョウ}彦卿{RUBY_E#}",
 		"kr": "연경",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1682460000
@@ -316,7 +316,7 @@
 		"icon": "fugue",
 		"iconUrl": "/hsr/UI/avatarshopicon/1225.webp",
 		"id": "1225",
-		"jp": "帰忘の流離人",
+		"jp": "{RUBY_B#きぼう}帰忘{RUBY_E#}の{RUBY_B#さすらいびと}流離人{RUBY_E#}",
 		"kr": "망귀인",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1735120800
@@ -358,7 +358,7 @@
 		"icon": "jingyuan",
 		"iconUrl": "/hsr/UI/avatarshopicon/1204.webp",
 		"id": "1204",
-		"jp": "景元",
+		"jp": "{RUBY_B#ケイゲン}景元{RUBY_E#}",
 		"kr": "경원",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1684335600
@@ -386,7 +386,7 @@
 		"icon": "guinaifen",
 		"iconUrl": "/hsr/UI/avatarshopicon/1210.webp",
 		"id": "1210",
-		"jp": "桂乃芬",
+		"jp": "{RUBY_B#ケイナイフン}桂乃芬{RUBY_E#}",
 		"kr": "계네빈",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1698483600
@@ -414,7 +414,7 @@
 		"icon": "jiaoqiu",
 		"iconUrl": "/hsr/UI/avatarshopicon/1218.webp",
 		"id": "1218",
-		"jp": "椒丘",
+		"jp": "{RUBY_B#ショウキュウ}椒丘{RUBY_E#}",
 		"kr": "초구",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1724230800
@@ -456,7 +456,7 @@
 		"icon": "lingsha",
 		"iconUrl": "/hsr/UI/avatarshopicon/1222.webp",
 		"id": "1222",
-		"jp": "霊砂",
+		"jp": "{RUBY_B#レイサ}霊砂{RUBY_E#}",
 		"kr": "영사",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1727859600
@@ -498,7 +498,7 @@
 		"icon": "bailu",
 		"iconUrl": "/hsr/UI/avatarshopicon/1211.webp",
 		"id": "1211",
-		"jp": "白露",
+		"jp": "{RUBY_B#ビャクロ}白露{RUBY_E#}",
 		"kr": "백로",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1682460000
@@ -554,7 +554,7 @@
 		"icon": "fuxuan",
 		"iconUrl": "/hsr/UI/avatarshopicon/1208.webp",
 		"id": "1208",
-		"jp": "符玄",
+		"jp": "{RUBY_B#フゲン}符玄{RUBY_E#}",
 		"kr": "부현",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1695200400
@@ -582,7 +582,7 @@
 		"icon": "sushang",
 		"iconUrl": "/hsr/UI/avatarshopicon/1206.webp",
 		"id": "1206",
-		"jp": "素裳",
+		"jp": "{RUBY_B#スショウ}素裳{RUBY_E#}",
 		"kr": "소상",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1682460000
@@ -610,7 +610,7 @@
 		"icon": "luocha",
 		"iconUrl": "/hsr/UI/avatarshopicon/1203.webp",
 		"id": "1203",
-		"jp": "羅刹",
+		"jp": "{RUBY_B#ラセツ}羅刹{RUBY_E#}",
 		"kr": "나찰",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1687942800
@@ -652,7 +652,7 @@
 		"icon": "sparkle",
 		"iconUrl": "/hsr/UI/avatarshopicon/1306.webp",
 		"id": "1306",
-		"jp": "花火",
+		"jp": "{RUBY_B#はなび}花火{RUBY_E#}",
 		"kr": "스파클",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1707213600
@@ -699,6 +699,19 @@
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1725958800
 	},
+	"赛飞儿": {
+		"baseType": "Warlock",
+		"cn": "赛飞儿",
+		"damageType": "Quantum",
+		"desc": "In the fallen city of bandits, Dolos, the <unbreak>300</unbreak> Rogues run wild and free, the entire city at their mercy.\\nRace onward, fleet-footed Thief Star Cifera, Chrysos Heir of the \"Trickery\" Coreflame, and may your web of lies spread with the breeze throughout all lands—\\n\"Trying to trick me? Don't even think about it!\"",
+		"en": "Cipher",
+		"icon": "cipher",
+		"iconUrl": "/hsr/UI/avatarshopicon/1406.webp",
+		"id": "1406",
+		"jp": "サフェル",
+		"kr": "사이퍼",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"遐蝶": {
 		"baseType": "Memory",
 		"cn": "遐蝶",
@@ -710,7 +723,8 @@
 		"id": "1407",
 		"jp": "キャストリス",
 		"kr": "카스토리스",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1744189200
 	},
 	"那刻夏": {
 		"baseType": "Mage",
@@ -722,8 +736,9 @@
 		"iconUrl": "/hsr/UI/avatarshopicon/1405.webp",
 		"id": "1405",
 		"jp": "アナイクス",
-		"kr": "아낙사",
-		"rank": "CombatPowerAvatarRarityType5"
+		"kr": "",
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1746003600
 	},
 	"银枝": {
 		"baseType": "Mage",
@@ -748,7 +763,7 @@
 		"icon": "silverwolf",
 		"iconUrl": "/hsr/UI/avatarshopicon/1006.webp",
 		"id": "1006",
-		"jp": "銀狼",
+		"jp": "{RUBY_B#ぎんろう}銀狼{RUBY_E#}",
 		"kr": "은랑",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1686128400
@@ -762,7 +777,7 @@
 		"icon": "jingliu",
 		"iconUrl": "/hsr/UI/avatarshopicon/1212.webp",
 		"id": "1212",
-		"jp": "鏡流",
+		"jp": "{RUBY_B#ケイリュウ}鏡流{RUBY_E#}",
 		"kr": "경류",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1697014800
@@ -818,7 +833,7 @@
 		"icon": "xueyi",
 		"iconUrl": "/hsr/UI/avatarshopicon/1214.webp",
 		"id": "1214",
-		"jp": "雪衣",
+		"jp": "{RUBY_B#セツイ}雪衣{RUBY_E#}",
 		"kr": "설의",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1703671200
@@ -832,10 +847,23 @@
 		"icon": "qingque",
 		"iconUrl": "/hsr/UI/avatarshopicon/1201.webp",
 		"id": "1201",
-		"jp": "青雀",
+		"jp": "{RUBY_B#セイジャク}青雀{RUBY_E#}",
 		"kr": "청작",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1682460000
+	},
+	"风堇": {
+		"baseType": "Memory",
+		"cn": "风堇",
+		"damageType": "Wind",
+		"desc": "As the city-state in the clouds crumbles through time, the Twilight Courtyard opens its gates once more, bringing a glimmer of light to Evernight.\\nYou, Physician Hyacinthia, Chrysos Heir who guards the Sky Coreflame, must inherit your ancestors' will and mend the torn fabric of dusk and dawn.\\nMay the rainbow light pour down, dissolve all grudges, and bring the dawn back to this land.",
+		"en": "Hyacine",
+		"icon": "hyacine",
+		"iconUrl": "/hsr/UI/avatarshopicon/1409.webp",
+		"id": "1409",
+		"jp": "ヒアンシー",
+		"kr": "히아킨",
+		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"飞霄": {
 		"baseType": "Rogue",
@@ -846,7 +874,7 @@
 		"icon": "feixiao",
 		"iconUrl": "/hsr/UI/avatarshopicon/1220.webp",
 		"id": "1220",
-		"jp": "飛霄",
+		"jp": "{RUBY_B#ヒショウ}飛霄{RUBY_E#}",
 		"kr": "비소",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1725958800
@@ -860,7 +888,7 @@
 		"icon": "yukong",
 		"iconUrl": "/hsr/UI/avatarshopicon/1207.webp",
 		"id": "1207",
-		"jp": "御空",
+		"jp": "{RUBY_B#ギョクウ}御空{RUBY_E#}",
 		"kr": "어공",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1687942800
@@ -874,7 +902,7 @@
 		"icon": "acheron",
 		"iconUrl": "/hsr/UI/avatarshopicon/1308.webp",
 		"id": "1308",
-		"jp": "黄泉",
+		"jp": "{RUBY_B#よみ}黄泉{RUBY_E#}",
 		"kr": "아케론",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1711533600

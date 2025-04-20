@@ -475,11 +475,11 @@
 	"宇宙大生意": {
 		"baseType": "Mage",
 		"cn": "宇宙大生意",
-		"desc": null,
+		"desc": "In a virtual exhibition hall sculpted from data, the exhibition representatives exchanged opinions.\\nTwo figures moved between the booths, delivering everything needed by each party.\\n\\n<i>\"Hmm, are you...?\"</i>\\n<i>\"I've seen you on TV.\"</i>\\nThey talked about games, food, each other's morphologies, and all the beautiful things in the universe.\\nThough their meetings were few and far between, they were as close as old friends—\\n\\n<i>\"By the way, have you thought about my proposal...\"</i>\\n<i>\"The Express is not for sale!\"</i>",
 		"en": "The Great Cosmic Enterprise",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22004.webp",
 		"id": "22004",
-		"jp": "宇宙一の大商売",
+		"jp": "宇宙一の大商い！",
 		"kr": "우주 대사업",
 		"rank": "CombatPowerLightconeRarity4"
 	},
@@ -569,6 +569,17 @@
 		"id": "23017",
 		"jp": "{RUBY_B#きょうこん}驚魂{RUBY_E#}の{RUBY_B#よる}夜{RUBY_E#}",
 		"kr": "섬뜩한 밤",
+		"rank": "CombatPowerLightconeRarity5"
+	},
+	"愿虹光永驻天空": {
+		"baseType": "Memory",
+		"cn": "愿虹光永驻天空",
+		"desc": "<i>\"Emotions are like clouds, and we are the sky that carries them. If the sky is overcast, our hearts will waver between light and shadow.\"</i>\\nThe physician listens with care to the visitor's sorrows, offering words of gentle solace.\\n<i>\"Close your eyes, breathe slowly... Imagine yourself in a warm and soft place...\"</i>\\n\\nAs if infused with magic, a seven-colored radiance spills from beneath the wings of the winged beast.\\n<i>\"A breeze drifts across the plains, carrying the fragrance of wildflowers. Moist clouds pass by, laden with sunlight...\"</i>\\nThe visitor gradually sinks into a peaceful dream, responding only with the quiet rhythm of steady breaths.\\n\\nAfter seeing the last patient, the physician gently closes the door of the ward.\\n\\nIn the distance, the boundless evernight still surges, with ruins standing like the scars of the earth.\\n\\n<i>\"In the next life, may dawn shine upon all...\"</i>\\nBefore departing, she makes a wish to the sky—\\n<i>\"May the rainbow light remains in the sky forever.\"</i>",
+		"en": "Long May Rainbows Adorn the Sky",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23042.webp",
+		"id": "23042",
+		"jp": "空に架かる虹が消えないように",
+		"kr": "무지개가 영원히 하늘에 머물길",
 		"rank": "CombatPowerLightconeRarity5"
 	},
 	"戍御": {
@@ -949,11 +960,11 @@
 		"baseType": "Mage",
 		"cn": "生命当付之一炬",
 		"desc": "In that hidden experiment, various illusions constantly surged forward, pulling at his steps.\\n\\nThe seductive whispers beckoned him to give up on that treacherous topic, for what reason was there to gamble his life?\\nThe cold, threatening voice declared that those who walk the edge of life and death will ultimately burn their lives away.\\nThen there were the angry accusations, shouting to cast the blasphemer — the one who had desecrated the gods — into an execution grounds most cruel.\\n\\n<i>\"The performance of life, too, must eventually reach the curtain call.\"</i>\\n\\nHe closed his eyes, grasped the divine flame, and let the pain drown his fading soul.\\nFirst, his resolute gaze. Then, his beating heart. The complete soul... He threw himself willingly into that most pure and intense flame to be used for the smelting—\\n\\nThe voices bubbled and then became silent.\\nIn the darkness, the brilliant truth began to take shape in his hands.",
-		"en": "Life Should Be Cast to Flames",
+		"en": "",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23041.webp",
 		"id": "23041",
-		"jp": "命は燃やすべし",
-		"kr": "생명은 불태워야 하는 것",
+		"jp": "",
+		"kr": "",
 		"rank": "CombatPowerLightconeRarity5"
 	},
 	"相抗": {
@@ -1124,12 +1135,12 @@
 	"让告别，更美一些": {
 		"baseType": "Memory",
 		"cn": "让告别，更美一些",
-		"desc": "Another farewell ceremony was underway.\\nA young girl, stepping on broken moonlight, wove a garland of parting by the riverbank.\\n\\nAncient laments crystallized in the cold air, while the quiet river flowed into a distant land of blossoms.\\nBlood-stained scrolls, rusted long swords, handkerchiefs embroidered with poetry... She accepted their remains, along with the tales of their lives.\\n\\n<i>\"My eyes are like lenses, forever longing for the starry sky.\"</i>\\n—An epitaph dedicated to the departed scholar.\\n<i>\"For life and for death, the knight grants only a cold glance.\"</i>\\n—The maxim that the nameless warrior upheld all his life.\\n<i>\"Life is nothing but death, aglow with shimmering light.\"</i>\\n—The final verse penned by the eternal-seeking poet with his life.\\n\\n...<i>\"Every flower once bloomed with pride...\"</i>\\nAccompanied by the river's soft lament, she offered the departed poems, garlands, and remembrances—\\n<i>\"If withering is inevitable, at least let our farewell be... a little more beautiful.\"</i>",
-		"en": "Make Farewells More Beautiful",
+		"desc": "Another farewell ceremony was underway.\\nA young girl, stepping on broken moonlight, wove a garland of parting by the riverbank.\\n\\nAncient laments crystallized in the cold air, while the quiet river flowed into a distant land of blossoms.\\nBlood-stained scrolls, rusted long swords, handkerchiefs embroidered with poetry... She accepted their remains, along with the tales of their lives.\\n\\n<i>\"My eyes are like lenses, forever longing for the starry sky.\"</i>\\n—An epitaph dedicated to the departed scholar.\\n<i>\"For life and for death, the knight grants only a cold glance.\"</i>\\n—The maxim that the nameless warrior upheld all his life.\\n<i>\"Life is nothing but death, aglow with shimmering light.\"</i>\\n—The final verse penned by the eternal-seeking poet with his life.\\n...\\n\\n<i>\"Every flower once bloomed with pride...\"</i>\\nAccompanied by the river's soft lament, she offered the departed poems, garlands, and remembrances—\\n<i>\"If withering is inevitable, at least let our farewell be... a little more beautiful.\"</i>",
+		"en": "",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23040.webp",
 		"id": "23040",
-		"jp": "別れを、より美しいものに",
-		"kr": "이별이 더 아름답도록",
+		"jp": "",
+		"kr": "",
 		"rank": "CombatPowerLightconeRarity5"
 	},
 	"记一位星神的陨落": {
@@ -1197,6 +1208,17 @@
 		"jp": "{RUBY_B#どうちょう}同調{RUBY_E#}",
 		"kr": "어울림",
 		"rank": "CombatPowerLightconeRarity3"
+	},
+	"谎言在风中飘扬": {
+		"baseType": "Warlock",
+		"cn": "谎言在风中飘扬",
+		"desc": "The cat-eared girl stretches her limbs atop the rooftop, slinking into the night.\\nIn the treasure vault that had slumbered for a thousand years, she glides effortlessly, gathering precious treasures into her embrace before vanishing without a sound.\\n<i>\"Foolish fate could never catch me!\"</i>\\n\\nThe wind through the ruins carries the scent of the wild, rustling her hood.\\nResting her head against the cold stone, she swallows a bite of rough, dry rations, idly tossing a gold coin between her fingers.\\n\\nA faint sound from afar reaches her ears. In that holy city bathed in dawn's light, the bustling crowds still revel in warmth and celebration.\\n<i>\"How much longer... a year, or ten thousand?\"</i>\\n\\nShe stretches with a lazy yawn, casting her restless thoughts aside.\\n<i>\"Hah, Cifera always has the last laugh!\"</i>\\n\\nA golden streak of lightning cuts across the sky, and her proclamation lingers in the wind—\\nJust as it had a thousand years ago.",
+		"en": "Lies Dance on the Breeze",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23043.webp",
+		"id": "23043",
+		"jp": "虚言が揺蕩う風の中",
+		"kr": "바람에 흩날리는 거짓말",
+		"rank": "CombatPowerLightconeRarity5"
 	},
 	"谐乐静默之后": {
 		"baseType": "Mage",

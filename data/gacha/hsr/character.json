@@ -1,5 +1,96 @@
 [
 	{
+		"version": "3.2.1",
+		"items": [
+			{
+				"itemId": 1407,
+				"imageUrl": "/hsr/UI/avatarshopicon/1407.webp",
+				"itemType": "Character",
+				"name": "遐蝶",
+				"nameEn": "Castorice",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 1225,
+				"imageUrl": "/hsr/UI/avatarshopicon/1225.webp",
+				"itemType": "Character",
+				"name": "忘归人",
+				"nameEn": "Fugue",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1218,
+				"imageUrl": "/hsr/UI/avatarshopicon/1218.webp",
+				"itemType": "Character",
+				"name": "椒丘",
+				"nameEn": "Jiaoqiu",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1308,
+				"imageUrl": "/hsr/UI/avatarshopicon/1308.webp",
+				"itemType": "Character",
+				"name": "黄泉",
+				"nameEn": "Acheron",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1106,
+				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
+				"itemType": "Character",
+				"name": "佩拉",
+				"nameEn": "Pela",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1301,
+				"imageUrl": "/hsr/UI/avatarshopicon/1301.webp",
+				"itemType": "Character",
+				"name": "加拉赫",
+				"nameEn": "Gallagher",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 1110,
+				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
+				"itemType": "Character",
+				"name": "玲可",
+				"nameEn": "Lynx",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			}
+		],
+		"start": "2025-04-09 06:00:00",
+		"end": "2025-04-30 11:59:59"
+	},
+	{
 		"version": "3.1.2",
 		"items": [
 			{
