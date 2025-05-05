@@ -1,5 +1,75 @@
 [
 	{
+		"version": "5.6.1",
+		"items": [
+			{
+				"itemId": 13514,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Trident.webp",
+				"itemType": "Weapon",
+				"name": "香韵奏者",
+				"nameEn": "Symphonist of Scents",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 12512,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_GoldenVerdict.webp",
+				"itemType": "Weapon",
+				"name": "裁断",
+				"nameEn": "Verdict",
+				"weaponType": "Claymore",
+				"rankType": 5
+			},
+			{
+				"itemId": 11427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "船坞长剑",
+				"nameEn": "The Dockhand's Assistant",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "便携动力锯",
+				"nameEn": "Portable Power Saw",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "勘探钻机",
+				"nameEn": "Prospector's Drill",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 15427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "测距规",
+				"nameEn": "Range Gauge",
+				"weaponType": "Bow",
+				"rankType": 4
+			},
+			{
+				"itemId": 14402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "流浪乐章",
+				"nameEn": "The Widsith",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			}
+		],
+		"start": "2025-05-076 06:00:00",
+		"end": "2025-05-27 17:59:59"
+	},
+	{
 		"version": "5.5.2",
 		"items": [
 			{

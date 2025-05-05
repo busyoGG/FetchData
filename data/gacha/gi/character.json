@@ -1,5 +1,62 @@
 [
 	{
+		"version": "5.6.1",
+		"items": [
+			{
+				"itemId": 10000112,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Escoffier.webp",
+				"itemType": "Character",
+				"name": "爱可菲",
+				"nameEn": "Escoffier",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000091,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Navia.webp",
+				"itemType": "Character",
+				"name": "娜维娅",
+				"nameEn": "Navia",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000113,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ifa.webp",
+				"itemType": "Character",
+				"name": "伊法",
+				"nameEn": "Ifa",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000105,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Olorun.webp",
+				"itemType": "Character",
+				"name": "欧洛伦",
+				"nameEn": "Ororon",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000074,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Layla.webp",
+				"itemType": "Character",
+				"name": "莱依拉",
+				"nameEn": "Layla",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2025-05-076 06:00:00",
+		"end": "2025-05-27 17:59:59"
+	},
+	{
 		"version": "5.5.2",
 		"items": [
 			{
