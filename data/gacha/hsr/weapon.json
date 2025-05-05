@@ -1,5 +1,62 @@
 [
 	{
+		"version": "3.2.2",
+		"items": [
+			{
+				"itemId": 23041,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23041.webp",
+				"itemType": "Weapon",
+				"name": "生命当付之一炬",
+				"nameEn": "Life Should Be Cast to Flames",
+				"rankType": 5,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 23020,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23020.webp",
+				"itemType": "Weapon",
+				"name": "纯粹思维的洗礼",
+				"nameEn": "Baptism of Pure Thought",
+				"rankType": 5,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 21016,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势",
+				"nameEn": "Trend of the Universal Market",
+				"rankType": 4,
+				"avatarBaseType": "knight",
+				"weaponType": "knight"
+			},
+			{
+				"itemId": 21045,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
+				"itemType": "Weapon",
+				"name": "谐乐静默之后",
+				"nameEn": "After the Charmony Fall",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 21005,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "The Moles Welcome You",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2025-04-30 12:00:00",
+		"end": "2025-05-20 14:59:59"
+	},
+	{
 		"version": "3.2.1",
 		"items": [
 			{
@@ -7,7 +64,7 @@
 				"imageUrl": "/hsr/UI/lightconemediumicon/23040.webp",
 				"itemType": "Weapon",
 				"name": "让告别，更美一些",
-				"nameEn": "",
+				"nameEn": "Make Farewells More Beautiful",
 				"rankType": 5,
 				"avatarBaseType": "memory",
 				"weaponType": "memory"

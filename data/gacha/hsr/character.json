@@ -1,5 +1,72 @@
 [
 	{
+		"version": "3.2.2",
+		"items": [
+			{
+				"itemId": 1405,
+				"imageUrl": "/hsr/UI/avatarshopicon/1405.webp",
+				"itemType": "Character",
+				"name": "那刻夏",
+				"nameEn": "Anaxa",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 1305,
+				"imageUrl": "/hsr/UI/avatarshopicon/1305.webp",
+				"itemType": "Character",
+				"name": "真理医生",
+				"nameEn": "Dr. Ratio",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 5,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 1002,
+				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
+				"itemType": "Character",
+				"name": "丹恒",
+				"nameEn": "Dan Heng",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 1103,
+				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
+				"itemType": "Character",
+				"name": "希露瓦",
+				"nameEn": "Serval",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 1223,
+				"imageUrl": "/hsr/UI/avatarshopicon/1223.webp",
+				"itemType": "Character",
+				"name": "貊泽",
+				"nameEn": "Moze",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			}
+		],
+		"start": "2025-04-30 12:00:00",
+		"end": "2025-05-20 14:59:59"
+	},
+	{
 		"version": "3.2.1",
 		"items": [
 			{
