@@ -1,5 +1,119 @@
 [
 	{
+		"version": "3.3.2",
+		"items": [
+			{
+				"itemId": 23043,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23043.webp",
+				"itemType": "Weapon",
+				"name": "谎言在风中飘扬",
+				"nameEn": "Lies Dance on the Breeze",
+				"rankType": 5,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 23036,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23036.webp",
+				"itemType": "Weapon",
+				"name": "将光阴织成黄金",
+				"nameEn": "Time Woven Into Gold",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 21051,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21051.webp",
+				"itemType": "Weapon",
+				"name": "天才们的问候",
+				"nameEn": "Geniuses' Greetings",
+				"rankType": 4,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 21008,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
+				"itemType": "Weapon",
+				"name": "猎物的视线",
+				"nameEn": "Eyes of the Prey",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			},
+			{
+				"itemId": 21007,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
+				"itemType": "Weapon",
+				"name": "同一种心情",
+				"nameEn": "Shared Feeling",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			}
+		],
+		"start": "2025-06-11 12:00:00",
+		"end": "2025-07-01 14:59:59"
+	},
+	{
+		"version": "3.3.1",
+		"items": [
+			{
+				"itemId": 23042,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23042.webp",
+				"itemType": "Weapon",
+				"name": "愿虹光永驻天空",
+				"nameEn": "Long May Rainbows Adorn the Sky",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 23037,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23037.webp",
+				"itemType": "Weapon",
+				"name": "向着不可追问处",
+				"nameEn": "Into the Unreachable Veil",
+				"rankType": 5,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 21013,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "Make the World Clamor",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 21047,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21047.webp",
+				"itemType": "Weapon",
+				"name": "黑夜如影随行",
+				"nameEn": "Shadowed by Night",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 21002,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
+				"itemType": "Weapon",
+				"name": "余生的第一天",
+				"nameEn": "Day One of My New Life",
+				"rankType": 4,
+				"avatarBaseType": "knight",
+				"weaponType": "knight"
+			}
+		],
+		"start": "2025-05-21 06:00:00",
+		"end": "2025-06-11 11:59:59"
+	},
+	{
 		"version": "3.2.2",
 		"items": [
 			{
