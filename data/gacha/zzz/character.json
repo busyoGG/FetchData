@@ -1,5 +1,115 @@
 [
 	{
+		"version": "2.0.2",
+		"items": [
+			{
+				"itemId": 1391,
+				"imageUrl": "/zzz/UI/IconRoleSelect43.webp",
+				"itemType": "Character",
+				"name": "橘福福",
+				"nameEn": "Ju Fufu",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1071,
+				"imageUrl": "/zzz/UI/IconRoleSelect25.webp",
+				"itemType": "Character",
+				"name": "凯撒",
+				"nameEn": "Caesar",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1121,
+				"imageUrl": "/zzz/UI/IconRoleSelect16.webp",
+				"itemType": "Character",
+				"name": "本",
+				"nameEn": "Ben",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1061,
+				"imageUrl": "/zzz/UI/IconRoleSelect09.webp",
+				"itemType": "Character",
+				"name": "可琳",
+				"nameEn": "Corin",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2025-06-25 12:00:00",
+		"end": "2025-07-15 14:59:59"
+	},
+	{
+		"version": "2.0.1",
+		"items": [
+			{
+				"itemId": 1371,
+				"imageUrl": "/zzz/UI/IconRoleSelect44.webp",
+				"itemType": "Character",
+				"name": "仪玄",
+				"nameEn": "Yixuan",
+				"weaponType": 6,
+				"weaponTypeCN": 6,
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1311,
+				"imageUrl": "/zzz/UI/IconRoleSelect36.webp",
+				"itemType": "Character",
+				"name": "耀嘉音",
+				"nameEn": "Astra Yao",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Ether",
+				"elementCN": "以太"
+			},
+			{
+				"itemId": 1421,
+				"imageUrl": "/zzz/UI/IconRoleSelect45.webp",
+				"itemType": "Character",
+				"name": "潘引壶",
+				"nameEn": "Pan Yinhu",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1351,
+				"imageUrl": "/zzz/UI/IconRoleSelect38.webp",
+				"itemType": "Character",
+				"name": "波可娜",
+				"nameEn": "Pulchra",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4,
+				"element": "Physical",
+				"elementCN": "物理"
+			}
+		],
+		"start": "2025-06-06 06:00:00",
+		"end": "2025-06-25 11:59:59"
+	},
+	{
 		"version": "1.7.2",
 		"items": [
 			{

@@ -142,6 +142,19 @@
 		"rank": 2,
 		"type": 2
 	},
+	"「灰烬」-钴蓝": {
+		"CHS": "「灰烬」-钴蓝",
+		"cn": "「灰烬」-钴蓝",
+		"desc": "...",
+		"EN": "[Cinder] Cobalt",
+		"icon": "Weapon_B_Common_15",
+		"iconUrl": "/zzz/UI/Weapon_B_Common_15.webp",
+		"id": "12015",
+		"JA": "「灰燼」-蒼藍",
+		"KO": "「잿더미」-코발트블루",
+		"rank": 2,
+		"type": 6
+	},
 	"「电磁暴」-叁式": {
 		"CHS": "「电磁暴」-叁式",
 		"cn": "「电磁暴」-叁式",
@@ -206,6 +219,19 @@
 		"KO": "별빛 엔진 레플리카",
 		"rank": 3,
 		"type": 1
+	},
+	"光影刻刀": {
+		"CHS": "光影刻刀",
+		"cn": "光影刻刀",
+		"desc": "...",
+		"EN": "Reel Projector",
+		"icon": "Weapon_A_Common_16",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_16.webp",
+		"id": "13016",
+		"JA": "光と影のカット",
+		"KO": "조명을 새기는 칼",
+		"rank": 3,
+		"type": 5
 	},
 	"兔能环": {
 		"CHS": "兔能环",
@@ -349,6 +375,19 @@
 		"KO": "리볼버 로터",
 		"rank": 3,
 		"type": 2
+	},
+	"幻变魔方": {
+		"CHS": "幻变魔方",
+		"cn": "幻变魔方",
+		"desc": "...",
+		"EN": "Puzzle Sphere",
+		"icon": "Weapon_A_Common_12",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_12.webp",
+		"id": "13012",
+		"JA": "魔法の立体パズル",
+		"KO": "기변의 큐브",
+		"rank": 3,
+		"type": 6
 	},
 	"强音热望": {
 		"CHS": "强音热望",
@@ -610,6 +649,19 @@
 		"rank": 4,
 		"type": 4
 	},
+	"电波漫步": {
+		"CHS": "电波漫步",
+		"cn": "电波漫步",
+		"desc": "...",
+		"EN": "Radiowave Journey",
+		"icon": "Weapon_A_Common_14",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_14.webp",
+		"id": "13014",
+		"JA": "エレクトロウォーク",
+		"KO": "일렉트로 워크",
+		"rank": 3,
+		"type": 6
+	},
 	"硫磺石": {
 		"CHS": "硫磺石",
 		"cn": "硫磺石",
@@ -622,6 +674,19 @@
 		"KO": "유황석",
 		"rank": 4,
 		"type": 1
+	},
+	"福虓炉炉": {
+		"CHS": "福虓炉炉",
+		"cn": "福虓炉炉",
+		"desc": "...",
+		"EN": "Roaring Fur-nace",
+		"icon": "Weapon_S_1391",
+		"iconUrl": "/zzz/UI/Weapon_S_1391.webp",
+		"id": "14139",
+		"JA": "招福の虎炉",
+		"KO": "복을 뿜는 맹호",
+		"rank": 4,
+		"type": 2
 	},
 	"索魂影眸": {
 		"CHS": "索魂影眸",
@@ -792,6 +857,19 @@
 		"rank": 3,
 		"type": 3
 	},
+	"震元奇枢": {
+		"CHS": "震元奇枢",
+		"cn": "震元奇枢",
+		"desc": "...",
+		"EN": "Tremor Trigram Vessel",
+		"icon": "Weapon_A_1421",
+		"iconUrl": "/zzz/UI/Weapon_A_1421.webp",
+		"id": "13142",
+		"JA": "雷鳴が如き八卦",
+		"KO": "진괘를 담은 함",
+		"rank": 3,
+		"type": 5
+	},
 	"霰落星殿": {
 		"CHS": "霰落星殿",
 		"cn": "霰落星殿",
@@ -804,6 +882,19 @@
 		"KO": "싸락눈 내린 별각",
 		"rank": 4,
 		"type": 3
+	},
+	"青溟笼舍": {
+		"CHS": "青溟笼舍",
+		"cn": "青溟笼舍",
+		"desc": "...",
+		"EN": "Qingming Birdcage",
+		"icon": "Weapon_S_1371",
+		"iconUrl": "/zzz/UI/Weapon_S_1371.webp",
+		"id": "14137",
+		"JA": "青溟の鳥籠",
+		"KO": "청명의 보금자리",
+		"rank": 4,
+		"type": 6
 	},
 	"飞鸟星梦": {
 		"CHS": "飞鸟星梦",

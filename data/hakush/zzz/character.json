@@ -13,6 +13,7 @@
 		"id": "1041",
 		"JA": "「11号」",
 		"KO": "「11호」",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 1
@@ -31,6 +32,7 @@
 		"id": "1361",
 		"JA": "「トリガー」",
 		"KO": "「트리거」",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 2
@@ -49,9 +51,41 @@
 		"id": "1211",
 		"JA": "リナ",
 		"KO": "리나",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 4
+	},
+	"仪玄": {
+		"camp": 10,
+		"CHS": "仪玄",
+		"cn": "仪玄",
+		"code": "YiXuan",
+		"desc": "...",
+		"element": 205,
+		"EN": "Yixuan",
+		"hit": 102,
+		"icon": "IconRole44",
+		"iconUrl": "/zzz/UI/IconRoleSelect44.webp",
+		"id": "1371",
+		"JA": "儀玄",
+		"KO": "의현",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3113710": {
+				"Desc": "As the Master of Yunkui Summit, one's fashion and accessories need only be what feels natural. Stay true to one's self.",
+				"Image": "IconRole44",
+				"Name": "Yixuan: Summit of Clouds"
+			},
+			"3113711": {
+				"Desc": "The black-and-white dress glimmers in both light and shadows. Every smile of hers seems to sink into the flowing light of the night, becoming a timeless classic.",
+				"Image": "IconRole36_01",
+				"Name": "Astra Yao: Chandelier"
+			}
+		},
+		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconAuricInk.png",
+		"type": 6
 	},
 	"伊芙琳": {
 		"camp": 8,
@@ -67,6 +101,7 @@
 		"id": "1321",
 		"JA": "イヴリン",
 		"KO": "이블린",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 1
@@ -85,6 +120,7 @@
 		"id": "1071",
 		"JA": "シーザー",
 		"KO": "카이사르",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 5
@@ -103,25 +139,8 @@
 		"id": "1061",
 		"JA": "カリン",
 		"KO": "코린",
+		"potential": [],
 		"rank": 3,
-		"skin": {},
-		"type": 1
-	},
-	"哲": {
-		"camp": 0,
-		"CHS": "哲",
-		"cn": "哲",
-		"code": "Wise",
-		"desc": "",
-		"element": null,
-		"EN": "Wise",
-		"hit": 0,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
-		"id": "2011",
-		"JA": "アキラ",
-		"KO": "와이즈",
-		"rank": 2,
 		"skin": {},
 		"type": 1
 	},
@@ -139,6 +158,7 @@
 		"id": "1031",
 		"JA": "ニコ",
 		"KO": "니콜",
+		"potential": [],
 		"rank": 3,
 		"skin": {
 			"3110310": {
@@ -168,6 +188,7 @@
 		"id": "1111",
 		"JA": "アンドー",
 		"KO": "앤톤",
+		"potential": [],
 		"rank": 3,
 		"skin": {},
 		"type": 1
@@ -186,6 +207,7 @@
 		"id": "1011",
 		"JA": "アンビー",
 		"KO": "엔비",
+		"potential": [],
 		"rank": 3,
 		"skin": {},
 		"type": 2
@@ -204,6 +226,7 @@
 		"id": "1201",
 		"JA": "浅羽悠真",
 		"KO": "하루마사",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 1
@@ -222,6 +245,7 @@
 		"id": "1121",
 		"JA": "ベン",
 		"KO": "벤",
+		"potential": [],
 		"rank": 3,
 		"skin": {},
 		"type": 5
@@ -240,6 +264,7 @@
 		"id": "1241",
 		"JA": "朱鳶",
 		"KO": "주연",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 1
@@ -258,6 +283,7 @@
 		"id": "1171",
 		"JA": "バーニス",
 		"KO": "버니스",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 3
@@ -276,6 +302,7 @@
 		"id": "1221",
 		"JA": "月城柳",
 		"KO": "야나기",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 3
@@ -294,9 +321,29 @@
 		"id": "1181",
 		"JA": "グレース",
 		"KO": "그레이스",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 3
+	},
+	"橘福福": {
+		"camp": 10,
+		"CHS": "橘福福",
+		"cn": "橘福福",
+		"code": "Ju Fufu",
+		"desc": "...",
+		"element": 201,
+		"EN": "Ju Fufu",
+		"hit": 102,
+		"icon": "IconRole43",
+		"iconUrl": "/zzz/UI/IconRoleSelect43.webp",
+		"id": "1391",
+		"JA": "橘福福",
+		"KO": "귤복복",
+		"potential": [],
+		"rank": 4,
+		"skin": {},
+		"type": 2
 	},
 	"比利": {
 		"camp": 1,
@@ -312,6 +359,7 @@
 		"id": "1081",
 		"JA": "ビリー",
 		"KO": "빌리",
+		"potential": [],
 		"rank": 3,
 		"skin": {},
 		"type": 1
@@ -330,6 +378,7 @@
 		"id": "1351",
 		"JA": "プルクラ",
 		"KO": "펄크라",
+		"potential": [],
 		"rank": 3,
 		"skin": {},
 		"type": 2
@@ -348,9 +397,29 @@
 		"id": "1281",
 		"JA": "パイパー",
 		"KO": "파이퍼",
+		"potential": [],
 		"rank": 3,
 		"skin": {},
 		"type": 3
+	},
+	"潘引壶": {
+		"camp": 10,
+		"CHS": "潘引壶",
+		"cn": "潘引壶",
+		"code": "Yinhu",
+		"desc": "...",
+		"element": 200,
+		"EN": "Pan Yinhu",
+		"hit": 102,
+		"icon": "IconRole45",
+		"iconUrl": "/zzz/UI/IconRoleSelect45.webp",
+		"id": "1421",
+		"JA": "潘引壺",
+		"KO": "반인호",
+		"potential": [],
+		"rank": 3,
+		"skin": {},
+		"type": 5
 	},
 	"猫又": {
 		"camp": 1,
@@ -366,6 +435,7 @@
 		"id": "1021",
 		"JA": "猫又",
 		"KO": "네코마타",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 1
@@ -384,6 +454,7 @@
 		"id": "1101",
 		"JA": "クレタ",
 		"KO": "콜레다",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 2
@@ -402,6 +473,7 @@
 		"id": "1261",
 		"JA": "ジェーン",
 		"KO": "제인",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 3
@@ -420,6 +492,7 @@
 		"id": "1311",
 		"JA": "アストラ",
 		"KO": "아스트라",
+		"potential": [],
 		"rank": 4,
 		"skin": {
 			"3113110": {
@@ -449,6 +522,9 @@
 		"id": "1191",
 		"JA": "エレン",
 		"KO": "엘렌",
+		"potential": [
+			119100
+		],
 		"rank": 4,
 		"skin": {
 			"3111910": {
@@ -478,6 +554,7 @@
 		"id": "1131",
 		"JA": "蒼角",
 		"KO": "소우카쿠",
+		"potential": [],
 		"rank": 3,
 		"skin": {},
 		"type": 4
@@ -496,6 +573,7 @@
 		"id": "1141",
 		"JA": "ライカン",
 		"KO": "리카온",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 2
@@ -514,6 +592,7 @@
 		"id": "1161",
 		"JA": "ライト",
 		"KO": "라이터",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 2
@@ -532,6 +611,7 @@
 		"id": "1331",
 		"JA": "ビビアン",
 		"KO": "비비안",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 3
@@ -550,27 +630,10 @@
 		"id": "1271",
 		"JA": "セス",
 		"KO": "세스",
+		"potential": [],
 		"rank": 3,
 		"skin": {},
 		"type": 5
-	},
-	"铃": {
-		"camp": 0,
-		"CHS": "铃",
-		"cn": "铃",
-		"code": "Belle",
-		"desc": "",
-		"element": null,
-		"EN": "Belle",
-		"hit": 0,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
-		"id": "2021",
-		"JA": "リン",
-		"KO": "벨",
-		"rank": 2,
-		"skin": {},
-		"type": 1
 	},
 	"雅": {
 		"camp": 6,
@@ -586,6 +649,7 @@
 		"id": "1091",
 		"JA": "星見雅",
 		"KO": "미야비",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
@@ -605,6 +669,7 @@
 		"id": "1291",
 		"JA": "ヒューゴ",
 		"KO": "휴고",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 1
@@ -623,6 +688,7 @@
 		"id": "1381",
 		"JA": "0号・アンビー",
 		"KO": "0호·엔비",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 1
@@ -641,6 +707,7 @@
 		"id": "1151",
 		"JA": "ルーシー",
 		"KO": "루시",
+		"potential": [],
 		"rank": 3,
 		"skin": {},
 		"type": 4
@@ -659,6 +726,7 @@
 		"id": "1251",
 		"JA": "青衣",
 		"KO": "청의",
+		"potential": [],
 		"rank": 4,
 		"skin": {},
 		"type": 2
