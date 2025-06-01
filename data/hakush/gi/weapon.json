@@ -1845,6 +1845,19 @@
 		"rank": 4,
 		"type": "WEAPON_BOW"
 	},
+	"苍耀": {
+		"CHS": "苍耀",
+		"cn": "苍耀",
+		"desc": "This blade was once pure and pristine as a white dawn star, but it has since been tinted a deep, dark blue.",
+		"EN": "Azurelight",
+		"icon": "UI_EquipIcon_Sword_OuterSword",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_OuterSword.webp",
+		"id": "11517",
+		"JP": "蒼耀",
+		"KR": "창백한 섬광",
+		"rank": 5,
+		"type": "WEAPON_SWORD_ONE_HAND"
+	},
 	"若水": {
 		"CHS": "若水",
 		"cn": "若水",

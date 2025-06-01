@@ -18,6 +18,25 @@
 		"release": "2020-09-15 04:00:00",
 		"weapon": "WEAPON_SWORD_ONE_HAND"
 	},
+	"丝柯克": {
+		"birth": [
+			11,
+			5
+		],
+		"CHS": "丝柯克",
+		"cn": "丝柯克",
+		"desc": "A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.",
+		"element": "Cryo",
+		"EN": "Skirk",
+		"icon": "UI_AvatarIcon_SkirkNew",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_SkirkNew.webp",
+		"id": "10000114",
+		"JP": "スカーク",
+		"KR": "스커크",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
 	"丽莎": {
 		"birth": [
 			6,
@@ -435,6 +454,25 @@
 		"rank": "QUALITY_ORANGE",
 		"release": "2024-09-17 18:00:00",
 		"weapon": "WEAPON_CLAYMORE"
+	},
+	"塔利雅": {
+		"birth": [
+			5,
+			25
+		],
+		"CHS": "塔利雅",
+		"cn": "塔利雅",
+		"desc": "",
+		"element": "Hydro",
+		"EN": "Dahlia",
+		"icon": "UI_AvatarIcon_Dahlia",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Dahlia.webp",
+		"id": "10000115",
+		"JP": "ダリア",
+		"KR": "달리아",
+		"rank": "QUALITY_PURPLE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_SWORD_ONE_HAND"
 	},
 	"夏沃蕾": {
 		"birth": [

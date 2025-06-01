@@ -1,5 +1,62 @@
 [
 	{
+		"version": "5.6.2",
+		"items": [
+			{
+				"itemId": 10000101,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kinich.webp",
+				"itemType": "Character",
+				"name": "基尼奇",
+				"nameEn": "Kinich",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000052,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shougun.webp",
+				"itemType": "Character",
+				"name": "雷电将军",
+				"nameEn": "Raiden Shogun",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "Thoma",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000056,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sara.webp",
+				"itemType": "Character",
+				"name": "九条裟罗",
+				"nameEn": "Kujou Sara",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000083,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Linette.webp",
+				"itemType": "Character",
+				"name": "琳妮特",
+				"nameEn": "Lynette",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2025-05-27 18:00:00",
+		"end": "2025-06-17 14:59:59"
+	},
+	{
 		"version": "5.6.1",
 		"items": [
 			{
