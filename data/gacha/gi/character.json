@@ -1,5 +1,89 @@
 [
 	{
+		"version": "5.7.2",
+		"items": [
+			{
+				"itemId": 10000106,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Mavuika.webp",
+				"itemType": "Character",
+				"name": "玛薇卡",
+				"nameEn": "Mavuika",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000099,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Emilie.webp",
+				"itemType": "Character",
+				"name": "艾梅莉埃",
+				"nameEn": "Emilie",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Dendro"
+			}
+		],
+		"start": "2025-07-08 18:00:00",
+		"end": "2025-07-29 14:59:59"
+	},
+	{
+		"version": "5.7.1",
+		"items": [
+			{
+				"itemId": 10000114,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_SkirkNew.webp",
+				"itemType": "Character",
+				"name": "丝柯克",
+				"nameEn": "Skirk",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000063,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shenhe.webp",
+				"itemType": "Character",
+				"name": "申鹤",
+				"nameEn": "Shenhe",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000115,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Dahlia.webp",
+				"itemType": "Character",
+				"name": "塔利雅",
+				"nameEn": "Dahlia",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000072,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Candace.webp",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "Candace",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000039,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "Diona",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			}
+		],
+		"start": "2025-06-18 06:00:00",
+		"end": "2025-07-08 17:59:59"
+	},
+	{
 		"version": "5.6.2",
 		"items": [
 			{

@@ -1,5 +1,100 @@
 [
 	{
+		"version": "5.7.2",
+		"items": [
+			{
+				"itemId": 12514,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_RadianceSword.webp",
+				"itemType": "Weapon",
+				"name": "焚曜千阳",
+				"nameEn": "A Thousand Blazing Suns",
+				"weaponType": "Claymore",
+				"rankType": 5
+			},
+			{
+				"itemId": 13513,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Muguet.webp",
+				"itemType": "Weapon",
+				"name": "柔灯挽歌",
+				"nameEn": "Lumidouce Elegy",
+				"weaponType": "Polearm",
+				"rankType": 5
+			}
+		],
+		"start": "2025-07-08 18:00:00",
+		"end": "2025-07-29 14:59:59"
+	},
+	{
+		"version": "5.7.1",
+		"items": [
+			{
+				"itemId": 11517,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_OuterSword.webp",
+				"itemType": "Weapon",
+				"name": "苍耀",
+				"nameEn": "Azurelight",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 13507,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Santika.webp",
+				"itemType": "Weapon",
+				"name": "息灾",
+				"nameEn": "Calamity Queller",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 11418,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
+				"itemType": "Weapon",
+				"name": "西福斯的月光",
+				"nameEn": "Xiphos' Moonlight",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12415,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Pleroma.webp",
+				"itemType": "Weapon",
+				"name": "玛海菈的水色",
+				"nameEn": "Makhaira Aquamarine",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 14416,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Pleroma.webp",
+				"itemType": "Weapon",
+				"name": "流浪的晚星",
+				"nameEn": "Wandering Evenstar",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 13407,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 15403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼弓",
+				"nameEn": "Sacrificial Bow",
+				"weaponType": "Bow",
+				"rankType": 4
+			}
+		],
+		"start": "2025-06-18 06:00:00",
+		"end": "2025-07-08 17:59:59"
+	},
+	{
 		"version": "5.6.2",
 		"items": [
 			{
