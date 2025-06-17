@@ -1,4 +1,30 @@
 {
+	"(Test1)柚叶测试音擎": {
+		"CHS": "(Test1)柚叶测试音擎",
+		"cn": "(Test1)柚叶测试音擎",
+		"desc": "Item_Weapon_S_1411_ShortDesc",
+		"EN": "Item_Weapon_S_1411_Name",
+		"icon": "Weapon_S_1411",
+		"iconUrl": "/zzz/UI/Weapon_S_1411.webp",
+		"id": "14141",
+		"JA": "Item_Weapon_S_1411_Name",
+		"KO": "Item_Weapon_S_1411_Name",
+		"rank": 4,
+		"type": 4
+	},
+	"(Test1)爱丽丝测试音擎": {
+		"CHS": "(Test1)爱丽丝测试音擎",
+		"cn": "(Test1)爱丽丝测试音擎",
+		"desc": "Item_Weapon_S_1401_ShortDesc",
+		"EN": "Item_Weapon_S_1401_Name",
+		"icon": "Weapon_S_1401",
+		"iconUrl": "/zzz/UI/Weapon_S_1401.webp",
+		"id": "14140",
+		"JA": "Item_Weapon_S_1401_Name",
+		"KO": "Item_Weapon_S_1401_Name",
+		"rank": 4,
+		"type": 3
+	},
 	"「恒等式」-变格": {
 		"CHS": "「恒等式」-变格",
 		"cn": "「恒等式」-变格",
@@ -145,7 +171,7 @@
 	"「灰烬」-钴蓝": {
 		"CHS": "「灰烬」-钴蓝",
 		"cn": "「灰烬」-钴蓝",
-		"desc": "...",
+		"desc": "A W-Engine with a built-in heating component. When operating at high speeds, it resembles a blazing blue flame.",
 		"EN": "[Cinder] Cobalt",
 		"icon": "Weapon_B_Common_15",
 		"iconUrl": "/zzz/UI/Weapon_B_Common_15.webp",
@@ -223,7 +249,7 @@
 	"光影刻刀": {
 		"CHS": "光影刻刀",
 		"cn": "光影刻刀",
-		"desc": "...",
+		"desc": "Clearly a W-Engine is for sound, and not images. What kind of lunatic genius would insist on stuffing a 16mm film camera into a W-Engine?",
 		"EN": "Reel Projector",
 		"icon": "Weapon_A_Common_16",
 		"iconUrl": "/zzz/UI/Weapon_A_Common_16.webp",
@@ -379,7 +405,7 @@
 	"幻变魔方": {
 		"CHS": "幻变魔方",
 		"cn": "幻变魔方",
-		"desc": "...",
+		"desc": "The W-Engine, with its bright colors and great performance, saw poor sales at first because it resembled a toy. But with its reasonable price, it slowly gained a positive reputation.",
 		"EN": "Puzzle Sphere",
 		"icon": "Weapon_A_Common_12",
 		"iconUrl": "/zzz/UI/Weapon_A_Common_12.webp",
@@ -652,7 +678,7 @@
 	"电波漫步": {
 		"CHS": "电波漫步",
 		"cn": "电波漫步",
-		"desc": "...",
+		"desc": "Designed for those Hollow-dwelling bards who refuse to listen to the same albums repeatedly, this W-Engine comes equipped with a radio module that can transform Etheric frequencies into melodies.",
 		"EN": "Radiowave Journey",
 		"icon": "Weapon_A_Common_14",
 		"iconUrl": "/zzz/UI/Weapon_A_Common_14.webp",
@@ -678,7 +704,7 @@
 	"福虓炉炉": {
 		"CHS": "福虓炉炉",
 		"cn": "福虓炉炉",
-		"desc": "...",
+		"desc": "The warm fire blazes through the long night, casting light on the tiger's roar in my heart.",
 		"EN": "Roaring Fur-nace",
 		"icon": "Weapon_S_1391",
 		"iconUrl": "/zzz/UI/Weapon_S_1391.webp",
@@ -860,7 +886,7 @@
 	"震元奇枢": {
 		"CHS": "震元奇枢",
 		"cn": "震元奇枢",
-		"desc": "...",
+		"desc": "Pressing acupoints is like cooking. Striking the fatal acupoint is like setting the stove on fire, bringing disaster.",
 		"EN": "Tremor Trigram Vessel",
 		"icon": "Weapon_A_1421",
 		"iconUrl": "/zzz/UI/Weapon_A_1421.webp",
@@ -886,7 +912,7 @@
 	"青溟笼舍": {
 		"CHS": "青溟笼舍",
 		"cn": "青溟笼舍",
-		"desc": "...",
+		"desc": "The world is vast and full of change, and fate is unpredictable. But regardless of hardship or lack thereof, one must stay true to one's heart.",
 		"EN": "Qingming Birdcage",
 		"icon": "Weapon_S_1371",
 		"iconUrl": "/zzz/UI/Weapon_S_1371.webp",

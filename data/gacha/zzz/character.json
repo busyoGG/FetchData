@@ -63,8 +63,8 @@
 				"itemType": "Character",
 				"name": "仪玄",
 				"nameEn": "Yixuan",
-				"weaponType": 6,
-				"weaponTypeCN": 6,
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
 				"rankType": 5,
 				"element": "Ether",
 				"elementCN": "以太"

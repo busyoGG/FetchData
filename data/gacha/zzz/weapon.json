@@ -45,8 +45,8 @@
 				"itemType": "Weapon",
 				"name": "青溟笼舍",
 				"nameEn": "Qingming Birdcage",
-				"weaponType": 6,
-				"weaponTypeCN": 6,
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
 				"rankType": 5
 			},
 			{
