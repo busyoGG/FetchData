@@ -131,6 +131,7 @@ let ZZZTypes = {
     "3": "Anomaly",
     "4": "Support",
     "5": "Defense",
+    "6": "Rupture",
 }
 
 let ZZZTypesCN = {
@@ -139,6 +140,7 @@ let ZZZTypesCN = {
     "3": "异常",
     "4": "支援",
     "5": "防护",
+    "6": "命破",
 }
 
 let ZZZElement = {
