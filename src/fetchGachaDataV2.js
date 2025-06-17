@@ -299,7 +299,7 @@ const fetchGachaData = async (pool, game, type) => {
     const data = parse.map((gachaData, i) => {
         const {from, to, five, four} = gachaData
         const info5 = five.map(c => getId2(c, pool))
-        const info4 = four.map(c => getId2(c, pool))
+        const info4 = four?four.map(c => getId2(c, pool)):[]
         return {
             version: getVersion(i, pool),
             items: [...info5, ...info4].filter(a => !!a && !!a.rankType),
@@ -328,6 +328,6 @@ async function fetchData(id) {
     }
 }
 
-let id = process.argv.slice(2)[0] || ""
+let id = process.argv.slice(2)[0] || "gi"
 fetchData(id)
 
