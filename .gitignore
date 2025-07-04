@@ -2,3 +2,7 @@ node_modules
 dist
 /.idea/
 yarn.lock
+bilibili_character_warps.json
+bilibili_character_warps.yaml
+bilibili_lightcone_warps.json
+bilibili_lightcone_warps.yaml

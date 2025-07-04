@@ -1,4 +1,4 @@
-const {get} = require("axios")
+const { get } = require("axios")
 const YAML = require('yaml')
 const fs = require('fs')
 const path = require('path')
@@ -169,7 +169,7 @@ const get3ZElement = name => findObj(name, ZZZElement)
 const get3ZElementCN = name => findObj(name, ZZZElementCN)
 
 const getId2 = (name, pool) => {
-    let {game, type} = params[pool]
+    let { game, type } = params[pool]
     let data = requireJson(getRelativePath(game, type.toLowerCase()))
     let name2 = getName(name)
 
@@ -274,9 +274,9 @@ const getVersion = (i, pool) => {
         //genshin Character
         versionsTemp = [...versionsTemp, "1.3.3"].sort()
     }
-    if (pool === 2001 ||pool === 3001) {
+    if (pool === 2001 || pool === 3001) {
         //zzz
-        versionsTemp = versionsTemp.filter(item => item!== "1.4.2").sort()
+        versionsTemp = versionsTemp.filter(item => item !== "1.4.2").sort()
     }
     return versionsTemp[i]
 }
@@ -286,7 +286,16 @@ const fetchGachaData = async (pool, game, type) => {
     //https://gitee.com/yoimiya-kokomi/Miao-Yunzai/raw/master/plugins/genshin/defSet/pool/${pool}.yaml
     //https://genshin-gacha-banners-keypj.vercel.app/${pool}.yaml
     //https://github.com/KeyPJ/FetchData/raw/refs/heads/main/data/manual/${pool}.yaml
-    const res = await get(` https://raw.githubusercontent.com/KeyPJ/FetchData/refs/heads/main/data/manual/${pool}.yaml`, {
+    // const res = await get(` https://raw.githubusercontent.com/busyoGG/FetchData/refs/heads/main/data/manual/${pool}.yaml`, {
+    //     // `proxy` means the request actually goes to the server listening
+    //     // on localhost:3000, but the request says it is meant for
+    //     // 'http://httpbin.org/get?answer=42'
+    //     // proxy: {
+    //     //     host: '127.0.0.1',
+    //     //     port: 17890
+    //     // }
+    // })
+    const res = await get(` https://raw.githubusercontent.com/busyoGG/FetchData/refs/heads/main/data/manual/${pool}.yaml`, {
         // `proxy` means the request actually goes to the server listening
         // on localhost:3000, but the request says it is meant for
         // 'http://httpbin.org/get?answer=42'
@@ -297,9 +306,9 @@ const fetchGachaData = async (pool, game, type) => {
     })
     const parse = (YAML.parse(res.data)).reverse()
     const data = parse.map((gachaData, i) => {
-        const {from, to, five, four} = gachaData
+        const { from, to, five, four } = gachaData
         const info5 = five.map(c => getId2(c, pool))
-        const info4 = four?four.map(c => getId2(c, pool)):[]
+        const info4 = four ? four.map(c => getId2(c, pool)) : []
         return {
             version: getVersion(i, pool),
             items: [...info5, ...info4].filter(a => !!a && !!a.rankType),
@@ -312,7 +321,7 @@ const fetchGachaData = async (pool, game, type) => {
     }
     let directoryPath = path.join(__dirname, `../data/gacha/${game}`)
     if (!fs.existsSync(directoryPath)) {
-        fs.mkdirSync(directoryPath, {recursive: true})
+        fs.mkdirSync(directoryPath, { recursive: true })
     }
     const characterFilePath = path.join(__dirname, `../data/gacha/${game}`, `${type.toLowerCase()}.json`)
     fs.writeFileSync(characterFilePath, JSON.stringify(data.reverse(), "", "\t"))
@@ -321,12 +330,13 @@ const fetchGachaData = async (pool, game, type) => {
 
 async function fetchData(id) {
     for (let key of Object.keys(params)) {
-        let {game, type} = params[key]
+        let { game, type } = params[key]
         if (!id || game === id) {
             await fetchGachaData(+key, game, type)
         }
     }
 }
+
 
 let id = process.argv.slice(2)[0] || "gi"
 fetchData(id)
