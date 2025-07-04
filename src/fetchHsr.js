@@ -108,13 +108,13 @@ function formatTime(datetimeStr) {
                 map.set(key, {
                     start: item.start,
                     end: item.end,
-                    version: [item.version],
+                    version: item.version,
                     up_5: new Set(item.up_5),
                     up_4: new Set(item.up_4)
                 });
             } else {
                 const entry = map.get(key);
-                entry.version.push(item.version);
+                // entry.version.push(item.version);
                 item.up_5.forEach(x => entry.up_5.add(x));
                 item.up_4.forEach(x => entry.up_4.add(x));
             }
@@ -122,7 +122,7 @@ function formatTime(datetimeStr) {
         return Array.from(map.values()).map(entry => ({
             start: entry.start,
             end: entry.end,
-            version: entry.version.join(' / '),
+            version: entry.version,
             up_5: Array.from(entry.up_5),
             up_4: Array.from(entry.up_4)
         }));
@@ -157,6 +157,7 @@ function formatTime(datetimeStr) {
 
     // 统一时间格式为 YYYY-MM-DD HH:mm:ss
     const unifyFormat = (list) => list.map(item => ({
+        version: item.version,
         from: formatTime(item.start),
         to: formatTime(item.end),
         five: item.up_5,
@@ -167,8 +168,8 @@ function formatTime(datetimeStr) {
     const yamlLightcones = unifyFormat(lightconeWarps);
 
     // 写文件
-    fs.writeFileSync('bilibili_character_warps.yaml', yaml.dump(yamlCharacters, { lineWidth: 120 }), 'utf-8');
-    fs.writeFileSync('bilibili_lightcone_warps.yaml', yaml.dump(yamlLightcones, { lineWidth: 120 }), 'utf-8');
+    fs.writeFileSync('./data/manual/11.yaml', yaml.dump(yamlCharacters, { lineWidth: 120 }), 'utf-8');
+    fs.writeFileSync('./data/manual/12.yaml', yaml.dump(yamlLightcones, { lineWidth: 120 }), 'utf-8');
 
-    console.log(`✅ 已生成 YAML 文件：bilibili_character_warps.yaml 和 bilibili_lightcone_warps.yaml`);
+    console.log(`✅ 已生成 YAML 文件：./data/manual/11.yaml 和 ./data/manual/12.yaml`);
 })();

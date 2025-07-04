@@ -1,6 +1,203 @@
 [
 	{
-		"version": "3.3.2",
+		"items": [
+			{
+				"itemId": 1310,
+				"imageUrl": "/hsr/UI/avatarshopicon/1310.webp",
+				"itemType": "Character",
+				"name": "流萤",
+				"nameEn": "Firefly",
+				"damageType": "fire",
+				"element": "fire",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1212,
+				"imageUrl": "/hsr/UI/avatarshopicon/1212.webp",
+				"itemType": "Character",
+				"name": "镜流",
+				"nameEn": "Jingliu",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1205,
+				"imageUrl": "/hsr/UI/avatarshopicon/1205.webp",
+				"itemType": "Character",
+				"name": "刃",
+				"nameEn": "Blade",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1215,
+				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
+				"itemType": "Character",
+				"name": "寒鸦",
+				"nameEn": "Hanya",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1110,
+				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
+				"itemType": "Character",
+				"name": "玲可",
+				"nameEn": "Lynx",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
+				"itemType": "Character",
+				"name": "卢卡",
+				"nameEn": "Luka",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2025-07-23 12:00:00",
+		"end": "2025-08-12 15:00:00"
+	},
+	{
+		"items": [
+			{
+				"itemId": 1014,
+				"imageUrl": "/hsr/UI/avatarshopicon/1014.webp",
+				"itemType": "Character",
+				"name": "Saber",
+				"nameEn": "Saber",
+				"damageType": "wind",
+				"element": "wind",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1015,
+				"imageUrl": "/hsr/UI/avatarshopicon/1015.webp",
+				"itemType": "Character",
+				"name": "Archer",
+				"nameEn": "Archer",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			}
+		],
+		"start": "2025-07-11 12:00:00",
+		"end": "2099-12-31 23:59:00"
+	},
+	{
+		"items": [
+			{
+				"itemId": 1408,
+				"imageUrl": "/hsr/UI/avatarshopicon/1408.webp",
+				"itemType": "Character",
+				"name": "白厄",
+				"nameEn": "Phainon",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1403,
+				"imageUrl": "/hsr/UI/avatarshopicon/1403.webp",
+				"itemType": "Character",
+				"name": "缇宝",
+				"nameEn": "Tribbie",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1313,
+				"imageUrl": "/hsr/UI/avatarshopicon/1313.webp",
+				"itemType": "Character",
+				"name": "星期日",
+				"nameEn": "Sunday",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1306,
+				"imageUrl": "/hsr/UI/avatarshopicon/1306.webp",
+				"itemType": "Character",
+				"name": "花火",
+				"nameEn": "Sparkle",
+				"damageType": "quantum",
+				"element": "quantum",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1202,
+				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
+				"itemType": "Character",
+				"name": "停云",
+				"nameEn": "Tingyun",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 1224,
+				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
+				"itemType": "Character",
+				"name": "三月七",
+				"nameEn": "March 7th",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 1207,
+				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
+				"itemType": "Character",
+				"name": "驭空",
+				"nameEn": "Yukong",
+				"damageType": "imaginary",
+				"element": "imaginary",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			}
+		],
+		"start": "2025-07-02 10:00:00",
+		"end": "2025-07-23 11:59:00"
+	},
+	{
 		"items": [
 			{
 				"itemId": 1406,
@@ -64,10 +261,9 @@
 			}
 		],
 		"start": "2025-06-11 12:00:00",
-		"end": "2025-07-01 14:59:59"
+		"end": "2025-07-01 15:00:00"
 	},
 	{
-		"version": "3.3.1",
 		"items": [
 			{
 				"itemId": 1409,
@@ -130,11 +326,10 @@
 				"weaponType": "priest"
 			}
 		],
-		"start": "2025-05-21 06:00:00",
-		"end": "2025-06-11 11:59:59"
+		"start": "2025-05-21 10:00:00",
+		"end": "2025-06-11 11:59:00"
 	},
 	{
-		"version": "3.2.2",
 		"items": [
 			{
 				"itemId": 1405,
@@ -198,10 +393,9 @@
 			}
 		],
 		"start": "2025-04-30 12:00:00",
-		"end": "2025-05-20 14:59:59"
+		"end": "2025-05-20 15:00:00"
 	},
 	{
-		"version": "3.2.1",
 		"items": [
 			{
 				"itemId": 1407,
@@ -288,11 +482,10 @@
 				"weaponType": "priest"
 			}
 		],
-		"start": "2025-04-09 06:00:00",
-		"end": "2025-04-30 11:59:59"
+		"start": "2025-04-09 10:00:00",
+		"end": "2025-04-30 11:59:00"
 	},
 	{
-		"version": "3.1.2",
 		"items": [
 			{
 				"itemId": 1404,
@@ -356,10 +549,9 @@
 			}
 		],
 		"start": "2025-03-19 12:00:00",
-		"end": "2025-04-08 14:59:59"
+		"end": "2025-04-08 15:00:00"
 	},
 	{
-		"version": "3.1.1",
 		"items": [
 			{
 				"itemId": 1403,
@@ -422,11 +614,10 @@
 				"weaponType": "warlock"
 			}
 		],
-		"start": "2025-02-26 06:00:00",
-		"end": "2025-03-19 11:59:59"
+		"start": "2025-02-26 10:00:00",
+		"end": "2025-03-19 11:59:00"
 	},
 	{
-		"version": "3.0.2",
 		"items": [
 			{
 				"itemId": 1402,
@@ -514,10 +705,9 @@
 			}
 		],
 		"start": "2025-02-05 12:00:00",
-		"end": "2025-02-25 14:59:59"
+		"end": "2025-02-25 15:00:00"
 	},
 	{
-		"version": "3.0.1",
 		"items": [
 			{
 				"itemId": 1401,
@@ -604,11 +794,10 @@
 				"weaponType": "rogue"
 			}
 		],
-		"start": "2025-01-15 06:00:00",
-		"end": "2025-02-05 11:59:59"
+		"start": "2025-01-15 10:00:00",
+		"end": "2025-02-05 11:59:00"
 	},
 	{
-		"version": "2.7.2",
 		"items": [
 			{
 				"itemId": 1225,
@@ -672,10 +861,9 @@
 			}
 		],
 		"start": "2024-12-25 12:00:00",
-		"end": "2025-01-14 14:59:59"
+		"end": "2025-01-14 15:00:00"
 	},
 	{
-		"version": "2.7.1",
 		"items": [
 			{
 				"itemId": 1313,
@@ -738,11 +926,10 @@
 				"weaponType": "shaman"
 			}
 		],
-		"start": "2024-12-04 06:00:00",
-		"end": "2024-12-25 11:59:59"
+		"start": "2024-12-04 10:00:00",
+		"end": "2024-12-25 11:59:00"
 	},
 	{
-		"version": "2.6.2",
 		"items": [
 			{
 				"itemId": 1308,
@@ -781,18 +968,6 @@
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 1106,
-				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
-				"itemType": "Character",
-				"name": "佩拉",
-				"nameEn": "Pela",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
 				"itemId": 1108,
 				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
 				"itemType": "Character",
@@ -803,13 +978,24 @@
 				"rankType": 4,
 				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
+			},
+			{
+				"itemId": 1106,
+				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
+				"itemType": "Character",
+				"name": "佩拉",
+				"nameEn": "Pela",
+				"damageType": "ice",
+				"element": "ice",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
 			}
 		],
 		"start": "2024-11-13 12:00:00",
-		"end": "2024-12-03 14:59:59"
+		"end": "2024-12-03 15:00:00"
 	},
 	{
-		"version": "2.6.1",
 		"items": [
 			{
 				"itemId": 1317,
@@ -872,11 +1058,10 @@
 				"weaponType": "shaman"
 			}
 		],
-		"start": "2024-10-23 06:00:00",
-		"end": "2024-11-13 11:59:59"
+		"start": "2024-10-23 10:00:00",
+		"end": "2024-11-13 11:59:00"
 	},
 	{
-		"version": "2.5.2",
 		"items": [
 			{
 				"itemId": 1222,
@@ -940,10 +1125,9 @@
 			}
 		],
 		"start": "2024-10-02 12:00:00",
-		"end": "2024-10-22 14:59:59"
+		"end": "2024-10-22 15:00:00"
 	},
 	{
-		"version": "2.5.1",
 		"items": [
 			{
 				"itemId": 1220,
@@ -1030,11 +1214,10 @@
 				"weaponType": "warlock"
 			}
 		],
-		"start": "2024-09-10 06:00:00",
-		"end": "2024-10-02 11:59:59"
+		"start": "2024-09-10 10:00:00",
+		"end": "2024-10-02 11:59:00"
 	},
 	{
-		"version": "2.4.2",
 		"items": [
 			{
 				"itemId": 1218,
@@ -1098,10 +1281,9 @@
 			}
 		],
 		"start": "2024-08-21 12:00:00",
-		"end": "2024-09-09 14:59:59"
+		"end": "2024-09-09 15:00:00"
 	},
 	{
-		"version": "2.4.1",
 		"items": [
 			{
 				"itemId": 1221,
@@ -1164,11 +1346,10 @@
 				"weaponType": "priest"
 			}
 		],
-		"start": "2024-07-31 06:00:00",
-		"end": "2024-08-21 11:59:59"
+		"start": "2024-07-31 10:00:00",
+		"end": "2024-08-21 11:59:00"
 	},
 	{
-		"version": "2.3.2",
 		"items": [
 			{
 				"itemId": 1314,
@@ -1232,10 +1413,9 @@
 			}
 		],
 		"start": "2024-07-10 12:00:00",
-		"end": "2024-07-30 14:59:59"
+		"end": "2024-07-30 15:00:00"
 	},
 	{
-		"version": "2.3.1",
 		"items": [
 			{
 				"itemId": 1310,
@@ -1298,11 +1478,10 @@
 				"weaponType": "warrior"
 			}
 		],
-		"start": "2024-06-19 06:00:00",
-		"end": "2024-07-10 11:59:59"
+		"start": "2024-06-19 10:00:00",
+		"end": "2024-07-10 11:59:00"
 	},
 	{
-		"version": "2.2.2",
 		"items": [
 			{
 				"itemId": 1315,
@@ -1366,10 +1545,9 @@
 			}
 		],
 		"start": "2024-05-29 12:00:00",
-		"end": "2024-06-18 14:59:59"
+		"end": "2024-06-18 15:00:00"
 	},
 	{
-		"version": "2.2.1",
 		"items": [
 			{
 				"itemId": 1309,
@@ -1432,11 +1610,10 @@
 				"weaponType": "warrior"
 			}
 		],
-		"start": "2024-05-08 06:00:00",
-		"end": "2024-05-29 11:59:59"
+		"start": "2024-05-08 10:00:00",
+		"end": "2024-05-29 11:59:00"
 	},
 	{
-		"version": "2.1.2",
 		"items": [
 			{
 				"itemId": 1304,
@@ -1500,10 +1677,9 @@
 			}
 		],
 		"start": "2024-04-17 12:00:00",
-		"end": "2024-05-07 14:59:59"
+		"end": "2024-05-07 15:00:00"
 	},
 	{
-		"version": "2.1.1",
 		"items": [
 			{
 				"itemId": 1308,
@@ -1566,11 +1742,10 @@
 				"weaponType": "rogue"
 			}
 		],
-		"start": "2024-03-27 06:00:00",
-		"end": "2024-04-17 11:59:59"
+		"start": "2024-03-27 10:00:00",
+		"end": "2024-04-17 11:59:00"
 	},
 	{
-		"version": "2.0.2",
 		"items": [
 			{
 				"itemId": 1306,
@@ -1634,10 +1809,9 @@
 			}
 		],
 		"start": "2024-02-29 12:00:00",
-		"end": "2024-03-26 14:59:59"
+		"end": "2024-03-26 15:00:00"
 	},
 	{
-		"version": "2.0.1",
 		"items": [
 			{
 				"itemId": 1307,
@@ -1700,11 +1874,10 @@
 				"weaponType": "warlock"
 			}
 		],
-		"start": "2024-02-06 06:00:00",
-		"end": "2024-02-29 11:59:59"
+		"start": "2024-02-06 10:00:00",
+		"end": "2024-02-29 11:59:00"
 	},
 	{
-		"version": "1.6.2",
 		"items": [
 			{
 				"itemId": 1305,
@@ -1768,10 +1941,9 @@
 			}
 		],
 		"start": "2024-01-17 12:00:00",
-		"end": "2024-02-05 14:59:59"
+		"end": "2024-02-05 15:00:00"
 	},
 	{
-		"version": "1.6.1",
 		"items": [
 			{
 				"itemId": 1303,
@@ -1834,11 +2006,10 @@
 				"weaponType": "shaman"
 			}
 		],
-		"start": "2023-12-27 06:00:00",
-		"end": "2024-01-17 11:59:59"
+		"start": "2023-12-27 10:00:00",
+		"end": "2024-01-17 11:59:00"
 	},
 	{
-		"version": "1.5.2",
 		"items": [
 			{
 				"itemId": 1302,
@@ -1902,10 +2073,9 @@
 			}
 		],
 		"start": "2023-12-06 12:00:00",
-		"end": "2023-12-26 14:59:59"
+		"end": "2023-12-26 15:00:00"
 	},
 	{
-		"version": "1.5.1",
 		"items": [
 			{
 				"itemId": 1217,
@@ -1956,11 +2126,10 @@
 				"weaponType": "mage"
 			}
 		],
-		"start": "2023-11-15 06:00:00",
-		"end": "2023-12-06 11:59:59"
+		"start": "2023-11-15 10:00:00",
+		"end": "2023-12-06 11:59:00"
 	},
 	{
-		"version": "1.4.2",
 		"items": [
 			{
 				"itemId": 1112,
@@ -2024,10 +2193,9 @@
 			}
 		],
 		"start": "2023-10-27 12:00:00",
-		"end": "2023-11-14 14:59:59"
+		"end": "2023-11-14 15:00:00"
 	},
 	{
-		"version": "1.4.1",
 		"items": [
 			{
 				"itemId": 1212,
@@ -2078,11 +2246,10 @@
 				"weaponType": "warlock"
 			}
 		],
-		"start": "2023-10-11 06:00:00",
-		"end": "2023-10-27 11:59:59"
+		"start": "2023-10-11 10:00:00",
+		"end": "2023-10-27 11:59:00"
 	},
 	{
-		"version": "1.3.2",
 		"items": [
 			{
 				"itemId": 1208,
@@ -2134,10 +2301,9 @@
 			}
 		],
 		"start": "2023-09-20 12:00:00",
-		"end": "2023-10-10 14:59:59"
+		"end": "2023-10-10 15:00:00"
 	},
 	{
-		"version": "1.3.1",
 		"items": [
 			{
 				"itemId": 1213,
@@ -2188,11 +2354,10 @@
 				"weaponType": "rogue"
 			}
 		],
-		"start": "2023-08-30 06:00:00",
-		"end": "2023-09-20 11:59:59"
+		"start": "2023-08-30 10:00:00",
+		"end": "2023-09-20 11:59:00"
 	},
 	{
-		"version": "1.2.2",
 		"items": [
 			{
 				"itemId": 1005,
@@ -2244,10 +2409,9 @@
 			}
 		],
 		"start": "2023-08-09 12:00:00",
-		"end": "2023-08-29 14:59:59"
+		"end": "2023-08-29 15:00:00"
 	},
 	{
-		"version": "1.2.1",
 		"items": [
 			{
 				"itemId": 1205,
@@ -2298,11 +2462,10 @@
 				"weaponType": "rogue"
 			}
 		],
-		"start": "2023-07-19 06:00:00",
-		"end": "2023-08-09 11:59:59"
+		"start": "2023-07-19 10:00:00",
+		"end": "2023-08-09 11:59:00"
 	},
 	{
-		"version": "1.1.2",
 		"items": [
 			{
 				"itemId": 1203,
@@ -2354,10 +2517,9 @@
 			}
 		],
 		"start": "2023-06-28 12:00:00",
-		"end": "2023-07-18 14:59:59"
+		"end": "2023-07-18 15:00:00"
 	},
 	{
-		"version": "1.1.1",
 		"items": [
 			{
 				"itemId": 1006,
@@ -2408,11 +2570,10 @@
 				"weaponType": "mage"
 			}
 		],
-		"start": "2023-06-07 06:00:00",
-		"end": "2023-06-28 11:59:59"
+		"start": "2023-06-07 10:00:00",
+		"end": "2023-06-28 11:59:00"
 	},
 	{
-		"version": "1.0.2",
 		"items": [
 			{
 				"itemId": 1204,
@@ -2425,18 +2586,6 @@
 				"rankType": 5,
 				"avatarBaseType": "mage",
 				"weaponType": "mage"
-			},
-			{
-				"itemId": 1202,
-				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
-				"itemType": "Character",
-				"name": "停云",
-				"nameEn": "Tingyun",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
 			},
 			{
 				"itemId": 1206,
@@ -2461,13 +2610,24 @@
 				"rankType": 4,
 				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
+			},
+			{
+				"itemId": 1202,
+				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
+				"itemType": "Character",
+				"name": "停云",
+				"nameEn": "Tingyun",
+				"damageType": "thunder",
+				"element": "thunder",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
 			}
 		],
 		"start": "2023-05-17 18:00:00",
-		"end": "2023-06-06 14:59:59"
+		"end": "2023-06-06 15:00:00"
 	},
 	{
-		"version": "1.0.1",
 		"items": [
 			{
 				"itemId": 1102,
@@ -2482,18 +2642,6 @@
 				"weaponType": "rogue"
 			},
 			{
-				"itemId": 1105,
-				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
-				"itemType": "Character",
-				"name": "娜塔莎",
-				"nameEn": "Natasha",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
 				"itemId": 1109,
 				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
 				"itemType": "Character",
@@ -2504,6 +2652,18 @@
 				"rankType": 4,
 				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
+			},
+			{
+				"itemId": 1105,
+				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
+				"itemType": "Character",
+				"name": "娜塔莎",
+				"nameEn": "Natasha",
+				"damageType": "physical",
+				"element": "physical",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
 			},
 			{
 				"itemId": 1106,
@@ -2518,7 +2678,7 @@
 				"weaponType": "warlock"
 			}
 		],
-		"start": "2023-04-26 06:00:00",
-		"end": "2023-05-17 17:59:59"
+		"start": "2023-04-26 10:00:00",
+		"end": "2023-05-17 17:59:00"
 	}
 ]

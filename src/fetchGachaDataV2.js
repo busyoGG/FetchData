@@ -29,7 +29,7 @@ function getImg(game, type, name) {
         name = "维序者-特化型"
     }
     let data = requireJson(`../data/hakush/${game}/${type.toLowerCase()}.json`)
-    console.log(name, data[name])
+    // console.log(name, data[name])
     return data?.[name]["iconUrl"]
 }
 
@@ -306,11 +306,13 @@ const fetchGachaData = async (pool, game, type) => {
     })
     const parse = (YAML.parse(res.data)).reverse()
     const data = parse.map((gachaData, i) => {
-        const { from, to, five, four } = gachaData
+        const { version, from, to, five, four } = gachaData
+        console.log(version, from, to, five, four)
         const info5 = five.map(c => getId2(c, pool))
         const info4 = four ? four.map(c => getId2(c, pool)) : []
         return {
-            version: getVersion(i, pool),
+            // version: getVersion(i, pool),
+            version: version,
             items: [...info5, ...info4].filter(a => !!a && !!a.rankType),
             start: from,
             end: to,

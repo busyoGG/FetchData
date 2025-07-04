@@ -1,6 +1,173 @@
 [
 	{
-		"version": "3.3.2",
+		"items": [
+			{
+				"itemId": 23025,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
+				"itemType": "Weapon",
+				"name": "梦应归于何处",
+				"nameEn": "Whereabouts Should Dreams Rest",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 23014,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23014.webp",
+				"itemType": "Weapon",
+				"name": "此身为剑",
+				"nameEn": "I Shall Be My Own Sword",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 23009,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23009.webp",
+				"itemType": "Weapon",
+				"name": "到不了的彼岸",
+				"nameEn": "The Unreachable Side",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21012,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
+				"itemType": "Weapon",
+				"name": "秘密誓心",
+				"nameEn": "A Secret Vow",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21017,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
+				"itemType": "Weapon",
+				"name": "点个关注吧！",
+				"nameEn": "Subscribe for More!",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 21015,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
+				"itemType": "Weapon",
+				"name": "决心如汗珠般闪耀",
+				"nameEn": "Resolution Shines As Pearls of Sweat",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
+			}
+		],
+		"start": "2025-07-23 12:00:00",
+		"end": "2025-08-12 15:00:00"
+	},
+	{
+		"items": [
+			{
+				"itemId": 23045,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23045.webp",
+				"itemType": "Weapon",
+				"name": "没有回报的加冕",
+				"nameEn": "A Thankless Coronation",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 23046,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23046.webp",
+				"itemType": "Weapon",
+				"name": "理想燃烧的地狱",
+				"nameEn": "The Hell Where Ideals Burn",
+				"rankType": 5,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			}
+		],
+		"start": "2025-07-11 12:00:00",
+		"end": "2099-12-31 23:59:00"
+	},
+	{
+		"items": [
+			{
+				"itemId": 23044,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23044.webp",
+				"itemType": "Weapon",
+				"name": "黎明恰如此燃烧",
+				"nameEn": "Thus Burns the Dawn",
+				"rankType": 5,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			},
+			{
+				"itemId": 23038,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23038.webp",
+				"itemType": "Weapon",
+				"name": "如果时间是一朵花",
+				"nameEn": "If Time Were a Flower",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 23034,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23034.webp",
+				"itemType": "Weapon",
+				"name": "回到大地的飞行",
+				"nameEn": "A Grounded Ascent",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 23021,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23021.webp",
+				"itemType": "Weapon",
+				"name": "游戏尘寰",
+				"nameEn": "Earthly Escapade",
+				"rankType": 5,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21054,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
+				"itemType": "Weapon",
+				"name": "故事的下一页",
+				"nameEn": "The Story's Next Page",
+				"rankType": 4,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			},
+			{
+				"itemId": 21011,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
+				"itemType": "Weapon",
+				"name": "与行星相会",
+				"nameEn": "Planetary Rendezvous",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
+			},
+			{
+				"itemId": 21019,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
+				"itemType": "Weapon",
+				"name": "在蓝天下",
+				"nameEn": "Under the Blue Sky",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
+			}
+		],
+		"start": "2025-07-02 10:00:00",
+		"end": "2025-07-23 11:59:00"
+	},
+	{
 		"items": [
 			{
 				"itemId": 23043,
@@ -54,10 +221,9 @@
 			}
 		],
 		"start": "2025-06-11 12:00:00",
-		"end": "2025-07-01 14:59:59"
+		"end": "2025-07-01 15:00:00"
 	},
 	{
-		"version": "3.3.1",
 		"items": [
 			{
 				"itemId": 23042,
@@ -110,11 +276,10 @@
 				"weaponType": "knight"
 			}
 		],
-		"start": "2025-05-21 06:00:00",
-		"end": "2025-06-11 11:59:59"
+		"start": "2025-05-21 10:00:00",
+		"end": "2025-06-11 11:59:00"
 	},
 	{
-		"version": "3.2.2",
 		"items": [
 			{
 				"itemId": 23041,
@@ -168,10 +333,9 @@
 			}
 		],
 		"start": "2025-04-30 12:00:00",
-		"end": "2025-05-20 14:59:59"
+		"end": "2025-05-20 15:00:00"
 	},
 	{
-		"version": "3.2.1",
 		"items": [
 			{
 				"itemId": 23040,
@@ -244,11 +408,10 @@
 				"weaponType": "warlock"
 			}
 		],
-		"start": "2025-04-09 06:00:00",
-		"end": "2025-04-30 11:59:59"
+		"start": "2025-04-09 10:00:00",
+		"end": "2025-04-30 11:59:00"
 	},
 	{
-		"version": "3.1.2",
 		"items": [
 			{
 				"itemId": 23039,
@@ -289,13 +452,22 @@
 				"rankType": 4,
 				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21004,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
+				"itemType": "Weapon",
+				"name": "记忆中的模样",
+				"nameEn": "Memories of the Past",
+				"rankType": 4,
+				"avatarBaseType": "shaman",
+				"weaponType": "shaman"
 			}
 		],
 		"start": "2025-03-19 12:00:00",
-		"end": "2025-04-08 14:59:59"
+		"end": "2025-04-08 15:00:00"
 	},
 	{
-		"version": "3.1.1",
 		"items": [
 			{
 				"itemId": 23038,
@@ -348,11 +520,10 @@
 				"weaponType": "knight"
 			}
 		],
-		"start": "2025-02-26 06:00:00",
-		"end": "2025-03-19 11:59:59"
+		"start": "2025-02-26 10:00:00",
+		"end": "2025-03-19 11:59:00"
 	},
 	{
-		"version": "3.0.2",
 		"items": [
 			{
 				"itemId": 23036,
@@ -426,10 +597,9 @@
 			}
 		],
 		"start": "2025-02-05 12:00:00",
-		"end": "2025-02-25 14:59:59"
+		"end": "2025-02-25 15:00:00"
 	},
 	{
-		"version": "3.0.1",
 		"items": [
 			{
 				"itemId": 23037,
@@ -502,11 +672,10 @@
 				"weaponType": "mage"
 			}
 		],
-		"start": "2025-01-15 06:00:00",
-		"end": "2025-02-05 11:59:59"
+		"start": "2025-01-15 10:00:00",
+		"end": "2025-02-05 11:59:00"
 	},
 	{
-		"version": "2.7.2",
 		"items": [
 			{
 				"itemId": 23035,
@@ -560,10 +729,9 @@
 			}
 		],
 		"start": "2024-12-25 12:00:00",
-		"end": "2025-01-14 14:59:59"
+		"end": "2025-01-14 15:00:00"
 	},
 	{
-		"version": "2.7.1",
 		"items": [
 			{
 				"itemId": 23034,
@@ -616,11 +784,10 @@
 				"weaponType": "rogue"
 			}
 		],
-		"start": "2024-12-04 06:00:00",
-		"end": "2024-12-25 11:59:59"
+		"start": "2024-12-04 10:00:00",
+		"end": "2024-12-25 11:59:00"
 	},
 	{
-		"version": "2.6.2",
 		"items": [
 			{
 				"itemId": 23024,
@@ -674,10 +841,9 @@
 			}
 		],
 		"start": "2024-11-13 12:00:00",
-		"end": "2024-12-03 14:59:59"
+		"end": "2024-12-03 15:00:00"
 	},
 	{
-		"version": "2.6.1",
 		"items": [
 			{
 				"itemId": 23033,
@@ -730,11 +896,10 @@
 				"weaponType": "warrior"
 			}
 		],
-		"start": "2024-10-23 06:00:00",
-		"end": "2024-11-13 11:59:59"
+		"start": "2024-10-23 10:00:00",
+		"end": "2024-11-13 11:59:00"
 	},
 	{
-		"version": "2.5.2",
 		"items": [
 			{
 				"itemId": 23032,
@@ -788,10 +953,9 @@
 			}
 		],
 		"start": "2024-10-02 12:00:00",
-		"end": "2024-10-22 14:59:59"
+		"end": "2024-10-22 15:00:00"
 	},
 	{
-		"version": "2.5.1",
 		"items": [
 			{
 				"itemId": 23031,
@@ -864,11 +1028,10 @@
 				"weaponType": "mage"
 			}
 		],
-		"start": "2024-09-10 06:00:00",
-		"end": "2024-10-02 11:59:59"
+		"start": "2024-09-10 10:00:00",
+		"end": "2024-10-02 11:59:00"
 	},
 	{
-		"version": "2.4.2",
 		"items": [
 			{
 				"itemId": 23029,
@@ -901,16 +1064,6 @@
 				"weaponType": "shaman"
 			},
 			{
-				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
-				"itemType": "Weapon",
-				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
 				"itemId": 21012,
 				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
 				"itemType": "Weapon",
@@ -919,13 +1072,22 @@
 				"rankType": 4,
 				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21008,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
+				"itemType": "Weapon",
+				"name": "猎物的视线",
+				"nameEn": "Eyes of the Prey",
+				"rankType": 4,
+				"avatarBaseType": "warlock",
+				"weaponType": "warlock"
 			}
 		],
 		"start": "2024-08-21 12:00:00",
-		"end": "2024-09-09 14:59:59"
+		"end": "2024-09-09 15:00:00"
 	},
 	{
-		"version": "2.4.1",
 		"items": [
 			{
 				"itemId": 23030,
@@ -978,11 +1140,10 @@
 				"weaponType": "mage"
 			}
 		],
-		"start": "2024-07-31 06:00:00",
-		"end": "2024-08-21 11:59:59"
+		"start": "2024-07-31 10:00:00",
+		"end": "2024-08-21 11:59:00"
 	},
 	{
-		"version": "2.3.2",
 		"items": [
 			{
 				"itemId": 23028,
@@ -1005,16 +1166,6 @@
 				"weaponType": "mage"
 			},
 			{
-				"itemId": 21045,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
-				"itemType": "Weapon",
-				"name": "谐乐静默之后",
-				"nameEn": "After the Charmony Fall",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
 				"itemId": 21007,
 				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
 				"itemType": "Weapon",
@@ -1033,13 +1184,22 @@
 				"rankType": 4,
 				"avatarBaseType": "knight",
 				"weaponType": "knight"
+			},
+			{
+				"itemId": 21045,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
+				"itemType": "Weapon",
+				"name": "谐乐静默之后",
+				"nameEn": "After the Charmony Fall",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
 			}
 		],
 		"start": "2024-07-10 12:00:00",
-		"end": "2024-07-30 14:59:59"
+		"end": "2024-07-30 15:00:00"
 	},
 	{
-		"version": "2.3.1",
 		"items": [
 			{
 				"itemId": 23025,
@@ -1092,11 +1252,10 @@
 				"weaponType": "warlock"
 			}
 		],
-		"start": "2024-06-19 06:00:00",
-		"end": "2024-07-10 11:59:59"
+		"start": "2024-06-19 10:00:00",
+		"end": "2024-07-10 11:59:00"
 	},
 	{
-		"version": "2.2.2",
 		"items": [
 			{
 				"itemId": 23027,
@@ -1150,10 +1309,9 @@
 			}
 		],
 		"start": "2024-05-29 12:00:00",
-		"end": "2024-06-18 14:59:59"
+		"end": "2024-06-18 15:00:00"
 	},
 	{
-		"version": "2.2.1",
 		"items": [
 			{
 				"itemId": 23026,
@@ -1206,11 +1364,10 @@
 				"weaponType": "priest"
 			}
 		],
-		"start": "2024-05-08 06:00:00",
-		"end": "2024-05-29 11:59:59"
+		"start": "2024-05-08 10:00:00",
+		"end": "2024-05-29 11:59:00"
 	},
 	{
-		"version": "2.1.2",
 		"items": [
 			{
 				"itemId": 23023,
@@ -1264,10 +1421,9 @@
 			}
 		],
 		"start": "2024-04-17 12:00:00",
-		"end": "2024-05-07 14:59:59"
+		"end": "2024-05-07 15:00:00"
 	},
 	{
-		"version": "2.1.1",
 		"items": [
 			{
 				"itemId": 23024,
@@ -1320,11 +1476,10 @@
 				"weaponType": "rogue"
 			}
 		],
-		"start": "2024-03-27 06:00:00",
-		"end": "2024-04-17 11:59:59"
+		"start": "2024-03-27 10:00:00",
+		"end": "2024-04-17 11:59:00"
 	},
 	{
-		"version": "2.0.2",
 		"items": [
 			{
 				"itemId": 23021,
@@ -1378,10 +1533,9 @@
 			}
 		],
 		"start": "2024-02-29 12:00:00",
-		"end": "2024-03-26 14:59:59"
+		"end": "2024-03-26 15:00:00"
 	},
 	{
-		"version": "2.0.1",
 		"items": [
 			{
 				"itemId": 23022,
@@ -1434,11 +1588,10 @@
 				"weaponType": "shaman"
 			}
 		],
-		"start": "2024-02-06 06:00:00",
-		"end": "2024-02-29 11:59:59"
+		"start": "2024-02-06 10:00:00",
+		"end": "2024-02-29 11:59:00"
 	},
 	{
-		"version": "1.6.2",
 		"items": [
 			{
 				"itemId": 23020,
@@ -1492,10 +1645,9 @@
 			}
 		],
 		"start": "2024-01-17 12:00:00",
-		"end": "2024-02-05 14:59:59"
+		"end": "2024-02-05 15:00:00"
 	},
 	{
-		"version": "1.6.1",
 		"items": [
 			{
 				"itemId": 23019,
@@ -1548,11 +1700,10 @@
 				"weaponType": "warrior"
 			}
 		],
-		"start": "2023-12-27 06:00:00",
-		"end": "2024-01-17 11:59:59"
+		"start": "2023-12-27 10:00:00",
+		"end": "2024-01-17 11:59:00"
 	},
 	{
-		"version": "1.5.2",
 		"items": [
 			{
 				"itemId": 23018,
@@ -1606,10 +1757,9 @@
 			}
 		],
 		"start": "2023-12-06 12:00:00",
-		"end": "2023-12-26 14:59:59"
+		"end": "2023-12-26 15:00:00"
 	},
 	{
-		"version": "1.5.1",
 		"items": [
 			{
 				"itemId": 23017,
@@ -1652,11 +1802,10 @@
 				"weaponType": "knight"
 			}
 		],
-		"start": "2023-11-15 06:00:00",
-		"end": "2023-12-06 11:59:59"
+		"start": "2023-11-15 10:00:00",
+		"end": "2023-12-06 11:59:00"
 	},
 	{
-		"version": "1.4.2",
 		"items": [
 			{
 				"itemId": 23016,
@@ -1710,10 +1859,9 @@
 			}
 		],
 		"start": "2023-10-27 12:00:00",
-		"end": "2023-11-14 14:59:59"
+		"end": "2023-11-14 15:00:00"
 	},
 	{
-		"version": "1.4.1",
 		"items": [
 			{
 				"itemId": 23014,
@@ -1756,11 +1904,10 @@
 				"weaponType": "warlock"
 			}
 		],
-		"start": "2023-10-11 06:00:00",
-		"end": "2023-10-27 11:59:59"
+		"start": "2023-10-11 10:00:00",
+		"end": "2023-10-27 11:59:00"
 	},
 	{
-		"version": "1.3.2",
 		"items": [
 			{
 				"itemId": 23011,
@@ -1783,16 +1930,6 @@
 				"weaponType": "priest"
 			},
 			{
-				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
-				"itemType": "Weapon",
-				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
 				"itemId": 21019,
 				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
 				"itemType": "Weapon",
@@ -1801,13 +1938,22 @@
 				"rankType": 4,
 				"avatarBaseType": "warrior",
 				"weaponType": "warrior"
+			},
+			{
+				"itemId": 21016,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
+				"itemType": "Weapon",
+				"name": "宇宙市场趋势",
+				"nameEn": "Trend of the Universal Market",
+				"rankType": 4,
+				"avatarBaseType": "knight",
+				"weaponType": "knight"
 			}
 		],
 		"start": "2023-09-20 12:00:00",
-		"end": "2023-10-10 14:59:59"
+		"end": "2023-10-10 15:00:00"
 	},
 	{
-		"version": "1.3.1",
 		"items": [
 			{
 				"itemId": 23015,
@@ -1850,11 +1996,10 @@
 				"weaponType": "knight"
 			}
 		],
-		"start": "2023-08-30 06:00:00",
-		"end": "2023-09-20 11:59:59"
+		"start": "2023-08-30 10:00:00",
+		"end": "2023-09-20 11:59:00"
 	},
 	{
-		"version": "1.2.2",
 		"items": [
 			{
 				"itemId": 23006,
@@ -1898,10 +2043,9 @@
 			}
 		],
 		"start": "2023-08-09 12:00:00",
-		"end": "2023-08-29 14:59:59"
+		"end": "2023-08-29 15:00:00"
 	},
 	{
-		"version": "1.2.1",
 		"items": [
 			{
 				"itemId": 23009,
@@ -1944,11 +2088,10 @@
 				"weaponType": "rogue"
 			}
 		],
-		"start": "2023-07-19 06:00:00",
-		"end": "2023-08-09 11:59:59"
+		"start": "2023-07-19 10:00:00",
+		"end": "2023-08-09 11:59:00"
 	},
 	{
-		"version": "1.1.2",
 		"items": [
 			{
 				"itemId": 23008,
@@ -1992,10 +2135,9 @@
 			}
 		],
 		"start": "2023-06-28 12:00:00",
-		"end": "2023-07-18 14:59:59"
+		"end": "2023-07-18 15:00:00"
 	},
 	{
-		"version": "1.1.1",
 		"items": [
 			{
 				"itemId": 23007,
@@ -2038,11 +2180,10 @@
 				"weaponType": "mage"
 			}
 		],
-		"start": "2023-06-07 06:00:00",
-		"end": "2023-06-28 11:59:59"
+		"start": "2023-06-07 10:00:00",
+		"end": "2023-06-28 11:59:00"
 	},
 	{
-		"version": "1.0.2",
 		"items": [
 			{
 				"itemId": 23010,
@@ -2086,10 +2227,9 @@
 			}
 		],
 		"start": "2023-05-17 18:00:00",
-		"end": "2023-06-06 14:59:59"
+		"end": "2023-06-06 15:00:00"
 	},
 	{
-		"version": "1.0.1",
 		"items": [
 			{
 				"itemId": 23001,
@@ -2100,6 +2240,16 @@
 				"rankType": 5,
 				"avatarBaseType": "rogue",
 				"weaponType": "rogue"
+			},
+			{
+				"itemId": 21005,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
+				"itemType": "Weapon",
+				"name": "鼹鼠党欢迎你",
+				"nameEn": "The Moles Welcome You",
+				"rankType": 4,
+				"avatarBaseType": "warrior",
+				"weaponType": "warrior"
 			},
 			{
 				"itemId": 21000,
@@ -2120,19 +2270,9 @@
 				"rankType": 4,
 				"avatarBaseType": "warlock",
 				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21005,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
-				"itemType": "Weapon",
-				"name": "鼹鼠党欢迎你",
-				"nameEn": "The Moles Welcome You",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
 			}
 		],
-		"start": "2023-04-26 06:00:00",
-		"end": "2023-05-17 17:59:59"
+		"start": "2023-04-26 10:00:00",
+		"end": "2023-05-17 17:59:00"
 	}
 ]
