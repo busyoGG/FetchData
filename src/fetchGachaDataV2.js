@@ -295,19 +295,13 @@ const fetchGachaData = async (pool, game, type) => {
     //     //     port: 17890
     //     // }
     // })
-    const res = await get(` https://raw.githubusercontent.com/busyoGG/FetchData/refs/heads/main/data/manual/${pool}.yaml`, {
-        // `proxy` means the request actually goes to the server listening
-        // on localhost:3000, but the request says it is meant for
-        // 'http://httpbin.org/get?answer=42'
-        // proxy: {
-        //     host: '127.0.0.1',
-        //     port: 17890
-        // }
-    })
-    const parse = (YAML.parse(res.data)).reverse()
+    const filePath = path.resolve(__dirname, '../data/manual', `${pool}.yaml`);
+    const fileContent = fs.readFileSync(filePath, 'utf-8');
+
+    const parse = (YAML.parse(fileContent)).reverse()
     const data = parse.map((gachaData, i) => {
         const { version, from, to, five, four } = gachaData
-        console.log(version, from, to, five, four)
+        // console.log(version, from, to, five, four)
         const info5 = five.map(c => getId2(c, pool))
         const info4 = four ? four.map(c => getId2(c, pool)) : []
         return {

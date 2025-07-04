@@ -1,0 +1,19 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: '30 2 * * *'  # 每天 UTC 02:30，即北京时间 10:30
+  workflow_dispatch:      # 可手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Make script executable
+        run: chmod +x ./src/update.sh
+
+      - name: Run update script
+        run: ./src/update.sh

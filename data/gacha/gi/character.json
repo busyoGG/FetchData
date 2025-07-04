@@ -21,10 +21,40 @@
 				"weaponType": "Polearm",
 				"rankType": 5,
 				"element": "Dendro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "Xiangling",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000077,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "Yaoyao",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000110,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Iansan.webp",
+				"itemType": "Character",
+				"name": "伊安珊",
+				"nameEn": "Iansan",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Electro"
 			}
 		],
 		"start": "2025-07-08 18:00:00",
-		"end": "2025-07-29 14:59:59"
+		"end": "2025-07-29 14:59:00"
 	},
 	{
 		"version": "5.7.1",
@@ -50,6 +80,16 @@
 				"element": "Cryo"
 			},
 			{
+				"itemId": 10000039,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
+				"itemType": "Character",
+				"name": "迪奥娜",
+				"nameEn": "Diona",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
 				"itemId": 10000115,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Dahlia.webp",
 				"itemType": "Character",
@@ -68,20 +108,10 @@
 				"weaponType": "Polearm",
 				"rankType": 4,
 				"element": "Hydro"
-			},
-			{
-				"itemId": 10000039,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Diona.webp",
-				"itemType": "Character",
-				"name": "迪奥娜",
-				"nameEn": "Diona",
-				"weaponType": "Bow",
-				"rankType": 4,
-				"element": "Cryo"
 			}
 		],
-		"start": "2025-06-18 06:00:00",
-		"end": "2025-07-08 17:59:59"
+		"start": "2025-06-18 10:00:00",
+		"end": "2025-07-08 17:59:00"
 	},
 	{
 		"version": "5.6.2",
@@ -138,7 +168,7 @@
 			}
 		],
 		"start": "2025-05-27 18:00:00",
-		"end": "2025-06-17 14:59:59"
+		"end": "2025-06-17 14:59:00"
 	},
 	{
 		"version": "5.6.1",
@@ -164,14 +194,14 @@
 				"element": "Geo"
 			},
 			{
-				"itemId": 10000113,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Ifa.webp",
+				"itemId": 10000074,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Layla.webp",
 				"itemType": "Character",
-				"name": "伊法",
-				"nameEn": "Ifa",
-				"weaponType": "Catalyst",
+				"name": "莱依拉",
+				"nameEn": "Layla",
+				"weaponType": "Sword",
 				"rankType": 4,
-				"element": "Anemo"
+				"element": "Cryo"
 			},
 			{
 				"itemId": 10000105,
@@ -184,18 +214,18 @@
 				"element": "Electro"
 			},
 			{
-				"itemId": 10000074,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Layla.webp",
+				"itemId": 10000113,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ifa.webp",
 				"itemType": "Character",
-				"name": "莱依拉",
-				"nameEn": "Layla",
-				"weaponType": "Sword",
+				"name": "伊法",
+				"nameEn": "Ifa",
+				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Cryo"
+				"element": "Anemo"
 			}
 		],
-		"start": "2025-05-07 06:00:00",
-		"end": "2025-05-27 17:59:59"
+		"start": "2025-05-07 10:00:00",
+		"end": "2025-05-27 17:59:00"
 	},
 	{
 		"version": "5.5.2",
@@ -221,16 +251,6 @@
 				"element": "Anemo"
 			},
 			{
-				"itemId": 10000076,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Faruzan.webp",
-				"itemType": "Character",
-				"name": "珐露珊",
-				"nameEn": "Faruzan",
-				"weaponType": "Bow",
-				"rankType": 4,
-				"element": "Anemo"
-			},
-			{
 				"itemId": 10000024,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
@@ -249,10 +269,20 @@
 				"weaponType": "Catalyst",
 				"rankType": 4,
 				"element": "Pyro"
+			},
+			{
+				"itemId": 10000076,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Faruzan.webp",
+				"itemType": "Character",
+				"name": "珐露珊",
+				"nameEn": "Faruzan",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
 			}
 		],
 		"start": "2025-04-15 18:00:00",
-		"end": "2025-05-06 14:59:59"
+		"end": "2025-05-06 14:59:00"
 	},
 	{
 		"version": "5.5.1",
@@ -278,14 +308,14 @@
 				"element": "Anemo"
 			},
 			{
-				"itemId": 10000110,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Iansan.webp",
+				"itemId": 10000092,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Gaming.webp",
 				"itemType": "Character",
-				"name": "伊安珊",
-				"nameEn": "Iansan",
-				"weaponType": "Polearm",
+				"name": "嘉明",
+				"nameEn": "Gaming",
+				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Pyro"
 			},
 			{
 				"itemId": 10000090,
@@ -298,18 +328,18 @@
 				"element": "Pyro"
 			},
 			{
-				"itemId": 10000092,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Gaming.webp",
+				"itemId": 10000110,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Iansan.webp",
 				"itemType": "Character",
-				"name": "嘉明",
-				"nameEn": "Gaming",
-				"weaponType": "Claymore",
+				"name": "伊安珊",
+				"nameEn": "Iansan",
+				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Pyro"
+				"element": "Electro"
 			}
 		],
-		"start": "2025-03-26 06:00:00",
-		"end": "2025-04-15 17:59:59"
+		"start": "2025-03-26 10:00:00",
+		"end": "2025-04-15 17:59:00"
 	},
 	{
 		"version": "5.4.2",
@@ -335,12 +365,12 @@
 				"element": "Cryo"
 			},
 			{
-				"itemId": 10000088,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Charlotte.webp",
+				"itemId": 10000080,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Mika.webp",
 				"itemType": "Character",
-				"name": "夏洛蒂",
-				"nameEn": "Charlotte",
-				"weaponType": "Catalyst",
+				"name": "米卡",
+				"nameEn": "Mika",
+				"weaponType": "Polearm",
 				"rankType": 4,
 				"element": "Cryo"
 			},
@@ -355,18 +385,18 @@
 				"element": "Cryo"
 			},
 			{
-				"itemId": 10000080,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Mika.webp",
+				"itemId": 10000088,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Charlotte.webp",
 				"itemType": "Character",
-				"name": "米卡",
-				"nameEn": "Mika",
-				"weaponType": "Polearm",
+				"name": "夏洛蒂",
+				"nameEn": "Charlotte",
+				"weaponType": "Catalyst",
 				"rankType": 4,
 				"element": "Cryo"
 			}
 		],
 		"start": "2025-03-04 18:00:00",
-		"end": "2025-03-25 14:59:59"
+		"end": "2025-03-25 14:59:00"
 	},
 	{
 		"version": "5.4.1",
@@ -392,14 +422,14 @@
 				"element": "Hydro"
 			},
 			{
-				"itemId": 10000055,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Gorou.webp",
+				"itemId": 10000023,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
-				"name": "五郎",
-				"nameEn": "Gorou",
-				"weaponType": "Bow",
+				"name": "香菱",
+				"nameEn": "Xiangling",
+				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Geo"
+				"element": "Pyro"
 			},
 			{
 				"itemId": 10000053,
@@ -412,18 +442,18 @@
 				"element": "Anemo"
 			},
 			{
-				"itemId": 10000023,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
+				"itemId": 10000055,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Gorou.webp",
 				"itemType": "Character",
-				"name": "香菱",
-				"nameEn": "Xiangling",
-				"weaponType": "Polearm",
+				"name": "五郎",
+				"nameEn": "Gorou",
+				"weaponType": "Bow",
 				"rankType": 4,
-				"element": "Pyro"
+				"element": "Geo"
 			}
 		],
-		"start": "2025-02-12 06:00:00",
-		"end": "2025-03-04 17:59:59"
+		"start": "2025-02-12 10:00:00",
+		"end": "2025-03-04 17:59:00"
 	},
 	{
 		"version": "5.3.2",
@@ -449,14 +479,14 @@
 				"element": "Electro"
 			},
 			{
-				"itemId": 10000108,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Lanyan.webp",
+				"itemId": 10000045,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
 				"itemType": "Character",
-				"name": "蓝砚",
-				"nameEn": "Lan Yan",
-				"weaponType": "Catalyst",
+				"name": "罗莎莉亚",
+				"nameEn": "Rosaria",
+				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Anemo"
+				"element": "Cryo"
 			},
 			{
 				"itemId": 10000090,
@@ -469,18 +499,18 @@
 				"element": "Pyro"
 			},
 			{
-				"itemId": 10000045,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
+				"itemId": 10000108,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Lanyan.webp",
 				"itemType": "Character",
-				"name": "罗莎莉亚",
-				"nameEn": "Rosaria",
-				"weaponType": "Polearm",
+				"name": "蓝砚",
+				"nameEn": "Lan Yan",
+				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Cryo"
+				"element": "Anemo"
 			}
 		],
 		"start": "2025-01-21 18:00:00",
-		"end": "2025-02-11 14:59:59"
+		"end": "2025-02-11 14:59:00"
 	},
 	{
 		"version": "5.3.1",
@@ -506,16 +536,6 @@
 				"element": "Cryo"
 			},
 			{
-				"itemId": 10000100,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Kachina.webp",
-				"itemType": "Character",
-				"name": "卡齐娜",
-				"nameEn": "Kachina",
-				"weaponType": "Polearm",
-				"rankType": 4,
-				"element": "Geo"
-			},
-			{
 				"itemId": 10000032,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
@@ -534,10 +554,20 @@
 				"weaponType": "Bow",
 				"rankType": 4,
 				"element": "Cryo"
+			},
+			{
+				"itemId": 10000100,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Kachina.webp",
+				"itemType": "Character",
+				"name": "卡齐娜",
+				"nameEn": "Kachina",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
 			}
 		],
-		"start": "2025-01-01 06:00:00",
-		"end": "2025-01-21 17:59:59"
+		"start": "2025-01-01 10:00:00",
+		"end": "2025-01-21 17:59:00"
 	},
 	{
 		"version": "5.2.2",
@@ -563,16 +593,6 @@
 				"element": "Geo"
 			},
 			{
-				"itemId": 10000059,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Heizo.webp",
-				"itemType": "Character",
-				"name": "鹿野院平藏",
-				"nameEn": "Shikanoin Heizou",
-				"weaponType": "Catalyst",
-				"rankType": 4,
-				"element": "Anemo"
-			},
-			{
 				"itemId": 10000031,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
 				"itemType": "Character",
@@ -581,6 +601,16 @@
 				"weaponType": "Bow",
 				"rankType": 4,
 				"element": "Electro"
+			},
+			{
+				"itemId": 10000059,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Heizo.webp",
+				"itemType": "Character",
+				"name": "鹿野院平藏",
+				"nameEn": "Shikanoin Heizou",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
 			},
 			{
 				"itemId": 10000077,
@@ -594,7 +624,7 @@
 			}
 		],
 		"start": "2024-12-10 18:00:00",
-		"end": "2024-12-31 14:59:59"
+		"end": "2024-12-31 14:59:00"
 	},
 	{
 		"version": "5.2.1",
@@ -630,16 +660,6 @@
 				"element": "Electro"
 			},
 			{
-				"itemId": 10000043,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
-				"itemType": "Character",
-				"name": "砂糖",
-				"nameEn": "Sucrose",
-				"weaponType": "Catalyst",
-				"rankType": 4,
-				"element": "Anemo"
-			},
-			{
 				"itemId": 10000014,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
@@ -648,24 +668,24 @@
 				"weaponType": "Catalyst",
 				"rankType": 4,
 				"element": "Hydro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "Sucrose",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
 			}
 		],
-		"start": "2024-11-20 06:00:00",
-		"end": "2024-12-10 17:59:59"
+		"start": "2024-11-20 10:00:00",
+		"end": "2024-12-10 17:59:00"
 	},
 	{
 		"version": "5.1.2",
 		"items": [
-			{
-				"itemId": 10000046,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Hutao.webp",
-				"itemType": "Character",
-				"name": "胡桃",
-				"nameEn": "Hu Tao",
-				"weaponType": "Polearm",
-				"rankType": 5,
-				"element": "Pyro"
-			},
 			{
 				"itemId": 10000073,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Nahida.webp",
@@ -677,14 +697,14 @@
 				"element": "Dendro"
 			},
 			{
-				"itemId": 10000097,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Sethos.webp",
+				"itemId": 10000046,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Hutao.webp",
 				"itemType": "Character",
-				"name": "赛索斯",
-				"nameEn": "Sethos",
-				"weaponType": "Bow",
-				"rankType": 4,
-				"element": "Electro"
+				"name": "胡桃",
+				"nameEn": "Hu Tao",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Pyro"
 			},
 			{
 				"itemId": 10000025,
@@ -705,10 +725,20 @@
 				"weaponType": "Sword",
 				"rankType": 4,
 				"element": "Electro"
+			},
+			{
+				"itemId": 10000097,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sethos.webp",
+				"itemType": "Character",
+				"name": "赛索斯",
+				"nameEn": "Sethos",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
 			}
 		],
 		"start": "2024-10-29 18:00:00",
-		"end": "2024-11-19 14:59:59"
+		"end": "2024-11-19 14:59:00"
 	},
 	{
 		"version": "5.1.1",
@@ -734,6 +764,16 @@
 				"element": "Geo"
 			},
 			{
+				"itemId": 10000067,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Collei.webp",
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "Collei",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
 				"itemId": 10000068,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Dori.webp",
 				"itemType": "Character",
@@ -752,20 +792,10 @@
 				"weaponType": "Polearm",
 				"rankType": 4,
 				"element": "Hydro"
-			},
-			{
-				"itemId": 10000067,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Collei.webp",
-				"itemType": "Character",
-				"name": "柯莱",
-				"nameEn": "Collei",
-				"weaponType": "Bow",
-				"rankType": 4,
-				"element": "Dendro"
 			}
 		],
-		"start": "2024-10-09 06:00:00",
-		"end": "2024-10-29 17:59:59"
+		"start": "2024-10-09 10:00:00",
+		"end": "2024-10-29 17:59:00"
 	},
 	{
 		"version": "5.0.2",
@@ -791,16 +821,6 @@
 				"element": "Electro"
 			},
 			{
-				"itemId": 10000050,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
-				"itemType": "Character",
-				"name": "托马",
-				"nameEn": "Thoma",
-				"weaponType": "Polearm",
-				"rankType": 4,
-				"element": "Pyro"
-			},
-			{
 				"itemId": 10000056,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Sara.webp",
 				"itemType": "Character",
@@ -809,6 +829,16 @@
 				"weaponType": "Bow",
 				"rankType": 4,
 				"element": "Electro"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "Thoma",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
 			},
 			{
 				"itemId": 10000090,
@@ -822,7 +852,7 @@
 			}
 		],
 		"start": "2024-09-17 18:00:00",
-		"end": "2024-10-08 14:59:59"
+		"end": "2024-10-08 14:59:00"
 	},
 	{
 		"version": "5.0.1",
@@ -858,16 +888,6 @@
 				"element": "Geo"
 			},
 			{
-				"itemId": 10000044,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
-				"itemType": "Character",
-				"name": "辛焱",
-				"nameEn": "Xinyan",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Pyro"
-			},
-			{
 				"itemId": 10000032,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
@@ -876,10 +896,20 @@
 				"weaponType": "Sword",
 				"rankType": 4,
 				"element": "Pyro"
+			},
+			{
+				"itemId": 10000044,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
+				"itemType": "Character",
+				"name": "辛焱",
+				"nameEn": "Xinyan",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
 			}
 		],
-		"start": "2024-08-28 06:00:00",
-		"end": "2024-09-17 17:59:59"
+		"start": "2024-08-28 10:00:00",
+		"end": "2024-09-17 17:59:00"
 	},
 	{
 		"version": "4.8.2",
@@ -905,6 +935,16 @@
 				"element": "Hydro"
 			},
 			{
+				"itemId": 10000020,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "Razor",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
 				"itemId": 10000048,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
 				"itemType": "Character",
@@ -923,20 +963,10 @@
 				"weaponType": "Polearm",
 				"rankType": 4,
 				"element": "Pyro"
-			},
-			{
-				"itemId": 10000020,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
-				"itemType": "Character",
-				"name": "雷泽",
-				"nameEn": "Razor",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Electro"
 			}
 		],
 		"start": "2024-08-06 18:00:00",
-		"end": "2024-08-27 14:59:59"
+		"end": "2024-08-27 14:59:00"
 	},
 	{
 		"version": "4.8.1",
@@ -962,14 +992,14 @@
 				"element": "Hydro"
 			},
 			{
-				"itemId": 10000061,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Momoka.webp",
+				"itemId": 10000027,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
 				"itemType": "Character",
-				"name": "绮良良",
-				"nameEn": "Kirara",
-				"weaponType": "Sword",
+				"name": "凝光",
+				"nameEn": "Ningguang",
+				"weaponType": "Catalyst",
 				"rankType": 4,
-				"element": "Dendro"
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000081,
@@ -982,32 +1012,22 @@
 				"element": "Dendro"
 			},
 			{
-				"itemId": 10000027,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
+				"itemId": 10000061,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Momoka.webp",
 				"itemType": "Character",
-				"name": "凝光",
-				"nameEn": "Ningguang",
-				"weaponType": "Catalyst",
+				"name": "绮良良",
+				"nameEn": "Kirara",
+				"weaponType": "Sword",
 				"rankType": 4,
-				"element": "Geo"
+				"element": "Dendro"
 			}
 		],
-		"start": "2024-07-17 06:00:00",
-		"end": "2024-08-06 17:59:59"
+		"start": "2024-07-17 10:00:00",
+		"end": "2024-08-06 17:59:00"
 	},
 	{
 		"version": "4.7.2",
 		"items": [
-			{
-				"itemId": 10000089,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Furina.webp",
-				"itemType": "Character",
-				"name": "芙宁娜",
-				"nameEn": "Furina",
-				"weaponType": "Sword",
-				"rankType": 5,
-				"element": "Hydro"
-			},
 			{
 				"itemId": 10000095,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Sigewinne.webp",
@@ -1019,14 +1039,14 @@
 				"element": "Hydro"
 			},
 			{
-				"itemId": 10000045,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
+				"itemId": 10000089,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Furina.webp",
 				"itemType": "Character",
-				"name": "罗莎莉亚",
-				"nameEn": "Rosaria",
-				"weaponType": "Polearm",
-				"rankType": 4,
-				"element": "Cryo"
+				"name": "芙宁娜",
+				"nameEn": "Furina",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Hydro"
 			},
 			{
 				"itemId": 10000034,
@@ -1037,6 +1057,16 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Geo"
+			},
+			{
+				"itemId": 10000045,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Rosaria.webp",
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "Rosaria",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Cryo"
 			},
 			{
 				"itemId": 10000092,
@@ -1050,7 +1080,7 @@
 			}
 		],
 		"start": "2024-06-25 18:00:00",
-		"end": "2024-07-16 14:59:59"
+		"end": "2024-07-16 14:59:00"
 	},
 	{
 		"version": "4.7.1",
@@ -1106,8 +1136,8 @@
 				"element": "Electro"
 			}
 		],
-		"start": "2024-06-05 06:00:00",
-		"end": "2024-06-25 17:59:59"
+		"start": "2024-06-05 10:00:00",
+		"end": "2024-06-25 17:59:00"
 	},
 	{
 		"version": "4.6.2",
@@ -1133,14 +1163,14 @@
 				"element": "Dendro"
 			},
 			{
-				"itemId": 10000074,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Layla.webp",
+				"itemId": 10000024,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
-				"name": "莱依拉",
-				"nameEn": "Layla",
-				"weaponType": "Sword",
+				"name": "北斗",
+				"nameEn": "Beidou",
+				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Cryo"
+				"element": "Electro"
 			},
 			{
 				"itemId": 10000076,
@@ -1153,18 +1183,18 @@
 				"element": "Anemo"
 			},
 			{
-				"itemId": 10000024,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
+				"itemId": 10000074,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Layla.webp",
 				"itemType": "Character",
-				"name": "北斗",
-				"nameEn": "Beidou",
-				"weaponType": "Claymore",
+				"name": "莱依拉",
+				"nameEn": "Layla",
+				"weaponType": "Sword",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Cryo"
 			}
 		],
 		"start": "2024-05-14 18:00:00",
-		"end": "2024-06-04 14:59:59"
+		"end": "2024-06-04 14:59:00"
 	},
 	{
 		"version": "4.6.1",
@@ -1220,8 +1250,8 @@
 				"element": "Pyro"
 			}
 		],
-		"start": "2024-04-24 06:00:00",
-		"end": "2024-05-14 17:59:59"
+		"start": "2024-04-24 10:00:00",
+		"end": "2024-05-14 17:59:00"
 	},
 	{
 		"version": "4.5.2",
@@ -1278,7 +1308,7 @@
 			}
 		],
 		"start": "2024-04-02 18:00:00",
-		"end": "2024-04-23 14:59:59"
+		"end": "2024-04-23 14:59:00"
 	},
 	{
 		"version": "4.5.1",
@@ -1334,8 +1364,8 @@
 				"element": "Electro"
 			}
 		],
-		"start": "2024-03-13 06:00:00",
-		"end": "2024-04-02 17:59:59"
+		"start": "2024-03-13 10:00:00",
+		"end": "2024-04-02 17:59:00"
 	},
 	{
 		"version": "4.4.2",
@@ -1392,7 +1422,7 @@
 			}
 		],
 		"start": "2024-02-20 18:00:00",
-		"end": "2024-03-12 14:59:59"
+		"end": "2024-03-12 14:59:00"
 	},
 	{
 		"version": "4.4.1",
@@ -1448,8 +1478,8 @@
 				"element": "Geo"
 			}
 		],
-		"start": "2024-01-31 06:00:00",
-		"end": "2024-02-20 17:59:59"
+		"start": "2024-01-31 10:00:00",
+		"end": "2024-02-20 17:59:00"
 	},
 	{
 		"version": "4.3.2",
@@ -1506,7 +1536,7 @@
 			}
 		],
 		"start": "2024-01-09 18:00:00",
-		"end": "2024-01-30 14:59:59"
+		"end": "2024-01-30 14:59:00"
 	},
 	{
 		"version": "4.3.1",
@@ -1562,8 +1592,8 @@
 				"element": "Hydro"
 			}
 		],
-		"start": "2023-12-20 06:00:00",
-		"end": "2024-01-09 17:59:59"
+		"start": "2023-12-20 10:00:00",
+		"end": "2024-01-09 17:59:00"
 	},
 	{
 		"version": "4.2.2",
@@ -1589,14 +1619,14 @@
 				"element": "Hydro"
 			},
 			{
-				"itemId": 10000061,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Momoka.webp",
+				"itemId": 10000023,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
 				"itemType": "Character",
-				"name": "绮良良",
-				"nameEn": "Kirara",
-				"weaponType": "Sword",
+				"name": "香菱",
+				"nameEn": "Xiangling",
+				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Dendro"
+				"element": "Pyro"
 			},
 			{
 				"itemId": 10000065,
@@ -1609,18 +1639,18 @@
 				"element": "Electro"
 			},
 			{
-				"itemId": 10000023,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
+				"itemId": 10000061,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Momoka.webp",
 				"itemType": "Character",
-				"name": "香菱",
-				"nameEn": "Xiangling",
-				"weaponType": "Polearm",
+				"name": "绮良良",
+				"nameEn": "Kirara",
+				"weaponType": "Sword",
 				"rankType": 4,
-				"element": "Pyro"
+				"element": "Dendro"
 			}
 		],
 		"start": "2023-11-28 18:00:00",
-		"end": "2023-12-19 14:59:59"
+		"end": "2023-12-19 14:59:00"
 	},
 	{
 		"version": "4.2.1",
@@ -1676,8 +1706,8 @@
 				"element": "Electro"
 			}
 		],
-		"start": "2023-11-08 06:00:00",
-		"end": "2023-11-28 17:59:59"
+		"start": "2023-11-08 10:00:00",
+		"end": "2023-11-28 17:59:00"
 	},
 	{
 		"version": "4.1.2",
@@ -1734,7 +1764,7 @@
 			}
 		],
 		"start": "2023-10-17 18:00:00",
-		"end": "2023-11-07 14:59:59"
+		"end": "2023-11-07 14:59:00"
 	},
 	{
 		"version": "4.1.1",
@@ -1790,8 +1820,8 @@
 				"element": "Cryo"
 			}
 		],
-		"start": "2023-09-27 06:00:00",
-		"end": "2023-10-17 17:59:59"
+		"start": "2023-09-27 10:00:00",
+		"end": "2023-10-17 17:59:00"
 	},
 	{
 		"version": "4.0.2",
@@ -1848,7 +1878,7 @@
 			}
 		],
 		"start": "2023-09-05 18:00:00",
-		"end": "2023-09-26 14:59:59"
+		"end": "2023-09-26 14:59:00"
 	},
 	{
 		"version": "4.0.1",
@@ -1904,8 +1934,8 @@
 				"element": "Hydro"
 			}
 		],
-		"start": "2023-08-16 06:00:00",
-		"end": "2023-09-05 17:59:59"
+		"start": "2023-08-16 10:00:00",
+		"end": "2023-09-05 17:59:00"
 	},
 	{
 		"version": "3.8.2",
@@ -1962,7 +1992,7 @@
 			}
 		],
 		"start": "2023-07-25 18:00:00",
-		"end": "2023-08-15 14:59:59"
+		"end": "2023-08-15 14:59:00"
 	},
 	{
 		"version": "3.8.1",
@@ -2018,8 +2048,8 @@
 				"element": "Pyro"
 			}
 		],
-		"start": "2023-07-05 06:00:00",
-		"end": "2023-07-25 17:59:59"
+		"start": "2023-07-05 10:00:00",
+		"end": "2023-07-25 17:59:00"
 	},
 	{
 		"version": "3.7.2",
@@ -2076,7 +2106,7 @@
 			}
 		],
 		"start": "2023-06-13 18:00:00",
-		"end": "2023-07-04 14:59:59"
+		"end": "2023-07-04 14:59:00"
 	},
 	{
 		"version": "3.7.1",
@@ -2132,8 +2162,8 @@
 				"element": "Cryo"
 			}
 		],
-		"start": "2023-05-24 06:00:00",
-		"end": "2023-06-13 17:59:59"
+		"start": "2023-05-24 10:00:00",
+		"end": "2023-06-13 17:59:00"
 	},
 	{
 		"version": "3.6.2",
@@ -2190,7 +2220,7 @@
 			}
 		],
 		"start": "2023-05-02 18:00:00",
-		"end": "2023-05-23 14:59:59"
+		"end": "2023-05-23 14:59:00"
 	},
 	{
 		"version": "3.6.1",
@@ -2246,8 +2276,8 @@
 				"element": "Cryo"
 			}
 		],
-		"start": "2023-04-12 06:00:00",
-		"end": "2023-05-02 17:59:59"
+		"start": "2023-04-12 10:00:00",
+		"end": "2023-05-02 17:59:00"
 	},
 	{
 		"version": "3.5.2",
@@ -2304,7 +2334,7 @@
 			}
 		],
 		"start": "2023-03-21 18:00:00",
-		"end": "2023-04-11 14:59:59"
+		"end": "2023-04-11 14:59:00"
 	},
 	{
 		"version": "3.5.1",
@@ -2360,8 +2390,8 @@
 				"element": "Dendro"
 			}
 		],
-		"start": "2023-03-01 06:00:00",
-		"end": "2023-03-21 17:59:59"
+		"start": "2023-03-01 10:00:00",
+		"end": "2023-03-21 17:59:00"
 	},
 	{
 		"version": "3.4.2",
@@ -2397,16 +2427,6 @@
 				"element": "Hydro"
 			},
 			{
-				"itemId": 10000027,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
-				"itemType": "Character",
-				"name": "凝光",
-				"nameEn": "Ningguang",
-				"weaponType": "Catalyst",
-				"rankType": 4,
-				"element": "Geo"
-			},
-			{
 				"itemId": 10000024,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Beidou.webp",
 				"itemType": "Character",
@@ -2415,10 +2435,20 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Electro"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "Ningguang",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
 			}
 		],
 		"start": "2023-02-07 18:00:00",
-		"end": "2023-02-28 14:59:59"
+		"end": "2023-02-28 14:59:00"
 	},
 	{
 		"version": "3.4.1",
@@ -2444,14 +2474,14 @@
 				"element": "Anemo"
 			},
 			{
-				"itemId": 10000044,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
+				"itemId": 10000077,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
 				"itemType": "Character",
-				"name": "辛焱",
-				"nameEn": "Xinyan",
-				"weaponType": "Claymore",
+				"name": "瑶瑶",
+				"nameEn": "Yaoyao",
+				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Pyro"
+				"element": "Dendro"
 			},
 			{
 				"itemId": 10000064,
@@ -2464,18 +2494,18 @@
 				"element": "Geo"
 			},
 			{
-				"itemId": 10000077,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
+				"itemId": 10000044,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
-				"name": "瑶瑶",
-				"nameEn": "Yaoyao",
-				"weaponType": "Polearm",
+				"name": "辛焱",
+				"nameEn": "Xinyan",
+				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Dendro"
+				"element": "Pyro"
 			}
 		],
-		"start": "2023-01-18 06:00:00",
-		"end": "2023-02-07 17:59:59"
+		"start": "2023-01-18 10:00:00",
+		"end": "2023-02-07 17:59:00"
 	},
 	{
 		"version": "3.3.2",
@@ -2532,7 +2562,7 @@
 			}
 		],
 		"start": "2022-12-27 18:00:00",
-		"end": "2023-01-17 14:59:59"
+		"end": "2023-01-17 14:59:00"
 	},
 	{
 		"version": "3.3.1",
@@ -2588,8 +2618,8 @@
 				"element": "Pyro"
 			}
 		],
-		"start": "2022-12-07 06:00:00",
-		"end": "2022-12-27 17:59:59"
+		"start": "2022-12-07 10:00:00",
+		"end": "2022-12-27 17:59:00"
 	},
 	{
 		"version": "3.2.2",
@@ -2625,16 +2655,6 @@
 				"element": "Cryo"
 			},
 			{
-				"itemId": 10000059,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Heizo.webp",
-				"itemType": "Character",
-				"name": "鹿野院平藏",
-				"nameEn": "Shikanoin Heizou",
-				"weaponType": "Catalyst",
-				"rankType": 4,
-				"element": "Anemo"
-			},
-			{
 				"itemId": 10000050,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
 				"itemType": "Character",
@@ -2643,10 +2663,20 @@
 				"weaponType": "Polearm",
 				"rankType": 4,
 				"element": "Pyro"
+			},
+			{
+				"itemId": 10000059,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Heizo.webp",
+				"itemType": "Character",
+				"name": "鹿野院平藏",
+				"nameEn": "Shikanoin Heizou",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
 			}
 		],
 		"start": "2022-11-18 18:00:00",
-		"end": "2022-12-06 14:59:59"
+		"end": "2022-12-06 14:59:00"
 	},
 	{
 		"version": "3.2.1",
@@ -2672,16 +2702,6 @@
 				"element": "Pyro"
 			},
 			{
-				"itemId": 10000032,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
-				"itemType": "Character",
-				"name": "班尼特",
-				"nameEn": "Bennett",
-				"weaponType": "Sword",
-				"rankType": 4,
-				"element": "Pyro"
-			},
-			{
 				"itemId": 10000020,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
 				"itemType": "Character",
@@ -2700,10 +2720,20 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Geo"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "Bennett",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
 			}
 		],
-		"start": "2022-11-02 06:00:00",
-		"end": "2022-11-18 17:59:59"
+		"start": "2022-11-02 11:00:00",
+		"end": "2022-11-18 17:59:00"
 	},
 	{
 		"version": "3.1.2",
@@ -2760,7 +2790,7 @@
 			}
 		],
 		"start": "2022-10-14 18:00:00",
-		"end": "2022-11-01 14:59:59"
+		"end": "2022-11-01 14:59:00"
 	},
 	{
 		"version": "3.1.1",
@@ -2786,6 +2816,16 @@
 				"element": "Anemo"
 			},
 			{
+				"itemId": 10000072,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Candace.webp",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "Candace",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
 				"itemId": 10000065,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
 				"itemType": "Character",
@@ -2804,20 +2844,10 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Anemo"
-			},
-			{
-				"itemId": 10000072,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Candace.webp",
-				"itemType": "Character",
-				"name": "坎蒂丝",
-				"nameEn": "Candace",
-				"weaponType": "Polearm",
-				"rankType": 4,
-				"element": "Hydro"
 			}
 		],
-		"start": "2022-09-28 06:00:00",
-		"end": "2022-10-14 17:59:59"
+		"start": "2022-09-28 11:00:00",
+		"end": "2022-10-14 17:59:00"
 	},
 	{
 		"version": "3.0.2",
@@ -2843,14 +2873,14 @@
 				"element": "Hydro"
 			},
 			{
-				"itemId": 10000025,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
+				"itemId": 10000068,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Dori.webp",
 				"itemType": "Character",
-				"name": "行秋",
-				"nameEn": "Xingqiu",
-				"weaponType": "Sword",
+				"name": "多莉",
+				"nameEn": "Dori",
+				"weaponType": "Claymore",
 				"rankType": 4,
-				"element": "Hydro"
+				"element": "Electro"
 			},
 			{
 				"itemId": 10000043,
@@ -2863,18 +2893,18 @@
 				"element": "Anemo"
 			},
 			{
-				"itemId": 10000068,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Dori.webp",
+				"itemId": 10000025,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
 				"itemType": "Character",
-				"name": "多莉",
-				"nameEn": "Dori",
-				"weaponType": "Claymore",
+				"name": "行秋",
+				"nameEn": "Xingqiu",
+				"weaponType": "Sword",
 				"rankType": 4,
-				"element": "Electro"
+				"element": "Hydro"
 			}
 		],
 		"start": "2022-09-09 18:00:00",
-		"end": "2022-09-27 14:59:59"
+		"end": "2022-09-27 14:59:00"
 	},
 	{
 		"version": "3.0.1",
@@ -2930,8 +2960,8 @@
 				"element": "Electro"
 			}
 		],
-		"start": "2022-08-24 06:00:00",
-		"end": "2022-09-09 17:59:59"
+		"start": "2022-08-24 11:00:00",
+		"end": "2022-09-09 17:59:00"
 	},
 	{
 		"version": "2.8.2",
@@ -2947,14 +2977,14 @@
 				"element": "Pyro"
 			},
 			{
-				"itemId": 10000064,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
+				"itemId": 10000032,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
-				"name": "云堇",
-				"nameEn": "Yun Jin",
-				"weaponType": "Polearm",
+				"name": "班尼特",
+				"nameEn": "Bennett",
+				"weaponType": "Sword",
 				"rankType": 4,
-				"element": "Geo"
+				"element": "Pyro"
 			},
 			{
 				"itemId": 10000044,
@@ -2967,18 +2997,18 @@
 				"element": "Pyro"
 			},
 			{
-				"itemId": 10000032,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
+				"itemId": 10000064,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yunjin.webp",
 				"itemType": "Character",
-				"name": "班尼特",
-				"nameEn": "Bennett",
-				"weaponType": "Sword",
+				"name": "云堇",
+				"nameEn": "Yun Jin",
+				"weaponType": "Polearm",
 				"rankType": 4,
-				"element": "Pyro"
+				"element": "Geo"
 			}
 		],
 		"start": "2022-08-02 18:00:00",
-		"end": "2022-08-23 14:59:59"
+		"end": "2022-08-23 14:59:00"
 	},
 	{
 		"version": "2.8.1",
@@ -3004,16 +3034,6 @@
 				"element": "Pyro"
 			},
 			{
-				"itemId": 10000027,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
-				"itemType": "Character",
-				"name": "凝光",
-				"nameEn": "Ningguang",
-				"weaponType": "Catalyst",
-				"rankType": 4,
-				"element": "Geo"
-			},
-			{
 				"itemId": 10000059,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Heizo.webp",
 				"itemType": "Character",
@@ -3022,6 +3042,16 @@
 				"weaponType": "Catalyst",
 				"rankType": 4,
 				"element": "Anemo"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "Ningguang",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000050,
@@ -3034,8 +3064,8 @@
 				"element": "Pyro"
 			}
 		],
-		"start": "2022-07-13 06:00:00",
-		"end": "2022-08-02 17:59:59"
+		"start": "2022-07-13 10:00:00",
+		"end": "2022-08-02 17:59:00"
 	},
 	{
 		"version": "2.7.2",
@@ -3049,6 +3079,16 @@
 				"weaponType": "Claymore",
 				"rankType": 5,
 				"element": "Geo"
+			},
+			{
+				"itemId": 10000065,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
+				"itemType": "Character",
+				"name": "久岐忍",
+				"nameEn": "Kuki Shinobu",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Electro"
 			},
 			{
 				"itemId": 10000036,
@@ -3069,16 +3109,6 @@
 				"weaponType": "Bow",
 				"rankType": 4,
 				"element": "Geo"
-			},
-			{
-				"itemId": 10000065,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Shinobu.webp",
-				"itemType": "Character",
-				"name": "久岐忍",
-				"nameEn": "Kuki Shinobu",
-				"weaponType": "Sword",
-				"rankType": 4,
-				"element": "Electro"
 			}
 		],
 		"start": "2022-06-21 18:00:00",
@@ -3108,16 +3138,6 @@
 				"element": "Anemo"
 			},
 			{
-				"itemId": 10000048,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
-				"itemType": "Character",
-				"name": "烟绯",
-				"nameEn": "Yanfei",
-				"weaponType": "Catalyst",
-				"rankType": 4,
-				"element": "Pyro"
-			},
-			{
 				"itemId": 10000014,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Barbara.webp",
 				"itemType": "Character",
@@ -3126,6 +3146,16 @@
 				"weaponType": "Catalyst",
 				"rankType": 4,
 				"element": "Hydro"
+			},
+			{
+				"itemId": 10000048,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Feiyan.webp",
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "Yanfei",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Pyro"
 			},
 			{
 				"itemId": 10000034,
@@ -3138,8 +3168,8 @@
 				"element": "Geo"
 			}
 		],
-		"start": "2022-05-31 06:00:00",
-		"end": "2022-06-21 17:59:59"
+		"start": "2022-06-01 10:00:00",
+		"end": "2022-06-21 17:59:00"
 	},
 	{
 		"version": "2.6.2",
@@ -3153,6 +3183,16 @@
 				"weaponType": "Sword",
 				"rankType": 5,
 				"element": "Cryo"
+			},
+			{
+				"itemId": 10000020,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "Razor",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Electro"
 			},
 			{
 				"itemId": 10000045,
@@ -3173,20 +3213,10 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Anemo"
-			},
-			{
-				"itemId": 10000020,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Razor.webp",
-				"itemType": "Character",
-				"name": "雷泽",
-				"nameEn": "Razor",
-				"weaponType": "Claymore",
-				"rankType": 4,
-				"element": "Electro"
 			}
 		],
-		"start": "2022-04-19 17:59:59",
-		"end": "2022-05-31 05:59:59"
+		"start": "2022-04-19 18:00:00",
+		"end": "2022-05-31 05:59:00"
 	},
 	{
 		"version": "2.6.1",
@@ -3212,16 +3242,6 @@
 				"element": "Anemo"
 			},
 			{
-				"itemId": 10000023,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
-				"itemType": "Character",
-				"name": "香菱",
-				"nameEn": "Xiangling",
-				"weaponType": "Polearm",
-				"rankType": 4,
-				"element": "Pyro"
-			},
-			{
 				"itemId": 10000043,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
 				"itemType": "Character",
@@ -3230,6 +3250,16 @@
 				"weaponType": "Catalyst",
 				"rankType": 4,
 				"element": "Anemo"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "Xiangling",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
 			},
 			{
 				"itemId": 10000064,
@@ -3242,8 +3272,8 @@
 				"element": "Geo"
 			}
 		],
-		"start": "2022-03-30 06:00:00",
-		"end": "2022-04-19 17:59:59"
+		"start": "2022-03-30 10:00:00",
+		"end": "2022-04-19 18:00:00"
 	},
 	{
 		"version": "2.5.2",
@@ -3269,6 +3299,16 @@
 				"element": "Hydro"
 			},
 			{
+				"itemId": 10000032,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "Bennett",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
 				"itemId": 10000044,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Xinyan.webp",
 				"itemType": "Character",
@@ -3287,20 +3327,10 @@
 				"weaponType": "Bow",
 				"rankType": 4,
 				"element": "Electro"
-			},
-			{
-				"itemId": 10000032,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
-				"itemType": "Character",
-				"name": "班尼特",
-				"nameEn": "Bennett",
-				"weaponType": "Sword",
-				"rankType": 4,
-				"element": "Pyro"
 			}
 		],
 		"start": "2022-03-08 18:00:00",
-		"end": "2022-03-29 14:59:59"
+		"end": "2022-03-29 14:59:00"
 	},
 	{
 		"version": "2.5.1",
@@ -3314,6 +3344,16 @@
 				"weaponType": "Catalyst",
 				"rankType": 5,
 				"element": "Electro"
+			},
+			{
+				"itemId": 10000050,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "Thoma",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
 			},
 			{
 				"itemId": 10000031,
@@ -3334,34 +3374,14 @@
 				"weaponType": "Bow",
 				"rankType": 4,
 				"element": "Cryo"
-			},
-			{
-				"itemId": 10000050,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Tohma.webp",
-				"itemType": "Character",
-				"name": "托马",
-				"nameEn": "Thoma",
-				"weaponType": "Polearm",
-				"rankType": 4,
-				"element": "Pyro"
 			}
 		],
-		"start": "2022-02-16 06:00:00",
+		"start": "2022-02-16 10:00:00",
 		"end": "2022-03-08 17:59:59"
 	},
 	{
 		"version": "2.4.2",
 		"items": [
-			{
-				"itemId": 10000037,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Ganyu.webp",
-				"itemType": "Character",
-				"name": "甘雨",
-				"nameEn": "Ganyu",
-				"weaponType": "Bow",
-				"rankType": 5,
-				"element": "Cryo"
-			},
 			{
 				"itemId": 10000030,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Zhongli.webp",
@@ -3371,6 +3391,16 @@
 				"weaponType": "Polearm",
 				"rankType": 5,
 				"element": "Geo"
+			},
+			{
+				"itemId": 10000037,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ganyu.webp",
+				"itemType": "Character",
+				"name": "甘雨",
+				"nameEn": "Ganyu",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Cryo"
 			},
 			{
 				"itemId": 10000025,
@@ -3404,7 +3434,7 @@
 			}
 		],
 		"start": "2022-01-25 18:00:00",
-		"end": "2022-02-15 14:59:59"
+		"end": "2022-02-15 14:59:00"
 	},
 	{
 		"version": "2.4.1",
@@ -3460,8 +3490,8 @@
 				"element": "Cryo"
 			}
 		],
-		"start": "2022-01-05 06:00:00",
-		"end": "2022-01-25 17:59:59"
+		"start": "2022-01-05 10:00:00",
+		"end": "2022-01-25 17:59:00"
 	},
 	{
 		"version": "2.3.2",
@@ -3564,8 +3594,8 @@
 				"element": "Cryo"
 			}
 		],
-		"start": "2021-11-24 06:00:00",
-		"end": "2021-12-14 17:59:59"
+		"start": "2021-11-24 10:00:00",
+		"end": "2021-12-14 18:00:00"
 	},
 	{
 		"version": "2.2.2",
@@ -3658,7 +3688,7 @@
 				"element": "Pyro"
 			}
 		],
-		"start": "2021-10-13 06:00:00",
+		"start": "2021-10-13 10:00:00",
 		"end": "2021-11-02 17:59:59"
 	},
 	{
@@ -3752,7 +3782,7 @@
 				"element": "Anemo"
 			}
 		],
-		"start": "2021-09-01 06:00:00",
+		"start": "2021-09-01 10:00:00",
 		"end": "2021-09-21 17:59:59"
 	},
 	{
@@ -3846,7 +3876,7 @@
 				"element": "Pyro"
 			}
 		],
-		"start": "2021-07-21 06:00:00",
+		"start": "2021-07-21 10:00:00",
 		"end": "2021-08-10 17:59:59"
 	},
 	{
@@ -3940,7 +3970,7 @@
 				"element": "Electro"
 			}
 		],
-		"start": "2021-06-09 06:00:00",
+		"start": "2021-06-09 10:00:00",
 		"end": "2021-06-29 17:59:59"
 	},
 	{
@@ -4034,7 +4064,7 @@
 				"element": "Cryo"
 			}
 		],
-		"start": "2021-04-28 06:00:00",
+		"start": "2021-04-28 10:00:00",
 		"end": "2021-05-18 17:59:59"
 	},
 	{
@@ -4128,11 +4158,11 @@
 				"element": "Geo"
 			}
 		],
-		"start": "2021-03-17 06:00:00",
+		"start": "2021-03-17 10:00:00",
 		"end": "2021-04-06 15:59:59"
 	},
 	{
-		"version": "1.3.3",
+		"version": "1.3.2",
 		"items": [
 			{
 				"itemId": 10000046,
@@ -4179,7 +4209,7 @@
 		"end": "2021-03-16 14:59:59"
 	},
 	{
-		"version": "1.3.2",
+		"version": "1.3.1.5",
 		"items": [
 			{
 				"itemId": 10000042,
@@ -4192,16 +4222,6 @@
 				"element": "Electro"
 			},
 			{
-				"itemId": 10000027,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
-				"itemType": "Character",
-				"name": "凝光",
-				"nameEn": "Ningguang",
-				"weaponType": "Catalyst",
-				"rankType": 4,
-				"element": "Geo"
-			},
-			{
 				"itemId": 10000032,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
 				"itemType": "Character",
@@ -4210,6 +4230,16 @@
 				"weaponType": "Sword",
 				"rankType": 4,
 				"element": "Pyro"
+			},
+			{
+				"itemId": 10000027,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ningguang.webp",
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "Ningguang",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Geo"
 			},
 			{
 				"itemId": 10000014,
@@ -4269,7 +4299,7 @@
 				"element": "Pyro"
 			}
 		],
-		"start": "2021-02-03 06:00:00",
+		"start": "2021-02-03 10:00:00",
 		"end": "2021-02-17 15:59:59"
 	},
 	{
@@ -4363,7 +4393,7 @@
 				"element": "Pyro"
 			}
 		],
-		"start": "2020-12-23 06:00:00",
+		"start": "2020-12-23 10:00:00",
 		"end": "2021-01-12 15:59:59"
 	},
 	{
@@ -4457,7 +4487,7 @@
 				"element": "Geo"
 			}
 		],
-		"start": "2020-11-11 06:00:00",
+		"start": "2020-11-11 10:00:00",
 		"end": "2020-12-01 15:59:59"
 	},
 	{
@@ -4551,7 +4581,7 @@
 				"element": "Pyro"
 			}
 		],
-		"start": "2020-09-28 06:00:00",
+		"start": "2020-09-28 12:00:00",
 		"end": "2020-10-18 17:59:59"
 	}
 ]

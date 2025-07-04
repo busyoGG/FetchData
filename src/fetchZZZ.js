@@ -3,12 +3,12 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const yaml = require('js-yaml');
 
-const url = 'https://wiki.biligame.com/sr/%E5%8E%86%E5%8F%B2%E8%B7%83%E8%BF%81';
+const url = 'https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91';
 
 function addOneDayKeepTime(datetimeStr) {
-    console.log('input datetimeStr:', JSON.stringify(datetimeStr));
+    // console.log('input datetimeStr:', JSON.stringify(datetimeStr));
     // 如果无效或包含特定字符串，直接返回固定时间
-    if (!datetimeStr || datetimeStr.includes('2023/04/26')) {
+    if (!datetimeStr || datetimeStr.includes('2024/07/04')) {
         return '2023-04-26 10:00:00';
     }
 
@@ -47,7 +47,7 @@ function formatTime(datetimeStr) {
     if (!datePart) return '';
     const [year, month, day] = datePart.split('/').map(n => String(n).padStart(2, '0'));
     const time = timePart ? (timePart.length === 5 ? timePart + ':00' : timePart) : '00:00:00';
-    console.log('formatTime:', year, month, day, time);
+    // console.log('formatTime:', year, month, day, time);
     return `${year}-${month}-${day} ${time}`;
 }
 
@@ -56,46 +56,50 @@ function formatTime(datetimeStr) {
     const $ = cheerio.load(res.data);
     const rawResult = [];
 
-    $('.sr-gacha-box').each((i, el) => {
-        const rows = $(el).find('tr');
+    $('table.wikitable').each((_, container) => {
+        $(container).find('table.wikitable').each((i, el) => {
+            const rows = $(el).find('tr');
 
-        const timeText = $(rows[1]).find('td').text().trim();
-        const versionRaw = $(rows[2]).find('td').text().trim();
-        const version = normalizeVersion(versionRaw);
-        const up5Html = $(rows[3]).find('td');
-        const up4Html = $(rows[4]).find('td');
+            const timeText = $(rows[1]).find('td').text().trim();
+            const versionRaw = $(rows[2]).find('td').text().trim();
+            const version = normalizeVersion(versionRaw);
+            const up5Html = $(rows[3]).find('td');
+            const up4Html = $(rows[4]).find('td');
 
-        let start = '';
-        let end = '';
+            let start = '';
+            let end = '';
+            if (timeText.includes('~')) {
+                [start, end] = timeText.split('~').map(t => t.trim());
+            } else {
+                start = timeText.trim(); // e.g. "版本更新后"
+            }
 
-        if (timeText.includes('~')) {
-            [start, end] = timeText.split('~').map(t => t.trim());
-        } else {
-            start = timeText.trim();
-        }
+            const parseTitles = (el) => {
+                const seen = new Map();
+                $(el).find('a[title]').each((_, a) => {
+                    const title = $(a).attr('title')?.trim();
+                    if (title && !title.startsWith('[') && !seen.has(title)) {
+                        seen.set(title, true);
+                    }
+                });
+                return Array.from(seen.keys());
+            };
 
-        const parseTitles = (el) => {
-            const seen = new Map();
-            $(el).find('a[title]').each((i, a) => {
-                const title = $(a).attr('title')?.trim();
-                if (title && !title.startsWith('[') && !seen.has(title)) {
-                    seen.set(title, true);
-                }
+            const up5 = parseTitles(up5Html);
+            const up4 = parseTitles(up4Html);
+
+            const typeText = $(rows[3]).find('th').text();
+            const isCharacter = typeText.includes('代理人');
+            const type = isCharacter ? 'character' : 'weapon';
+
+            rawResult.push({
+                type,
+                start,
+                end,
+                version,
+                up_5: up5,
+                up_4: up4
             });
-            return Array.from(seen.keys());
-        };
-
-        const up5 = parseTitles(up5Html);
-        const up4 = parseTitles(up4Html);
-
-        rawResult.push({
-            index: i,
-            type: (i % 2 === 0) ? 'character' : 'lightcone',
-            start,
-            end,
-            version,
-            up_5: up5,
-            up_4: up4
         });
     });
 
@@ -129,31 +133,24 @@ function formatTime(datetimeStr) {
     };
 
     const characterWarps = mergeByTime(rawResult.filter(r => r.type === 'character'));
-    const lightconeWarps = mergeByTime(rawResult.filter(r => r.type === 'lightcone'));
+    const lightconeWarps = mergeByTime(rawResult.filter(r => r.type === 'weapon'));
 
     // 修复模糊 start 日期
-    for (let i = 0; i < characterWarps.length; i++) {
-        const cur = characterWarps[i];
-        if (cur.start.includes('版本更新') || cur.start.includes('上线') || cur.start.includes('后')) {
-            const prev = characterWarps[i + 1];
-            if (prev && prev.end) {
-                cur.start = addOneDayKeepTime(prev.end);
-            } else {
-                cur.start = '2023/04/26 10:00:00';
+    let fixTime = (list) => {
+        for (let i = 0; i < list.length; i++) {
+            const cur = list[i];
+            if (cur.start.includes('版本更新') || cur.start.includes('上线') || cur.start.includes('后')) {
+                const prev = list[i + 1];
+                if (prev && prev.end) {
+                    cur.start = addOneDayKeepTime(prev.end);
+                } else {
+                    cur.start = '2024/07/04 10:00:00';
+                }
             }
         }
     }
-    for (let i = 0; i < lightconeWarps.length; i++) {
-        const cur = lightconeWarps[i];
-        if (cur.start.includes('版本更新') || cur.start.includes('上线') || cur.start.includes('后')) {
-            const prev = lightconeWarps[i + 1];
-            if (prev && prev.end) {
-                cur.start = addOneDayKeepTime(prev.end);
-            } else {
-                cur.start = '2023/04/26 10:00:00';
-            }
-        }
-    }
+    fixTime(characterWarps);
+    fixTime(lightconeWarps);
 
     // 统一时间格式为 YYYY-MM-DD HH:mm:ss
     const unifyFormat = (list) => list.map(item => ({
@@ -164,12 +161,13 @@ function formatTime(datetimeStr) {
         four: item.up_4
     }));
 
-    const yamlCharacters = unifyFormat(characterWarps);
-    const yamlLightcones = unifyFormat(lightconeWarps);
+    const outChar = unifyFormat(characterWarps);
+    const outWeapon = unifyFormat(lightconeWarps);
 
-    // 写文件
-    fs.writeFileSync('./data/manual/11.yaml', yaml.dump(yamlCharacters, { lineWidth: 120 }), 'utf-8');
-    fs.writeFileSync('./data/manual/12.yaml', yaml.dump(yamlLightcones, { lineWidth: 120 }), 'utf-8');
+    // 写入 YAML 文件
+    fs.writeFileSync('./data/manual/2001.yaml', yaml.dump(outChar, { lineWidth: 120 }), 'utf-8');
+    fs.writeFileSync('./data/manual/3001.yaml', yaml.dump(outWeapon, { lineWidth: 120 }), 'utf-8');
 
+    console.log(`✅ 成功抓取角色池 ${outChar.length} 条，武器池 ${outWeapon.length} 条`);
     console.log(`✅ 已生成 YAML 文件：./data/manual/11.yaml 和 ./data/manual/12.yaml`);
 })();
