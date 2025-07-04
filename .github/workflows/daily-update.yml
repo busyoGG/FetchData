@@ -1,18 +1,28 @@
 name: Daily Update
 
+# 定时触发，cron 时间为 UTC，10:30 北京时间对应 UTC 2:30（夏令时无）
 on:
   schedule:
-    - cron: '30 2 * * *'  # 每天 UTC 02:30，即北京时间 10:30
-  workflow_dispatch:      # 可手动触发
+    - cron: '30 2 * * *'  
+  workflow_dispatch: # 支持手动触发
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Make script executable
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'  # 你可以换成你项目需要的版本
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Make update script executable
         run: chmod +x ./src/update.sh
 
       - name: Run update script
