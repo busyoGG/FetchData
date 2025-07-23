@@ -1,5 +1,59 @@
 [
 	{
+		"version": "5.8.2",
+		"items": [
+			{
+				"itemId": 10000102,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Mualani.webp",
+				"itemType": "Character",
+				"name": "玛拉妮",
+				"nameEn": "Mualani",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000104,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chasca.webp",
+				"itemType": "Character",
+				"name": "恰斯卡",
+				"nameEn": "Chasca",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			}
+		],
+		"start": "2025-08-19 18:00:00",
+		"end": "2025-09-09 14:59:00"
+	},
+	{
+		"version": "5.8.1",
+		"items": [
+			{
+				"itemId": 10000116,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ineffa.webp",
+				"itemType": "Character",
+				"name": "伊涅芙",
+				"nameEn": "Ineffa",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000107,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Citlali.webp",
+				"itemType": "Character",
+				"name": "茜特菈莉",
+				"nameEn": "Citlali",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Cryo"
+			}
+		],
+		"start": "2025-07-30 10:00:00",
+		"end": "2025-08-19 17:59:00"
+	},
+	{
 		"version": "5.7.2",
 		"items": [
 			{
