@@ -897,7 +897,7 @@
 		"en": "The Forever Victual",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22005.webp",
 		"id": "22005",
-		"jp": "永遠の迷境ごはん",
+		"jp": "{RUBY_B#えいえん}永遠{RUBY_E#}の{RUBY_B#めいきょう}迷境{RUBY_E#}ごはん",
 		"kr": "영원한 미궁의 식사",
 		"rank": "CombatPowerLightconeRarity4"
 	},

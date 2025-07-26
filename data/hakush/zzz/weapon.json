@@ -1,17 +1,4 @@
 {
-	"(Test1)鬼火奥菲丝测试音擎": {
-		"CHS": "(Test1)鬼火奥菲丝测试音擎",
-		"cn": "(Test1)鬼火奥菲丝测试音擎",
-		"desc": "Item_Weapon_S_1301_ShortDesc",
-		"EN": "Item_Weapon_S_1301_Name",
-		"icon": "Weapon_S_1301",
-		"iconUrl": "/zzz/UI/Weapon_S_1301.webp",
-		"id": "14130",
-		"JA": "Item_Weapon_S_1301_Name",
-		"KO": "Item_Weapon_S_1301_Name",
-		"rank": 4,
-		"type": 1
-	},
 	"「恒等式」-变格": {
 		"CHS": "「恒等式」-变格",
 		"cn": "「恒等式」-变格",
@@ -337,6 +324,19 @@
 		"rank": 4,
 		"type": 4
 	},
+	"嚣枪喧焰": {
+		"CHS": "嚣枪喧焰",
+		"cn": "嚣枪喧焰",
+		"desc": "Item_Weapon_S_1301_ShortDesc",
+		"EN": "Item_Weapon_S_1301_Name",
+		"icon": "Weapon_S_1301",
+		"iconUrl": "/zzz/UI/Weapon_S_1301.webp",
+		"id": "14130",
+		"JA": "憤怒の銃騒",
+		"KO": "Item_Weapon_S_1301_Name",
+		"rank": 4,
+		"type": 1
+	},
 	"奔袭獠牙": {
 		"CHS": "奔袭獠牙",
 		"cn": "奔袭獠牙",
@@ -531,6 +531,19 @@
 		"KO": "봄날의 포옹",
 		"rank": 3,
 		"type": 5
+	},
+	"机巧心种": {
+		"CHS": "机巧心种",
+		"cn": "机巧心种",
+		"desc": "Item_Weapon_S_1461_ShortDesc",
+		"EN": "Item_Weapon_S_1461_Name",
+		"icon": "Weapon_S_1461",
+		"iconUrl": "/zzz/UI/Weapon_S_1461.webp",
+		"id": "14146",
+		"JA": "駆動する種",
+		"KO": "Item_Weapon_S_1461_Name",
+		"rank": 4,
+		"type": 1
 	},
 	"正版变身器": {
 		"CHS": "正版变身器",
