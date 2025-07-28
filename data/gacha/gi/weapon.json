@@ -44,6 +44,51 @@
 				"nameEn": "Starcaller's Watch",
 				"weaponType": "Catalyst",
 				"rankType": 5
+			},
+			{
+				"itemId": 11430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "弥坚骨",
+				"nameEn": "Sturdy Bone",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "镇山之钉",
+				"nameEn": "Mountain-Bracing Bolt",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "Favonius Warbow",
+				"weaponType": "Bow",
+				"rankType": 4
 			}
 		],
 		"start": "2025-07-30 10:00:00",

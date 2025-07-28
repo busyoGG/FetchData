@@ -48,6 +48,36 @@
 				"weaponType": "Catalyst",
 				"rankType": 5,
 				"element": "Cryo"
+			},
+			{
+				"itemId": 10000031,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Fischl.webp",
+				"itemType": "Character",
+				"name": "菲谢尔",
+				"nameEn": "Fischl",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "Xingqiu",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000097,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sethos.webp",
+				"itemType": "Character",
+				"name": "赛索斯",
+				"nameEn": "Sethos",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Electro"
 			}
 		],
 		"start": "2025-07-30 10:00:00",
