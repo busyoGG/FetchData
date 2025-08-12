@@ -327,12 +327,12 @@
 	"嚣枪喧焰": {
 		"CHS": "嚣枪喧焰",
 		"cn": "嚣枪喧焰",
-		"desc": "Item_Weapon_S_1301_ShortDesc",
-		"EN": "Item_Weapon_S_1301_Name",
+		"desc": "...",
+		"EN": "Bellicose Blaze",
 		"icon": "Weapon_S_1301",
 		"iconUrl": "/zzz/UI/Weapon_S_1301.webp",
 		"id": "14130",
-		"JA": "Item_Weapon_S_1301_Name",
+		"JA": "憤怒の銃騒",
 		"KO": "소란한 총성과 화염",
 		"rank": 4,
 		"type": 1
@@ -535,12 +535,12 @@
 	"机巧心种": {
 		"CHS": "机巧心种",
 		"cn": "机巧心种",
-		"desc": "Item_Weapon_S_1461_ShortDesc",
-		"EN": "Item_Weapon_S_1461_Name",
+		"desc": "...",
+		"EN": "Cordis Germina",
 		"icon": "Weapon_S_1461",
 		"iconUrl": "/zzz/UI/Weapon_S_1461.webp",
 		"id": "14146",
-		"JA": "Item_Weapon_S_1461_Name",
+		"JA": "駆動する種",
 		"KO": "기계 심장에 내린 씨앗",
 		"rank": 4,
 		"type": 1
