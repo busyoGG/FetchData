@@ -89,6 +89,20 @@
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1682460000
 	},
+	"丹恒•腾荒": {
+		"baseType": "Knight",
+		"cn": "丹恒•腾荒",
+		"damageType": "Physical",
+		"desc": "The chest of Georios, the body of the Fallen Dragon supporting the shattered earth, enduring millennia of pain.\\nNameless Dan Heng, Chrysos Heir who guards the Earth's Coreflame, you must steady the world as it falls, and guide all life across the land to a new home beyond.\\n—Rivers flow to the sea, mountains echo in harmony, the eternal path stretches ten thousand miles.",
+		"en": "Dan Heng • Permansor Terrae",
+		"enhance": [],
+		"icon": "danhengpt",
+		"iconUrl": "/hsr/UI/avatarshopicon/1414.webp",
+		"id": "1414",
+		"jp": "丹恒・騰荒",
+		"kr": "단항•등황",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"丹恒•饮月": {
 		"baseType": "Warrior",
 		"cn": "丹恒•饮月",
@@ -919,6 +933,20 @@
 		"kr": "경류",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1697014800
+	},
+	"长夜月": {
+		"baseType": "Memory",
+		"cn": "长夜月",
+		"damageType": "Ice",
+		"desc": "In the Memory Zone secluded from the world, candlelight reflects the past, silently extinguishing in the mist.\\nEvernight, child of Remembrance born from the shadow, Chrysos Heir who conceals the Coreflame of Time, you shall stir the tide of Oblivion, guarding the wish of the mirrored soul.\\n——<i>\"Don't worry, I will guard the path of Trailblaze for you... at any cost ♭\"</i>",
+		"en": "Evernight",
+		"enhance": [],
+		"icon": "evernight",
+		"iconUrl": "/hsr/UI/avatarshopicon/1413.webp",
+		"id": "1413",
+		"jp": "長夜月",
+		"kr": "에버나이트",
+		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"阮•梅": {
 		"baseType": "Shaman",
