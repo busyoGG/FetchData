@@ -54,12 +54,12 @@
 	"万能钥匙": {
 		"CHS": "万能钥匙",
 		"cn": "万能钥匙",
-		"desc": "",
+		"desc": "A heavy greatsword with a razor-sharp blade. Power is a key that can open almost any lock.",
 		"EN": "Master Key",
 		"icon": "UI_EquipIcon_Claymore_Ilmarinen",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_Ilmarinen.webp",
 		"id": "12433",
-		"JP": "マスターキーJP0B",
+		"JP": "万能の鍵",
 		"KR": "만능 열쇠",
 		"rank": 4,
 		"type": "WEAPON_CLAYMORE"
@@ -106,13 +106,13 @@
 	"乌髓孑灯": {
 		"CHS": "乌髓孑灯",
 		"cn": "乌髓孑灯",
-		"desc": "",
+		"desc": "A lantern that emits a faint, ghostly glow, contained by a midnight-black alloy that resembles interlocking bones. It is said to have once been revered as a precious treasure by a certain secret organization.",
 		"EN": "Blackmarrow Lantern",
 		"icon": "UI_EquipIcon_Catalyst_Ilmarinen",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ilmarinen.webp",
 		"id": "14433",
-		"JP": "烏髄の孤灯JP0B",
-		"KR": "고독한 어둠의 등불",
+		"JP": "烏髄の孤灯",
+		"KR": "검은 골수의 등불",
 		"rank": 4,
 		"type": "WEAPON_CATALYST"
 	},
@@ -557,7 +557,7 @@
 		"icon": "UI_EquipIcon_Catalyst_SeeliesLute",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_SeeliesLute.webp",
 		"id": "14432",
-		"JP": "天光を紡ぐ琴JP0B",
+		"JP": "天光のリュート",
 		"KR": "금빛 류트",
 		"rank": 4,
 		"type": "WEAPON_CATALYST"
@@ -929,12 +929,12 @@
 	"掘金之锹": {
 		"CHS": "掘金之锹",
 		"cn": "掘金之锹",
-		"desc": "",
+		"desc": "A polearm that appears to have been crafted from an agricultural tool. At first glance, it could not look more ordinary, yet its discreet design hides fittings that are both lavish and undeniably exquisite.",
 		"EN": "Prospector's Shovel",
 		"icon": "UI_EquipIcon_Pole_Ilmarinen",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Ilmarinen.webp",
 		"id": "13433",
-		"JP": "金掘りのスコップJP0B",
+		"JP": "金掘りのシャベル",
 		"KR": "채굴의 삽",
 		"rank": 4,
 		"type": "WEAPON_POLE"
@@ -1848,7 +1848,7 @@
 		"icon": "UI_EquipIcon_Catalyst_MenulisRing",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_MenulisRing.webp",
 		"id": "14520",
-		"JP": "夜天を紡ぐ鏡JP0B",
+		"JP": "夜を紡ぐ天鏡",
 		"KR": "밤을 엮는 거울",
 		"rank": 5,
 		"type": "WEAPON_CATALYST"
@@ -1861,8 +1861,8 @@
 		"icon": "UI_EquipIcon_Sword_Miekka",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Miekka.webp",
 		"id": "11434",
-		"JP": "月紡ぎの暁光JP0B",
-		"KR": "달빛을 엮는 자의 새벽빛",
+		"JP": "月紡ぎの暁光",
+		"KR": "달을 엮는 자의 여명",
 		"rank": 4,
 		"type": "WEAPON_SWORD_ONE_HAND"
 	},
@@ -1908,13 +1908,13 @@
 	"罗网勾针": {
 		"CHS": "罗网勾针",
 		"cn": "罗网勾针",
-		"desc": "",
+		"desc": "The stave of this bow is comprised of metal alloy and yet remains surprisingly light. Even when faced with thick, heavy snares, the arrows it fires can pass through unhindered.",
 		"EN": "Snare Hook",
 		"icon": "UI_EquipIcon_Bow_Ilmarinen",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Ilmarinen.webp",
 		"id": "15433",
-		"JP": "羅網の針JP0B",
-		"KR": "그물을 짜는 바늘",
+		"JP": "羅網の針",
+		"KR": "그물을 뚫는 화살",
 		"rank": 4,
 		"type": "WEAPON_BOW"
 	},
@@ -2138,7 +2138,7 @@
 		"icon": "UI_EquipIcon_Pole_TummaLyhty",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_TummaLyhty.webp",
 		"id": "13516",
-		"JP": "血染めの荒れ地JP0B",
+		"JP": "血染めの荒れ地",
 		"KR": "피로 물든 성",
 		"rank": 5,
 		"type": "WEAPON_POLE"
@@ -2367,13 +2367,13 @@
 	"谧音吹哨": {
 		"CHS": "谧音吹哨",
 		"cn": "谧音吹哨",
-		"desc": "",
+		"desc": "A longsword forged from metal that makes a mournful sound when swung.",
 		"EN": "Serenity's Call",
 		"icon": "UI_EquipIcon_Sword_Ilmarinen",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Ilmarinen.webp",
 		"id": "11433",
-		"JP": "静謐の笛JP0B",
-		"KR": "고요한 휘파람 소리",
+		"JP": "静謐の笛",
+		"KR": "고요한 휘파람",
 		"rank": 4,
 		"type": "WEAPON_SWORD_ONE_HAND"
 	},
