@@ -929,7 +929,7 @@
 	"掘金之锹": {
 		"CHS": "掘金之锹",
 		"cn": "掘金之锹",
-		"desc": "A polearm that appears to have been crafted from an agricultural tool. At first glance, it could not look more ordinary, yet its discreet design hides fittings that are both lavish and undeniably exquisite.",
+		"desc": "A polearm that appears to have been crafted from a metal agricultural tool. At first glance, it could not look more ordinary, yet its discreet design hides fittings that are both lavish and undeniably exquisite.",
 		"EN": "Prospector's Shovel",
 		"icon": "UI_EquipIcon_Pole_Ilmarinen",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Ilmarinen.webp",
@@ -1861,7 +1861,7 @@
 		"icon": "UI_EquipIcon_Sword_Miekka",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Miekka.webp",
 		"id": "11434",
-		"JP": "月紡ぎの暁光",
+		"JP": "月紡ぎの曙光",
 		"KR": "달을 엮는 자의 여명",
 		"rank": 4,
 		"type": "WEAPON_SWORD_ONE_HAND"
