@@ -220,6 +220,19 @@
 		"rank": 3,
 		"type": 1
 	},
+	"伊德海莉测试音擎": {
+		"CHS": "伊德海莉测试音擎",
+		"cn": "伊德海莉测试音擎",
+		"desc": "Item_Weapon_S_1051_ShortDesc",
+		"EN": "Yidhari W-Engine Test",
+		"icon": "Weapon_S_1051",
+		"iconUrl": "/zzz/UI/Weapon_S_1051.webp",
+		"id": "14105",
+		"JA": "イドリーは音動機をテストする",
+		"KO": "Item_Weapon_S_1051_Name",
+		"rank": 4,
+		"type": 6
+	},
 	"光影刻刀": {
 		"CHS": "光影刻刀",
 		"cn": "光影刻刀",
@@ -857,6 +870,19 @@
 		"rank": 3,
 		"type": 4
 	},
+	"野良野测试音擎": {
+		"CHS": "野良野测试音擎",
+		"cn": "野良野测试音擎",
+		"desc": "Item_Weapon_A_1441_ShortDesc",
+		"EN": "Wild Field W-Engine Test",
+		"icon": "Weapon_A_1441",
+		"iconUrl": "/zzz/UI/Weapon_A_1441.webp",
+		"id": "13144",
+		"JA": "野良野テスト音動機",
+		"KO": "Item_Weapon_A_1441_Name",
+		"rank": 3,
+		"type": 6
+	},
 	"鎏金花信": {
 		"CHS": "鎏金花信",
 		"cn": "鎏金花信",
@@ -882,6 +908,19 @@
 		"KO": "스틸 쿠션",
 		"rank": 4,
 		"type": 1
+	},
+	"铸梦炉歌": {
+		"CHS": "铸梦炉歌",
+		"cn": "铸梦炉歌",
+		"desc": "Item_Weapon_S_1451_ShortDesc",
+		"EN": "Dreamlit Hearth",
+		"icon": "Weapon_S_1451",
+		"iconUrl": "/zzz/UI/Weapon_S_1451.webp",
+		"id": "14145",
+		"JA": "炉で歌い上げられる夢",
+		"KO": "Item_Weapon_S_1451_Name",
+		"rank": 4,
+		"type": 4
 	},
 	"防暴者Ⅵ型": {
 		"CHS": "防暴者Ⅵ型",
