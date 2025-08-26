@@ -3,6 +3,30 @@
 		"version": "2.1.2",
 		"items": [
 			{
+				"itemId": 1301,
+				"imageUrl": "/zzz/UI/IconRoleSelect49.webp",
+				"itemType": "Character",
+				"name": "奥菲丝&「鬼火」",
+				"nameEn": "Orphie & Magus",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1321,
+				"imageUrl": "/zzz/UI/IconRoleSelect37.webp",
+				"itemType": "Character",
+				"name": "伊芙琳",
+				"nameEn": "Evelyn",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
 				"itemId": 1401,
 				"imageUrl": "/zzz/UI/IconRoleSelect46.webp",
 				"itemType": "Character",
@@ -23,6 +47,30 @@
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
 				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1151,
+				"imageUrl": "/zzz/UI/IconRoleSelect27.webp",
+				"itemType": "Character",
+				"name": "露西",
+				"nameEn": "Lucy",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Fire",
+				"elementCN": "火属性"
+			},
+			{
+				"itemId": 1111,
+				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
+				"itemType": "Character",
+				"name": "安东",
+				"nameEn": "Anton",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
 			},
@@ -53,6 +101,61 @@
 		],
 		"start": "2025-08-06 12:00:00",
 		"end": "2025-09-03 14:59:59"
+	},
+	{
+		"version": "2.2.1",
+		"items": [
+			{
+				"itemId": 1461,
+				"imageUrl": "/zzz/UI/IconRoleSelect48.webp",
+				"itemType": "Character",
+				"name": "「席德」",
+				"nameEn": "Seed",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1361,
+				"imageUrl": "/zzz/UI/IconRoleSelect39.webp",
+				"itemType": "Character",
+				"name": "「扳机」",
+				"nameEn": "Trigger",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1011,
+				"imageUrl": "/zzz/UI/IconRoleSelect01.webp",
+				"itemType": "Character",
+				"name": "安比",
+				"nameEn": "Anby",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1031,
+				"imageUrl": "/zzz/UI/IconRoleSelect12.webp",
+				"itemType": "Character",
+				"name": "妮可",
+				"nameEn": "Nicole",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Ether",
+				"elementCN": "以太"
+			}
+		],
+		"start": "2025-08-07 10:00:00",
+		"end": "2025-09-24 11:59:59"
 	},
 	{
 		"version": "2.1.1",

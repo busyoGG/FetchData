@@ -3,6 +3,16 @@
 		"version": "2.1.2",
 		"items": [
 			{
+				"itemId": 14132,
+				"imageUrl": "/zzz/UI/Weapon_S_1321.webp",
+				"itemType": "Weapon",
+				"name": "心弦夜响",
+				"nameEn": "Heartstring Nocturne",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
 				"itemId": 14140,
 				"imageUrl": "/zzz/UI/Weapon_S_1401.webp",
 				"itemType": "Weapon",
@@ -21,6 +31,26 @@
 				"weaponType": "Anomaly",
 				"weaponTypeCN": "异常",
 				"rankType": 5
+			},
+			{
+				"itemId": 13115,
+				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
+				"itemType": "Weapon",
+				"name": "好斗的阿炮",
+				"nameEn": "Kaboom the Cannon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13111,
+				"imageUrl": "/zzz/UI/Weapon_A_1111.webp",
+				"itemType": "Weapon",
+				"name": "旋钻机-赤轴",
+				"nameEn": "Drill Rig - Red Axis",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 4
 			},
 			{
 				"itemId": 13113,
@@ -45,6 +75,43 @@
 		],
 		"start": "2025-08-06 12:00:00",
 		"end": "2025-09-03 14:59:59"
+	},
+	{
+		"version": "2.2.1",
+		"items": [
+			{
+				"itemId": 14136,
+				"imageUrl": "/zzz/UI/Weapon_S_1361.webp",
+				"itemType": "Weapon",
+				"name": "索魂影眸",
+				"nameEn": "Spectral Gaze",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13101,
+				"imageUrl": "/zzz/UI/Weapon_A_1011.webp",
+				"itemType": "Weapon",
+				"name": "德玛拉电池Ⅱ型",
+				"nameEn": "Demara Battery Mark II",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4
+			},
+			{
+				"itemId": 13103,
+				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "The Vault",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			}
+		],
+		"start": "2025-08-07 10:00:00",
+		"end": "2025-09-24 11:59:59"
 	},
 	{
 		"version": "2.1.1",

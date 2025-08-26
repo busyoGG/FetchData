@@ -99,7 +99,7 @@
 		"icon": "danhengpt",
 		"iconUrl": "/hsr/UI/avatarshopicon/1414.webp",
 		"id": "1414",
-		"jp": "丹恒・騰荒",
+		"jp": "{RUBY_B#たんこう}丹恒{RUBY_E#}・{RUBY_B#とうこう}騰荒{RUBY_E#}",
 		"kr": "단항•등황",
 		"rank": "CombatPowerAvatarRarityType5"
 	},
@@ -222,7 +222,8 @@
 		"id": "1412",
 		"jp": "ケリュドラ",
 		"kr": "케리드라",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1756803600
 	},
 	"加拉赫": {
 		"baseType": "Priest",
@@ -553,7 +554,8 @@
 		"id": "1410",
 		"jp": "セイレンス",
 		"kr": "히실렌스",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1755075600
 	},
 	"灵砂": {
 		"baseType": "Priest",
@@ -944,7 +946,7 @@
 		"icon": "evernight",
 		"iconUrl": "/hsr/UI/avatarshopicon/1413.webp",
 		"id": "1413",
-		"jp": "長夜月",
+		"jp": "{RUBY_B#ながよづき}長夜月{RUBY_E#}",
 		"kr": "에버나이트",
 		"rank": "CombatPowerAvatarRarityType5"
 	},

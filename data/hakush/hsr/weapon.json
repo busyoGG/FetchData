@@ -1161,8 +1161,8 @@
 		"en": "Though Worlds Apart",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23051.webp",
 		"id": "23051",
-		"jp": "万里の山河を越えて",
-		"kr": "끝없는 산과 강이 가로막아도",
+		"jp": "{RUBY_B#ばんり}万里{RUBY_E#}の{RUBY_B#さんが}山河{RUBY_E#}を{RUBY_B#こ}越{RUBY_E#}えて",
+		"kr": "끝없는 산과 강을 거치더라도",
 		"rank": "CombatPowerLightconeRarity5"
 	},
 	"织造命运之线": {
@@ -1205,8 +1205,8 @@
 		"en": "To Evernight's Stars",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23049.webp",
 		"id": "23049",
-		"jp": "長き夜に輝く星へ",
-		"kr": "긴 밤의 별빛에",
+		"jp": "{RUBY_B#なが}長{RUBY_E#}き{RUBY_B#よる}夜{RUBY_E#}に{RUBY_B#かがや}輝{RUBY_E#}く{RUBY_B#ほし}星{RUBY_E#}へ",
+		"kr": "긴 밤의 별빛에게",
 		"rank": "CombatPowerLightconeRarity5"
 	},
 	"舞！舞！舞！": {
@@ -1245,7 +1245,7 @@
 	"落日时起舞": {
 		"baseType": "Warrior",
 		"cn": "落日时起舞",
-		"desc": "<i>In the resplendent twilight, a swift figure darts across the rooftops.</i>\\n\\n<i>\"Lili, Guoguo, let's see who makes it to the finish line first!\"</i>\\nScaling the eaves, evading the guards, swaying with the wind, the girl moves like a nimble critter, chasing the last sliver of sunlight.\\n\\nThe warm evening breeze caresses her face, and the setting sun bathes the cat in a kaleidoscope of colors.\\n<i>\"You guys won!\"</i>\\nShe declares, wiping sweat from her brow and cradling the cat in her arms.\\nAmidst a rising galaxy of stars, her unguarded smile dissolves into a bloom of innocence, akin to the layered twilight hues adrift in the sky.",
+		"desc": "In the resplendent twilight, a swift figure darts across the rooftops.\\n\\n<i>\"Lili, Guoguo, let's see who makes it to the finish line first!\"</i>\\nScaling the eaves, evading the guards, swaying with the wind, the girl moves like a nimble critter, chasing the last sliver of sunlight.\\n\\nThe warm evening breeze caresses her face, and the setting sun bathes the cat in a kaleidoscope of colors.\\n<i>\"You guys won!\"</i>\\nShe declares, wiping sweat from her brow and cradling the cat in her arms.\\nAmidst a rising galaxy of stars, her unguarded smile dissolves into a bloom of innocence, akin to the layered twilight hues adrift in the sky.",
 		"en": "Dance at Sunset",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23030.webp",
 		"id": "23030",
