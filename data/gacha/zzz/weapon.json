@@ -3,6 +3,16 @@
 		"version": "2.1.2",
 		"items": [
 			{
+				"itemId": 14130,
+				"imageUrl": "/zzz/UI/Weapon_S_1301.webp",
+				"itemType": "Weapon",
+				"name": "嚣枪喧焰",
+				"nameEn": "Bellicose Blaze",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
 				"itemId": 14132,
 				"imageUrl": "/zzz/UI/Weapon_S_1321.webp",
 				"itemType": "Weapon",
@@ -79,6 +89,16 @@
 	{
 		"version": "2.2.1",
 		"items": [
+			{
+				"itemId": 14146,
+				"imageUrl": "/zzz/UI/Weapon_S_1461.webp",
+				"itemType": "Weapon",
+				"name": "机巧心种",
+				"nameEn": "Cordis Germina",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
 			{
 				"itemId": 14136,
 				"imageUrl": "/zzz/UI/Weapon_S_1361.webp",
