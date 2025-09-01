@@ -1,5 +1,55 @@
 [
 	{
+		"version": "月之一下半",
+		"items": [
+			{
+				"itemId": 13516,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_TummaLyhty.webp",
+				"itemType": "Weapon",
+				"name": "血染荒城",
+				"nameEn": "Bloodsoaked Ruins",
+				"weaponType": "Polearm",
+				"rankType": 5
+			},
+			{
+				"itemId": 15508,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Kirin.webp",
+				"itemType": "Weapon",
+				"name": "若水",
+				"nameEn": "Aqua Simulacra",
+				"weaponType": "Bow",
+				"rankType": 5
+			}
+		],
+		"start": "2025-09-30 18:00:00",
+		"end": "2025-10-21 14:59:00"
+	},
+	{
+		"version": "月之一上半",
+		"items": [
+			{
+				"itemId": 14520,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_MenulisRing.webp",
+				"itemType": "Weapon",
+				"name": "纺夜天镜",
+				"nameEn": "Nightweaver's Looking Glass",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 14511,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ayus.webp",
+				"itemType": "Weapon",
+				"name": "千夜浮梦",
+				"nameEn": "A Thousand Floating Dreams",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			}
+		],
+		"start": "2025-09-10 10:00:00",
+		"end": "2025-09-30 17:59:00"
+	},
+	{
 		"version": "5.8.2",
 		"items": [
 			{
