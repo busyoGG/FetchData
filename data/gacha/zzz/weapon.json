@@ -23,26 +23,6 @@
 				"rankType": 5
 			},
 			{
-				"itemId": 14140,
-				"imageUrl": "/zzz/UI/Weapon_S_1401.webp",
-				"itemType": "Weapon",
-				"name": "十方锻星",
-				"nameEn": "Practiced Perfection",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
-				"itemId": 14122,
-				"imageUrl": "/zzz/UI/Weapon_S_1221.webp",
-				"itemType": "Weapon",
-				"name": "时流贤者",
-				"nameEn": "Timeweaver",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5
-			},
-			{
 				"itemId": 13115,
 				"imageUrl": "/zzz/UI/Weapon_A_1151.webp",
 				"itemType": "Weapon",
@@ -61,30 +41,10 @@
 				"weaponType": "Attack",
 				"weaponTypeCN": "强攻",
 				"rankType": 4
-			},
-			{
-				"itemId": 13113,
-				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
-				"itemType": "Weapon",
-				"name": "含羞恶面",
-				"nameEn": "Bashful Demon",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4
-			},
-			{
-				"itemId": 13127,
-				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
-				"itemType": "Weapon",
-				"name": "维序者-特化型",
-				"nameEn": "Peacekeeper - Specialized",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4
 			}
 		],
-		"start": "2025-08-06 12:00:00",
-		"end": "2025-09-03 14:59:59"
+		"start": "2025-09-24 12:00:00",
+		"end": "2025-10-24 14:59:59"
 	},
 	{
 		"version": "2.2.1",
@@ -130,8 +90,55 @@
 				"rankType": 4
 			}
 		],
-		"start": "2025-08-07 10:00:00",
+		"start": "2025-09-04 10:00:00",
 		"end": "2025-09-24 11:59:59"
+	},
+	{
+		"version": "2.1.2",
+		"items": [
+			{
+				"itemId": 14140,
+				"imageUrl": "/zzz/UI/Weapon_S_1401.webp",
+				"itemType": "Weapon",
+				"name": "十方锻星",
+				"nameEn": "Practiced Perfection",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 14122,
+				"imageUrl": "/zzz/UI/Weapon_S_1221.webp",
+				"itemType": "Weapon",
+				"name": "时流贤者",
+				"nameEn": "Timeweaver",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 13113,
+				"imageUrl": "/zzz/UI/Weapon_A_1131.webp",
+				"itemType": "Weapon",
+				"name": "含羞恶面",
+				"nameEn": "Bashful Demon",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13127,
+				"imageUrl": "/zzz/UI/Weapon_A_1271.webp",
+				"itemType": "Weapon",
+				"name": "维序者-特化型",
+				"nameEn": "Peacekeeper - Specialized",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			}
+		],
+		"start": "2025-08-06 12:00:00",
+		"end": "2025-09-03 14:59:59"
 	},
 	{
 		"version": "2.1.1",

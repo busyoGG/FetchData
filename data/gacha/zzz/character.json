@@ -27,30 +27,6 @@
 				"elementCN": "火属性"
 			},
 			{
-				"itemId": 1401,
-				"imageUrl": "/zzz/UI/IconRoleSelect46.webp",
-				"itemType": "Character",
-				"name": "爱丽丝",
-				"nameEn": "Alice",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Physical",
-				"elementCN": "物理"
-			},
-			{
-				"itemId": 1221,
-				"imageUrl": "/zzz/UI/IconRoleSelect31.webp",
-				"itemType": "Character",
-				"name": "柳",
-				"nameEn": "Yanagi",
-				"weaponType": "Anomaly",
-				"weaponTypeCN": "异常",
-				"rankType": 5,
-				"element": "Electric",
-				"elementCN": "电属性"
-			},
-			{
 				"itemId": 1151,
 				"imageUrl": "/zzz/UI/IconRoleSelect27.webp",
 				"itemType": "Character",
@@ -73,34 +49,10 @@
 				"rankType": 4,
 				"element": "Electric",
 				"elementCN": "电属性"
-			},
-			{
-				"itemId": 1131,
-				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
-				"itemType": "Character",
-				"name": "苍角",
-				"nameEn": "Soukaku",
-				"weaponType": "Support",
-				"weaponTypeCN": "支援",
-				"rankType": 4,
-				"element": "Ice",
-				"elementCN": "冰属性"
-			},
-			{
-				"itemId": 1271,
-				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
-				"itemType": "Character",
-				"name": "赛斯",
-				"nameEn": "Seth",
-				"weaponType": "Defense",
-				"weaponTypeCN": "防护",
-				"rankType": 4,
-				"element": "Electric",
-				"elementCN": "电属性"
 			}
 		],
-		"start": "2025-08-06 12:00:00",
-		"end": "2025-09-03 14:59:59"
+		"start": "2025-09-24 12:00:00",
+		"end": "2025-10-24 14:59:59"
 	},
 	{
 		"version": "2.2.1",
@@ -154,8 +106,63 @@
 				"elementCN": "以太"
 			}
 		],
-		"start": "2025-08-07 10:00:00",
+		"start": "2025-09-04 10:00:00",
 		"end": "2025-09-24 11:59:59"
+	},
+	{
+		"version": "2.1.2",
+		"items": [
+			{
+				"itemId": 1401,
+				"imageUrl": "/zzz/UI/IconRoleSelect46.webp",
+				"itemType": "Character",
+				"name": "爱丽丝",
+				"nameEn": "Alice",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
+				"itemId": 1221,
+				"imageUrl": "/zzz/UI/IconRoleSelect31.webp",
+				"itemType": "Character",
+				"name": "柳",
+				"nameEn": "Yanagi",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5,
+				"element": "Electric",
+				"elementCN": "电属性"
+			},
+			{
+				"itemId": 1131,
+				"imageUrl": "/zzz/UI/IconRoleSelect17.webp",
+				"itemType": "Character",
+				"name": "苍角",
+				"nameEn": "Soukaku",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4,
+				"element": "Ice",
+				"elementCN": "冰属性"
+			},
+			{
+				"itemId": 1271,
+				"imageUrl": "/zzz/UI/IconRoleSelect30.webp",
+				"itemType": "Character",
+				"name": "赛斯",
+				"nameEn": "Seth",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4,
+				"element": "Electric",
+				"elementCN": "电属性"
+			}
+		],
+		"start": "2025-08-06 12:00:00",
+		"end": "2025-09-03 14:59:59"
 	},
 	{
 		"version": "2.1.1",
