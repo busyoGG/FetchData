@@ -44,6 +44,51 @@
 				"nameEn": "A Thousand Floating Dreams",
 				"weaponType": "Catalyst",
 				"rankType": 5
+			},
+			{
+				"itemId": 11402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "笛剑",
+				"nameEn": "The Flute",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "Sacrificial Fragments",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "绝弦",
+				"nameEn": "The Stringless",
+				"weaponType": "Bow",
+				"rankType": 4
 			}
 		],
 		"start": "2025-09-10 10:00:00",
