@@ -593,7 +593,7 @@
 		"iconUrl": "/zzz/UI/Weapon_S_1051.webp",
 		"id": "14105",
 		"JA": "セイレーンクレードル",
-		"KO": "Item_Weapon_S_1051_Name",
+		"KO": "크라켄의 요람",
 		"rank": 4,
 		"type": 6
 	},
@@ -671,7 +671,7 @@
 		"iconUrl": "/zzz/UI/Weapon_A_1441.webp",
 		"id": "13144",
 		"JA": "燔火の朧夜",
-		"KO": "Item_Weapon_A_1441_Name",
+		"KO": "어스름한 밤의 화염",
 		"rank": 3,
 		"type": 6
 	},
@@ -918,7 +918,7 @@
 		"iconUrl": "/zzz/UI/Weapon_S_1451.webp",
 		"id": "14145",
 		"JA": "炉で歌い上げられる夢",
-		"KO": "Item_Weapon_S_1451_Name",
+		"KO": "꿈을 빚는 용광로의 노래",
 		"rank": 4,
 		"type": 4
 	},
