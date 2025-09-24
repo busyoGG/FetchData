@@ -883,19 +883,6 @@
 		"rank": 3,
 		"type": 4
 	},
-	"鎏金花信": {
-		"CHS": "鎏金花信",
-		"cn": "鎏金花信",
-		"desc": "A W-Engine with a grandiose and luxurious appearance equipped with a premium Ether-powered anti-theft device. It's actually used to provide the equipper with energy.",
-		"EN": "Gilded Blossom",
-		"icon": "Weapon_A_Common_13",
-		"iconUrl": "/zzz/UI/Weapon_A_Common_13.webp",
-		"id": "13013",
-		"JA": "金メッキの花信",
-		"KO": "도금된 화신풍",
-		"rank": 3,
-		"type": 1
-	},
 	"钢铁肉垫": {
 		"CHS": "钢铁肉垫",
 		"cn": "钢铁肉垫",
@@ -921,6 +908,19 @@
 		"KO": "꿈을 빚는 용광로의 노래",
 		"rank": 4,
 		"type": 4
+	},
+	"鎏金花信": {
+		"CHS": "鎏金花信",
+		"cn": "鎏金花信",
+		"desc": "A W-Engine with a grandiose and luxurious appearance equipped with a premium Ether-powered anti-theft device. It's actually used to provide the equipper with energy.",
+		"EN": "Gilded Blossom",
+		"icon": "Weapon_A_Common_13",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_13.webp",
+		"id": "13013",
+		"JA": "金メッキの花信",
+		"KO": "도금된 화신풍",
+		"rank": 3,
+		"type": 1
 	},
 	"防暴者Ⅵ型": {
 		"CHS": "防暴者Ⅵ型",
