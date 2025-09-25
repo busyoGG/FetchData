@@ -422,6 +422,20 @@
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1698483600
 	},
+	"昔涟": {
+		"baseType": "Memory",
+		"cn": "昔涟",
+		"damageType": "Ice",
+		"desc": "A meteor streaks across the night sky, stirring rippling waves in the river of life, shimmering with thirteen hues.\\nDaughter of Aedes Elysiae, nurturer of the Chrysos Heir of \"███,\" plants the Seed of Memory, letting yesterday's flowers bloom in tomorrow\\n—<i>\"Now, let's write a different kind of poem together♪\"</i>",
+		"en": "Cyrene",
+		"enhance": [],
+		"icon": "cyrene",
+		"iconUrl": "/hsr/UI/avatarshopicon/1415.webp",
+		"id": "1415",
+		"jp": "キュレネ",
+		"kr": "키레네",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"星期日": {
 		"baseType": "Shaman",
 		"cn": "星期日",
