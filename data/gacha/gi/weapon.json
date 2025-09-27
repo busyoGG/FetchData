@@ -19,6 +19,51 @@
 				"nameEn": "Aqua Simulacra",
 				"weaponType": "Bow",
 				"rankType": 5
+			},
+			{
+				"itemId": 11405,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "Lion's Roar",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风大剑",
+				"nameEn": "Favonius Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13407,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼弓",
+				"nameEn": "Sacrificial Bow",
+				"weaponType": "Bow",
+				"rankType": 4
 			}
 		],
 		"start": "2025-09-30 18:00:00",

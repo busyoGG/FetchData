@@ -101,7 +101,8 @@
 		"id": "1414",
 		"jp": "{RUBY_B#たんこう}丹恒{RUBY_E#}・{RUBY_B#とうこう}騰荒{RUBY_E#}",
 		"kr": "단항•등황",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1682460000
 	},
 	"丹恒•饮月": {
 		"baseType": "Warrior",
@@ -223,7 +224,7 @@
 		"jp": "ケリュドラ",
 		"kr": "케리드라",
 		"rank": "CombatPowerAvatarRarityType5",
-		"release": 1756803600
+		"release": 1760518800
 	},
 	"加拉赫": {
 		"baseType": "Priest",
@@ -962,7 +963,8 @@
 		"id": "1413",
 		"jp": "{RUBY_B#ながよづき}長夜月{RUBY_E#}",
 		"kr": "에버나이트",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1758790800
 	},
 	"阮•梅": {
 		"baseType": "Shaman",
