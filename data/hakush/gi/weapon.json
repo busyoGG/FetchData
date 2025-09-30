@@ -522,7 +522,7 @@
 	"圣祭者的辉杖": {
 		"CHS": "圣祭者的辉杖",
 		"cn": "圣祭者的辉杖",
-		"desc": "",
+		"desc": "A silver-white polearm, pure and completely without blemish. Legend has it that it was used by the Archpriestesses of Hyperborea in ages past to guide their flock of Frostmoon Scions.",
 		"EN": "Sacrificer's Staff",
 		"icon": "UI_EquipIcon_Pole_Krivule",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Krivule.webp",
@@ -1605,7 +1605,7 @@
 	"真语秘匣": {
 		"CHS": "真语秘匣",
 		"cn": "真语秘匣",
-		"desc": "",
+		"desc": "An antlered box carved from gold and jade. Legend has it that it was once enshrined in a temple deep within Tulaytullah, the Sapphire City.",
 		"EN": "Reliquary of Truth",
 		"icon": "UI_EquipIcon_Catalyst_Sistrum",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Sistrum.webp",
@@ -2752,7 +2752,7 @@
 	"霜辰": {
 		"CHS": "霜辰",
 		"cn": "霜辰",
-		"desc": "",
+		"desc": "A silver-forged ritual vessel, pure and completely without blemish. It is said to be a sacred relic passed down for generations among the priestesses of the far north.",
 		"EN": "Dawning Frost",
 		"icon": "UI_EquipIcon_Catalyst_Ziedas",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ziedas.webp",
