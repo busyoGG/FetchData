@@ -1,4 +1,29 @@
 {
+	"(Test1)般岳": {
+		"camp": 11,
+		"CHS": "(Test1)般岳",
+		"cn": "(Test1)般岳",
+		"code": "Avatar_Male_Size03_BanYue_En",
+		"desc": "",
+		"element": 201,
+		"EN": "Avatar_Male_Size03_BanYue",
+		"hit": 102,
+		"icon": "IconRole53",
+		"iconUrl": "/zzz/UI/IconRoleSelect53.webp",
+		"id": "1471",
+		"JA": "Avatar_Male_Size03_BanYue",
+		"KO": "Avatar_Male_Size03_BanYue",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3114710": {
+				"Desc": "AvatarSkin_BanYue_Desc_000",
+				"Image": "IconRole39",
+				"Name": "AvatarSkin_BanYue_Name_000"
+			}
+		},
+		"type": 6
+	},
 	"「11号」": {
 		"camp": 5,
 		"CHS": "「11号」",
@@ -15,7 +40,13 @@
 		"KO": "「11호」",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3110410": {
+				"Desc": "AvatarSkin_Longinus_Desc_000",
+				"Image": "IconRole05",
+				"Name": "AvatarSkin_Longinus_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"「席德」": {
@@ -34,7 +65,13 @@
 		"KO": "「시드」",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3114610": {
+				"Desc": "AvatarSkin_Seed_Desc_000",
+				"Image": "IconRole48",
+				"Name": "AvatarSkin_Seed_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"「扳机」": {
@@ -53,27 +90,14 @@
 		"KO": "「트리거」",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113610": {
+				"Desc": "AvatarSkin_Trigger_Desc_000",
+				"Image": "IconRole39",
+				"Name": "AvatarSkin_Trigger_Name_000"
+			}
+		},
 		"type": 2
-	},
-	"Avatar_Male_Size03_BanYue": {
-		"camp": 11,
-		"CHS": "Avatar_Male_Size03_BanYue",
-		"cn": "Avatar_Male_Size03_BanYue",
-		"code": "Avatar_Male_Size03_BanYue_En",
-		"desc": "",
-		"element": 201,
-		"EN": "Avatar_Male_Size03_BanYue",
-		"hit": 102,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
-		"id": "1471",
-		"JA": "Avatar_Male_Size03_BanYue",
-		"KO": "Avatar_Male_Size03_BanYue",
-		"potential": [],
-		"rank": null,
-		"skin": {},
-		"type": 6
 	},
 	"丽娜": {
 		"camp": 2,
@@ -91,7 +115,13 @@
 		"KO": "리나",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112110": {
+				"Desc": "AvatarSkin_Rina_Desc_000",
+				"Image": "IconRole22",
+				"Name": "AvatarSkin_Rina_Name_000"
+			}
+		},
 		"type": 4
 	},
 	"仪玄": {
@@ -141,7 +171,13 @@
 		"KO": "이드하리",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3110510": {
+				"Desc": "AvatarSkin_Yidhari_Desc_000",
+				"Image": "IconRole52",
+				"Name": "AvatarSkin_Yidhari_Name_000"
+			}
+		},
 		"type": 6
 	},
 	"伊芙琳": {
@@ -160,7 +196,13 @@
 		"KO": "이블린",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113210": {
+				"Desc": "AvatarSkin_Evelyn_Desc_000",
+				"Image": "IconRole37",
+				"Name": "AvatarSkin_Evelyn_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"凯撒": {
@@ -179,7 +221,13 @@
 		"KO": "카이사르",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3110710": {
+				"Desc": "AvatarSkin_Caesar_Desc_000",
+				"Image": "IconRole25",
+				"Name": "AvatarSkin_Caesar_Name_000"
+			}
+		},
 		"type": 5
 	},
 	"卢西娅": {
@@ -194,11 +242,17 @@
 		"icon": "IconRole50",
 		"iconUrl": "/zzz/UI/IconRoleSelect50.webp",
 		"id": "1451",
-		"JA": "<ruby=りゅしあ>リュシア</ruby>",
+		"JA": "リュシア",
 		"KO": "루시아",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3114510": {
+				"Desc": "AvatarSkin_Lucia_Desc_000",
+				"Image": "IconRole50",
+				"Name": "AvatarSkin_Lucia_Name_000"
+			}
+		},
 		"type": 4
 	},
 	"可琳": {
@@ -217,7 +271,13 @@
 		"KO": "코린",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3110610": {
+				"Desc": "AvatarSkin_Corin_Desc_000",
+				"Image": "IconRole09",
+				"Name": "AvatarSkin_Corin_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"奥菲丝&「鬼火」": {
@@ -236,7 +296,13 @@
 		"KO": "오피 & 「도깨비불」",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113010": {
+				"Desc": "AvatarSkin_Brujas_Desc_000",
+				"Image": "IconRole49",
+				"Name": "AvatarSkin_Brujas_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"妮可": {
@@ -285,7 +351,13 @@
 		"KO": "앤톤",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3111110": {
+				"Desc": "AvatarSkin_Anton_Desc_000",
+				"Image": "IconRole15",
+				"Name": "AvatarSkin_Anton_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"安比": {
@@ -304,7 +376,13 @@
 		"KO": "엔비",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3110110": {
+				"Desc": "AvatarSkin_Anbi_Desc_000",
+				"Image": "IconRole01",
+				"Name": "AvatarSkin_Anbi_Name_000"
+			}
+		},
 		"type": 2
 	},
 	"悠真": {
@@ -323,7 +401,13 @@
 		"KO": "하루마사",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112010": {
+				"Desc": "",
+				"Image": "IconRole35",
+				"Name": ""
+			}
+		},
 		"type": 1
 	},
 	"本": {
@@ -342,7 +426,13 @@
 		"KO": "벤",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3111210": {
+				"Desc": "AvatarSkin_Ben_Desc_000",
+				"Image": "IconRole16",
+				"Name": "AvatarSkin_Ben_Name_000"
+			}
+		},
 		"type": 5
 	},
 	"朱鸢": {
@@ -361,7 +451,13 @@
 		"KO": "주연",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112410": {
+				"Desc": "AvatarSkin_ZhuYuan_Desc_000",
+				"Image": "IconRole23",
+				"Name": "AvatarSkin_ZhuYuan_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"柏妮思": {
@@ -380,7 +476,13 @@
 		"KO": "버니스",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3111710": {
+				"Desc": "AvatarSkin_Burnice_Desc_000",
+				"Image": "IconRole32",
+				"Name": "AvatarSkin_Burnice_Name_000"
+			}
+		},
 		"type": 3
 	},
 	"柚叶": {
@@ -429,7 +531,13 @@
 		"KO": "야나기",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112210": {
+				"Desc": "",
+				"Image": "IconRole31",
+				"Name": ""
+			}
+		},
 		"type": 3
 	},
 	"格莉丝": {
@@ -448,7 +556,13 @@
 		"KO": "그레이스",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3111810": {
+				"Desc": "AvatarSkin_Lisa_Desc_000",
+				"Image": "IconRole20",
+				"Name": "AvatarSkin_Lisa_Name_000"
+			}
+		},
 		"type": 3
 	},
 	"橘福福": {
@@ -463,11 +577,17 @@
 		"icon": "IconRole43",
 		"iconUrl": "/zzz/UI/IconRoleSelect43.webp",
 		"id": "1391",
-		"JA": "<ruby=チーフーフ>橘福福</ruby>",
+		"JA": "橘福福",
 		"KO": "귤복복",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113910": {
+				"Desc": "AvatarSkin_Jufufu_Desc_000",
+				"Image": "IconRole43",
+				"Name": "AvatarSkin_Jufufu_Name_000"
+			}
+		},
 		"type": 2
 	},
 	"比利": {
@@ -486,7 +606,13 @@
 		"KO": "빌리",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3110810": {
+				"Desc": "AvatarSkin_Billy_Desc_000",
+				"Image": "IconRole10",
+				"Name": "AvatarSkin_Billy_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"波可娜": {
@@ -505,7 +631,13 @@
 		"KO": "펄크라",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3113510": {
+				"Desc": "AvatarSkin_Pulchra_Desc_000",
+				"Image": "IconRole38",
+				"Name": "AvatarSkin_Pulchra_Name_000"
+			}
+		},
 		"type": 2
 	},
 	"派派": {
@@ -524,7 +656,13 @@
 		"KO": "파이퍼",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3112810": {
+				"Desc": "AvatarSkin_Clara_Desc_000",
+				"Image": "IconRole28",
+				"Name": "AvatarSkin_Clara_Name_000"
+			}
+		},
 		"type": 3
 	},
 	"潘引壶": {
@@ -543,7 +681,13 @@
 		"KO": "반인호",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3114210": {
+				"Desc": "AvatarSkin_PanYinhu_Desc_000",
+				"Image": "IconRole45",
+				"Name": "AvatarSkin_PanYinhu_Name_000"
+			}
+		},
 		"type": 5
 	},
 	"爱丽丝": {
@@ -592,7 +736,13 @@
 		"KO": "네코마타",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3110210": {
+				"Desc": "AvatarSkin_Tsubaki_Desc_000",
+				"Image": "IconRole11",
+				"Name": "AvatarSkin_Tsubaki_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"珂蕾妲": {
@@ -611,14 +761,20 @@
 		"KO": "콜레다",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3111010": {
+				"Desc": "AvatarSkin_OokumaMari_Desc_000",
+				"Image": "IconRole14",
+				"Name": "AvatarSkin_OokumaMari_Name_000"
+			}
+		},
 		"type": 2
 	},
 	"真斗": {
 		"camp": 11,
 		"CHS": "真斗",
 		"cn": "真斗",
-		"code": "Avatar_Male_Size03_Norano_En",
+		"code": "Manato",
 		"desc": "Komano Manato, a member of Spook Shack and an exceptionally reliable person. Having lost his family in the fall of the old capital, he grew up alone in Waifei Peninsula until the day he happened to adopt two street children, A-Cing and A-Yuet. Since then, the three have lived as a family, depending on one another. It may be a young household, but to Manato, nothing matters more than looking after them.\nManato is currently enrolled at a company affiliated school in the city, where rumors paint him as the terrifying \"school delinquent.\" The label likely comes from his intimidating appearance, though in reality, he's far more soft-hearted and generous than he seems.\nAt first, Manato really did want to do something to clear up the misunderstanding about being a delinquent, but for various reasons, his efforts didn't make much of an impact. Still, his optimism soon led him to realize that the title wasn't all bad. It let him dodge unnecessary social events, live without being bothered by strangers, and even leverage the \"delinquent\" image to sniff out stories of school ghost tales, all while standing up for classmates suffering from actual bullying.\nBut when it comes to grades, he really does live up to the \"school delinquent\" label of a company affiliated school student.",
 		"element": 201,
 		"EN": "Manato",
@@ -649,7 +805,13 @@
 		"KO": "제인",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112610": {
+				"Desc": "AvatarSkin_JaneDoe_Desc_000",
+				"Image": "IconRole24",
+				"Name": "AvatarSkin_JaneDoe_Name_000"
+			}
+		},
 		"type": 3
 	},
 	"耀嘉音": {
@@ -730,7 +892,13 @@
 		"KO": "소우카쿠",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3111310": {
+				"Desc": "AvatarSkin_Aokaku_Desc_000",
+				"Image": "IconRole17",
+				"Name": "AvatarSkin_Aokaku_Name_000"
+			}
+		},
 		"type": 4
 	},
 	"莱卡恩": {
@@ -749,7 +917,13 @@
 		"KO": "리카온",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3111410": {
+				"Desc": "AvatarSkin_Lycaon_Desc_000",
+				"Image": "IconRole18",
+				"Name": "AvatarSkin_Lycaon_Name_000"
+			}
+		},
 		"type": 2
 	},
 	"莱特": {
@@ -768,7 +942,13 @@
 		"KO": "라이터",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3111610": {
+				"Desc": "",
+				"Image": "IconRole26",
+				"Name": ""
+			}
+		},
 		"type": 2
 	},
 	"薇薇安": {
@@ -790,12 +970,12 @@
 		"skin": {
 			"3113310": {
 				"Desc": "Maintain your elegance, Miss Vivian, from the point of your parasol, right down to your flowing skirt. Maintain your courage, Miss Vivian, through last night's lonely walk, or here today at my side.",
-				"Image": "",
+				"Image": "IconRole41",
 				"Name": "Vivian: Fluttering Violet"
 			},
 			"3113311": {
 				"Desc": "Birds soar into the starlit skies, while irises bloom by the pond. Though this enchanting moonlit night may be brief, please let me see the lingering anticipation in your eyes in the moment I bloom.",
-				"Image": "",
+				"Image": "IconRole41_01",
 				"Name": "Vivian: Iris of the Shore"
 			}
 		},
@@ -817,7 +997,13 @@
 		"KO": "세스",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3112710": {
+				"Desc": "AvatarSkin_Seth_Desc_000",
+				"Image": "IconRole30",
+				"Name": "AvatarSkin_Seth_Name_000"
+			}
+		},
 		"type": 5
 	},
 	"雅": {
@@ -836,7 +1022,13 @@
 		"KO": "미야비",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3110910": {
+				"Desc": "",
+				"Image": "IconRole13",
+				"Name": ""
+			}
+		},
 		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
 		"type": 3
 	},
@@ -856,7 +1048,13 @@
 		"KO": "휴고",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112910": {
+				"Desc": "AvatarSkin_HugoVlad_Desc_000",
+				"Image": "IconRole42",
+				"Name": "AvatarSkin_HugoVlad_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"零号·安比": {
@@ -877,7 +1075,13 @@
 			138100
 		],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113810": {
+				"Desc": "AvatarSkin_SilverAnby_Desc_000",
+				"Image": "IconRole40",
+				"Name": "AvatarSkin_SilverAnby_Name_000"
+			}
+		},
 		"type": 1
 	},
 	"露西": {
@@ -896,7 +1100,13 @@
 		"KO": "루시",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3111510": {
+				"Desc": "AvatarSkin_Lucy_Desc_000",
+				"Image": "IconRole27",
+				"Name": "AvatarSkin_Lucy_Name_000"
+			}
+		},
 		"type": 4
 	},
 	"青衣": {
@@ -915,7 +1125,13 @@
 		"KO": "청의",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112510": {
+				"Desc": "AvatarSkin_QingYi_Desc_000",
+				"Image": "IconRole29",
+				"Name": "AvatarSkin_QingYi_Name_000"
+			}
+		},
 		"type": 2
 	}
 }

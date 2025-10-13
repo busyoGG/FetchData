@@ -1018,7 +1018,7 @@
 		"en": "This Love, Forever",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23052.webp",
 		"id": "23052",
-		"jp": "愛は永遠の今",
+		"jp": "{RUBY_B#あい}愛{RUBY_E#}はいま{RUBY_B#えいえん}永遠{RUBY_E#}に",
 		"kr": "이 순간처럼 영원한 사랑",
 		"rank": "CombatPowerLightconeRarity5"
 	},
