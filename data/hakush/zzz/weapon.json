@@ -727,6 +727,19 @@
 		"rank": 4,
 		"type": 4
 	},
+	"琉音测试音擎": {
+		"CHS": "琉音测试音擎",
+		"cn": "琉音测试音擎",
+		"desc": "Item_Weapon_S_1481_ShortDesc",
+		"EN": "Dialyn Test W-Engine",
+		"icon": "Weapon_S_1481",
+		"iconUrl": "/zzz/UI/Weapon_S_1481.webp",
+		"id": "14148",
+		"JA": "ダイアリンテスト音動機",
+		"KO": "Item_Weapon_S_1481_Name",
+		"rank": 4,
+		"type": 2
+	},
 	"电波漫步": {
 		"CHS": "电波漫步",
 		"cn": "电波漫步",
@@ -809,11 +822,11 @@
 		"CHS": "般岳测试音擎",
 		"cn": "般岳测试音擎",
 		"desc": "Item_Weapon_S_1471_ShortDesc",
-		"EN": "Item_Weapon_S_1471_Name",
+		"EN": "Banyue Test W-Engine",
 		"icon": "Weapon_S_1471",
 		"iconUrl": "/zzz/UI/Weapon_S_1471.webp",
 		"id": "14147",
-		"JA": "Item_Weapon_S_1471_Name",
+		"JA": "盤岳テスト音動機",
 		"KO": "Item_Weapon_S_1471_Name",
 		"rank": 4,
 		"type": 6

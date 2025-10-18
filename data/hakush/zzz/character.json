@@ -1,4 +1,29 @@
 {
+	"(Test1)琉音": {
+		"camp": 7,
+		"CHS": "(Test1)琉音",
+		"cn": "(Test1)琉音",
+		"code": "Dialyn",
+		"desc": "",
+		"element": 200,
+		"EN": "Azural",
+		"hit": 101,
+		"icon": "IconRole54",
+		"iconUrl": "/zzz/UI/IconRoleSelect54.webp",
+		"id": "1481",
+		"JA": "ダイアリン",
+		"KO": "다이아린",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3114810": {
+				"Desc": "AvatarSkin_Azural_Desc_000",
+				"Image": "IconRole29",
+				"Name": "AvatarSkin_Azural_Name_000"
+			}
+		},
+		"type": 2
+	},
 	"(Test1)般岳": {
 		"camp": 11,
 		"CHS": "(Test1)般岳",
@@ -786,7 +811,18 @@
 		"KO": "마나토",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3114410": {
+				"Desc": "The standard attire of the unofficial mediator in Sailume Bay, enough to intimidate petty thugs.\nStill, it sometimes draws wandering eyes.",
+				"Image": "IconRole51",
+				"Name": "Komano Manato: Loyal Wild Soul"
+			},
+			"3114411": {
+				"Desc": "A young Manato made a solitary vow to himself — and from his deep reverie, a lone pale shadow was born.\nMimicking his attire enhances Manato's already exceedingly intimidating presence.",
+				"Image": "IconRole51_01",
+				"Name": "Komano Manato: White Heart Silhouette"
+			}
+		},
 		"type": 6
 	},
 	"简": {
