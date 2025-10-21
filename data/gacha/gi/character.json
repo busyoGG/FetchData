@@ -48,6 +48,36 @@
 				"weaponType": "Sword",
 				"rankType": 5,
 				"element": "Hydro"
+			},
+			{
+				"itemId": 10000025,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xingqiu.webp",
+				"itemType": "Character",
+				"name": "行秋",
+				"nameEn": "Xingqiu",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000067,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Collei.webp",
+				"itemType": "Character",
+				"name": "柯莱",
+				"nameEn": "Collei",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000077,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Yaoyao.webp",
+				"itemType": "Character",
+				"name": "瑶瑶",
+				"nameEn": "Yaoyao",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Dendro"
 			}
 		],
 		"start": "2025-10-22 10:00:00",

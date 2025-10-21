@@ -55,6 +55,15 @@
 				"rankType": 4
 			},
 			{
+				"itemId": 12402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "The Bell",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
 				"itemId": 13434,
 				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Krivule.webp",
 				"itemType": "Weapon",
@@ -70,6 +79,15 @@
 				"name": "霜辰",
 				"nameEn": "Dawning Frost",
 				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "Favonius Warbow",
+				"weaponType": "Bow",
 				"rankType": 4
 			}
 		],
