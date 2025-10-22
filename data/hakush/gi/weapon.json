@@ -913,6 +913,19 @@
 		"rank": 4,
 		"type": "WEAPON_CLAYMORE"
 	},
+	"悠远流颂之始": {
+		"CHS": "悠远流颂之始",
+		"cn": "悠远流颂之始",
+		"desc": "",
+		"EN": "6.2 Bow",
+		"icon": "UI_EquipIcon_Bow_Arianna",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arianna.webp",
+		"id": "15515",
+		"JP": "6.2弓",
+		"KR": "6.2 활",
+		"rank": 5,
+		"type": "WEAPON_BOW"
+	},
 	"护摩之杖": {
 		"CHS": "护摩之杖",
 		"cn": "护摩之杖",
@@ -2113,6 +2126,19 @@
 		"rank": 4,
 		"type": "WEAPON_POLE"
 	},
+	"虹蛇的雨弦": {
+		"CHS": "虹蛇的雨弦",
+		"cn": "虹蛇的雨弦",
+		"desc": "",
+		"EN": "6.2 Event Bow",
+		"icon": "UI_EquipIcon_Bow_ElegguaBow",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_ElegguaBow.webp",
+		"id": "15434",
+		"JP": "6.2イベント弓",
+		"KR": "6.2 이벤트 활",
+		"rank": 4,
+		"type": "WEAPON_BOW"
+	},
 	"蛇噬": {
 		"CHS": "蛇噬",
 		"cn": "蛇噬",
@@ -3047,6 +3073,19 @@
 		"KR": "흑술창",
 		"rank": 3,
 		"type": "WEAPON_POLE"
+	},
+	"黑蚀": {
+		"CHS": "黑蚀",
+		"cn": "黑蚀",
+		"desc": "",
+		"EN": "6.2 Sword",
+		"icon": "UI_EquipIcon_Sword_Motsognir",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Motsognir.webp",
+		"id": "11518",
+		"JP": "6.2片手剣",
+		"KR": "6.2 한손검",
+		"rank": 5,
+		"type": "WEAPON_SWORD_ONE_HAND"
 	},
 	"龙脊长枪": {
 		"CHS": "龙脊长枪",

@@ -835,6 +835,25 @@
 		"release": "2021-08-10 18:00:00",
 		"weapon": "WEAPON_CLAYMORE"
 	},
+	"杜林": {
+		"birth": [
+			1,
+			1
+		],
+		"CHS": "杜林",
+		"cn": "杜林",
+		"desc": "",
+		"element": "Pyro",
+		"EN": "Durin",
+		"icon": "UI_AvatarIcon_Durin",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Durin.webp",
+		"id": "10000123",
+		"JP": "ドゥリン",
+		"KR": "두린",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
 	"林尼": {
 		"birth": [
 			2,
@@ -1955,6 +1974,25 @@
 		"rank": "QUALITY_ORANGE",
 		"release": "2020-12-22 00:00:00",
 		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
+	"雅珂达": {
+		"birth": [
+			1,
+			1
+		],
+		"CHS": "雅珂达",
+		"cn": "雅珂达",
+		"desc": "The Curatorium's extremely reliable, do-it-all employee (or so she claims).",
+		"element": "Anemo",
+		"EN": "Jahoda",
+		"icon": "UI_AvatarIcon_Jahoda",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Jahoda.webp",
+		"id": "10000124",
+		"JP": "ヤフォダ",
+		"KR": "야호다",
+		"rank": "QUALITY_PURPLE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_BOW"
 	},
 	"雷泽": {
 		"birth": [
