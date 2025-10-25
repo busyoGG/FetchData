@@ -1,10 +1,10 @@
 {
 	"(Test1)琉音": {
-		"camp": 7,
+		"camp": 12,
 		"CHS": "(Test1)琉音",
 		"cn": "(Test1)琉音",
 		"code": "Dialyn",
-		"desc": "",
+		"desc": "Partner_ProfileDesc_1481",
 		"element": 200,
 		"EN": "Azural",
 		"hit": 101,
@@ -25,11 +25,11 @@
 		"type": 2
 	},
 	"(Test1)般岳": {
-		"camp": 11,
+		"camp": 12,
 		"CHS": "(Test1)般岳",
 		"cn": "(Test1)般岳",
 		"code": "Avatar_Male_Size03_BanYue_En",
-		"desc": "",
+		"desc": "Partner_ProfileDesc_1471",
 		"element": 201,
 		"EN": "Avatar_Male_Size03_BanYue",
 		"hit": 102,
@@ -807,7 +807,7 @@
 		"icon": "IconRole51",
 		"iconUrl": "/zzz/UI/IconRoleSelect51.webp",
 		"id": "1441",
-		"JA": "真斗",
+		"JA": "狛野真斗",
 		"KO": "마나토",
 		"potential": [],
 		"rank": 3,
