@@ -1576,10 +1576,10 @@
 		"baseType": "Memory",
 		"cn": "飞向粉色的明天",
 		"desc": null,
-		"en": "Take Flight Toward A Pink Tomorrow",
+		"en": "Fly Into a Pink Tomorrow",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22006.webp",
 		"id": "22006",
-		"jp": "ピンクの明日へ",
+		"jp": "ピンク色の明日へ",
 		"kr": "핑크빛 내일을 향해",
 		"rank": "CombatPowerLightconeRarity4"
 	},
