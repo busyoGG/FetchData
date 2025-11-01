@@ -454,6 +454,19 @@
 		"rank": 4,
 		"type": 1
 	},
+	"怒目金刚": {
+		"CHS": "怒目金刚",
+		"cn": "怒目金刚",
+		"desc": "Even the flames of purgatory couldn't break me.",
+		"EN": "Wrathful Vajra",
+		"icon": "Weapon_S_1471",
+		"iconUrl": "/zzz/UI/Weapon_S_1471.webp",
+		"id": "14147",
+		"JA": "金剛不壊怒髪衝冠",
+		"KO": "",
+		"rank": 4,
+		"type": 6
+	},
 	"拘缚者": {
 		"CHS": "拘缚者",
 		"cn": "拘缚者",
@@ -531,6 +544,19 @@
 		"KO": "봄날의 포옹",
 		"rank": 3,
 		"type": 5
+	},
+	"昨夜来电": {
+		"CHS": "昨夜来电",
+		"cn": "昨夜来电",
+		"desc": "That missed call you had? She picked it up.",
+		"EN": "Yesterday Calls",
+		"icon": "Weapon_S_1481",
+		"iconUrl": "/zzz/UI/Weapon_S_1481.webp",
+		"id": "14148",
+		"JA": "昨夜からの着信",
+		"KO": "",
+		"rank": 4,
+		"type": 2
 	},
 	"机巧心种": {
 		"CHS": "机巧心种",
@@ -727,19 +753,6 @@
 		"rank": 4,
 		"type": 4
 	},
-	"琉音测试音擎": {
-		"CHS": "琉音测试音擎",
-		"cn": "琉音测试音擎",
-		"desc": "Item_Weapon_S_1481_ShortDesc",
-		"EN": "Dialyn Test W-Engine",
-		"icon": "Weapon_S_1481",
-		"iconUrl": "/zzz/UI/Weapon_S_1481.webp",
-		"id": "14148",
-		"JA": "ダイアリンテスト音動機",
-		"KO": "Item_Weapon_S_1481_Name",
-		"rank": 4,
-		"type": 2
-	},
 	"电波漫步": {
 		"CHS": "电波漫步",
 		"cn": "电波漫步",
@@ -817,19 +830,6 @@
 		"KO": "보물함",
 		"rank": 3,
 		"type": 4
-	},
-	"般岳测试音擎": {
-		"CHS": "般岳测试音擎",
-		"cn": "般岳测试音擎",
-		"desc": "Item_Weapon_S_1471_ShortDesc",
-		"EN": "Banyue Test W-Engine",
-		"icon": "Weapon_S_1471",
-		"iconUrl": "/zzz/UI/Weapon_S_1471.webp",
-		"id": "14147",
-		"JA": "盤岳テスト音動機",
-		"KO": "반악 W-엔진",
-		"rank": 4,
-		"type": 6
 	},
 	"街头巨星": {
 		"CHS": "街头巨星",

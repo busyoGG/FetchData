@@ -24,31 +24,6 @@
 		},
 		"type": 2
 	},
-	"(Test1)般岳": {
-		"camp": 12,
-		"CHS": "(Test1)般岳",
-		"cn": "(Test1)般岳",
-		"code": "Avatar_Male_Size03_BanYue_En",
-		"desc": "Partner_ProfileDesc_1471",
-		"element": 201,
-		"EN": "Avatar_Male_Size03_BanYue",
-		"hit": 102,
-		"icon": "IconRole53",
-		"iconUrl": "/zzz/UI/IconRoleSelect53.webp",
-		"id": "1471",
-		"JA": "Avatar_Male_Size03_BanYue",
-		"KO": "Avatar_Male_Size03_BanYue",
-		"potential": [],
-		"rank": 4,
-		"skin": {
-			"3114710": {
-				"Desc": "AvatarSkin_BanYue_Desc_000",
-				"Image": "IconRole39",
-				"Name": "AvatarSkin_BanYue_Name_000"
-			}
-		},
-		"type": 6
-	},
 	"「11号」": {
 		"camp": 5,
 		"CHS": "「11号」",
@@ -267,7 +242,7 @@
 		"icon": "IconRole50",
 		"iconUrl": "/zzz/UI/IconRoleSelect50.webp",
 		"id": "1451",
-		"JA": "リュシア",
+		"JA": "",
 		"KO": "루시아",
 		"potential": [],
 		"rank": 4,
@@ -879,6 +854,31 @@
 			}
 		},
 		"type": 4
+	},
+	"般岳": {
+		"camp": 12,
+		"CHS": "般岳",
+		"cn": "般岳",
+		"code": "Avatar_Male_Size03_BanYue_En",
+		"desc": "Partner_ProfileDesc_1471",
+		"element": 201,
+		"EN": "Avatar_Male_Size03_BanYue",
+		"hit": 102,
+		"icon": "IconRole53",
+		"iconUrl": "/zzz/UI/IconRoleSelect53.webp",
+		"id": "1471",
+		"JA": "Avatar_Male_Size03_BanYue",
+		"KO": "Avatar_Male_Size03_BanYue",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3114710": {
+				"Desc": "AvatarSkin_BanYue_Desc_000",
+				"Image": "IconRole39",
+				"Name": "AvatarSkin_BanYue_Name_000"
+			}
+		},
+		"type": 6
 	},
 	"艾莲": {
 		"camp": 2,
