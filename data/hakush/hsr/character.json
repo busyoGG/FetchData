@@ -273,6 +273,20 @@
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1689757200
 	},
+	"大丽花": {
+		"baseType": "Warlock",
+		"cn": "大丽花",
+		"damageType": "Fire",
+		"desc": null,
+		"en": "The Dahlia",
+		"enhance": [],
+		"icon": "dahlia",
+		"iconUrl": "/hsr/UI/avatarshopicon/1321.webp",
+		"id": "1321",
+		"jp": "ダリア",
+		"kr": "달리아",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"大黑塔": {
 		"baseType": "Mage",
 		"cn": "大黑塔",

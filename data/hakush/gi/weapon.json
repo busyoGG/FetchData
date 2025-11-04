@@ -913,19 +913,6 @@
 		"rank": 4,
 		"type": "WEAPON_CLAYMORE"
 	},
-	"悠远流颂之始": {
-		"CHS": "悠远流颂之始",
-		"cn": "悠远流颂之始",
-		"desc": "",
-		"EN": "6.2 Bow",
-		"icon": "UI_EquipIcon_Bow_Arianna",
-		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arianna.webp",
-		"id": "15515",
-		"JP": "6.2弓",
-		"KR": "6.2 활",
-		"rank": 5,
-		"type": "WEAPON_BOW"
-	},
 	"护摩之杖": {
 		"CHS": "护摩之杖",
 		"cn": "护摩之杖",
@@ -2130,12 +2117,12 @@
 		"CHS": "虹蛇的雨弦",
 		"cn": "虹蛇的雨弦",
 		"desc": "",
-		"EN": "6.2 Event Bow",
+		"EN": "Rainbow Serpent's Rain Bow",
 		"icon": "UI_EquipIcon_Bow_ElegguaBow",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_ElegguaBow.webp",
 		"id": "15434",
-		"JP": "6.2イベント弓",
-		"KR": "6.2 이벤트 활",
+		"JP": "虹蛇の雨弦JP0L",
+		"KR": "무지개뱀의 현",
 		"rank": 4,
 		"type": "WEAPON_BOW"
 	},
@@ -2970,6 +2957,19 @@
 		"rank": 4,
 		"type": "WEAPON_BOW"
 	},
+	"黎明破晓之史": {
+		"CHS": "黎明破晓之史",
+		"cn": "黎明破晓之史",
+		"desc": "",
+		"EN": "The Daybreak Chronicles",
+		"icon": "UI_EquipIcon_Bow_Arianna",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arianna.webp",
+		"id": "15515",
+		"JP": "暁を告げる歴史",
+		"KR": "여명이 트는 역사",
+		"rank": 5,
+		"type": "WEAPON_BOW"
+	},
 	"黎明神剑": {
 		"CHS": "黎明神剑",
 		"cn": "黎明神剑",
@@ -3078,12 +3078,12 @@
 		"CHS": "黑蚀",
 		"cn": "黑蚀",
 		"desc": "",
-		"EN": "6.2 Sword",
+		"EN": "Athame Artis",
 		"icon": "UI_EquipIcon_Sword_Motsognir",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Motsognir.webp",
 		"id": "11518",
-		"JP": "6.2片手剣",
-		"KR": "6.2 한손검",
+		"JP": "黒蝕",
+		"KR": "검은 침식",
 		"rank": 5,
 		"type": "WEAPON_SWORD_ONE_HAND"
 	},

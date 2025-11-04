@@ -252,6 +252,17 @@
 		"kr": "승리의 순간",
 		"rank": "CombatPowerLightconeRarity5"
 	},
+	"勿忘她的火焰": {
+		"baseType": "Warlock",
+		"cn": "勿忘她的火焰",
+		"desc": null,
+		"en": "Never Forget Her Flame",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23050.webp",
+		"id": "23050",
+		"jp": "彼女の炎を忘れずに",
+		"kr": "그녀의 불꽃을 잊지 말라",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"匿影": {
 		"baseType": "Warlock",
 		"cn": "匿影",
