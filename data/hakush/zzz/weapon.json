@@ -194,6 +194,19 @@
 		"rank": 2,
 		"type": 3
 	},
+	"Item_Weapon_A_Common_19_Name": {
+		"CHS": "Item_Weapon_A_Common_19_Name",
+		"cn": "Item_Weapon_A_Common_19_Name",
+		"desc": "Item_Weapon_A_Common_19_ShortDesc",
+		"EN": "Item_Weapon_A_Common_19_Name",
+		"icon": "Weapon_A_Common_19",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_19.webp",
+		"id": "13019",
+		"JA": "Item_Weapon_A_Common_19_Name",
+		"KO": "Item_Weapon_A_Common_19_Name",
+		"rank": 3,
+		"type": 5
+	},
 	"人为刀俎": {
 		"CHS": "人为刀俎",
 		"cn": "人为刀俎",
