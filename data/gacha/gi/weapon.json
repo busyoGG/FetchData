@@ -19,6 +19,51 @@
 				"nameEn": "Vortex Vanquisher",
 				"weaponType": "Polearm",
 				"rankType": 5
+			},
+			{
+				"itemId": 11427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "船坞长剑",
+				"nameEn": "The Dockhand's Assistant",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "便携动力锯",
+				"nameEn": "Portable Power Saw",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼残章",
+				"nameEn": "Sacrificial Fragments",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15427,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Mechanic.webp",
+				"itemType": "Weapon",
+				"name": "测距规",
+				"nameEn": "Range Gauge",
+				"weaponType": "Bow",
+				"rankType": 4
 			}
 		],
 		"start": "2025-11-11 18:00:00",
