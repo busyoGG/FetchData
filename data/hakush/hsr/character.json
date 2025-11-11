@@ -449,7 +449,8 @@
 		"id": "1415",
 		"jp": "キュレネ",
 		"kr": "키레네",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1762336800
 	},
 	"星期日": {
 		"baseType": "Shaman",

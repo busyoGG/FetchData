@@ -2116,12 +2116,12 @@
 	"虹蛇的雨弦": {
 		"CHS": "虹蛇的雨弦",
 		"cn": "虹蛇的雨弦",
-		"desc": "",
+		"desc": "An ancient ceremonial weapon passed down by the Masters of the Night-Wind. This dark bow is forever wreathed in an unshakable chill.",
 		"EN": "Rainbow Serpent's Rain Bow",
 		"icon": "UI_EquipIcon_Bow_ElegguaBow",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_ElegguaBow.webp",
 		"id": "15434",
-		"JP": "虹蛇の雨弦JP0L",
+		"JP": "虹蛇の雨弦",
 		"KR": "무지개뱀의 현",
 		"rank": 4,
 		"type": "WEAPON_BOW"
@@ -2960,7 +2960,7 @@
 	"黎明破晓之史": {
 		"CHS": "黎明破晓之史",
 		"cn": "黎明破晓之史",
-		"desc": "",
+		"desc": "The songs of resistance come hither on the wind to settle as gentle tones upon these strings, their combined power great enough to rip boundless darkness asunder with the light of the breaking dawn.",
 		"EN": "The Daybreak Chronicles",
 		"icon": "UI_EquipIcon_Bow_Arianna",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arianna.webp",
@@ -3077,7 +3077,7 @@
 	"黑蚀": {
 		"CHS": "黑蚀",
 		"cn": "黑蚀",
-		"desc": "",
+		"desc": "A precious sword gifted by the Day King to the brave hero in the little witch's story, only for the witch to take it and defeat the hero herself.",
 		"EN": "Athame Artis",
 		"icon": "UI_EquipIcon_Sword_Motsognir",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Motsognir.webp",
