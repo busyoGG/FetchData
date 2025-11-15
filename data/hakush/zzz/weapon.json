@@ -207,6 +207,19 @@
 		"rank": 3,
 		"type": 5
 	},
+	"Item_Weapon_S_1431_Name": {
+		"CHS": "Item_Weapon_S_1431_Name",
+		"cn": "Item_Weapon_S_1431_Name",
+		"desc": "Item_Weapon_S_1431_ShortDesc",
+		"EN": "Item_Weapon_S_1431_Name",
+		"icon": "Weapon_S_1431",
+		"iconUrl": "/zzz/UI/Weapon_S_1431.webp",
+		"id": "14143",
+		"JA": "Item_Weapon_S_1431_Name",
+		"KO": "Item_Weapon_S_1431_Name",
+		"rank": 4,
+		"type": 1
+	},
 	"人为刀俎": {
 		"CHS": "人为刀俎",
 		"cn": "人为刀俎",
@@ -297,6 +310,19 @@
 		"KO": "천변하는 태양의 몰락",
 		"rank": 4,
 		"type": 1
+	},
+	"半糖冰雹": {
+		"CHS": "半糖冰雹",
+		"cn": "半糖冰雹",
+		"desc": "Item_Weapon_S_1341_ShortDesc",
+		"EN": "Item_Weapon_S_1341_Name",
+		"icon": "Weapon_S_1341",
+		"iconUrl": "/zzz/UI/Weapon_S_1341.webp",
+		"id": "14134",
+		"JA": "Item_Weapon_S_1341_Name",
+		"KO": "Item_Weapon_S_1341_Name",
+		"rank": 4,
+		"type": 5
 	},
 	"双生泣星": {
 		"CHS": "双生泣星",
@@ -470,13 +496,13 @@
 	"怒目金刚": {
 		"CHS": "怒目金刚",
 		"cn": "怒目金刚",
-		"desc": "Even the flames of purgatory couldn't break me.",
+		"desc": "The purging flames burned a hundred times, yet never cleansed me.",
 		"EN": "Wrathful Vajra",
 		"icon": "Weapon_S_1471",
 		"iconUrl": "/zzz/UI/Weapon_S_1471.webp",
 		"id": "14147",
 		"JA": "金剛不壊怒髪衝冠",
-		"KO": "",
+		"KO": "성난 눈의 금강",
 		"rank": 4,
 		"type": 6
 	},
@@ -561,13 +587,13 @@
 	"昨夜来电": {
 		"CHS": "昨夜来电",
 		"cn": "昨夜来电",
-		"desc": "That missed call you had? She picked it up.",
+		"desc": "That call you never picked up... she's the one who answered it.",
 		"EN": "Yesterday Calls",
 		"icon": "Weapon_S_1481",
 		"iconUrl": "/zzz/UI/Weapon_S_1481.webp",
 		"id": "14148",
 		"JA": "昨夜からの着信",
-		"KO": "",
+		"KO": "지난밤의 전화",
 		"rank": 4,
 		"type": 2
 	},

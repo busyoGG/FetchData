@@ -1,29 +1,4 @@
 {
-	"(Test1)琉音": {
-		"camp": 12,
-		"CHS": "(Test1)琉音",
-		"cn": "(Test1)琉音",
-		"code": "Dialyn",
-		"desc": "Partner_ProfileDesc_1481",
-		"element": 200,
-		"EN": "Azural",
-		"hit": 101,
-		"icon": "IconRole54",
-		"iconUrl": "/zzz/UI/IconRoleSelect54.webp",
-		"id": "1481",
-		"JA": "ダイアリン",
-		"KO": "다이아린",
-		"potential": [],
-		"rank": 4,
-		"skin": {
-			"3114810": {
-				"Desc": "AvatarSkin_Azural_Desc_000",
-				"Image": "IconRole29",
-				"Name": "AvatarSkin_Azural_Name_000"
-			}
-		},
-		"type": 2
-	},
 	"「11号」": {
 		"camp": 5,
 		"CHS": "「11号」",
@@ -105,6 +80,25 @@
 			}
 		},
 		"type": 2
+	},
+	"Avatar_Female_Size02_Zhenzhen": {
+		"camp": 10,
+		"CHS": "Avatar_Female_Size02_Zhenzhen",
+		"cn": "Avatar_Female_Size02_Zhenzhen",
+		"code": "Avatar_Female_Size02_Zhenzhen_En",
+		"desc": "Partner_ProfileDesc_1431",
+		"element": 200,
+		"EN": "Avatar_Female_Size02_Zhenzhen",
+		"hit": 101,
+		"icon": "",
+		"iconUrl": "/zzz/UI/.webp",
+		"id": "1431",
+		"JA": "Avatar_Female_Size02_Zhenzhen",
+		"KO": "Avatar_Female_Size02_Zhenzhen",
+		"potential": [],
+		"rank": 4,
+		"skin": {},
+		"type": 1
 	},
 	"丽娜": {
 		"camp": 2,
@@ -711,6 +705,31 @@
 		},
 		"type": 5
 	},
+	"照": {
+		"camp": 12,
+		"CHS": "照",
+		"cn": "照",
+		"code": "Avatar_Female_Size00_XiaoZhao_En",
+		"desc": "Partner_ProfileDesc_1341",
+		"element": 202,
+		"EN": "Avatar_Female_Size00_XiaoZhao",
+		"hit": 101,
+		"icon": "IconRole56",
+		"iconUrl": "/zzz/UI/IconRoleSelect56.webp",
+		"id": "1341",
+		"JA": "Avatar_Female_Size00_XiaoZhao",
+		"KO": "Avatar_Female_Size00_XiaoZhao",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3113410": {
+				"Desc": "AvatarSkin_XiaoZhao_Desc_000",
+				"Image": "IconRole01",
+				"Name": "AvatarSkin_XiaoZhao_Name_000"
+			}
+		},
+		"type": 5
+	},
 	"爱丽丝": {
 		"camp": 11,
 		"CHS": "爱丽丝",
@@ -791,6 +810,31 @@
 		},
 		"type": 2
 	},
+	"琉音": {
+		"camp": 12,
+		"CHS": "琉音",
+		"cn": "琉音",
+		"code": "Dialyn",
+		"desc": "...",
+		"element": 200,
+		"EN": "Dialyn",
+		"hit": 101,
+		"icon": "IconRole54",
+		"iconUrl": "/zzz/UI/IconRoleSelect54.webp",
+		"id": "1481",
+		"JA": "ダイアリン",
+		"KO": "다이아린",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3114810": {
+				"Desc": "AvatarSkin_Azural_Desc_000",
+				"Image": "IconRole29",
+				"Name": "AvatarSkin_Azural_Name_000"
+			}
+		},
+		"type": 2
+	},
 	"真斗": {
 		"camp": 11,
 		"CHS": "真斗",
@@ -842,11 +886,6 @@
 				"Desc": "AvatarSkin_JaneDoe_Desc_000",
 				"Image": "IconRole24",
 				"Name": "AvatarSkin_JaneDoe_Name_000"
-			},
-			"3112611": {
-				"Desc": "AvatarSkin_JaneDoe_Desc_001",
-				"Image": "IconRole24_01",
-				"Name": "AvatarSkin_JaneDoe_Name_001"
 			}
 		},
 		"type": 3
@@ -885,16 +924,16 @@
 		"camp": 12,
 		"CHS": "般岳",
 		"cn": "般岳",
-		"code": "Avatar_Male_Size03_BanYue_En",
-		"desc": "Partner_ProfileDesc_1471",
+		"code": "BanYue",
+		"desc": "...",
 		"element": 201,
-		"EN": "Avatar_Male_Size03_BanYue",
+		"EN": "Banyue",
 		"hit": 102,
 		"icon": "IconRole53",
 		"iconUrl": "/zzz/UI/IconRoleSelect53.webp",
 		"id": "1471",
-		"JA": "Avatar_Male_Size03_BanYue",
-		"KO": "Avatar_Male_Size03_BanYue",
+		"JA": "盤岳",
+		"KO": "반악",
 		"potential": [],
 		"rank": 4,
 		"skin": {
