@@ -207,15 +207,15 @@
 		"rank": 3,
 		"type": 5
 	},
-	"Item_Weapon_S_1431_Name": {
-		"CHS": "Item_Weapon_S_1431_Name",
-		"cn": "Item_Weapon_S_1431_Name",
-		"desc": "Item_Weapon_S_1431_ShortDesc",
-		"EN": "Item_Weapon_S_1431_Name",
+	"云霓孤光": {
+		"CHS": "云霓孤光",
+		"cn": "云霓孤光",
+		"desc": "Test text",
+		"EN": "Lone Light in the Clouds",
 		"icon": "Weapon_S_1431",
 		"iconUrl": "/zzz/UI/Weapon_S_1431.webp",
 		"id": "14143",
-		"JA": "Item_Weapon_S_1431_Name",
+		"JA": "雲霓孤光",
 		"KO": "Item_Weapon_S_1431_Name",
 		"rank": 4,
 		"type": 1
@@ -314,12 +314,12 @@
 	"半糖冰雹": {
 		"CHS": "半糖冰雹",
 		"cn": "半糖冰雹",
-		"desc": "Item_Weapon_S_1341_ShortDesc",
-		"EN": "Item_Weapon_S_1341_Name",
+		"desc": "Test text",
+		"EN": "Half-Sugar Hail",
 		"icon": "Weapon_S_1341",
 		"iconUrl": "/zzz/UI/Weapon_S_1341.webp",
 		"id": "14134",
-		"JA": "Item_Weapon_S_1341_Name",
+		"JA": "ハーフシュガーアイス",
 		"KO": "Item_Weapon_S_1341_Name",
 		"rank": 4,
 		"type": 5

@@ -81,25 +81,6 @@
 		},
 		"type": 2
 	},
-	"Avatar_Female_Size02_Zhenzhen": {
-		"camp": 10,
-		"CHS": "Avatar_Female_Size02_Zhenzhen",
-		"cn": "Avatar_Female_Size02_Zhenzhen",
-		"code": "Avatar_Female_Size02_Zhenzhen_En",
-		"desc": "Partner_ProfileDesc_1431",
-		"element": 200,
-		"EN": "Avatar_Female_Size02_Zhenzhen",
-		"hit": 101,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
-		"id": "1431",
-		"JA": "Avatar_Female_Size02_Zhenzhen",
-		"KO": "Avatar_Female_Size02_Zhenzhen",
-		"potential": [],
-		"rank": 4,
-		"skin": {},
-		"type": 1
-	},
 	"丽娜": {
 		"camp": 2,
 		"CHS": "丽娜",
@@ -279,6 +260,32 @@
 				"Name": "AvatarSkin_Corin_Name_000"
 			}
 		},
+		"type": 1
+	},
+	"叶瞬光": {
+		"camp": 10,
+		"CHS": "叶瞬光",
+		"cn": "叶瞬光",
+		"code": "Avatar_Female_Size02_Zhenzhen_En",
+		"desc": "Partner_ProfileDesc_1431",
+		"element": 200,
+		"EN": "Avatar_Female_Size02_Zhenzhen",
+		"hit": 101,
+		"icon": "IconRole55",
+		"iconUrl": "/zzz/UI/IconRoleSelect55.webp",
+		"id": "1431",
+		"JA": "Avatar_Female_Size02_Zhenzhen",
+		"KO": "Avatar_Female_Size02_Zhenzhen",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3114310": {
+				"Desc": "Can you tell what the umbrella conceals? A tanuki, a trap, a ghost, or a girl's sly, spirited smile?",
+				"Image": "IconRole47",
+				"Name": "Yuzuha: Tanuki Under the Shade"
+			}
+		},
+		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconHonedEdge.png",
 		"type": 1
 	},
 	"奥菲丝&「鬼火」": {
