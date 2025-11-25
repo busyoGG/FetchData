@@ -1,5 +1,69 @@
 [
 	{
+		"version": "月之三下半",
+		"items": [
+			{
+				"itemId": 10000111,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Varesa.webp",
+				"itemType": "Character",
+				"name": "瓦雷莎",
+				"nameEn": "Varesa",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000103,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xilonen.webp",
+				"itemType": "Character",
+				"name": "希诺宁",
+				"nameEn": "Xilonen",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			}
+		],
+		"start": "2025-12-23 18:00:00",
+		"end": "2026-01-13 14:59:00"
+	},
+	{
+		"version": "月之三上半",
+		"items": [
+			{
+				"itemId": 10000123,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Durin.webp",
+				"itemType": "Character",
+				"name": "杜林",
+				"nameEn": "Durin",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000022,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Venti.webp",
+				"itemType": "Character",
+				"name": "温迪",
+				"nameEn": "Venti",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000124,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Jahoda.webp",
+				"itemType": "Character",
+				"name": "雅珂达",
+				"nameEn": "Jahoda",
+				"weaponType": "Bow",
+				"rankType": 4,
+				"element": "Anemo"
+			}
+		],
+		"start": "2025-12-03 10:00:00",
+		"end": "2025-12-23 17:59:00"
+	},
+	{
 		"version": "月之二下半",
 		"items": [
 			{
