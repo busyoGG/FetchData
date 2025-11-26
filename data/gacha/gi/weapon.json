@@ -35,6 +35,15 @@
 				"nameEn": "Athame Artis",
 				"weaponType": "Sword",
 				"rankType": 5
+			},
+			{
+				"itemId": 15515,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Arianna.webp",
+				"itemType": "Weapon",
+				"name": "黎明破晓之史",
+				"nameEn": "The Daybreak Chronicles",
+				"weaponType": "Bow",
+				"rankType": 5
 			}
 		],
 		"start": "2025-12-03 10:00:00",
