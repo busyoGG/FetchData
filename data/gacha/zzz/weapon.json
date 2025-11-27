@@ -40,6 +40,16 @@
 		"version": "2.4.1",
 		"items": [
 			{
+				"itemId": 14148,
+				"imageUrl": "/zzz/UI/Weapon_S_1481.webp",
+				"itemType": "Weapon",
+				"name": "昨夜来电",
+				"nameEn": "Yesterday Calls",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 5
+			},
+			{
 				"itemId": 14129,
 				"imageUrl": "/zzz/UI/Weapon_S_1291.webp",
 				"itemType": "Weapon",
