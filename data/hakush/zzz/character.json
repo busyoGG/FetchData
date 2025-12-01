@@ -269,12 +269,12 @@
 		"code": "Avatar_Female_Size02_Zhenzhen_En",
 		"desc": "Partner_ProfileDesc_1431",
 		"element": 200,
-		"EN": "Ye Shunguang",
+		"EN": "Avatar_Female_Size02_Zhenzhen",
 		"hit": 101,
 		"icon": "IconRole55",
 		"iconUrl": "/zzz/UI/IconRoleSelect55.webp",
 		"id": "1431",
-		"JA": "葉瞬光",
+		"JA": "Avatar_Female_Size02_Zhenzhen",
 		"KO": "Avatar_Female_Size02_Zhenzhen",
 		"potential": [],
 		"rank": 4,
@@ -283,6 +283,11 @@
 				"Desc": "Can you tell what the umbrella conceals? A tanuki, a trap, a ghost, or a girl's sly, spirited smile?",
 				"Image": "IconRole47",
 				"Name": "Yuzuha: Tanuki Under the Shade"
+			},
+			"3114311": {
+				"Desc": "Ghost stories aren't born only in shadows. Unconvinced? Just lock eyes with that playful young lady splashing in the water. She'll possess your thoughts, while Kama sneaks away with your drink.",
+				"Image": "IconRole47_01",
+				"Name": "Yuzuha: Tanuki in Broad Daylight"
 			}
 		},
 		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconHonedEdge.png",
@@ -411,9 +416,9 @@
 		"rank": 4,
 		"skin": {
 			"3112010": {
-				"Desc": "",
+				"Desc": "AvatarSkin_Harumasa_Desc_000",
 				"Image": "IconRole35",
-				"Name": ""
+				"Name": "AvatarSkin_Harumasa_Name_000"
 			}
 		},
 		"type": 1
@@ -548,9 +553,9 @@
 		"rank": 4,
 		"skin": {
 			"3112210": {
-				"Desc": "",
+				"Desc": "AvatarSkin_Yanagi_Desc_000",
 				"Image": "IconRole31",
-				"Name": ""
+				"Name": "AvatarSkin_Yanagi_Name_000"
 			}
 		},
 		"type": 3
@@ -717,7 +722,7 @@
 		"CHS": "照",
 		"cn": "照",
 		"code": "Avatar_Female_Size00_XiaoZhao_En",
-		"desc": "Partner_ProfileDesc_1341",
+		"desc": "...",
 		"element": 202,
 		"EN": "Avatar_Female_Size00_XiaoZhao",
 		"hit": 101,
@@ -931,7 +936,7 @@
 		"camp": 12,
 		"CHS": "般岳",
 		"cn": "般岳",
-		"code": "BanYue",
+		"code": "Banyue",
 		"desc": "Banyue is an Intelligent Construct who runs a martial arts school in Waifei, known to many as \"Banyue Shifu.\" He has lived for a long time, his stone-lion-like presence commanding respect. A martial arts expert of great skill, he shares a long-standing friendship with Yunkui Summit's current High Preceptor, Yixuan.\n\nAs a martial master, Banyue is quiet but dependable. His methods and beliefs are rooted in tradition, and he disciplines his students with strict yet thoughtful guidance, teaching them not just how to fight, but how to learn. Known as a true master of the martial arts, in battle, he can assume a special form known as the Visage of Wrath to vanquish all evil.\n\nA long inhabitant of Waifei, Banyue is quiet and even-tempered. He doesn't express emotions easily and has the manner of someone from another era. Knowing he's out of touch with modern trends, he's been secretly trying to learn the latest internet slang... yet his half-baked grasp of it tends to end in funny little misunderstandings.\n\nBanyue also appears to have a strange liking for round things — stone balls, spherical bollards, and the like. If the conversation ever goes silent while you're alone with him, bringing up something spherical usually does the trick.",
 		"element": 201,
 		"EN": "Banyue",
@@ -1057,9 +1062,9 @@
 		"rank": 4,
 		"skin": {
 			"3111610": {
-				"Desc": "",
+				"Desc": "AvatarSkin_Lighter_Desc_000",
 				"Image": "IconRole26",
-				"Name": ""
+				"Name": "AvatarSkin_Lighter_Name_000"
 			}
 		},
 		"type": 2
@@ -1137,9 +1142,9 @@
 		"rank": 4,
 		"skin": {
 			"3110910": {
-				"Desc": "",
+				"Desc": "AvatarSkin_Unagi_Desc_000",
 				"Image": "IconRole13",
-				"Name": ""
+				"Name": "AvatarSkin_Unagi_Name_000"
 			}
 		},
 		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
