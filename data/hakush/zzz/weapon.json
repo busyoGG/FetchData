@@ -202,8 +202,8 @@
 		"icon": "Weapon_S_1431",
 		"iconUrl": "/zzz/UI/Weapon_S_1431.webp",
 		"id": "14143",
-		"JA": "彩雲に差す孤光",
-		"KO": "Item_Weapon_S_1431_Name",
+		"JA": "孤光彩雲",
+		"KO": "구름을 헤친 빛",
 		"rank": 4,
 		"type": 1
 	},
@@ -298,16 +298,16 @@
 		"rank": 4,
 		"type": 1
 	},
-	"半糖冰雹": {
-		"CHS": "半糖冰雹",
-		"cn": "半糖冰雹",
+	"半糖雪兔": {
+		"CHS": "半糖雪兔",
+		"cn": "半糖雪兔",
 		"desc": "...",
-		"EN": "Half-Sugar Hail",
+		"EN": "Half-Sugar Bunny",
 		"icon": "Weapon_S_1341",
 		"iconUrl": "/zzz/UI/Weapon_S_1341.webp",
 		"id": "14134",
-		"JA": "ハーフシュガーアイス",
-		"KO": "당도 50% 우박",
+		"JA": "甘さ控えめ雪うさぎ",
+		"KO": "당도 50% 눈토끼",
 		"rank": 4,
 		"type": 5
 	},
@@ -1047,8 +1047,8 @@
 		"icon": "Weapon_A_Common_19",
 		"iconUrl": "/zzz/UI/Weapon_A_Common_19.webp",
 		"id": "13019",
-		"JA": "青衣の霊鼎",
-		"KO": "Item_Weapon_A_Common_19_Name",
+		"JA": "蒼き波の霊器",
+		"KO": "푸른 물결의 솥",
 		"rank": 3,
 		"type": 6
 	},
