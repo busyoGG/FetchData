@@ -799,12 +799,12 @@
 	"帷间夜曲": {
 		"CHS": "帷间夜曲",
 		"cn": "帷间夜曲",
-		"desc": "",
+		"desc": "A jade pearl shrouded in the light of the moon. Even in the coldest winter night, its gentle warmth lingers like a song.",
 		"EN": "Nocturne's Curtain Call",
 		"icon": "UI_EquipIcon_Catalyst_Brisingamen",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Brisingamen.webp",
 		"id": "14522",
-		"JP": "帷の間の夜曲JP0D",
+		"JP": "帳の夜曲",
 		"KR": "막간의 야상곡",
 		"rank": 5,
 		"type": "WEAPON_CATALYST"
@@ -1202,12 +1202,12 @@
 	"朏魄含光": {
 		"CHS": "朏魄含光",
 		"cn": "朏魄含光",
-		"desc": "",
+		"desc": "A legendary sword, said to be forged from the glimmering moonlight gathered in a well by an adeptus hidden among clear springs. Its true form is revealed only at the meeting of dusk and dawn.",
 		"EN": "Lightbearing Moonshard",
 		"icon": "UI_EquipIcon_Sword_SilverwareSaw",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_SilverwareSaw.webp",
 		"id": "11519",
-		"JP": "光を纏う月魂JP0D",
+		"JP": "三日月の含光",
 		"KR": "신월의 달빛",
 		"rank": 5,
 		"type": "WEAPON_SWORD_ONE_HAND"
