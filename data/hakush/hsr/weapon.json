@@ -2,7 +2,7 @@
 	"「我」的诞生": {
 		"baseType": "Mage",
 		"cn": "「我」的诞生",
-		"desc": null,
+		"desc": "In the beginning, it had the exact same pose as the previous portrait.\\nLooking at the face identical to hers, she was convinced that this was not her.\\n\\n<i>\"Impossible. How can two portraits be exactly the same?\"</i>\\n\\nShe tweaked its joints, opened its eyes, and made its fingers softer.\\nShe looked happy when all the changes were done.\\n\\n<i>\"Completely different from yesterday. This is more like who I am today.\"</i>",
 		"en": "The Birth of the Self",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21006.webp",
 		"id": "21006",
@@ -13,7 +13,7 @@
 	"一场术后对话": {
 		"baseType": "Priest",
 		"cn": "一场术后对话",
-		"desc": null,
+		"desc": "<i>\"You're awake... Thank you.\"\\n\"You... saved my life, Natasha. The one who should be saying thanks... is me.\"\\n\"No, I should be thanking you... for holding on until I finished the surgery.\"</i>\\n\\nThe doctor and patient smiled wearily at each other and said nothing more.",
 		"en": "Post-Op Conversation",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21000.webp",
 		"id": "21000",
@@ -24,7 +24,7 @@
 	"一行往日的血": {
 		"baseType": "Warrior",
 		"cn": "一行往日的血",
-		"desc": null,
+		"desc": "A storm broods in the distance. Tentacles extend from the Sea of Souls, as if intending to toy with that floating, fragile life.\\nThe broken limbs of the sea beast hammer giant sprays skyward, and sink into the oceanic abyss after shattering like rubble.\\n\\nThey say that the roar of the fight lasted for ten days and nights, overwhelming even the thunder and lightning.\\nThey say that even if a man had ten thousand lives, he would not be enough to resist the Sea of Souls's erosion.\\n\\nThen, courage washes away the immaturity and cold pride tempered timidity —\\n\\nAnd that thin figure stumbled onto the shore. The first ray of the morning sun shines down upon the sea's waters, dyeing it like past blood.",
 		"en": "A Trail of Bygone Blood",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21058.webp",
 		"id": "21058",
@@ -35,7 +35,7 @@
 	"不息的演算": {
 		"baseType": "Mage",
 		"cn": "不息的演算",
-		"desc": null,
+		"desc": "Eternally suspended in the void,\\nStreams of shimmering data flood into THEIR mind.\\nTurning all things past and future into symbols,\\nTHEY deduce the end from the beginning.\\nKnowledge, answers, truths...\\nIn the mist of information, a brilliant light arises,\\nAnd everything becomes clear to THEM.",
 		"en": "Eternal Calculus",
 		"iconUrl": "/hsr/UI/lightconemediumicon/24004.webp",
 		"id": "24004",
@@ -46,7 +46,7 @@
 	"与行星相会": {
 		"baseType": "Shaman",
 		"cn": "与行星相会",
-		"desc": null,
+		"desc": "She had no idea what to expect when she first started out on this journey.\\nAll she knew was that she could at long last be rid of the judgmental eyes and petty bickering of her family.\\nShe felt she finally understood what the poet was trying to say.\\n<i>\"One day, we would grow wings and forget what it was like to walk.\"</i>\\n\\nThe light in her eyes became the glittering stars.",
 		"en": "Planetary Rendezvous",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21011.webp",
 		"id": "21011",
@@ -57,7 +57,7 @@
 	"两个人的演唱会": {
 		"baseType": "Knight",
 		"cn": "两个人的演唱会",
-		"desc": null,
+		"desc": "<i>\"Big brother, what's this...\"</i>\\n<i>\"It's been so long since you sang with joy... I've built a stage for you, though it's... a bit rudimentary.\"</i>\\n<i>\"But the teacher thinks I'm not cut out for this...\"</i>\\n<i>\"Nonsense, I think you sound amazing! And your dreams will definitely come true. You deserve to sing on a bigger stage...\"</i>\\n...\\n\\nMany years later, she stood on a dazzling stage, looking at the surging fans below, but lost herself for a moment...\\nOn the long journey of chasing dreams, she would always remember that trusting gaze and her first \"concert.\"\\nNo glamorous lights, no elaborate makeup, just a child building a stage to encourage another child to pursue their dreams.\\n\\n<i>\"Now, our dreams have come true. But... are they still 'our' dreams?\"</i>\\nShe tightened her grip on the microphone. Before the next song began, she didn't even have time to feel sad.",
 		"en": "Concert for Two",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21043.webp",
 		"id": "21043",
@@ -68,7 +68,7 @@
 	"为了明日的旅途": {
 		"baseType": "Shaman",
 		"cn": "为了明日的旅途",
-		"desc": null,
+		"desc": "The hands of the compass keep turning until they point to the moment of dreams.\\nThe Asdana system, overflowing with memoria, glows with a soft light outside the train's windows. The frontier prison within is currently engulfed in the fires of war.\\n\\n<i>\"Hey guys, what do you suppose the world within the dream would look like?? I must meticulously map it out!\"</i>\\nThe girl, packing away her surveying tools, gazes at the new world within reach, filled with anticipation.\\n<i>\"That place is a mess. Don't you run off once we get there. I won't have you two getting kidnapped again...\"</i>\\nThe man in cowboy attire grumbles as he cleans his weapon, then walks over to the sofa with a drink, shaking his head in resignation.\\n<i>\"The Land of the Dreams promises infinite possibilities. We'll surely make our mark... Hey, conductor, if we fall in love with that place and never return, would you miss us?\"</i>\\nThe Nameless dressed like a gentleman winks at Pom-Pom, smiling.\\n<i>\"'You can't joke at the conductor's expense like this!' Is that what you want to say, conductor?\" </i>The girl's mischievous grin spreads across her face.\\n<i>\"You guys are! So! Mean!\"</i>\\nBubbles drift up and down in the glass as the Express fills up with joyful laughter.\\n...\\n\\nThe youthful silhouettes of these Nameless get gradually swallowed by memoria.\\n<i>\"Have a... safe... trip...please...\"</i>\\nWhen the conductor turns their head, the Express is already empty.\\nThe conductor stands frozen, this scene hauntingly familiar, as if lived through countless times before.",
 		"en": "For Tomorrow's Journey",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22002.webp",
 		"id": "22002",
@@ -79,7 +79,7 @@
 	"乐圮": {
 		"baseType": "Warrior",
 		"cn": "乐圮",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"Absolute control comes from the ability to inflict total destruction.\"</i>",
 		"en": "Shattered Home",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20009.webp",
 		"id": "20009",
@@ -90,7 +90,7 @@
 	"于夜色中": {
 		"baseType": "Rogue",
 		"cn": "于夜色中",
-		"desc": null,
+		"desc": "A young girl smiles subtly.\\n<i>\"How?\"\\n\"Right here, right now, I am alone...\"\\n\"But it feels... very lively.\"</i>",
 		"en": "In the Night",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23001.webp",
 		"id": "23001",
@@ -101,7 +101,7 @@
 	"于那终点再见": {
 		"baseType": "Rogue",
 		"cn": "于那终点再见",
-		"desc": null,
+		"desc": "Unwilling tears trailed down his cheeks. At the heart of the shattered ritual array lingered not just death's shadow, but an abyss of silence and emptiness.\\n\\nThen, a sigh trembled through the darkness — a ripple from the \"soul's\" deepest recesses.\\n<i>\"Is that you... Sister...\"</i>\\nThe boy lifted his hand, a weak light flickering in his eyes. The silhouette of his loved one lingered but a breath, yet its imprint etched a millennium into his heart.\\n\\n<i>\"I see... Thank you... for this final farewell.\"</i>\\nHe rose slowly. Dawn's first rays caressed his resolute face, still streaked with tears.\\n\\n<i>\"The path of seeking is a solitary one... Let us meet again at the journey's end.\"</i>",
 		"en": "See You at the End",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21062.webp",
 		"id": "21062",
@@ -112,7 +112,7 @@
 	"今日亦是和平的一日": {
 		"baseType": "Mage",
 		"cn": "今日亦是和平的一日",
-		"desc": null,
+		"desc": "There is the new book borrowed for lunch and she just figured out a new way to play tiles.\\nIf she works slowly, the rest of her job should last exactly till the end of day.\\nShe ducks easily into a corner.\\n\\nNo one must disturb her in her wonderful off time\\n— not even diviner Fu.\\nJust on the off chance that she does show up...\\n\\n<i>\"Then I'll give this milk candy ball to Diviner Fu. She can't be angry after having sweets!\"</i>",
 		"en": "Today Is Another Peaceful Day",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21034.webp",
 		"id": "21034",
@@ -123,7 +123,7 @@
 	"以世界之名": {
 		"baseType": "Warlock",
 		"cn": "以世界之名",
-		"desc": null,
+		"desc": "<i>\"Welt...?\"\\n\"It's a... great name, right?\"\\n\"Then...\"\\n\"From now on, you are Welt.\"\\n\"This Herrscher core... and the mission to protect the world...\"\\n\"I'll leave them to you, Welt.\"</i>",
 		"en": "In the Name of the World",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23004.webp",
 		"id": "23004",
@@ -134,7 +134,7 @@
 	"但战斗还未结束": {
 		"baseType": "Shaman",
 		"cn": "但战斗还未结束",
-		"desc": null,
+		"desc": "<i>\"Remember, the war with the monsters cannot be won by retreating.\"\\n\"We are the last defense, the final iron wall between them and Belobog...\"\\n\"We cannot retreat under any circumstances!\"</i>\\n\\nShe looks up to see the frozen earth and endless winter ahead.\\nBusiness as usual.\\nOnly that... the figure at which she had been gazing is gone.",
 		"en": "But the Battle Isn't Over",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23003.webp",
 		"id": "23003",
@@ -145,7 +145,7 @@
 	"何物为真": {
 		"baseType": "Priest",
 		"cn": "何物为真",
-		"desc": null,
+		"desc": "<i>\"If all the clocks are displaying the wrong time...\"</i>\\n<i>\"If those bound to promises fulfilled their vows through betrayal...\"</i>\\n<i>\"If those who sink into the realm of dreams never truly fell asleep...\"</i>\\n<i>\"If the dead return to life, only to discover their names have been stripped...\"</i>\\n\\n<i>\"If... if...\"</i>\\nHe blows out the flame, and in darkness, there is but the eternal ticking of the timepiece.",
 		"en": "What Is Real?",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21035.webp",
 		"id": "21035",
@@ -156,7 +156,7 @@
 	"余生的第一天": {
 		"baseType": "Knight",
 		"cn": "余生的第一天",
-		"desc": null,
+		"desc": "<i>\"So happy I got to see Pom-Pom in new clothes today! I like it~\"\\n\"Today's my birthday! I'm still as cute as ever.\"\\n\"Today, I finally finally finally have a junior! Isn't that right, {NICKNAME}?\"</i>\\n\\nWe click the shutter many times without thinking.\\nDo we do that to capture the happiness at that moment?\\nOr to capture ourselves at that moment?",
 		"en": "Day One of My New Life",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21002.webp",
 		"id": "21002",
@@ -167,7 +167,7 @@
 	"俱殁": {
 		"baseType": "Warrior",
 		"cn": "俱殁",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"How does one make perfect the past of a planet? Now — immediately — rend the planet asunder.\"</i>",
 		"en": "Mutual Demise",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20016.webp",
 		"id": "20016",
@@ -178,7 +178,7 @@
 	"假日浴场大冒险": {
 		"baseType": "Warlock",
 		"cn": "假日浴场大冒险",
-		"desc": null,
+		"desc": "<i>\"Cinny, let's go try out that new special bath that recently opened.\"</i>\\n\\nAfter finishing her medical duties in Okhema, the girl followed the curious child into the eclectic set of pools.\\n\\n<i>\"How about a Tomato Juice Massage?\"</i>\\nStaring at the attendant's crimson-stained hands, she hugged the eager Little Ica and retreated—\\n<i>\"I prefer something... drinkable....\"</i>\\n\\n<i>\"Dromas back massage, limited-time discount!\"</i>\\nA curious dromas lowered its head, its hot breath tousling her hair.\\n<i>\"N—Next time, maybe!\"</i>\\n\\n<i>\"Herbal Bath — strengthens body and soul! How many in your party?\"</i>\\nLured by the fragrant herbs, she tentatively dipped a foot into the pool.\\n<i>\"This... seems healthy...\"</i>\\n\\n<i>\"Doot, doot-doot!\"</i>\\nLittle Ica floated blissfully on its back.\\n<i>\"Guess even you needed a break from all we've been doing recently...\"</i>\\n\\nOn this rare day off, sipping grape juice, the girl chatted with the red-haired child about everything from sleep tips to pastry recipes.\\n\\n<i>\"Oh no—Little Ica!\"</i>\\nThe child's shriek shattered the bathhouse's calm.\\n\\n<i>\"Doot...\"\\n\"Hold on, Little Ica!\"</i>",
 		"en": "Holiday Thermae Escapade",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21061.webp",
 		"id": "21061",
@@ -189,7 +189,7 @@
 	"偏偏希望无价": {
 		"baseType": "Mage",
 		"cn": "偏偏希望无价",
-		"desc": null,
+		"desc": "<i>\"Lady Bonajade, if it weren't for your continuous supply of goods and donations, the orphanage would probably...\"</i>\\nShe gently stroked the children's heads, cutting off the director's words.\\n<i>\"As long as I'm here, there's no need to worry about the days ahead... And there's no need to say these things to the children, it only adds to their worries.\"</i>\\n\\nThe children looked up, chattering with her about recent happenings, their worries, and their dreams.\\n<i>\"Lady Bonajade, when are you gonna come visit us again?\"</i>\\n<i>\"Don't work too hard, and make sure you get lotsa sleep...\"</i>\\n<i>\"Lady Bonajade, when I grow up, I want to be someone like you!\"</i>\\nShe looked at the children's clear eyes and paused for a moment.\\n<i>\"Someone like me...\"</i>\\nThe child handed her an apple, <i>\"Yes! Someone who brings light and hope to others!\"</i>\\n\\nPoverty, demerits, sorrow, suffering... She walked among the galaxies, taking others' pledges and giving equivalent returns.\\nLife exists for desire, runs on it, and dies from it — this is an irrefutable law, as well as an inevitability of life itself.\\nA philanthropist with a hidden agenda, a villainous merchant who mortgages souls... She was labeled by the world in many such ways, yet only she understood the true morals behind these actions.",
 		"en": "Yet Hope Is Priceless",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23028.webp",
 		"id": "23028",
@@ -200,7 +200,7 @@
 	"最后的赢家": {
 		"baseType": "Rogue",
 		"cn": "最后的赢家",
-		"desc": null,
+		"desc": "<i>\"You don't believe me?\"</i>\\nHe provocatively looks at the man before him, then draws out a revolver, empties its cylinder, and leaves a single shot in the chamber.\\n\\n<i>\"Seems like I'll need to get you up to speed on how I do things if our cooperation were to remain amicable.\"</i>\\nHe pushes the gun into his opponent's hand, spins the cylinder, and points the barrel to his own chest.\\n\\nHe pulls the trigger repeatedly, and the smile on his face remains the same after three empty clicks.\\n<i>\"Life is a grand gamble, and I'll always be the final victor.\"</i>",
 		"en": "Final Victor",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21037.webp",
 		"id": "21037",
@@ -211,7 +211,7 @@
 	"决心如汗珠般闪耀": {
 		"baseType": "Warlock",
 		"cn": "决心如汗珠般闪耀",
-		"desc": null,
+		"desc": "The limelight cast on the boxing ring is bright, but no brighter than all those beads of sweat running down his back.\\n\\nHe has long been determined to use his two fists to protect those he cherishes the most.\\nAfter all, they are the ones who ignited his determination in the first place.\\nThey are the ones who have always been there for him, be it inside or outside the boxing ring.",
 		"en": "Resolution Shines As Pearls of Sweat",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21015.webp",
 		"id": "21015",
@@ -222,7 +222,7 @@
 	"别让世界静下来": {
 		"baseType": "Mage",
 		"cn": "别让世界静下来",
-		"desc": null,
+		"desc": "She stood on the stage, waving at her audience, encouraging them to make their voice heard.\\nSongs, shouts, or laments — anything that makes a sound.\\nVoice your thoughts, so others can come to help.\\n\\n<i>\"Don't make your heart as cold as this concrete jungle.\"</i>\\n\\n— Make the world clamor.",
 		"en": "Make the World Clamor",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21013.webp",
 		"id": "21013",
@@ -233,7 +233,7 @@
 	"到不了的彼岸": {
 		"baseType": "Warrior",
 		"cn": "到不了的彼岸",
-		"desc": null,
+		"desc": "He would come to this place every year, bringing new swords with him each time.\\nHe had seen all the owners of the swords draw their last breath.\\nEvery time he leaves, he would sorrowfully ponder...\\n\\nWhen would his own blade be brought here by someone else?",
 		"en": "The Unreachable Side",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23009.webp",
 		"id": "23009",
@@ -244,7 +244,7 @@
 	"制胜的瞬间": {
 		"baseType": "Knight",
 		"cn": "制胜的瞬间",
-		"desc": null,
+		"desc": "<i>\"If you want to cry after your loss, Gepard, then cry.\"\\n\"But you need to stand back up even when you are crying, until you can defeat me... Even if it takes years.\"</i>\\nA few years later, the boy no longer cried or lost to his sister.\\n\\nNow on the battle field, the courageous Silvermane Guard captain will defend till the end no matter what\\n— all to find the moment to completely destroy the enemy.",
 		"en": "Moment of Victory",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23005.webp",
 		"id": "23005",
@@ -255,7 +255,7 @@
 	"勿忘她的火焰": {
 		"baseType": "Warlock",
 		"cn": "勿忘她的火焰",
-		"desc": null,
+		"desc": "<i>\"Come, come to me...\"</i>\\nA vivid memory, guided by flames, envelops her body and soul.\\n\\nThe bygone days had fallen into the grave, is that true?\\n<i>\"Hush, don't weep, don't resist...\"</i>\\nShe brands herself onto others' hearts, as strange gazes gradually turn familiar.\\n<i>\"Do you remember now?\"</i>\\n\\nAs the embers of old memories scatter away, her face carries a trace of intoxicating floral fragrance...\\n<i>\"I am your memory.\"</i>",
 		"en": "Never Forget Her Flame",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23050.webp",
 		"id": "23050",
@@ -266,7 +266,7 @@
 	"匿影": {
 		"baseType": "Warlock",
 		"cn": "匿影",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"The Nihility might find us, but there is a non-zero chance that they might not.\"</i>",
 		"en": "Hidden Shadow",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20018.webp",
 		"id": "20018",
@@ -277,7 +277,7 @@
 	"只需等待": {
 		"baseType": "Warlock",
 		"cn": "只需等待",
-		"desc": null,
+		"desc": "<i>\"Could it be that there's something you haven't told me?\"\\n\\n</i>She watches as their neck stiffens, as if a lump is blocking their throat.\\nShe knows she is feared, and that no further step is needed.\\nAt this point, it no longer mattered what she said.\\nAny word she utters radiates horror...\\nThey stand no chance against her, and have no choice but to blurt out what she wants to hear.\\n\\nLike a spider waiting in its web, patience is all she needs.",
 		"en": "Patience Is All You Need",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23006.webp",
 		"id": "23006",
@@ -288,7 +288,7 @@
 	"同一种心情": {
 		"baseType": "Priest",
 		"cn": "同一种心情",
-		"desc": null,
+		"desc": "When the doctor found the wounded girl, she was clinging to a machine that had stopped working, with all sorts of parts filling her pocket.\\nShe took the girl back to her clinic and treated the wounds.\\nDrops of sweat slowly rolled down the girl's cheek, but she remained silent and her hands didn't stop fiddling the machine.\\nTo the doctor, the way the girl was attached to the machine was very much like how she was attached to her patients who needed help.\\nSo the doctor did not try to comfort the girl nor did she nag her about being more careful; but rather, she sat down with her to give her a moment of peace.",
 		"en": "Shared Feeling",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21007.webp",
 		"id": "21007",
@@ -299,7 +299,7 @@
 	"后会有期": {
 		"baseType": "Warlock",
 		"cn": "后会有期",
-		"desc": null,
+		"desc": "She had once thought it was some sort of program. How else would it never tire?\\nBut a program would never actively discard the optimal solution and bypass her trap.\\n\\n<i>\"Seems like we'll have a war of attrition.\"</i>\\nShe yawns.\\n\\n<i>\"Time to sleep. Organic lifeforms should treasure rest.\"</i>\\nThe surroundings dim.\\n\\nShe suddenly bolts awake, but the residues of data are swept away and destroyed. It all seems like a dream\\n— but the taste of defeat is very real.",
 		"en": "We Will Meet Again",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21029.webp",
 		"id": "21029",
@@ -310,7 +310,7 @@
 	"向着不可追问处": {
 		"baseType": "Mage",
 		"cn": "向着不可追问处",
-		"desc": null,
+		"desc": "<i>\"The Intelligentsia Guild's letters have been handled.\"</i>\\n<i>\"The Simulated Universe is functioning normally...\"</i>\\n<i>\"Literary collections have been reprinted.\"</i>\\n<i>\"Hey. Shhh. Don't bother Madam Herta...\"</i>\\n\\n...Within a great tower on the edge of the cosmos, puppets work methodically, dealing with all manner of chores in anticipation of her arrival.\\nTime passes. Countless people drift through the canvas of time like meteors streaking across the night sky, bright for an instant, before ultimately returning to silence.\\n<i>\"Madam Herta hasn't shown herself in a long time...\"</i>\\n<i>\"Is she still thinking...?\"</i>\\n\\n<i>\"Hmmm. Thought this would all be done after discovering a few axioms?\"</i>\\nShe stretches, lifting her head from the calculations, and another thought surfaces in her mind...\\n<i>\"Nothing is irrefutable. I will chase these questions to the end!\"</i>",
 		"en": "Into the Unreachable Veil",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23037.webp",
 		"id": "23037",
@@ -321,7 +321,7 @@
 	"命运从未公平": {
 		"baseType": "Knight",
 		"cn": "命运从未公平",
-		"desc": null,
+		"desc": "With the final card revealed, despondency, rage, acceptance, and sangfroid... A cascade of emotions drops onto the faces of his opponents.\\n<i>\"Now that we're all here, why don't we spice things up a bit?\"</i>\\nHe puts in all his chips. Those who have cut their losses leave the table, cursing profanities and secretly hoping that he would lose.\\n\\nVictories, reputation, fortune... He cares not for any of that. Instead, he's enthralled only by those moments that make his very life quiver —\\nAfter all, hell is but one choice away from heaven.\\n\\nThe chips are cast, sorrow fills the air, and the illusory sense of satisfaction dissipates in an instant when the dust finally settles.\\n<i>\"All or nothing, I have not the luxury of choice...\"</i>",
 		"en": "Inherently Unjust Destiny",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23023.webp",
 		"id": "23023",
@@ -332,7 +332,7 @@
 	"唯有沉默": {
 		"baseType": "Rogue",
 		"cn": "唯有沉默",
-		"desc": null,
+		"desc": "<i>\"Shouldn't we get off? It's our stop.\"</i>\\nA chuckle came from above. His eyes moved, but he didn't look up.\\n\\n<i>\"To be clear, March always says you're expressionless, but I don't agree.\"\\n\"The train's data bank show traces of an update, but the results weren't saved.\"\\n\"So... which entry were you having trouble with?\"</i>\\n\\nHe grasped his pen tighter as he looked at the bloody scene drawn in the notebook from memory.\\n\\n<i>\"I see. It was the one about you...\"</i>",
 		"en": "Only Silence Remains",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21003.webp",
 		"id": "21003",
@@ -343,7 +343,7 @@
 	"唯有香如故": {
 		"baseType": "Priest",
 		"cn": "唯有香如故",
-		"desc": null,
+		"desc": "<i>\"First, overhaul the department's work habits.\"</i>\\n<i>\"Then, strictly implement rewards and penalties.\"</i>\\n<i>\"Of course, the most important part is figuring out everyone's tangled web of personal interests as soon as possible...\"</i>\\nThough she was originally here to admire the scenery, her mind had unknowingly drifted toward work, with stress and trouble naturally following.\\n\\nShe hurriedly ignites the soothing incense she always carried with her.\\n<i>\"The world is so beautiful, yet I am so irritable... Best not to think of such miserable matters while on vacation...\"</i>",
 		"en": "Scent Alone Stays True",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23032.webp",
 		"id": "23032",
@@ -354,7 +354,7 @@
 	"嘉果": {
 		"baseType": "Priest",
 		"cn": "嘉果",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"Everything tastes sweet for those desperate for water.\"</i>",
 		"en": "Fine Fruit",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20008.webp",
 		"id": "20008",
@@ -365,7 +365,7 @@
 	"嘿，我在这儿": {
 		"baseType": "Priest",
 		"cn": "嘿，我在这儿",
-		"desc": null,
+		"desc": "Three girls stroll in the darkness, and the surroundings seem to gain a hint of eeriness.\\n\"Huohuo, hurry up, or we won't wait for you!\"\\nShe steps forward confidently with her phone clutched in her hand, seemingly unaffected by the paranormal ambiance.\\n\"I—I'm over here!\"\\nThe girl standing ahead responds timidly.\\n\"Huh? So you were in the front all along, then who is following Shangshang and me...\"\\n\\nThe perfect end for this scene would definitely be a girlish scream.",
 		"en": "Hey, Over Here",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22001.webp",
 		"id": "22001",
@@ -376,7 +376,7 @@
 	"回到大地的飞行": {
 		"baseType": "Shaman",
 		"cn": "回到大地的飞行",
-		"desc": null,
+		"desc": "Those delusions and fallacies have been shattered. He wanted to be the sun of the whole world, yet he fell from the sky.\\n\\n<i>\"Now, do you feel what pain is?\"</i>\\nAnother voice in his heart spoke thus.\\n<i>\"Yes. And that is what I deserve to feel.\"</i>\\nHe fell into dust and answered himself with his heavy footsteps.\\n\\nHe walked on the earth and once again beheld the agony that covers the mortal realm like a never-ending font.\\nHe stepped over the thorns that blocked the road and listened to the calls of humanity. He experienced anguish, through which he obtained tranquility.\\n\\n<i>\"Falling was originally just another name for flying.\"</i>\\nAnd on this eighth day, he granted himself \"departure.\"",
 		"en": "A Grounded Ascent",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23034.webp",
 		"id": "23034",
@@ -387,7 +387,7 @@
 	"在火的远处": {
 		"baseType": "Warrior",
 		"cn": "在火的远处",
-		"desc": null,
+		"desc": "<i>\"Package secured. I'll leave covering our retreat to you.\"</i>\\nTheir comrade's voice comes through the communicator.\\n\\nThey glance around the surroundings, watching as the savaged remnants of their enemies continue to pass through the complex architecture inside the vast and abandoned structure. They are drawing ever closer.\\n<i>\"Please hold.\"</i>\\n\\nAfter a beat of quietude, a series of apocalyptic explosions rocket up into the sky. Waves of displaced air cast clouds of dust high across the battlefield, and smoke scatter in all directions, the blinding white cleaving light into the night.\\n<i>\"You know they purposely planted loads of gunpowder in there, right?\"</i>\\n\\nWith a rustle, they flung open the cape as if they just finished a leisurely stroll.\\n<i>\"Of course.\"</i>\\n<i>\"So, let's light it up. All I need to do is play the part of the match.\"</i>",
 		"en": "Flames Afar",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21038.webp",
 		"id": "21038",
@@ -398,7 +398,7 @@
 	"在蓝天下": {
 		"baseType": "Warrior",
 		"cn": "在蓝天下",
-		"desc": null,
+		"desc": "Under the blue sky, fields of wheat were dancing.\\nThe young girl was carefully weaving a flower wreath,\\nfor her most beloved little sister.\\n\\nThat was when they were still the same height.\\nThat was when they shared the same smile.",
 		"en": "Under the Blue Sky",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21019.webp",
 		"id": "21019",
@@ -409,7 +409,7 @@
 	"多流汗，少流泪": {
 		"baseType": "Memory",
 		"cn": "多流汗，少流泪",
-		"desc": null,
+		"desc": "Resounding impacts echo through the training room and a thunderous kick follows, practically folding the sandbag in two.\\n\\n<i>\"General... isn't this level of training too much for you?\"</i> Such is the question asked by a nearby soldier.\\n\\nSmiling, she shakes her head and hangs a new sandbag in place.\\n\\n<i>\"This? No. Not even close!\"</i>\\n\\nHer glistening sweat reflects the glow of the moon, trailing down her body like crystalline pearls. The memory of that departed general re-surfaces in her mind... <i>\"Sweat more when training, so you might weep less in battle.\"</i>",
 		"en": "Sweat Now, Cry Less",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21052.webp",
 		"id": "21052",
@@ -420,7 +420,7 @@
 	"夜色流光溢彩": {
 		"baseType": "Shaman",
 		"cn": "夜色流光溢彩",
-		"desc": null,
+		"desc": "Time flows through the mirror, metamorphosing the once inexperienced little girl into a seasoned songstress.\\nShe studies her reflection in the mirror. Time has altered all but her green eyes, which still remain as serene as a lake, as if recounting an unshakable faith.\\n\\n<i>\"You seem in high spirits today.\"</i>\\n<i>\"Yes... after all, there's a very important 'performance'.\"</i>\\n<i>\"Indeed. The Charmony Festival's rehearsal is about to start. Please head to the preparation room.\"</i>\\n...\\n\\nShe steps out from the dressing room, leaving behind the brilliant lights of the theater, fading into the distance.\\n<i>\"My stage lies not here.\"</i>\\nShe closes her eyes, letting the night swallow her silhouette.\\n<i>\"From the past to the present, my song has always been for...\"</i>\\n<i>\"For those who have lost hope.\"</i>",
 		"en": "Flowing Nightglow",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23026.webp",
 		"id": "23026",
@@ -431,7 +431,7 @@
 	"天倾": {
 		"baseType": "Warrior",
 		"cn": "天倾",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"The death of all things is as natural as their birth. Time erodes everything, turning all tangible entities to dust.\"</i>",
 		"en": "Collapsing Sky",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20002.webp",
 		"id": "20002",
@@ -442,7 +442,7 @@
 	"天才们的休憩": {
 		"baseType": "Mage",
 		"cn": "天才们的休憩",
-		"desc": null,
+		"desc": "She pointed at that green rice cake.\\n<i>\"The experiment has ended. Time to take a break. I just can't miss this freshly made dessert.\"</i>\\n\\nShe saw the puppet girl frowning in deep thought.\\n<i>\"Well, in your current body, you can only look but not eat. I'll make you a box of new ones when the time comes.\"</i>\\n\\nShe saw the mechanical aristocrat hesitating at his own cup.\\n<i>\"Don't worry. It's only machine oil. Perfectly safe for you to consume.\"</i>",
 		"en": "Geniuses' Repose",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21020.webp",
 		"id": "21020",
@@ -453,7 +453,7 @@
 	"天才们的问候": {
 		"baseType": "Memory",
 		"cn": "天才们的问候",
-		"desc": null,
+		"desc": "<i>\"Congratulations. Experiment failed again, didn't it?\"</i>\\n<i>\"...\"</i>\\n<i>\"I told you before that there are mistakes in your method.\"</i>\\n<i>\"...\"</i>\\n<i>\"I gotta tell you, I've been getting some big breakthroughs recently...\"</i>\\n\\nThe aloof woman lifts her head from her book...\\n<i>\"I'm sorry. What did you say?\"</i>\\nShe waves her hand.\\n<i>\"Well, I can't say how great these breakthroughs are. They might only affect half the cosmos.\"</i>\\nThe woman closes her book.\\n<i>\"Let's hear it, then.\"</i>\\n\\n<i>\"Hmph. A genius of my caliber... it's not something you'll just get to hear randomly...\"</i>\\n<i>\"I understand. I'll make some pastries. We can talk and eat at the same time.\"</i>",
 		"en": "Geniuses' Greetings",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21051.webp",
 		"id": "21051",
@@ -464,7 +464,7 @@
 	"她已闭上双眼": {
 		"baseType": "Knight",
 		"cn": "她已闭上双眼",
-		"desc": null,
+		"desc": "The ache in the middle of her forehead will accompany her for the rest of her life, but it is only a fraction of what she had experienced in the past.\\nShe thought herself prescient until the departure of those for whom she cared.\\nShe now \"sees\" the world ever-changing, the times ever-shifting...\\nBut she already shut her eyes, because the future has already been determined\\n...inside \"the third eye.\"",
 		"en": "She Already Shut Her Eyes",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23011.webp",
 		"id": "23011",
@@ -475,7 +475,7 @@
 	"好戏开演": {
 		"baseType": "Warlock",
 		"cn": "好戏开演",
-		"desc": null,
+		"desc": "—Who witnessed his death?\\n—Me! I spied it with my little eyes!\\n—Who took his blood?\\n—Me! I seized it with my little saucer!\\n—Who dug his grave?\\n—Me! I did it with my chisel and shovel!\\n\\nThe sage schemes exhaustedly, the king lusts insatiably, the hero prides falsely — only the Fool laughs perpetually\\n<i>\"Now, let us welcome Ms. Sparkle to bring us the performance of the year — Penacony's Night of Fright!\"</i>",
 		"en": "It's Showtime",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21041.webp",
 		"id": "21041",
@@ -486,7 +486,7 @@
 	"如果时间是一朵花": {
 		"baseType": "Shaman",
 		"cn": "如果时间是一朵花",
-		"desc": null,
+		"desc": "<i>\"Mama, I want to hear another story!\"\\n\\n\"My sweet girl, how about a story about time?\"\\n\\n\"Time... what is it?\"\\n\\n\"Time, my dear, is like a flower.\"\\n\\n\"Like the dandelions blooming in the fields?\"\\n\\n\"Yes, just like dandelions. Time grows, blossoms, and bears fruit. We call its petals 'moments.'\"\\n\\n\"And then what happens?\"\\n\\n\"Then, it withers into a thousand pieces, leaving seeds that drift everywhere...\"\\n\\n\"Mama, does that mean it becomes the 'future'?\"\\n\\n\"Guess what it turns into after that?\"\\n\\n\"It turns into so many flowers, blooming into a vibrant sea of blossoms, right?\"</i>\\n\\nThe mother didn't have time to answer as the sunlight from the window warmed the girl's face. That gentle figure vanished once more into her dream.\\nShe opened her eyes—\\n<i>\"If time were a flower...\"</i> she murmured.\\n<i>\"It would surely become a sea of flowers,\"</i> said the serene girl.\\n<i>\"Of course it would!\"</i> Exclaimed the playful girl, cheering at her masterpiece.",
 		"en": "If Time Were a Flower",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23038.webp",
 		"id": "23038",
@@ -497,7 +497,7 @@
 	"如泥酣眠": {
 		"baseType": "Rogue",
 		"cn": "如泥酣眠",
-		"desc": null,
+		"desc": "The boy is still tightly grasping the sword even when fast asleep against the general's shoulder.\\nThe general gently taps the boy's cheek, and the boy mutters in his sleep.\\n<i>\"General... I finally... won.\"</i>\\n\\nThe general pauses. He suddenly realizes that, compared to the boy trying to improve every day,\\nhe himself has endured too many years and is used to stagnation.\\n\\n<i>\"You will soon be better than everyone, and that will only be the beginning...\"</i>",
 		"en": "Sleep Like the Dead",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23012.webp",
 		"id": "23012",
@@ -508,7 +508,7 @@
 	"孤独的疗愈": {
 		"baseType": "Warlock",
 		"cn": "孤独的疗愈",
-		"desc": null,
+		"desc": "Things molded by the hands of secrecy are shapeless and incorporeal.\\nIn the totality of emptiness, there yet exists a sudden dreaming.\\nThose that court destruction will reap ruinous fruit, while those that clamor to live will survive.\\nThat which is extinguished may yet spark, and that which has dried may yet be filled anew.\\nIn compassion for the salvation of chaos, the elixir nurtures the shadows.\\nWith its back faced to the darkness between the stars, this vessel encapsulates futility and works in vain.\\n\\n<i>\"Paradoxical these knowings are, in them shine the fullness of our pride.\"</i>",
 		"en": "Solitary Healing",
 		"iconUrl": "/hsr/UI/lightconemediumicon/24003.webp",
 		"id": "24003",
@@ -519,7 +519,7 @@
 	"宇宙大生意": {
 		"baseType": "Mage",
 		"cn": "宇宙大生意",
-		"desc": null,
+		"desc": "In a virtual exhibition hall sculpted from data, the exhibition representatives exchanged opinions.\\nTwo figures moved between the booths, delivering everything needed by each party.\\n\\n<i>\"Hmm, are you...?\"</i>\\n<i>\"I've seen you on TV.\"</i>\\nThey talked about games, food, each other's morphologies, and all the beautiful things in the universe.\\nThough their meetings were few and far between, they were as close as old friends—\\n\\n<i>\"By the way, have you thought about my proposal...\"</i>\\n<i>\"The Express is not for sale!\"</i>",
 		"en": "The Great Cosmic Enterprise",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22004.webp",
 		"id": "22004",
@@ -530,7 +530,7 @@
 	"宇宙市场趋势": {
 		"baseType": "Knight",
 		"cn": "宇宙市场趋势",
-		"desc": null,
+		"desc": "The planet is receiving a revaluation...\\n\\n<i>\"Will this project show that it's mutually beneficial to collect any outstanding debts?\"\\n\"But we only need to convey one message — our existence.\"</i>\\n\\n\"If it were to have a value of its own, then it must create value for the corporation.\"",
 		"en": "Trend of the Universal Market",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21016.webp",
 		"id": "21016",
@@ -541,7 +541,7 @@
 	"将光阴织成黄金": {
 		"baseType": "Memory",
 		"cn": "将光阴织成黄金",
-		"desc": null,
+		"desc": "<i>\"This strand, a soldier's sacrifice.\"</i>\\n<i>\"This strand, a hero's growth.\"</i>\\n<i>\"This strand, the city's prosperity.\"</i>\\n....\\nThe Garmentmaker pulls at the threads using a needle, everything held between her fingers.\\n<i>\"The destiny of certain heroes has already been severed...\"</i>\\nShe scoops up another set of golden threads and continues her mending.\\n<i>\"The fates of certain heroes must continue...\"</i>\\n\\nThe divine loom weaves on, and the Garmentmakers dance with lively grace. Eons of time had already passed through the loom, and she has long been accustomed to such waiting....\\n\\nFor the sake of turning time to golden \"inspiration.\"",
 		"en": "Time Woven Into Gold",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23036.webp",
 		"id": "23036",
@@ -552,7 +552,7 @@
 	"幽邃": {
 		"baseType": "Warlock",
 		"cn": "幽邃",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"He stared into the void, hanging high like the dark sun at the end of all matter, or a mouth that answered all questions. It said: ███ █ ███ ██ The answer couldn't be expressed in any human language, but could be understood by all.\"</i>",
 		"en": "Void",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20004.webp",
 		"id": "20004",
@@ -563,7 +563,7 @@
 	"延长记号": {
 		"baseType": "Warlock",
 		"cn": "延长记号",
-		"desc": null,
+		"desc": "The phonograph record is being played, spinning nonstop. Even the sounds of all those hoarse shrieks cannot escape the heatwave and are dampened by its tepidity.\\nShe seemed unprepared and utterly enthralled by the fascinating melodies:\\n\\nIt started with sincerity and anticipation...\\n...followed by a passionate catharsis...\\n...with one climax after another...\\n\\n...until the record's spinning came to a final stop and those hoarse shrieks were no longer audible.\\n<i>\"Mission accomplished.\"</i>",
 		"en": "Fermata",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21022.webp",
 		"id": "21022",
@@ -574,7 +574,7 @@
 	"开疆": {
 		"baseType": "Knight",
 		"cn": "开疆",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"We will no longer fight alone. The IPC will stand alongside everyone in assistance.\"</i>",
 		"en": "Pioneering",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20017.webp",
 		"id": "20017",
@@ -585,7 +585,7 @@
 	"忍事录•音律狩猎": {
 		"baseType": "Warrior",
 		"cn": "忍事录•音律狩猎",
-		"desc": null,
+		"desc": "In the realm of Cosmic Ninjutsu, ever-changing grace,\\nHear the echoes of my hunting chase!\\n\\nFeel the beat, my rhythm's call,\\nGuitar strums, the atmospheres enthrall.\\nBass notes with a tender hue,\\nElectro-acoustic kindles anew.\\nSweat's testament, truth untold,\\nEvery twist and turn, melodies unfold.\\nMy sound ascends, reaching high,\\nThrough bruises and battles, I never shy.\\n<i>The Dazzling!</i> <i>The Dazzling!</i> A chant so bold.\\n<i>The Dazzling!</i> <i>The Dazzling!</i> In tales untold,\\n<i>The Dazzling!</i> <i>The Dazzling!</i> An epic foretold!\\nYo. Yo. In this wild world. Let the hearts go ablaze.\\nSing out loud, chant your soul, and let's embrace the utter craze!",
 		"en": "Ninja Record: Sound Hunt",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22003.webp",
 		"id": "22003",
@@ -596,7 +596,7 @@
 	"忍法帖•缭乱破魔": {
 		"baseType": "Mage",
 		"cn": "忍法帖•缭乱破魔",
-		"desc": null,
+		"desc": "Somewhere in the Ninja Realm, a shroud of dreary gray veils the city.\\n\\n<i>\"Hiyaaa!\"</i>\\nA young lady darts through the monsters, her vibrant silhouette cutting through the darkness like a stroke of paint against a moonless earth.\\n\\nIn the midst of smoke, the Evil Ninjas wince in both agony and disbelief.\\n<i>\"Who...are you...?\"</i>\\n<i>\"I'm Ninja Rappa! A beacon of determination, eradicating evil and upholding justice.\"</i>\\nThe Evil Ninjas exchange hesitant glances, eyes wide as they attempt to flee.\\n<i>\"Are you prepared to recite your final rhymes?\"</i>\\nHer shuriken dances through the air, a flurry of light and steel, overwhelming her adversaries with its blinding swiftness.\\n<i>\"Secret Technique: Dazzling Obliteration!\"</i>\\n\\nThe explosion behind her shatters the night, unveiling the city's wounds.\\nWith a breath drawn deep, she launches herself into the neon-lit distance, where the vibrant lights scream like a heavy metal chorus.\\n<i>\"Such loathsome evil spirits. The Dazzling Ninja's ultimate hunt shall continue...\"</i>",
 		"en": "Ninjutsu Inscription: Dazzling Evilbreaker",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23033.webp",
 		"id": "23033",
@@ -607,7 +607,7 @@
 	"惊魂夜": {
 		"baseType": "Priest",
 		"cn": "惊魂夜",
-		"desc": null,
+		"desc": "The girl hides behind the door and dares not move one step closer. \\nPerhaps due to the fact that tonight's objective is already within her reach, her heart is actually beating faster.\\n\"I'm not scared, not scared, not scared...\"\\nIn darkness, silence lets out a piercing scream.\\n\\nThe girl is shivering and grasps the \"weapon\" in her hands tight, but still does not dare to approach the \"target.\"\\n\"There is nothing to be s—s—scared of!\"\\n\\nThe tail behind her has finally had enough and suddenly lights up.\\n\"Hurry up. You're just picking up a delivery!\"",
 		"en": "Night of Fright",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23017.webp",
 		"id": "23017",
@@ -618,7 +618,7 @@
 	"愿旅途永远坦然": {
 		"baseType": "Knight",
 		"cn": "愿旅途永远坦然",
-		"desc": null,
+		"desc": "The boy ran amongst the star-like raindrops and cheered for the blissful rain that arrived after a long drought.\\n\\nThe rain fell for a long, long time, and the covered wagon stopped on the land covered by budding green.\\n<i>\"Mom! Big sis! We'll never go cold or hungry again!\"\\n</i>The Avgins' campfire warmed the long night, as the boy listened to his big sister's stories and waited for the dawn.\\n\\n<i>\"Kakavasha... You, too, will go forth with your good luck blessed by the Mother Goddess, and achieve what we could not achieve... May your journey be forever peaceful, and your schemes forever concealed...\"</i>\\n\\nGolden sunlight reflects from his dreams into his real-life abode, and transactions and numbers are once again mirrored in his eyes.\\nHe lets go of the hand that was clutched into a fist —\\n\\nIt's as if he did not manage to grab onto anything... yet there's still a throbbing, lingering warmth.",
 		"en": "Journey, Forever Peaceful",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21053.webp",
 		"id": "21053",
@@ -629,7 +629,7 @@
 	"愿虹光永驻天空": {
 		"baseType": "Memory",
 		"cn": "愿虹光永驻天空",
-		"desc": null,
+		"desc": "<i>\"Emotions are like clouds, and we are the sky that carries them. If the sky is overcast, then our emotions will fluctuate all over.\"</i>\\nThe physician listens with care to the visitor's sorrows, offering words of gentle solace.\\n<i>\"Please close your eyes and breathe slowly... Imagine yourself in a warm and soft place...\"</i>\\n\\nAs if infused with magic, a seven-colored rainbow radiance spills from beneath the wings of the winged beast.\\n<i>\"A breeze would drift across the plains, carrying the fragrance of wildflowers. Moist clouds would pass by, laden with sunlight...\"</i>\\nThe visitor gradually sinks into a peaceful dream, responding only with the quiet rhythm of steady breaths.\\n\\nAfter seeing the last patient, the physician gently closes the door of the ward.\\n\\nIn the distance, the boundless evernight still surges, with many ruins standing like the scars of the earth.\\n\\n<i>\"In the next life, may dawn shine upon all...\"</i>\\nBefore departing, she makes a wish to the sky —\\n<i>\"May the sky forever hold that rainbow radiance.\"</i>",
 		"en": "Long May Rainbows Adorn the Sky",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23042.webp",
 		"id": "23042",
@@ -640,7 +640,7 @@
 	"戍御": {
 		"baseType": "Knight",
 		"cn": "戍御",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"If you ever doubt these walls will lead us to victory, just look at these brave souls standing atop them.\"</i>",
 		"en": "Defense",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20010.webp",
 		"id": "20010",
@@ -651,7 +651,7 @@
 	"我们是地火": {
 		"baseType": "Knight",
 		"cn": "我们是地火",
-		"desc": null,
+		"desc": "She got used to people losing their homes.\\nAnd she got used to people losing their lives.\\nBut crying alone was useless.\\n\\n<i>\"Wear this red scarf, and then we shall share each other's pain.\"\\n\"We are family. We are Wildfire.\"</i>\\n\\nThe moment that pair of big hands held her head, she could no longer hold back her tears.",
 		"en": "We Are Wildfire",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21023.webp",
 		"id": "21023",
@@ -662,7 +662,7 @@
 	"我将，巡征追猎": {
 		"baseType": "Rogue",
 		"cn": "我将，巡征追猎",
-		"desc": null,
+		"desc": "<i>\"Pitiful, laughable slaves...\"</i>\\nThe Denizens of Abundance's legions come crashing upon the border like an avalanche, with Lupitoxin rushing toward the Verdant Knights like a tide, trying to arouse the deep-set fear hidden in the soldiers' hearts. Illusions of dread came forth, striking the wills of the warriors, compelling them to drop their blades and be seized by hesitation.\\nBut the front remains stalwart like a bronze wall, unstirred by the borisins' disdainful words. From among the soldiers, a single figure saunters forth.\\nShe moves her body at a slow pace, and the flags behind her rustle under the unseen killing intent.\\n<i>\"The general... it's the general...\"</i>\\n<i>\"General Feixiao...\"</i>\\n<i>\"The Merlin's Claw!\"</i>\\nThese small cheers and calls then come together into a thunderous battle cry.\\n\\n<i>\"Always soaring! Forever triumphant!\"</i>\\nShe stands there, alone. A single figure, but imbued with the might of an entire army.",
 		"en": "I Venture Forth to Hunt",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23031.webp",
 		"id": "23031",
@@ -673,7 +673,7 @@
 	"拂晓之前": {
 		"baseType": "Mage",
 		"cn": "拂晓之前",
-		"desc": null,
+		"desc": "<i>\"Do not make this decision lightly, general... Think about how you will be remembered in history...\"</i>\\nThe general of the Cloud Knights listens to his subordinates' words with eyes half-closed.\\n<i>\"History will make its own judgment, but I have no interest in my legacy.\"\\n\"If I succeed, history will state that I am currently supremely confident in my masterful strategy.\"\\n\"But if I fail, then history will state that I am currently neglecting my duties in wanton pleasure, preferring finches over my people.\"</i>\\n\\nA finch jumps down from his shoulder, and he extends his hand to catch the small creature.\\n<i>\"I have simply made my own decision.\"</i>",
 		"en": "Before Dawn",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23010.webp",
 		"id": "23010",
@@ -684,7 +684,7 @@
 	"故事的下一页": {
 		"baseType": "Memory",
 		"cn": "故事的下一页",
-		"desc": null,
+		"desc": "The breeze stirs the wheat fields as the girl, clutching a blank journal, strolls through the golden waves.\\n\\nBeyond Aedes Elysiae, in a city both unfamiliar and eerily familiar, companions of all kinds will cross paths, and a journey like a song, like a dream, is about to begin...\\n\\n<i>\"This time, together with me...\"</i>\\nAt the edge of the field, the girl who has waited so long closes her book and extends a hand toward the \"future\"—\\n\\n<i>\"Let's write a new chapter of the story ♪\"</i>",
 		"en": "The Story's Next Page",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21054.webp",
 		"id": "21054",
@@ -695,7 +695,7 @@
 	"新手任务开始前": {
 		"baseType": "Warlock",
 		"cn": "新手任务开始前",
-		"desc": null,
+		"desc": "<i>How much longer until the action starts?\\nYou have the nerve to ask a question like that... is something wrong with the new recruit?\\nNo.\\nElio didn't choose her because she was good at field work, but she has to at least survive this rookie assignment.\\nShe's cruising.\\nThen I'm relieved. It seems that Bladie has proved to be a reliable operative as well.\\n...</i>",
 		"en": "Before the Tutorial Mission Starts",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22000.webp",
 		"id": "22000",
@@ -706,7 +706,7 @@
 	"无可取代的东西": {
 		"baseType": "Warrior",
 		"cn": "无可取代的东西",
-		"desc": null,
+		"desc": "<i>\"Should a day come when even I'm not here anymore, please look after this database, Svarog.\"</i>\\n(Who is this... Why is this message in my records...)\\n<i>\"Do you have something that's irreplaceable, Svarog?\"</i>\\n(Irreplaceable... broken parts... can simply be replaced...)\\n<i>\"You'll definitely find it one day, Svarog.\"</i>\\n(Such things... will only cause trouble...)\\n\\n<i>\"When that time comes... You should leave this place behind.\"</i>",
 		"en": "Something Irreplaceable",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23002.webp",
 		"id": "23002",
@@ -717,7 +717,7 @@
 	"无处可逃": {
 		"baseType": "Warrior",
 		"cn": "无处可逃",
-		"desc": null,
+		"desc": "This isn't the first time he's seen this man.\\nThis man had become his own inseparable shadow.\\nNo matter how many times he runs this man through with his spear, the man always comes back.\\n\\nHe can neither lose to this man, nor truly win.\\nThough he wants to run away, there is nowhere to run.",
 		"en": "Nowhere to Run",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21033.webp",
 		"id": "21033",
@@ -728,7 +728,7 @@
 	"无边曼舞": {
 		"baseType": "Warlock",
 		"cn": "无边曼舞",
-		"desc": null,
+		"desc": "Their dance glides gracefully, shadows and light silently exchanging places. She takes the other person's hand, her smile beaming into those indifferent eyes.\\n<i>\"Beautiful Ranger... Welcome to the stage of the Remembrance. At this proximity... you are far more enchanting than one might perceive.\"</i>\\n\\nThe surroundings darken, a beam of light cascading from the dome above, tracing their evolving steps.\\n<i>\"However, some were meant to dance with us but have yet to arrive...\"</i>\\n\\nIn a spinning moment, she draws closer to that expressionless face, grips that cold hand, and softly inquires—\\n<i>\"Tell me. What have you done?\"</i>\\n\\nAs their dance steps grow hurried more and more, fragmented snippets of the past rush into her mind through their joined fingertips.\\nIn a past that stretches back further and further, she hears the sound of rain and the lamentations just before life's extinguish. Then, she sees her dance partner holding a blood-red paper umbrella in the drizzling rain. Finally, as far as her eyes can see—\\n\\nA field of drowned corpses bobbing in the deluge.\\n\\nPanic-stricken, she tries to withdraw her hand, falling backward.\\nThe surroundings brighten again, the banquet's clamor resurfacing. Her dance partner gently supports her waist, as if oblivious to the ordeal that just unfolded.\\n<i>\"What a lovely dance that was, Memokeeper. Shall we have another go?\"</i>",
 		"en": "Boundless Choreo",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21044.webp",
 		"id": "21044",
@@ -739,7 +739,7 @@
 	"早餐的仪式感": {
 		"baseType": "Mage",
 		"cn": "早餐的仪式感",
-		"desc": null,
+		"desc": "Though the table is set...\\nSome people want a cup of tea first.\\nSome people want to take a picture first.\\nSome people want to read the newspaper first.\\nSome people want to write a page in their notebook first.\\nSome people want to play on their phone first.\\n\\n<i>\"All of you, eat while the food is hot!\"</i>",
 		"en": "The Seriousness of Breakfast",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21027.webp",
 		"id": "21027",
@@ -750,7 +750,7 @@
 	"时节不居": {
 		"baseType": "Priest",
 		"cn": "时节不居",
-		"desc": null,
+		"desc": "She had spent many days next to the window.\\n\\nFlowers were blooming outside when she made gentle medicines with mint and nepeta.\\nRain was falling outside when she made strong medicines with mosla and ginger.\\nLeaves were falling outside when she made sour medicines with peony roots and dry plums.\\nAnd snow was falling outside when she made bitter medicines with skullcaps and anemarrhena.\\n\\nTime flows endlessly, but this window and the person sitting next to it remain forever the same.",
 		"en": "Time Waits for No One",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23013.webp",
 		"id": "23013",
@@ -761,7 +761,7 @@
 	"星海巡航": {
 		"baseType": "Rogue",
 		"cn": "星海巡航",
-		"desc": null,
+		"desc": "Coursing 'tween the sea of stars,\\nTHEY cruise with the speed of a rainbow's chromatic flash.\\nA journey of hunting undying abominations,\\ncollecting cures and miracles,\\nand seeking deliverance.\\nAkin to a vow unbroken, THEIR voyage will be,\\nad infinitum.",
 		"en": "Cruising in the Stellar Sea",
 		"iconUrl": "/hsr/UI/lightconemediumicon/24001.webp",
 		"id": "24001",
@@ -772,7 +772,7 @@
 	"春水初生": {
 		"baseType": "Rogue",
 		"cn": "春水初生",
-		"desc": null,
+		"desc": "The young boy took a short break from his sword practice.\\nThe sunlight was baking his already heated neck. He slowly got into the water, whose coldness touched his bare feet.\\nWhen the bell chimes and birds tweet, even the people far away would know that springtime had arrived.",
 		"en": "River Flows in Spring",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21024.webp",
 		"id": "21024",
@@ -783,7 +783,7 @@
 	"晚安与睡颜": {
 		"baseType": "Warlock",
 		"cn": "晚安与睡颜",
-		"desc": null,
+		"desc": "The dim light outlines the dust tracks,\\nAs a young girl mumbles sweetly in her sleep.\\nA silent figure appears behind her.\\n<i>\"Well, well, well, you're cuter without those glasses — I knew it.\"</i>\\nThe guitarist stares at her sleeping face, muttering to herself:\\n<i>\"Good night, the genius girl that worries a lot.\"</i>",
 		"en": "Good Night and Sleep Well",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21001.webp",
 		"id": "21001",
@@ -794,7 +794,7 @@
 	"智库": {
 		"baseType": "Mage",
 		"cn": "智库",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"Human extinction is inevitable, but the library will live on: Lonely, immobile, and hidden from the public. Its vast collection is useless, yet pure from corruption.\"</i>",
 		"en": "Data Bank",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20006.webp",
 		"id": "20006",
@@ -805,7 +805,7 @@
 	"暖夜不会漫长": {
 		"baseType": "Priest",
 		"cn": "暖夜不会漫长",
-		"desc": null,
+		"desc": "Lighting a light, she glanced at her friend beside her while holding a mug of warm chocolate.\\nWatching her read the books and notes she gifted her.\\nWatching her expressing a rare smile.\\n\\nIn cold nights like this, even the tiniest bit of bliss can chase away the chills.",
 		"en": "Warmth Shortens Cold Nights",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21028.webp",
 		"id": "21028",
@@ -816,7 +816,7 @@
 	"朗道的选择": {
 		"baseType": "Knight",
 		"cn": "朗道的选择",
-		"desc": null,
+		"desc": "<i>\"Did you not hear me? Don't go there ever again! What could you possibly be learning from those commoners!\"\\n\"But I've never heard any of the stories they tell about Belobog before...\"</i>\\n\\nShe pulled her brother behind her, denying him the chance to talk back.\\n<i>\"You are both Landaus! One day, you'll face hard choices. Especially you, Serval.\"</i>\\n\\nShe knew that her brother did nothing wrong, but she couldn't think of a rebuttal.\\nShe went to bed angry after the argument, vowing to herself:\\n<i>\"I will be a grown-up one day. And when that day comes, I will make choices...\"\\n\"My own choices...\"</i>",
 		"en": "Landau's Choice",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21009.webp",
 		"id": "21009",
@@ -827,7 +827,7 @@
 	"梦应归于何处": {
 		"baseType": "Warrior",
 		"cn": "梦应归于何处",
-		"desc": null,
+		"desc": "This is the edge of the Asdana system. The ocean of memoria roars with mountainous waves and she, like a singular tiny spark, may be doused at any moment in the storm.\\n<i>\"For one who cannot dream to enter the Synesthesia Dreamscape, they would have to pay a price comparable to death.\"</i>\\nShe can still hear her companions' concerned voices next to her ears. She takes a deep breath and dives into the Memory Zone.\\nAs the vessel silently sinks into the depth of the Memory Zone, small pinpricks of firefly lights dissipate from the cracks and are then immediately swallowed up by the endless darkness.\\n\\n<i>\"Wherefore do you hurtle unto death?\"</i>\\nIn the ocean of memoria that grows deeper and deeper, the weak light emitted by the Memory Zone creatures are like faraway eyes that nonchalantly glance at her.\\n\\nDreams remained too distant for her. She gazes emptily out at the boundless darkness, her body and soul having reached the breakdown threshold long ago under the heavy pressure of memoria. Though she realizes her consciousness is gradually fading, only those remaining memories are playing over and over in her brain —\\nThe Swarm that covered the sky tore through the frontline defenses as she flew towards the Swarm while enveloped in fire. The charred ash of the Swarm faded like snow, under which lies the pitch-black carcasses of the knights.\\nShe didn't even have the time to take a bouquet and offer her final acknowledgement to knights, who were dying one after another. Their lives bloomed in the blink of an eye and went out equally fleetingly. Like a string of genetic code, they never possessed names and only had numbers allotted instead.\\n\\n<i>\"Wherefore do you live?\"</i>\\nIn the deathly silence, like flames dissolving in the sea, she is reduced to a singular spot of fire and unendingly progresses towards the light...\\nShe opens her eyes after what seems to be forever. She sees the \"future\" looking like a pearl, radiating with a soft and vague light. Tears stream down her face —\\n<i>\"I do it to find... my own 'dream'...\"</i>",
 		"en": "Whereabouts Should Dreams Rest",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23025.webp",
 		"id": "23025",
@@ -838,7 +838,7 @@
 	"梦的蒙太奇": {
 		"baseType": "Priest",
 		"cn": "梦的蒙太奇",
-		"desc": null,
+		"desc": "<i>\"The City of Dreams, the Breeding Ground of Sin, or the Promised Land...\"</i>\\n\\nExtracting the memories of many, he scrutinizes the spectacular moments, disrupting, reorganizing, and splicing them together.\\n<i>\"Most people's memories are but a collection of trivial and monotonous fragments, where only a handful of precious moments stand out, while the existences of the rest are utterly unnecessary.\"</i>\\n\\nFrame by frame, the images flow through his grasp, gradually woven into a tapestry of brilliance.\\n<i>\"We don't transport memories. We only create the past.\"</i>",
 		"en": "Dream's Montage",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21048.webp",
 		"id": "21048",
@@ -849,7 +849,7 @@
 	"棺的回响": {
 		"baseType": "Priest",
 		"cn": "棺的回响",
-		"desc": null,
+		"desc": "Under the watch of the white irises, he knocks on the coffin.\\n<i>\"Sometimes I feel I underestimated you by proposing this deal.\"</i>\\nHe receives no response other than a thorny branch piercing through his palm.\\nYet he smiles, and tightly grasps the thorn.\\n\\n<i>\"Indeed. This is how it is. We wanted to use each other, and both ended up underestimating the other.\"</i>",
 		"en": "Echoes of the Coffin",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23008.webp",
 		"id": "23008",
@@ -860,7 +860,7 @@
 	"此时恰好": {
 		"baseType": "Priest",
 		"cn": "此时恰好",
-		"desc": null,
+		"desc": "On a bustling street, he walks and walks. The sunlight closely follows his footsteps.\\nHe makes a stop and picks up an umbrella to shade himself from the sun\\n...and from that prying gaze.",
 		"en": "Perfect Timing",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21014.webp",
 		"id": "21014",
@@ -871,7 +871,7 @@
 	"此身为剑": {
 		"baseType": "Warrior",
 		"cn": "此身为剑",
-		"desc": null,
+		"desc": "The blade shattered, plunging into the bone-chilling cold.\\nAll earthly instruments are mere futilities, their worth discernible with a single glance.\\n<i>\"What use do I have of swords?\"</i>\\nShe holds no attachment, nor does her gaze accommodate anything within.\\n\\n<i>\"From now on, I shall be my own sword.\"</i>\\nTo transcend perceived precipices and achieve unprecedented breakthroughs,\\none must regard themselves as \"kindling\" to fuel their own fire.",
 		"en": "I Shall Be My Own Sword",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23014.webp",
 		"id": "23014",
@@ -882,7 +882,7 @@
 	"比阳光更明亮的": {
 		"baseType": "Warrior",
 		"cn": "比阳光更明亮的",
-		"desc": null,
+		"desc": "From birth, all that ever lay before him was but a lightless dungeon.\\nTo this darkness, irrelevant sins bound him... irrelevant memories engulfed him.\\nHe writhed, gasping for breath with every fiber of his being,\\nattempting to clasp a sliver of light in this fathomless ocean.\\n\\nUntil the day the general stepped into the lightless depths of this prison,\\nhe beheld a radiance shining brighter than the sun — the gaze of a young man.",
 		"en": "Brighter Than the Sun",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23015.webp",
 		"id": "23015",
@@ -893,7 +893,7 @@
 	"氤氲麦香的梦": {
 		"baseType": "Mage",
 		"cn": "氤氲麦香的梦",
-		"desc": null,
+		"desc": "The breeze blows past the youth's fingertips and sends the letter, still wet with ink, to the distant beyond.\\n\\n<i>\"What would my future look like...\"</i>\\nDreams grow wings in his mind and fly towards the ends of the sky.\\nEars of wheat dance in the wind and form ripples, as if responding to his boyish and earnest wish.\\n\\n<i>\"Even if I only have a single sword in my hand, I want to protect this place no matter what!\"</i>\\nThe youth made this silent vow in his mind —\\n\\nA vow as deep as a brand, eternally etched into his heart.",
 		"en": "A Dream Scented in Wheat",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21060.webp",
 		"id": "21060",
@@ -904,7 +904,7 @@
 	"永远的迷境饭": {
 		"baseType": "Shaman",
 		"cn": "永远的迷境饭",
-		"desc": null,
+		"desc": "*BOOM*...\\nOutside the Maze, a storm rages endlessly.\\n*gurgle*...\\nThe fairies' magical cauldron burns with an eternal flame.\\n\\n<i>\"Sprinkle in the special spices...\"</i>\\n<i>\"Add some fresh vegetables!\"</i>\\n<i>\"This time, we'll succeed for sure!\"</i>\\n\\nThe huge cauldron bubbled up again as the fairies watched eagerly.\\n<i>\"Here it comes, here it comes!\"</i>\\nA brilliant light burst forth from the bottom of the pot...\\n\\nLook, everyone's gathering around!\\n\\n...\\n\\nAt the fragrant feast, guests raised their glasses to toast to these wonderful times...\\n\\nMay this dreamy paradise stay warm and joyful forever!",
 		"en": "The Forever Victual",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22005.webp",
 		"id": "22005",
@@ -915,7 +915,7 @@
 	"汪！散步时间！": {
 		"baseType": "Warrior",
 		"cn": "汪！散步时间！",
-		"desc": null,
+		"desc": "Pity that no one has seen it...\\nSeen it screw up its nose and sniff around and dive into an empty path.\\n\\nPity that no one has seen it...\\nSeen it retract its claws, enter the password, and leap into the embraces of freedom.\\n\\nHas nobody seen it still...?\\nA grown dog can now walk itself in space!",
 		"en": "Woof! Walk Time!",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21026.webp",
 		"id": "21026",
@@ -926,7 +926,7 @@
 	"没有回报的加冕": {
 		"baseType": "Warrior",
 		"cn": "没有回报的加冕",
-		"desc": null,
+		"desc": "The girl's ears rang in the fantasia with the words conversed on that day.\\n\\n<i>\"This sword wasn't hard to pull out at all, Merlin.\"</i>\\n<i>\"Indeed. Becoming the king everyone wishes for won't be hard for you at all, given that I'm guiding you. However, Altria... The hard part is that you can't always meet everyone's expectations.\"</i>\\n<i>\"Then they can choose a more fitting king by that time. I won't protest.\"</i>\\n<i>\"But what if such a person will never exist?\"</i>\\n<i>\"...Then I'll do my best to meet everyone's expectations.\"</i>\\n\\nNow, the girl had long since become aware of how profound that tragedy would be. Would she have chosen to give up if she were to return to that moment where everything began?\\n\\nThe king does not speak and simply grasps the sword tightly.\\nThe stone again gives out a thundering roar as the sword is pulled out.",
 		"en": "A Thankless Coronation",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23045.webp",
 		"id": "23045",
@@ -937,7 +937,7 @@
 	"海洋为何而歌": {
 		"baseType": "Warlock",
 		"cn": "海洋为何而歌",
-		"desc": null,
+		"desc": "Waves surge forth, their roar echoing across the heavens.\\nFish swim through the empty seas, where ancient foam churns and that melody seems to still linger.\\n\\n<i>\"Noble Princess, feast with us!\"</i>\\nAnswering the deep sea's call, she danced with the black tide until she alone remained on that grand stage.\\n\\n<i>\"Swordmaster of the seas, why do you stay silent, what makes you sing?\"</i>\\nWith every step upon the Earth, she endured the pain, rarely singing, only her crimson blade sang the lament of life.\\n\\n<i>\"Dux Gladiorum, come with me to conquer the starry seas!\"</i>\\nWhen she found this blazing light, she finally took up her bow, believing it to be the start of the celebration.\\n\\n...\\n\\n<i>\"Helektra... Helektra... when your song ends, where will you swim to next?\"</i>\\n\\nWhen futile hopes shatter, she always answers their questions with a solitary melody, yet it enchants all who hear it.\\n\\nOr perhaps... whether in the mortal realm or the deep sea, the only true listener is the performer herself.",
 		"en": "Why Does the Ocean Sing",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23047.webp",
 		"id": "23047",
@@ -948,7 +948,7 @@
 	"渊环": {
 		"baseType": "Warlock",
 		"cn": "渊环",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"Those running away from the past think no one understands their despair. When they finally take a breather, they'll find their future selves staring right at them with bloodshot eyes.\"</i>",
 		"en": "Loop",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20011.webp",
 		"id": "20011",
@@ -959,7 +959,7 @@
 	"游戏尘寰": {
 		"baseType": "Shaman",
 		"cn": "游戏尘寰",
-		"desc": null,
+		"desc": "Just as fireworks can flicker, she too can shift between ten different colors in a minute.\\n\\nWhen the light show nears its end, she sits high above, regarding the bustling masses beneath her feet with boredom.\\nThoughts flow and vanish, and slyness circulates across myriad eyes like a dancing kaleidoscope.\\n<i>\"I've made my decision. This is how we're going to have fun today!\"</i>\\n\\nBouncing and hopping, she glides through the crowds, her golden-red tail flitting in and out of sight.\\n<i>\"Keep up! The brightest fireworks are just about to begin!\"</i>",
 		"en": "Earthly Escapade",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23021.webp",
 		"id": "23021",
@@ -970,7 +970,7 @@
 	"溯忆": {
 		"baseType": "Memory",
 		"cn": "溯忆",
-		"desc": null,
+		"desc": "The delicate power distilled from time itself. It's all the seemingly insignificant moments that weave together a magnificent destiny. \\n\\n<i>\"In the fleeting sweet dream, it was as if the old soul had returned to the colorful waters of childhood.\"</i>",
 		"en": "Reminiscence",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20022.webp",
 		"id": "20022",
@@ -981,7 +981,7 @@
 	"灵钥": {
 		"baseType": "Mage",
 		"cn": "灵钥",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"Knowledge is locked behind a gate, the key to which is hidden from those seeking answers from others, while made obvious for those determined to find it on their own.\"</i>",
 		"en": "Passkey",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20013.webp",
 		"id": "20013",
@@ -992,7 +992,7 @@
 	"点个关注吧！": {
 		"baseType": "Rogue",
 		"cn": "点个关注吧！",
-		"desc": null,
+		"desc": "<i>\"Yo, yo. What is up! Is everything coming through?\"</i>\\n\\nThe orange-haired girl slowly lifts a sledgehammer while shouting enthusiastically at the camera.\\n<i>\"Ever seen a pretty girl doing the cinder-block-smashed-on-chest stunt?\"</i>\\n\\n<i>\"I didn't sign up for this!\"</i>\\nThe brunette girl cried out loud, only to be met with a sly smile from the girl with the orange hair.\\n<i>\"Please. Just let me do this. This is what people would've wanted.\"</i>",
 		"en": "Subscribe for More!",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21017.webp",
 		"id": "21017",
@@ -1003,7 +1003,7 @@
 	"烦恼着，幸福着": {
 		"baseType": "Rogue",
 		"cn": "烦恼着，幸福着",
-		"desc": null,
+		"desc": "For a competent IPC professional, \"feeling overwhelmed\" is absolutely not allowed.\\nStand tall and take on whatever comes your way, be it burnout or overwork! \\nUnless... it's being overwhelmed by \"them.\"\\n\\n<i>\"Oh, don't get so antsy! I only have two hands!\"</i>\\nA girl who just returned home from working overtime is pinned down by a group of fluffy creatures.\\nThey may not fully understand her words, simply nuzzling their round heads closer to her palm.\\nThe feeling of exhaustion gradually fades from her body, replaced by the warmth and comfort brought by stroking their fur.",
 		"en": "Worrisome, Blissful",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23016.webp",
 		"id": "23016",
@@ -1014,7 +1014,7 @@
 	"焚影": {
 		"baseType": "Memory",
 		"cn": "焚影",
-		"desc": null,
+		"desc": "The delicate power distilled from time itself. It's all the seemingly insignificant moments that weave together a magnificent destiny. \\n\\n<i>\"People always attempt to erase unpleasant pasts. Such is the nature of memory.\"</i>",
 		"en": "Shadowburn",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20021.webp",
 		"id": "20021",
@@ -1025,7 +1025,7 @@
 	"爱如此刻永恒": {
 		"baseType": "Memory",
 		"cn": "爱如此刻永恒",
-		"desc": null,
+		"desc": "The azure sky reflects a brilliant tomorrow.\\nOne step, two steps... the maiden's path has been so long, but fortunately those cherished stories haven't been forgotten by the cycles of time.\\nNow, written together by everyone, the epic has been completed, welcoming its finale.\\n\\nStars, flowers, birds, and a beautiful new world.\\nGauze, wreaths, long dresses, and the wind that carries blessings.\\nThe quest of thirty million lifetimes transformed into a single moment of happiness, enough to outweigh an eternity of words.\\n\\n<i>\"Hee, it's a promise...\"</i>\\nThe girl turns around to give a gentle smile.\\n<i>\"One of us stays in the past, and the other walks toward the future... but our hearts have never been apart ♪\"</i>\\n\\nShe rises onto her toes and steps into the past.\\nAnd memory, transforming into ripples of past reverie, drifts toward tomorrow.",
 		"en": "This Love, Forever",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23052.webp",
 		"id": "23052",
@@ -1036,7 +1036,7 @@
 	"片刻，留在眼底": {
 		"baseType": "Mage",
 		"cn": "片刻，留在眼底",
-		"desc": null,
+		"desc": "He once heard a ballad, singing in praise of that sliver of light:\\nRose blooms, to answer THEIR smile.\\nDawn shines, to illuminate THEIR visage.\\nMelody plays, to banish THEIR fatigue.\\n\\nBut, light, once gone, never returns. Yet, he still gallops to the far beyond.\\nAll that is needed is to wait for, to believe in, and to preach about everything that is of the Beauty in this cosmos.\\nEven if everything is but a fleeting instant before a gaze, he has already found the answer he sought.",
 		"en": "An Instant Before A Gaze",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23018.webp",
 		"id": "23018",
@@ -1047,7 +1047,7 @@
 	"物穰": {
 		"baseType": "Priest",
 		"cn": "物穰",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"Life is the existence of order beyond a certain threshold. Its birth is the final answer to the silent universe, declaring the end to the era of old chaos.\"</i>",
 		"en": "Cornucopia",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20001.webp",
 		"id": "20001",
@@ -1058,7 +1058,7 @@
 	"猎物的视线": {
 		"baseType": "Warlock",
 		"cn": "猎物的视线",
-		"desc": null,
+		"desc": "In reality, most prey don't realize when danger is encroaching.\\nThis one's no exception.\\nThe sniper's scope slowly centers on a man throwing banknotes stack after stack, who seems completely oblivious to his impending demise.\\n<i>\"So that's what greed looks like. That amount is equal to several of my contracts already... No wonder someone wants him dead.\"</i>\\n\\nAs if these thoughts were broadcasted out loud, the man in the scope turns his head, looking straight into the eyes of the sniper. \\n<i>\"I've been waiting for you. Would this much be enough for you to hear me out?\"</i>",
 		"en": "Eyes of the Prey",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21008.webp",
 		"id": "21008",
@@ -1069,7 +1069,7 @@
 	"理想燃烧的地狱": {
 		"baseType": "Rogue",
 		"cn": "理想燃烧的地狱",
-		"desc": null,
+		"desc": "The flames of karma ignite the plains. The ideals of unknowns turn to ashes, as the ideals of others burn passionately.\\n\\nThe Guardian traverses between bullets and arrowheads.\\nHe can save no one here. He can save everyone here.\\n\\nKill one person to save one person. Kill ten thousand to save ten thousand. The fate of trampling over our peers is one part of humanity's continued existence.\\n\\nThe Guardian had already grown used to all this, and his steps never hesitated.\\nThe determination that covers his legs is like wind. The determination that covers his arms is like fire.\\n\\nHe is still seeking a miracle that can bring forth salvation.",
 		"en": "The Hell Where Ideals Burn",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23046.webp",
 		"id": "23046",
@@ -1080,7 +1080,7 @@
 	"琥珀": {
 		"baseType": "Knight",
 		"cn": "琥珀",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"Only those who aren't affected by time can survive in time.\"</i>",
 		"en": "Amber",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20003.webp",
 		"id": "20003",
@@ -1091,7 +1091,7 @@
 	"生命当付之一炬": {
 		"baseType": "Mage",
 		"cn": "生命当付之一炬",
-		"desc": null,
+		"desc": "In that hidden experiment, various illusions constantly surged forward, pulling at his steps.\\n\\nThe seductive whispers beckoned him to give up on that treacherous topic, for what reason was there to gamble his life?\\nThe cold, threatening voice declared that those who walk the edge of life and death will ultimately burn their lives away.\\nThen there were the angry accusations, shouting to cast the blasphemer — the one who had desecrated the gods — into an execution grounds most cruel.\\n\\n<i>\"The performance of life, too, must eventually reach the curtain call.\"</i>\\n\\nHe closed his eyes, grasped the divine flame, and let the pain drown his fading soul.\\nFirst, his resolute gaze. Then, his beating heart. The complete soul... He threw himself willingly into that most pure and intense flame to be used for the smelting—\\n\\nThe voices bubbled and then became silent.\\nIn the darkness, the brilliant truth began to take shape in his hands.",
 		"en": "Life Should Be Cast to Flames",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23041.webp",
 		"id": "23041",
@@ -1102,7 +1102,7 @@
 	"直到明天的明天": {
 		"baseType": "Priest",
 		"cn": "直到明天的明天",
-		"desc": null,
+		"desc": "<i>\"See you tomorrow, Tribios...\"</i>\\n\\nThe girl wiped the tears on her cheeks when her mother went somewhere far, far away.\\n\\nShe waited one tomorrow after another, till she grew up to be someone like her mother.\\nShe stands before the passage and grasps the Coreflame tight as she recalled her mother's words.\\n\\n<i>\"There are no blizzards, colds, or rain at that place...\"</i>\\n\\n<i>\"But if we can't see you tomorrow, then...\"</i>\\n\\nShe falls towards the earth, leaving her young figure behind, like a shooting star across the sky —\\n\\n<i>\"Then, see you on tomorrow's morrow!\"</i>",
 		"en": "Unto Tomorrow's Morrow",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21055.webp",
 		"id": "21055",
@@ -1113,7 +1113,7 @@
 	"相抗": {
 		"baseType": "Rogue",
 		"cn": "相抗",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"Freedom fighters will never die, as their stories will forever be told.\"</i>",
 		"en": "Adversarial",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20014.webp",
 		"id": "20014",
@@ -1124,7 +1124,7 @@
 	"睿见": {
 		"baseType": "Mage",
 		"cn": "睿见",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"Should Wise Ones be unable to abandon their identity as humans, they shall be abandoned by wisdom.\"</i>",
 		"en": "Sagacity",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20020.webp",
 		"id": "20020",
@@ -1135,7 +1135,7 @@
 	"离弦": {
 		"baseType": "Rogue",
 		"cn": "离弦",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"The battle has begun. Arrows are thirsty for blood.\"</i>",
 		"en": "Darting Arrow",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20007.webp",
 		"id": "20007",
@@ -1146,7 +1146,7 @@
 	"秘密誓心": {
 		"baseType": "Warrior",
 		"cn": "秘密誓心",
-		"desc": null,
+		"desc": "The boy would always make sure that his gloves and elbow guards were in good shape before leaving.\\nHe treasured his gloves more than anything because they were tight enough to hide secrets.\\nWith this layer of protection, no one could see the bandages on his hand and the wound beneath them.\\nHe would be treated as if he was normal, and he would be greeted just like everyone else.\\n\\nThat was all he asked for.",
 		"en": "A Secret Vow",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21012.webp",
 		"id": "21012",
@@ -1157,7 +1157,7 @@
 	"等价交换": {
 		"baseType": "Priest",
 		"cn": "等价交换",
-		"desc": null,
+		"desc": "After enjoying an intense massage from the dragon girl,\\nthe foxian girl held out her hand and playfully pinched the dragon girl's little chubby cheeks.\\nThe little girl then pouted her lips, clearly offended, only to elicit a gleeful giggle from the foxian girl.\\n\\n<i>\"Now that's what I call a proper quid pro quo.\"</i>",
 		"en": "Quid Pro Quo",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21021.webp",
 		"id": "21021",
@@ -1168,7 +1168,7 @@
 	"纯粹思维的洗礼": {
 		"baseType": "Rogue",
 		"cn": "纯粹思维的洗礼",
-		"desc": null,
+		"desc": "The afternoon sunshine is just right, and the floral scents fill the air.\\nThough he tries to keep his thoughts pure, cognitive stagnancy inevitably attracts particulates of mind like gathered dust.\\n\\n<i>\"Healing one's thoughts is just as vital as the maintenance of one's health.\"</i>\\nThe fools' clamoring fades alongside fatigue as he sinks into the water, letting all thoughts loose, his mind elucidated and ordered.\\n\\n<i>\"Truth eludes all filths, accepting only those of pure thoughts.\"</i>",
 		"en": "Baptism of Pure Thought",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23020.webp",
 		"id": "23020",
@@ -1179,7 +1179,7 @@
 	"纵然山河万程": {
 		"baseType": "Knight",
 		"cn": "纵然山河万程",
-		"desc": null,
+		"desc": "In the boundless ancient lands, a young man walks alone on his quest.\\nHe seems to return to those wandering days, wading through surging waves, weathering wind and frost, battling behemoths, struggling against raging tides.\\n\\nYet in those moments of respite, he is not alone.\\nThough worlds apart, he can still see the light ahead...\\n\\nIt is the light of hope of all living beings.\\nThe shattered earth can no longer sustain new life, and the newborn creatures gather around him, seeking comfort and shelter.\\n\\nThose are the words his companions left in his heart, like an endless voyage connecting them firmly together.\\n\\nThe troubles of his past may stir with the wind, but the path he's traveled will become the strength for his metamorphosis.\\n\\n<i>\"I will stand guard for the Path of the Trailblaze.\"</i>\\nThe young man leaps forth with his spear, advancing toward the light\\n\\n<i>\"And I shall defend all hope that threatens to fade away!\"</i>",
 		"en": "Though Worlds Apart",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23051.webp",
 		"id": "23051",
@@ -1190,7 +1190,7 @@
 	"织造命运之线": {
 		"baseType": "Knight",
 		"cn": "织造命运之线",
-		"desc": null,
+		"desc": "Destiny always tows the masses onward without reason, and she lurks within the darkness, waiting to inscribe the most crucial of instants.\\n\\nSorting, matching, shuffling, drawing... She simulates fate's hand in how it manipulates all variables for the masses, seeking the trajectory of truth beneath the visage of a disorderly exterior.\\n\\nFinally, when all the characters are in their place, she brushes over the card faces that are in stasis and assembles the unfathomable truth.\\n<i>\"Still missing a card... So, I'll add one in.\"</i>",
 		"en": "Destiny's Threads Forewoven",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21039.webp",
 		"id": "21039",
@@ -1201,7 +1201,7 @@
 	"美梦小镇大冒险": {
 		"baseType": "Shaman",
 		"cn": "美梦小镇大冒险",
-		"desc": null,
+		"desc": "<i>\"Hello, dear viewers! Clockie and his pals have come to see you all again!\"</i>\\n\\n<i>\"In the previous episode, Boss Stone discovered that Dreamville was sitting on a wealth of natural resources, and moved to seize control over the city. In response, Clockie joined forces with Brother Hanu and Origami Bird, and together, they sent Boss Stone and his goons running from Dreamville.\"</i>\\n\\n<i>\"But Boss Stone isn't going to be defeated that easily, and this time, he's gathered a legion of thugs to fulfill his oath of turning Dreamville into a crater. In this episode, Clockie might just be standing against the greatest threat he ever faced!\"</i>\\n\\n<i>\"What scheme will Clockie employ to escape from this crisis? And what new friends will join his party? Stay tuned for the latest episode of 'Dreamville Adventure'!\"</i>",
 		"en": "Dreamville Adventure",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21036.webp",
 		"id": "21036",
@@ -1212,7 +1212,7 @@
 	"胜利只在朝夕间": {
 		"baseType": "Memory",
 		"cn": "胜利只在朝夕间",
-		"desc": null,
+		"desc": "The Titankins' all-consuming roars sweep across the battlefield. Two lightning-quick figures slaughter their way out of combat.\\n\\n<i>\"I alone will be enough to handle them.\"</i>\\nEvery punch unleashed by the warrior sends spears of blood through the bodies of the enemy.\\n<i>\"Brute force and nothing more. Watch my blade!\"</i>\\nAs a blade of pale silver slices in a curve, monsters drop like falling leaves.\\n<i>\"A contest of speed?\"</i>\\nThe two charge at the other side simultaneously.\\nHowls of anguish sound as the stealthy beasts behind them are struck down at once.\\nTwo voices can be heard at the same time.\\n<i>\"That was my kill!\"</i>\\n",
 		"en": "Victory In a Blink",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21050.webp",
 		"id": "21050",
@@ -1223,7 +1223,7 @@
 	"致长夜的星光": {
 		"baseType": "Memory",
 		"cn": "致长夜的星光",
-		"desc": null,
+		"desc": "In the crevices of time, only her heartbeat echoes.\\nLike many nights before, watching in the darkness and resting in dormancy.\\n\\nShe treasures the memories entrusted to her.\\nThe girl sets forth from a blank starting point, painting each stop she lingered at with vibrant colors. A cozy Express, companions each with their unique personalities, dazzling and magnificent planets... like a dream too beautiful to leave behind.\\n\\n<i>\"My real journey starts now!\"</i>\\nThe girl's declaration seems to whisper right beside her ear.\\n\\nShe gazes toward the distant starry sky, as a beam of light approaches.\\nIt's the Express's headlight, like a shooting star.\\n\\n<i>\"Good night, March... When you awaken, continue on your Trailblaze journey ♭\"</i>\\n\\nAs the memoria tide surges, she buries her wish deep in her heart, those tiny whispers and that light\\n—she has never forgotten.",
 		"en": "To Evernight's Stars",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23049.webp",
 		"id": "23049",
@@ -1234,7 +1234,7 @@
 	"舞！舞！舞！": {
 		"baseType": "Shaman",
 		"cn": "舞！舞！舞！",
-		"desc": null,
+		"desc": "<i>\"Why couldn't Hook do a spinning dance move, just like how Clara does?\"</i>\\nShe clenched her tiny fists and pouted her cute lips, her chubby little face looking redder than ever under her signature felt hat.\\n<i>\"Please, Mr. Svarog, can you please help Hook with this?\"</i>\\nWithout saying any words, Mr. Svarog began to hold out his robotic arm.\\n\\n<i>\"I'm g—gonna be sick!!! Put me down now! Please!\"</i>",
 		"en": "Dance! Dance! Dance!",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21018.webp",
 		"id": "21018",
@@ -1245,7 +1245,7 @@
 	"花儿不会忘记": {
 		"baseType": "Memory",
 		"cn": "花儿不会忘记",
-		"desc": null,
+		"desc": "In spring, they sowed seeds.\\nIn summer, they irrigated the fields.\\nIn autumn, they harvested the fruits.\\nIn winter, they sang as they walked in the snow.\\n...\\n\\nThe land that was originally barren now blooms with flowers, and butterflies are drawn by the peals of laughter and land on the girls' fingertips.\\n<i>\"Big sis! We'll keep working together to turn this into a huge sea of flowers!\"</i>\\n\\n<i>\"See. Our promise...\"</i>\\nThe butterfly flies to the other shore. The rather taciturn girl softly caresses the warm flower petals as if her little sister is still there with her.\\n<i>\"...Wasn't forgotten by me or the flowers we once attended.\"</i>",
 		"en": "The Flower Remembers",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21057.webp",
 		"id": "21057",
@@ -1256,7 +1256,7 @@
 	"芳华待灼": {
 		"baseType": "Shaman",
 		"cn": "芳华待灼",
-		"desc": null,
+		"desc": "Dawn's first light whispers. In the stillness of the flower grove, a shifting form dances, startling birds into flight one after another.\\n\\nSilently reciting sword techniques, she moves with the flow, her once-clumsy moves now gaining finesse. Where the sword's cuts rend the air, petals fall like rain, swirling chaotically as they fall. Unbeknownst to her, the cool mist has dampened her hair.\\n\\n<i> \"Nice swordplay!\" </i>\\nStartled, she instinctively turns her sword—\\nBehind her, a young {F#woman}{M#man} with gray hair lowers the camera in hand.\\n<i> \"Beautiful memories won't just fade away with the wind.\"</i>",
 		"en": "Poised to Bloom",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21046.webp",
 		"id": "21046",
@@ -1267,7 +1267,7 @@
 	"落日时起舞": {
 		"baseType": "Warrior",
 		"cn": "落日时起舞",
-		"desc": null,
+		"desc": "In the resplendent twilight, a swift figure darts across the rooftops.\\n\\n<i>\"Lili, Guoguo, let's see who makes it to the finish line first!\"</i>\\nScaling the eaves, evading the guards, swaying with the wind, the girl moves like a nimble critter, chasing the last sliver of sunlight.\\n\\nThe warm evening breeze caresses her face, and the setting sun bathes the cat in a kaleidoscope of colors.\\n<i>\"You guys won!\"</i>\\nShe declares, wiping sweat from her brow and cradling the cat in her arms.\\nAmidst a rising galaxy of stars, her unguarded smile dissolves into a bloom of innocence, akin to the layered twilight hues adrift in the sky.",
 		"en": "Dance at Sunset",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23030.webp",
 		"id": "23030",
@@ -1278,7 +1278,7 @@
 	"蕃息": {
 		"baseType": "Priest",
 		"cn": "蕃息",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"When life has lost its meaning, please continue to bestow life upon it.\"</i>",
 		"en": "Multiplication",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20015.webp",
 		"id": "20015",
@@ -1289,7 +1289,7 @@
 	"血火啊，燃烧前路": {
 		"baseType": "Warrior",
 		"cn": "血火啊，燃烧前路",
-		"desc": null,
+		"desc": "Cold dew congealed on the blade, sliding down in crimson streaks.\\nThe rust-tainted wilderness still flickered with embers of battle, flames leaping upon the ashes.\\n\\n<i>\"Mydeimos, that was a godlike fight just now!\"</i>\\nA bare-chested warrior wiped his weapon clean, shouting in exhilaration.\\n\\n<i>\"Mydei, one day, I'll be as invincible as you!\"</i>\\nA child gazed at him with reverence, clutching a broken sword in small hands.\\n\\n<i>\"Crown Prince, our return to Castrum Kremnos is within sight.\"</i>\\nAn aged man smiled, raising his cup in a toast to him.\\n\\nHe nodded silently and walked to the edge of the camp.\\nThe pain of rebirth still coursed across his skin. Tomorrow, he would lead the Kremnoan Detachment forth once again, migrating to foreign lands.\\nWhere this wandering would end, he did not know. The only certainty was this — he would bear the duty of a king until the blood and flames consumed him.\\n\\nAs night deepened, he drank the bloodwine alone. A passing bard plucked at his strings, a wandering melody drifting through the air—\\n<i>\"Home is the land of dreams, not a place one can ever reach.\"</i>",
 		"en": "Flame of Blood, Blaze My Path",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23039.webp",
 		"id": "23039",
@@ -1300,7 +1300,7 @@
 	"行于流逝的岸": {
 		"baseType": "Warlock",
 		"cn": "行于流逝的岸",
-		"desc": null,
+		"desc": "Flowing in the narrow border between \"existence\" and \"nothingness,\" the ice-cold tides eternally lap against the shores and bring all things to their final end.\\n\\nIn this place, the drowned ask for help, lament with songs, find their happiness, enjoy sweet moments, and suffer great agony... All these are reflected in the water. She cannot experience these, but she can feel them —\\nThere are still many roads to walk, many sounds to listen to, and many things to change before she arrives at the end.\\n\\nShe reaches out and saves the drowning from the temptations of Nihility, and one mirage after another bursts apart behind her figure.\\nShe keeps walking in this boundless world, all for an end that does not exist.\\n\\n— And it's always raining here.",
 		"en": "Along the Passing Shore",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23024.webp",
 		"id": "23024",
@@ -1311,7 +1311,7 @@
 	"让告别，更美一些": {
 		"baseType": "Memory",
 		"cn": "让告别，更美一些",
-		"desc": null,
+		"desc": "Another farewell ceremony was underway.\\nA young girl, stepping on broken moonlight, wove a garland of parting by the riverbank.\\n\\nAncient laments crystallized in the cold air, while the quiet river flowed into a distant land of blossoms.\\nBlood-stained scrolls, rusted long swords, handkerchiefs embroidered with poetry... She accepted their remains, along with the tales of their lives.\\n\\n<i>\"My eyes are like lenses, forever longing for the starry sky.\"</i>\\n—An epitaph dedicated to the departed scholar.\\n<i>\"For life and for death, the knight grants only a cold glance.\"</i>\\n—The maxim that the nameless warrior upheld all his life.\\n<i>\"Life is nothing but death, aglow with shimmering light.\"</i>\\n—The final verse penned by the eternal-seeking poet with his life.\\n...\\n\\n<i>\"Every flower once bloomed with pride...\"</i>\\nAccompanied by the river's soft lament, she offered the departed poems, garlands, and remembrances—\\n<i>\"If withering is inevitable, at least let our farewell be... a little more beautiful.\"</i>",
 		"en": "Make Farewells More Beautiful",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23040.webp",
 		"id": "23040",
@@ -1322,7 +1322,7 @@
 	"记一位星神的陨落": {
 		"baseType": "Warrior",
 		"cn": "记一位星神的陨落",
-		"desc": null,
+		"desc": "It began with a flash of light.\\nOne by one, THEY fell as the threat of expiration loomed over THEM.\\nTHEY had to stop self-replicating and rushed to embrace each other,\\ntrying to offer the right to reproduce in exchange for a possibility of survival.\\nTHEY held hands in a show of unprecedented unity.\\n...But the Paths met an abrupt end,\\nand THEY were headed to a true death.",
 		"en": "On the Fall of an Aeon",
 		"iconUrl": "/hsr/UI/lightconemediumicon/24000.webp",
 		"id": "24000",
@@ -1333,7 +1333,7 @@
 	"记忆中的模样": {
 		"baseType": "Shaman",
 		"cn": "记忆中的模样",
-		"desc": null,
+		"desc": "An old photo lies on the far end of the table in the guardian's residence.\\nShe would always subconsciously move her eyes away whenever she happened to see it.\\nThe memories of the past had already become distant, but the dreams of today still linger.",
 		"en": "Memories of the Past",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21004.webp",
 		"id": "21004",
@@ -1344,7 +1344,7 @@
 	"记忆永不落幕": {
 		"baseType": "Memory",
 		"cn": "记忆永不落幕",
-		"desc": null,
+		"desc": "Be it bustling, desolate, fleeting, or enduring... every planet and every instant is brimming with countless events.\\nThat condensed history melts at a single touch, flowing as tears from the world's gaze—\\n\\nSome say: How heavy those tears must be, the amassed years capable of fading eternity.\\nSome say: How wondrous the stories they tell, sorrow so clear, joy so serene, unmarred by even a hint of falsehood.\\n\\nThe Cosmos flows in silent stillness, and THEY speak not, only watching—\\nWatching and waiting for them to become \"memories.\"",
 		"en": "Memory's Curtain Never Falls",
 		"iconUrl": "/hsr/UI/lightconemediumicon/24005.webp",
 		"id": "24005",
@@ -1355,7 +1355,7 @@
 	"记忆的质料": {
 		"baseType": "Knight",
 		"cn": "记忆的质料",
-		"desc": null,
+		"desc": "The universe is like a wasteland filled with rubbish,\\nwhere occasional treasures lie undiscovered.\\nTHEY sift through the cracks of yesterday, seeking seeds of memory.\\n...If a new life is to be born, its seed has to be dead.\\nPrecious stones of pink, blue, and white are brought forth,\\ntwinkling gently in THEIR seed plot,\\neven though the universe holds onto its enigmatic silence.",
 		"en": "Texture of Memories",
 		"iconUrl": "/hsr/UI/lightconemediumicon/24002.webp",
 		"id": "24002",
@@ -1366,7 +1366,7 @@
 	"论剑": {
 		"baseType": "Rogue",
 		"cn": "论剑",
-		"desc": null,
+		"desc": "Looking rather skeptical, the girl thrust the small sword at her imaginary enemy in an attempt to convince herself that this thing was useful.\\nHow can something so feeble compete with my two-handed sword? Do enemies even notice when they get stabbed?\\n\\nThe owner of the sword did not seem to care about its size.\\nAfter all, enemies are defeated by strategy, not swords.\\nIt doesn't matter whether the sword is heavy or light, as long as you use the pointy end.",
 		"en": "Swordplay",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21010.webp",
 		"id": "21010",
@@ -1377,7 +1377,7 @@
 	"调和": {
 		"baseType": "Shaman",
 		"cn": "调和",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"What can be more joyous than purging disharmony?\"</i>",
 		"en": "Mediation",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20019.webp",
 		"id": "20019",
@@ -1388,7 +1388,7 @@
 	"谎言在风中飘扬": {
 		"baseType": "Warlock",
 		"cn": "谎言在风中飘扬",
-		"desc": null,
+		"desc": "The cat-eared girl stretches her limbs on the rooftop, slinking into the night.\\nIn the treasure vault that had slumbered for a thousand years, she glides effortlessly, gathering precious treasures into her embrace before vanishing without a sound.\\n<i>\"Foolish fate could never catch me!\"</i>\\n\\nThe wind through the ruins carries the scent of the wild, rustling her hood.\\nResting her head against the cold stone, she swallows a bite of rough, dry rations, idly tossing a gold coin between her fingers.\\n\\nA faint sound from afar reaches her ears. In that holy city bathed in dawn's light, the bustling crowds still revel in warmth and celebration.\\n<i>\"How much longer... a year, or ten thousand?\"</i>\\n\\nShe stretches with a lazy yawn, casting her restless thoughts aside.\\n<i>\"Hah, Cifera always has the last laugh!\"</i>\\n\\nA golden streak of lightning cuts across the sky, and her proclamation lingers in the wind—\\nJust as it had a thousand years ago.",
 		"en": "Lies Dance on the Breeze",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23043.webp",
 		"id": "23043",
@@ -1399,7 +1399,7 @@
 	"谐乐静默之后": {
 		"baseType": "Mage",
 		"cn": "谐乐静默之后",
-		"desc": null,
+		"desc": "The eternal dream he longed for vanished in an instant. As he plummeted towards the earth, he felt no sadness, only a desire to close his eyes.\\n\\nThe old path treaded upon has now crumbled, yet the journey ahead remains shrouded in mist.\\n<i>\"After the awakening, the world continues its cycle of suffering, with no escape, the same as always...\"</i>\\nHe carries the past, turns his back on his homeland, and continues towards a paradise that does not yet exist.\\n\\nSo, why do people slumber? And why do they wake?\\n— As planets streak past outside the window, this answer now demands a new meaning to be given.\\n<i>\"Maybe... just maybe I still can...\"</i>",
 		"en": "After the Charmony Fall",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21045.webp",
 		"id": "21045",
@@ -1410,7 +1410,7 @@
 	"轮契": {
 		"baseType": "Shaman",
 		"cn": "轮契",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate. \\n\\n<i>\"Harmony is achieved when everyone does their bit amidst the clunking of machines.\"</i>",
 		"en": "Meshing Cogs",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20012.webp",
 		"id": "20012",
@@ -1421,7 +1421,7 @@
 	"过往未来": {
 		"baseType": "Shaman",
 		"cn": "过往未来",
-		"desc": null,
+		"desc": "The wings of the paper kite in her hands were broken, brutally reminding her of her beloved's tragic passing.\\nShe kneeled next to the fire of war, eyes full of sorrow.\\n\\n<i>\"If you are the only one left to do this, then our sacrifice would...\"</i>\\n\\nGunfire raged on, painting the sky red without dampening its majesty.\\nShe looked up at the sky, eyes full of fury.",
 		"en": "Past and Future",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21025.webp",
 		"id": "21025",
@@ -1432,7 +1432,7 @@
 	"这就是我啦！": {
 		"baseType": "Knight",
 		"cn": "这就是我啦！",
-		"desc": null,
+		"desc": "The girl could rock any outfit she chooses, but she was unsatisfied, judging by the dozen sets of clothing piled up behind her.\\n\\n<i>\"Will this be the last outfit for today?\"</i>\\n\\nShe thought silently to herself and looked at the girl in the mirror. She looked extra happy on this day.\\n\\n<i>\"Okay! This is me!\"</i>",
 		"en": "This Is Me!",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21030.webp",
 		"id": "21030",
@@ -1443,7 +1443,7 @@
 	"追逐风的时候": {
 		"baseType": "Shaman",
 		"cn": "追逐风的时候",
-		"desc": null,
+		"desc": "<i>\"Heh. This one can go to that unlucky brat. It'll shut her money-owing parents up, and maybe they'll hit her less.\"\\n\"This can go to the granny selling pickle candies to help her out in a pitch. She really needs to see a doctor for all her pains. I don't wanna see a day when I can't buy such tasty candies anymore...\"</i>\\n\\nBent over the rucksack, the girl meticulously counts the jewels in there, and suddenly sneezes.\\n<i>\"Who's missed me?\"</i>\\n\\n<i>\"There you are, Cifera.\"</i>\\nThe threads wind around her back, as if hesitating where to start.\\n\\n<i>\"From now on, when you're chasing the wind...\"</i>\\nThe icy golden thread wraps around her wrists, holding her in place.\\n\\n<i>\"Don't forget to look after yourself as well.\"</i>\\n\\nShe runs, escaping far away. It's only when she turns around that she discovers the corner of her cloak that's starting to fray had already been stitched up, as if it were new.",
 		"en": "In Pursuit of the Wind",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21056.webp",
 		"id": "21056",
@@ -1454,7 +1454,7 @@
 	"那无数个春天": {
 		"baseType": "Warlock",
 		"cn": "那无数个春天",
-		"desc": null,
+		"desc": "After a few sudden drizzles, spring tides rise, birthing lush greenery.\\n<i>\"How many springs has it been?\"</i>\\nHe recalls those young soldiers heading to the battlefield for the first time. Year after year, the faces were all different, yet they radiated the exact same vigor and hope.\\nThe willow withers as it waits for their return. But what they manage to bring home is often... the frost that can never melt.\\n\\nBirds' warbles linger in the air as he closes his eyes, allowing sunlight to fall on his face through the gaps between the leaves.\\n—<i>\"Alas, those who remain are the loneliest of all.\"</i>",
 		"en": "Those Many Springs",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23029.webp",
 		"id": "23029",
@@ -1465,7 +1465,7 @@
 	"重塑时光之忆": {
 		"baseType": "Warlock",
 		"cn": "重塑时光之忆",
-		"desc": null,
+		"desc": "Light the candles, spread the cards, breathe in the fragrance...\\nThese broken memories become faces in the dancing light.\\nThe apparitions that emerge from flames tell her of pasts fondly recalled.\\nTime is shorn. The moment is frozen. She turns these most precious instants into crystallizations of eternity.\\n\\n<i>\"There is too much lost, and too little that remains... We nurture remembrance against the cruelties of time.\"</i>",
 		"en": "Reforged Remembrance",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23022.webp",
 		"id": "23022",
@@ -1476,7 +1476,7 @@
 	"重返幽冥": {
 		"baseType": "Rogue",
 		"cn": "重返幽冥",
-		"desc": null,
+		"desc": "Even though her sister was close by her side, she could hear nothing.\\nThe only thing audible was the voice in the depths of her heart, which only grew louder by the minute.\\n\\n<i>\"Big sis's body is cold.\"\\n\"Big sis's body is not moving.\"</i>\\n\\nA violent surge of fury irrevocably overwhelmed her so much that she didn't even find the time to clear her mind, or to remember this crucial yet neglected fact...\\n\\n<i>\"Big sis's body has been cold like this for a very long time.\"</i>",
 		"en": "Return to Darkness",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21031.webp",
 		"id": "21031",
@@ -1487,7 +1487,7 @@
 	"金血铭刻的时代": {
 		"baseType": "Shaman",
 		"cn": "金血铭刻的时代",
-		"desc": null,
+		"desc": "<i>\"How will history remember Cerydra a thousand years from now?\"</i>\\nShe was once asked.\\n\\nTo some, she was the eminent \"Imperator.\"\\nThat cold and cruel tyrant, that ambitious \"Flamecrowned,\" that empress who burned the Old Era with blood and fire...\\n\\nOthers argued she was merely a pitiful \"pawn.\"\\nThis forsaken ruler was but a prisoner of ambition, destined to lose everything in that game of chess against the gods.\\n\\nAnd some said that in the depths of her heart, darker than the ocean's abyss, she was just a mortal named \"Cerydra.\"\\nOne who mourned for fallen comrades, who hesitated and feared before her heavy fate, unable to move forward...\\n\\n<i>\"Heh. There is no need for history to remember me...\"</i>\\n\\nSwallowing the bitterness in her heart, she continued down that path of Flame-Chase paved with sacrifice.\\n\\n<i>\"It is our burning golden blood that shall engrave it!\"</i>",
 		"en": "Epoch Etched in Golden Blood",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23048.webp",
 		"id": "23048",
@@ -1498,7 +1498,7 @@
 	"铭记于心的约定": {
 		"baseType": "Warrior",
 		"cn": "铭记于心的约定",
-		"desc": null,
+		"desc": "A weathered past. A sworn duty to defend home. A dream to blaze a trail across the world—\\nThese were entrusted to the unworldly youth by a pair of rough, calloused hands.\\n\\n<i>\"Soon, we'll be able to go to a larger world.\" </i>\\nThe boy happily accepted his inheritance. Guarded by youth, he could not yet feel the weight born by the object's significance.\\n\\n<i>\"Of course. Before that time comes, however, guard this place well, Misha.\" </i>\\n\\nHe thus engraved that promise deep inside his heart, holding to it forever and always.",
 		"en": "Indelible Promise",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21042.webp",
 		"id": "21042",
@@ -1509,7 +1509,7 @@
 	"银河沦陷日": {
 		"baseType": "Mage",
 		"cn": "银河沦陷日",
-		"desc": null,
+		"desc": "<i>\"Molten Cheese Tart! You are in charge of disarming the planet's lookouts with your charm!\"</i>\\n<i>\"Gray Bean Paste! You will be in charge of breaching the planet's line of defense!\"</i>\\n<i>\"Salty Rimeplume! Bring us the head of the planet's leader!\"</i>\\n<i>\"My lord, what are you going to do!\"</i>\\n<i>\"I shall pretend to be an adorable kitten to befuddle these stupid humans!\"</i>\\n\\nThat day, the Cosmos remembered... the terror of being ruled by them.",
 		"en": "The Day The Cosmos Fell",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21040.webp",
 		"id": "21040",
@@ -1520,7 +1520,7 @@
 	"银河铁道之夜": {
 		"baseType": "Mage",
 		"cn": "银河铁道之夜",
-		"desc": null,
+		"desc": "If you are concerned for the road, just look up again.\\nWhen the stars look gently down, the heart would already be soaring.\\nEvery thought and every whisper,\\nbecomes a life experience that would never leave.",
 		"en": "Night on the Milky Way",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23000.webp",
 		"id": "23000",
@@ -1531,7 +1531,7 @@
 	"锋镝": {
 		"baseType": "Rogue",
 		"cn": "锋镝",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"The hunter's eyes are the clearest when they pull back the bowstring with the arrow nocked.\"</i>",
 		"en": "Arrows",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20000.webp",
 		"id": "20000",
@@ -1542,7 +1542,7 @@
 	"镂月裁云之意": {
 		"baseType": "Shaman",
 		"cn": "镂月裁云之意",
-		"desc": null,
+		"desc": "He immediately falls in love with the golden vessel and is about to buy it,\\nbut the foxian girl drags him aside and whispers:\\n<i>\"Please return at night, Mr. Benefactor, and make up your mind then.\"</i>\\n\\nAs promised, he returns at night.\\nThe same foxian girl opens the door and smiles at him.\\n<i>\"Please follow me, Mr. Benefactor.\"</i>\\n\\nA ray of moonlight shines onto the base of the etched plate.\\nThe artisan had traced the petals with lines of various depths, and he would not be able to see such details without the moonlight.\\n\\nHe finally recalls why this item is called \"Carve the Moon, Weave the Clouds.\"",
 		"en": "Carve the Moon, Weave the Clouds",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21032.webp",
 		"id": "21032",
@@ -1553,7 +1553,7 @@
 	"镜中故我": {
 		"baseType": "Shaman",
 		"cn": "镜中故我",
-		"desc": null,
+		"desc": "She once loved to seal the moment when plum blossoms were on the verge of wilting and keep them close to her.\\nIt has been many years since then. Many lifeforms — rambunctious, sweet, and everything in between — have bloomed from her hands, but the plum blossoms still wilt at their preordained times.\\nIt has been many years since then. Her visage in the mirror seems untouched by time. But, in the grand scheme of the cosmos, is she too destined to last for but a fleeting moment?\\n\\n<i>\"If all is set for eventual demise, what purpose, then, does creation serve?\"</i>\\nAfter a silence that seems to stretch to eternity, the winds blow, the petals fall, and the reflection in the mirror tenders the same answer as always.\\n<i>\"For the day when plum blossoms are no longer kept.\"</i>\\nShe deftly caresses the icy surface of the mirror. Such soliloquies have happened too many times for her to count.",
 		"en": "Past Self in Mirror",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23019.webp",
 		"id": "23019",
@@ -1564,7 +1564,7 @@
 	"长路终有归途": {
 		"baseType": "Warlock",
 		"cn": "长路终有归途",
-		"desc": null,
+		"desc": "<i>\"Who... Is she?\"</i> The girl caresses the unfamiliar self.\\n\\nShe recalls how the fire that day had swallowed her whole, and how her bejeweled fan turned into ash.\\n\\nShe had once walked on a never-ending road, looking for the light ahead.\\nThe sounds outside were calling for her, leading her forward, guiding her through the layers of night.\\nThe sounds within reminded her of those unfulfilled promises, unexecuted plans, and unrealized wishes... They were all still waiting for her.\\n\\nThey never dissipated in the fire, but instead, glowed ever brighter in the flames.\\n\\n<i>\"That is me...\"</i>\\nShe stands at the end of the road and no longer looks back in reminiscence —\\n<i>\"It's the original me, and also the brand-new me.\"</i>",
 		"en": "Long Road Leads Home",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23035.webp",
 		"id": "23035",
@@ -1575,7 +1575,7 @@
 	"雨一直下": {
 		"baseType": "Warlock",
 		"cn": "雨一直下",
-		"desc": null,
+		"desc": "She leaves the cover of the awning, opens her umbrella, and dives into an alley while humming a lighthearted tune.\\nThe rain stops a little while after.\\n\\nShe scratches her head and swipes her screen open. After a few taps, raindrops begin to fall in an area no wider than her umbrella.\\nThe pitter-patter sound of raindrops on the umbrella mixes with music from the game. All was calm and relaxing.\\n<i>\"Gaming and rain totally go together.\"</i>",
 		"en": "Incessant Rain",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23007.webp",
 		"id": "23007",
@@ -1586,7 +1586,7 @@
 	"飞向粉色的明天": {
 		"baseType": "Memory",
 		"cn": "飞向粉色的明天",
-		"desc": null,
+		"desc": "A gentle breeze scatters the clouds, revealing the face of the cosmos.\\nThe golden glow shimmers, as epics echo through the starry sky.\\n\\n<i>\"Shooting stars, encounters, promises!\"</i>\\nThe little fairy gazes at the sky, like their first meeting, like a reunion.\\n\\n<i>\"Mem, waiting. Trailblaze, the world!\"</i>\\nThe little fairy's eyes are illuminated by starlight, twinkling like that pink tomorrow.",
 		"en": "Fly Into a Pink Tomorrow",
 		"iconUrl": "/hsr/UI/lightconemediumicon/22006.webp",
 		"id": "22006",
@@ -1597,7 +1597,7 @@
 	"驶向第二次生命": {
 		"baseType": "Rogue",
 		"cn": "驶向第二次生命",
-		"desc": null,
+		"desc": "He felt as if he had fallen into a deep sea. Everything was departing from him, leaving only his hollow thoughts writhing and struggling all alone.\\n\\nTerror, anxiety, loneliness, darkness, rage — these feelings didn't dissipate with his physical body, but remained within the mechanical shell in a different manner — and they were even heavier than before.\\n\\nHe heard the call of the dead, smelled the scent of something being charred, the whirl of machinery buzzed around his ears, and the new blue blood flew towards his thirsty heart... Some cruel memories resurfaced as the unforgettable hatred turned into a weak light in the darkness. He followed the light to walk toward the end of it all, exerting every ounce of his strength to rise once again to the surface.\\n\\nHe opened his eyes and a flash of fireworks darted past before hearing the doctor's congratulations — \\n<i>\"Welcome to this world, once again.\"</i>\\nHe balled his hands into fists — hands that were now made of cold iron...\\nHe would no longer live for himself.",
 		"en": "Sailing Towards a Second Life",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23027.webp",
 		"id": "23027",
@@ -1608,7 +1608,7 @@
 	"黎明恰如此燃烧": {
 		"baseType": "Warrior",
 		"cn": "黎明恰如此燃烧",
-		"desc": null,
+		"desc": "Once again, at the journey's end, the man's silhouette was swallowed by the sweltering golden sun.\\n\\n<i>\"So... that golden blood, the last hope of deliverance, was really...\"</i>\\n\\nHis tears never had the chance to fall — they vanished into steam.\\n<i>\"Snowy, see you tomorrow!\"</i>\\n<i>\"Deliverer, remember to stay alive till the final act!\"</i>\\n<i>\"Go be the dawn of Amphoreus...\"</i>\\n\\n...\\nThe people's wishes echoed in the void. The Nameless Hero crumbled, his fierce and tragic death laid bare.\\n\\n<i>\"If rage can't burn this twisted fate to ashes...\"</i>\\nHe climbed toward the peak, over and over, only to fall and be shattered, again and again—\\n\\n<i>\"Then let me burn with it!\"</i>",
 		"en": "Thus Burns the Dawn",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23044.webp",
 		"id": "23044",
@@ -1619,7 +1619,7 @@
 	"黑夜如影随行": {
 		"baseType": "Rogue",
 		"cn": "黑夜如影随行",
-		"desc": null,
+		"desc": "<i>\"Footprints.\"</i>\\n<i>\"Scratches.\"</i>\\n<i>\"Scents.\"</i>\\n\\nAfter everything has been appropriately handled, he picks up a crow feather and gracefully leaps onto the roof.\\nIn the vast city, a pitch-black shadow shuttles through the corners unseen.\\n\\n<i>\"I shall merge into shadows and keep vigil over you all.\"</i>",
 		"en": "Shadowed by Night",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21047.webp",
 		"id": "21047",
@@ -1630,7 +1630,7 @@
 	"鼹鼠党欢迎你": {
 		"baseType": "Warrior",
 		"cn": "鼹鼠党欢迎你",
-		"desc": null,
+		"desc": "<i>\"Moles, moles,\"\\n\"Leaving our holes,\"\\n\"Smart moles fear naught foes,\"\\n\"Moles, moles,\"\\n\"Bite your toes!\"</i>",
 		"en": "The Moles Welcome You",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21005.webp",
 		"id": "21005",
@@ -1641,7 +1641,7 @@
 	"齐颂": {
 		"baseType": "Shaman",
 		"cn": "齐颂",
-		"desc": null,
+		"desc": "A drop of strength condensed from time itself. All the seemingly insignificant moments come together to form the magnificent choir of fate.\\n\\n<i>\"Fingers clutch to make a fist, strength is built via numbers. I give myself for something higher — the concept of us.\"</i>",
 		"en": "Chorus",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20005.webp",
 		"id": "20005",
