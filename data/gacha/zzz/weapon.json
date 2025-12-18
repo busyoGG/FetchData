@@ -3,6 +3,16 @@
 		"version": "2.4.2",
 		"items": [
 			{
+				"itemId": 14147,
+				"imageUrl": "/zzz/UI/Weapon_S_1471.webp",
+				"itemType": "Weapon",
+				"name": "怒目金刚",
+				"nameEn": "Wrathful Vajra",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5
+			},
+			{
 				"itemId": 14119,
 				"imageUrl": "/zzz/UI/Weapon_S_1191.webp",
 				"itemType": "Weapon",
