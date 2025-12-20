@@ -21,6 +21,36 @@
 				"weaponType": "Sword",
 				"rankType": 5,
 				"element": "Geo"
+			},
+			{
+				"itemId": 10000092,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Gaming.webp",
+				"itemType": "Character",
+				"name": "嘉明",
+				"nameEn": "Gaming",
+				"weaponType": "Claymore",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000090,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chevreuse.webp",
+				"itemType": "Character",
+				"name": "夏沃蕾",
+				"nameEn": "Chevreuse",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000110,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Iansan.webp",
+				"itemType": "Character",
+				"name": "伊安珊",
+				"nameEn": "Iansan",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Electro"
 			}
 		],
 		"start": "2025-12-23 18:00:00",
