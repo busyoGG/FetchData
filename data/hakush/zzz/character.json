@@ -24,7 +24,7 @@
 		"rank": 4,
 		"skin": {
 			"3110410": {
-				"Desc": "Those warm-toned goggles can't hide her icy, soldier's gaze. ant to see her crack a smile? Pick one: 87.5 one-arm push-ups or a bowl of extra-spicy noodles.",
+				"Desc": "Those warm-toned goggles can't hide her icy, soldier's gaze. Want to see her crack a smile? Pick one: 87.5 one-arm push-ups or a bowl of extra-spicy noodles.",
 				"Image": "IconRole05",
 				"Name": "Soldier 11: Elite Soldier"
 			}
@@ -74,7 +74,7 @@
 		"rank": 4,
 		"skin": {
 			"3113610": {
-				"Desc": "In the Hollows, her aim never wavers. She's a teammate one can rely on without question. But once she's home on Sixth Street, that constant watchfulness softens, lingering for a moment before disappearing the instant it's sensed.",
+				"Desc": "In the Hollows, her aim never wavers. She's a teammate one can rely on to cover their back without question. But once she returns to Sixth Street, that constant watchfulness softens, lingering for a moment before disappearing the instant it's sensed.",
 				"Image": "IconRole39",
 				"Name": "Trigger: Gaze Into the Light"
 			}
@@ -155,7 +155,7 @@
 		"rank": 4,
 		"skin": {
 			"3110510": {
-				"Desc": "Past recollections and fresh dreams spill over, inviting her to drown in them as they entwine on paper. With a blank page before her, she pens the opening line at the crossroads of reality and illusion.",
+				"Desc": "Past recollections and novel dreams spill over, inviting her to drown in them as they entwine on paper. With a blank page before her, she pens the opening line at the crossroads of reality and illusion.",
 				"Image": "IconRole52",
 				"Name": "Yidhari: Stream of Consciousness"
 			}
@@ -180,7 +180,7 @@
 		"rank": 4,
 		"skin": {
 			"3113210": {
-				"Desc": "A sharp, no-nonsense agent's outfit, its hidden edge alone is enough to make onlookers back off. Her yellow-brown hair weaves a fine, delicate net, where a quiet pool of starlight seems to rest.",
+				"Desc": "A sharp, no-nonsense manager's outfit. Its hidden edges are enough to make onlookers back off. Her yellow-brown hair weaves a fine, delicate net, where a quiet pool of starlight seems to rest.",
 				"Image": "IconRole37",
 				"Name": "Evelyn: A Moth to Light"
 			}
@@ -205,7 +205,7 @@
 		"rank": 4,
 		"skin": {
 			"3110710": {
-				"Desc": "A ruler ready to ready to sound the triumphal anthem anew, a hero poised to reignite her legend. The not-yet-seasoned leader has finally met the flames of her coronation, yet she still walks the gritty sands of the Outer Ring.\nA light tap on the strings sends her desert-tinged song drifting across this land that bears the weight of hope.",
+				"Desc": "A ruler ready to ready to sound the triumphal anthem anew, a hero poised to reignite her legend. The not-yet-seasoned leader has finally met the flames of her coronation, yet she still walks the gritty sands of the Outer Ring.\nA light tap on the piano keys sends her desert-tinged song drifting across this land that bears the weight of hope.",
 				"Image": "IconRole25",
 				"Name": "Caesar: Inferno Joyride"
 			}
@@ -280,14 +280,14 @@
 		"rank": 4,
 		"skin": {
 			"3114310": {
-				"Desc": "AvatarSkin_Zhenzhen_Desc_000",
+				"Desc": "...",
 				"Image": "IconRole55",
-				"Name": "AvatarSkin_Zhenzhen_Name_000"
+				"Name": "Ye Shunguang: Clouddrift Illumination"
 			},
 			"3114311": {
-				"Desc": "AvatarSkin_Zhenzhen_Desc_001",
+				"Desc": "...",
 				"Image": "IconRole55_01",
-				"Name": "AvatarSkin_Zhenzhen_Name_001"
+				"Name": "Ye Shunguang: Touch of Dawnlight"
 			}
 		},
 		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconHonedEdge.png",
@@ -311,9 +311,9 @@
 		"rank": 4,
 		"skin": {
 			"3113010": {
-				"Desc": "A soul of mirrored halves, having twice traversed the river of the dead. One side forged in fire, the other shaped into ice; one looking back on where it came from, the other watching for a new dawn. It wanders on — never lost, never still.",
+				"Desc": "A soul of mirrored halves, having twice crossed the river of the dead. One side forged in fire, the other shaped into ice; one looking back on where it came from, the other watching for a new dawn. They wander on — never lost, never ceasing.",
 				"Image": "IconRole49",
-				"Name": "Orphie: Two Banks of the River"
+				"Name": "Orphie & Magus: Two Banks of the River"
 			}
 		},
 		"type": 1
@@ -366,7 +366,7 @@
 		"rank": 3,
 		"skin": {
 			"3111110": {
-				"Desc": "The hammer's bearings rumble without pause, echoing the hot, thunderous beat of its wielder's heart.",
+				"Desc": "The jackhammer's bearings rumble without pause, echoing the hot, thunderous beat of its wielder's heart.",
 				"Image": "IconRole15",
 				"Name": "Anton: Earthshaking Axle"
 			}
@@ -391,7 +391,7 @@
 		"rank": 3,
 		"skin": {
 			"3110110": {
-				"Desc": "These casual clothes were hand-picked and styled for Anby by Nicole. They're designed for easy movement and ideal for being out on the streets. The fabrics and accessories cost a lot more than they seem, so (?) Anby treats the outfit with real care.",
+				"Desc": "These casual clothes were hand-picked and styled for Anby by Nicole. They're designed for easy movement and ideal for moving about the streets. The fabrics and accessories cost a lot more than they seem, so (?) Anby treats the outfit with real care.",
 				"Image": "IconRole01",
 				"Name": "Anby: Street Streak"
 			}
@@ -416,7 +416,7 @@
 		"rank": 4,
 		"skin": {
 			"3112010": {
-				"Desc": "His eyes are clearer than the streak of bright yellow on his brow. His arrows pierce through deceit and lies, and the past scatters like feathers on the wind. Dawn may not have arrived yet, but beyond the horizon, a golden future shimmers faintly.",
+				"Desc": "His eyes are brighter than the streak of bright yellow upon his brow. His arrows pierce through deceit and lies and scatter the past like feathers on the wind. Dawn may not have arrived yet, but beyond the horizon, a golden future shimmers faintly.",
 				"Image": "IconRole35",
 				"Name": "Asaba Harumasa: Full-Fledged Strings"
 			}
@@ -441,7 +441,7 @@
 		"rank": 3,
 		"skin": {
 			"3111210": {
-				"Desc": "Strip away the intimidating look meant to intimidate outsiders, and even the Beast King struggles with grooming his fur and sorting out the bills.",
+				"Desc": "Ignoring the intimidating look meant to cow outsiders, even the Beast King struggles with grooming his fur and sorting out the bills.",
 				"Image": "IconRole16",
 				"Name": "Ben: Fluffy Beastking"
 			}
@@ -466,7 +466,7 @@
 		"rank": 4,
 		"skin": {
 			"3112410": {
-				"Desc": "This high-grade anti-riot gear from Public Security has been specially modified to suit Zhu Yuan's fighting style.\nWinner of the Janus Precinct's combat tournament three years running, the top young Public Security Officer is on call 24/7, ready to crush any criminal in her path.",
+				"Desc": "This high-grade anti-riot uniform from Public Security has been specially modified to suit Zhu Yuan's fighting style.\nWinner of the Janus Precinct's combat tournament three years running, the young top Public Security Officer is on call 24/7, ready to arrest any criminal in her path.",
 				"Image": "IconRole23",
 				"Name": "Zhu Yuan: Suppressor of Evil"
 			}
@@ -498,7 +498,7 @@
 		"rank": 4,
 		"skin": {
 			"3111710": {
-				"Desc": "An outfit hotter than any Nitro-Fuel. Wander into a party in the Outer Ring, and odds are you'll bump into Burnice... but drink her signature cocktails at your own risk...\nWait, you've already taken a sip? Well then — 3, 2, 1... ignite!",
+				"Desc": "An outfit hotter than any Nitro-Fuel. Wander into a party in the Outer Ring, and odds are you'll bump into Burnice... but drink her signature cocktails at your own risk...\nWait, you've already taken a sip? Well then — 3, 2, 1... fire!",
 				"Image": "IconRole32",
 				"Name": "Burnice: Wildfire Rave"
 			}
@@ -553,7 +553,7 @@
 		"rank": 4,
 		"skin": {
 			"3112210": {
-				"Desc": "Even reflective lenses can't hide the clarity in the Deputy Chief's eyes. She has to constantly keep watch over a warrior obsessed with training, a scout who slacks off whenever possible, and a little one who's forever getting stomachaches.",
+				"Desc": "Even reflective lenses can't hide the sharp gleam in the Deputy Chief's eyes. She has to constantly keep watch over a warrior obsessed with training, a scout who slacks off whenever possible, and a little one who's forever getting stomachaches.",
 				"Image": "IconRole31",
 				"Name": "Tsukishiro Yanagi: Flowing Moonshade"
 			}
@@ -587,7 +587,7 @@
 			"3111810": {
 				"Desc": "A clean, no-nonsense work uniform. What the genius mechanic loves most are the many pockets on the outside — big ones, small ones — all perfect for holding screws, gears, and even wrenches of every size.",
 				"Image": "IconRole20",
-				"Name": ""
+				"Name": "Grace: The Iron Witch"
 			}
 		},
 		"type": 3
@@ -610,7 +610,7 @@
 		"rank": 4,
 		"skin": {
 			"3113910": {
-				"Desc": "Dressed like a simple mystic, this senior sister looks like she's tucked all her bravado away, but with a tiger in her heart... that heroic fire still leaks out.",
+				"Desc": "Dressed like a simple mystic, this senior sister looks like she's tucked all her bravado away, but with a tiger in her heart... she still radiates that heroic fire.",
 				"Image": "IconRole43",
 				"Name": "Ju Fufu: Summit's Cute Tiger"
 			}
@@ -685,7 +685,7 @@
 		"rank": 3,
 		"skin": {
 			"3112810": {
-				"Desc": "Don't be fooled by this truck driver's lazy gaze — one tap on the gas is enough to fling every passenger's soul straight into the back seat.",
+				"Desc": "Don't be fooled by this truck driver's lazy gaze. One tap on the gas is enough to fling every passenger's soul straight into the back seat.",
 				"Image": "IconRole28",
 				"Name": "Piper: Lazy Speed"
 			}
@@ -735,7 +735,7 @@
 		"rank": 4,
 		"skin": {
 			"3113410": {
-				"Desc": "Soft, woolly ears and a small build may invite underestimation, but the Judge of \"Benefit\" won't think twice about bringing her branch down on anyone who tries.",
+				"Desc": "Warm, woolly ears and a small build may invite underestimation, but the Judge of \"Value\" won't think twice about bringing her branch down on anyone who tries.",
 				"Image": "IconRole56",
 				"Name": "Zhao: Cuddly Executor"
 			}
@@ -790,7 +790,7 @@
 		"rank": 4,
 		"skin": {
 			"3110210": {
-				"Desc": "A lost cat doesn't know where to go — only that it has to keep moving. She wandered through the vast streets of New Eridu, her thin clothes offering no protection from the elements, until a tiny odd-job agency finally took her in.",
+				"Desc": "A lost cat doesn't know where to go — only that it has to keep moving.\nShe wandered through the vast streets of New Eridu, her thin clothes offering no protection from the elements, until a tiny odd-job agency finally took her in.",
 				"Image": "IconRole11",
 				"Name": "Nekomata: Cat's Gratitude"
 			}
@@ -815,7 +815,7 @@
 		"rank": 4,
 		"skin": {
 			"3111010": {
-				"Desc": "A crimson figure swings twin hammers as if even time itself could be shattered. Such youth — her journey is only just beginning. Growing up can wait; in the end, every person becomes their own true self.",
+				"Desc": "A crimson figure swings twin hammers as if she could even shatter time itself.\nStill young, her journey is only just beginning. Growing up can wait; in the end, every person becomes their own true self.",
 				"Image": "IconRole14",
 				"Name": "Koleda: Heart & Hammer"
 			}
@@ -895,9 +895,14 @@
 		"rank": 4,
 		"skin": {
 			"3112610": {
-				"Desc": "Her everyday look when she isn't putting on a disguise. Maybe it's just one of the countless faces she wears. The night becomes her covering, and the mask is the one truth she never sets aside.",
+				"Desc": "Her everyday look when she isn't putting on a disguise. Maybe it's just one of the countless faces she wears. The night becomes her cover, and her mask is the one truth she never sets aside.",
 				"Image": "IconRole24",
 				"Name": "Jane: Hidden Nightfade"
+			},
+			"3112611": {
+				"Desc": "...",
+				"Image": "IconRole24_01",
+				"Name": "Jane: Nocturne of Light"
 			}
 		},
 		"type": 3
@@ -950,7 +955,7 @@
 		"rank": 4,
 		"skin": {
 			"3114710": {
-				"Desc": "He carries a righteous, unshakable aura — every bit the master he is. Don't judge him by his silence; a stone heart makes no sound, and compassion doesn't speak aloud.",
+				"Desc": "He carries a righteous, unshakable aura — every bit the master he is. Don't judge him by his silence; a stone heart makes no sound, and compassion doesn't speak aloud either.",
 				"Image": "IconRole53",
 				"Name": "Banyue: Blazestone Heart"
 			}
@@ -1012,7 +1017,7 @@
 		"rank": 3,
 		"skin": {
 			"3111310": {
-				"Desc": "Swinging a blade-banner as tall as half a person, and with a stomach rumbling loudly in harmony: fwish fwish fwish fwish fwish — work's done! Time to head home for dinner!",
+				"Desc": "Swinging a blade-banner as tall as half a person, and with a stomach rumbling with just as big a sound: fwish fwish fwish fwish fwish — work's done! Time to head home for dinner!",
 				"Image": "IconRole17",
 				"Name": "Soukaku: Dance of Azure Ice"
 			}
@@ -1037,7 +1042,7 @@
 		"rank": 4,
 		"skin": {
 			"3111410": {
-				"Desc": "Under the clear moonlight, the steward's poise is flawless. Yet with the red moon's ascent, the feral nature hidden beneath the evening wear emerges with a composure and grace all its own.",
+				"Desc": "Under the clear moonlight, the attendant's poise is flawless. Yet with the red moon's ascent, the feral nature hidden beneath this suit emerges with a composure and grace all its own.",
 				"Image": "IconRole18",
 				"Name": "Lycaon: Moonlight Prowl"
 			}
@@ -1117,7 +1122,7 @@
 		"rank": 3,
 		"skin": {
 			"3112710": {
-				"Desc": "He may be slow to pick up on things — slower even than the weight of the shield on his left — but his perception of evil is keener than the baton in his right.",
+				"Desc": "He may be slow to pick up on things, slower even than the weight of the shield in his left hand, but his ability to detect evil is keener than the baton in his right.",
 				"Image": "IconRole30",
 				"Name": "Seth: Incorruptible Heart"
 			}
@@ -1142,7 +1147,7 @@
 		"rank": 4,
 		"skin": {
 			"3110910": {
-				"Desc": "A blade that cuts down the Hollows, a lighthouse that pierces the fog. People hope for a fighter who hones the world and a Helmsman who steers the course; for flags that never drop and honor that lives on. Yet power is finite. Only training remains constant.",
+				"Desc": "A blade that fells the Hollows, a lighthouse that pierces the fog. People hope for a fighter who hones the world and a helmsman who steers the course; for flags that never fall and honor that lives on. Yet power is finite. Only training remains constant.",
 				"Image": "IconRole13",
 				"Name": "Hoshimi Miyabi: Frostgleam Dew"
 			}
@@ -1168,7 +1173,7 @@
 		"rank": 4,
 		"skin": {
 			"3112910": {
-				"Desc": "Never be claimed by fate. Defy its clamps, its control, its taunts, its alms, its curses, and its so-called blessings. Once the abyss has been conquered, it is fate that should kneel.",
+				"Desc": "Never be claimed by fate. Defy its clamps, its control, its taunts, its alms, its curses, and its so-called blessings. Once you return from the abyss, it is fate that should kneel to you.",
 				"Image": "IconRole42",
 				"Name": "Hugo: Crownless Rebellion"
 			}
@@ -1200,7 +1205,7 @@
 		"rank": 4,
 		"skin": {
 			"3113810": {
-				"Desc": "Anby's old Silver Squad uniform, stained with memories that never truly fade.\nWhen the shadows of the past strike without warning, stand and face them, or stumble and flee — no matter the choice, there is always a home waiting.",
+				"Desc": "Anby's old Silver Squad uniform, stained with memories that never truly fade.\nWhen the shadows of the past strike without warning, would you stand and face them, or stumble and flee? No matter the choice, home always awaits your return.",
 				"Image": "IconRole40",
 				"Name": "Soldier 0 - Anby: Silver Soldier"
 			}
@@ -1225,7 +1230,7 @@
 		"rank": 3,
 		"skin": {
 			"3111510": {
-				"Desc": "Her outfit is considered rather polished by biker standards, and said to work wonders in negotiations with outsiders.\nThe runaway princess found her freedom in the Outer Ring,  glittering in the starlit night, burning at the edge of dusk, and resting quietly among the grains of sand at her feet.",
+				"Desc": "Her outfit is considered rather polished by biker standards and said to work wonders in negotiations with outsiders.\nThe runaway princess found her freedom in the Outer Ring, glittering under the starlit night, burning at the edge of dusk, and resting quietly among the grains of sand at her feet.",
 				"Image": "IconRole27",
 				"Name": "Lucy: Ironfist Gentlewoman"
 			}
@@ -1250,7 +1255,7 @@
 		"rank": 4,
 		"skin": {
 			"3112510": {
-				"Desc": "A trusty water bottle and plenty of hot water — that's ancient wisdom passed down from the old civilization. But why would an intelligent construct drink tea? It must be for health purposes... right?",
+				"Desc": "Keep your teapot close and drink plenty of hot water — that's ancient wisdom passed down from the old civilization. But why would an intelligent construct drink tea? It must be for health purposes... right?",
 				"Image": "IconRole29",
 				"Name": "Qingyi: Clarity, Peace, and Joy"
 			}
