@@ -285,7 +285,8 @@
 		"id": "1321",
 		"jp": "ダリア",
 		"kr": "달리아",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1765101600
 	},
 	"大黑塔": {
 		"baseType": "Mage",
