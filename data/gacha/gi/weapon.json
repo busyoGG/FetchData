@@ -1,5 +1,55 @@
 [
 	{
+		"version": "月之四下半",
+		"items": [
+			{
+				"itemId": 11519,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_SilverwareSaw.webp",
+				"itemType": "Weapon",
+				"name": "朏魄含光",
+				"nameEn": "Lightbearing Moonshard",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 14514,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Iudex.webp",
+				"itemType": "Weapon",
+				"name": "万世流涌大典",
+				"nameEn": "Tome of the Eternal Flow",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			}
+		],
+		"start": "2026-02-03 18:00:00",
+		"end": "2026-02-24 14:59:00"
+	},
+	{
+		"version": "月之四上半",
+		"items": [
+			{
+				"itemId": 14522,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Brisingamen.webp",
+				"itemType": "Weapon",
+				"name": "帷间夜曲",
+				"nameEn": "Nocturne's Curtain Call",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 13515,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Perdix.webp",
+				"itemType": "Weapon",
+				"name": "支离轮光",
+				"nameEn": "Fractured Halo",
+				"weaponType": "Polearm",
+				"rankType": 5
+			}
+		],
+		"start": "2026-01-14 10:00:00",
+		"end": "2026-02-03 17:59:00"
+	},
+	{
 		"version": "月之三下半",
 		"items": [
 			{

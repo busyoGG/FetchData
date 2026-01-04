@@ -1,5 +1,69 @@
 [
 	{
+		"version": "月之四下半",
+		"items": [
+			{
+				"itemId": 10000126,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Zibai.webp",
+				"itemType": "Character",
+				"name": "兹白",
+				"nameEn": "Zibai",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000087,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Neuvillette.webp",
+				"itemType": "Character",
+				"name": "那维莱特",
+				"nameEn": "Neuvillette",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000127,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Illuga.webp",
+				"itemType": "Character",
+				"name": "叶洛亚",
+				"nameEn": "Illuga",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
+			}
+		],
+		"start": "2026-02-03 18:00:00",
+		"end": "2026-02-24 14:59:00"
+	},
+	{
+		"version": "月之四上半",
+		"items": [
+			{
+				"itemId": 10000125,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Columbina.webp",
+				"itemType": "Character",
+				"name": "哥伦比娅",
+				"nameEn": "Columbina",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000116,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Ineffa.webp",
+				"itemType": "Character",
+				"name": "伊涅芙",
+				"nameEn": "Ineffa",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			}
+		],
+		"start": "2026-01-14 10:00:00",
+		"end": "2026-02-03 17:59:00"
+	},
+	{
 		"version": "月之三下半",
 		"items": [
 			{
