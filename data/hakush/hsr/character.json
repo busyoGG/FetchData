@@ -588,6 +588,20 @@
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1755075600
 	},
+	"火花": {
+		"baseType": "Elation",
+		"cn": "火花",
+		"damageType": "Fire",
+		"desc": "Like! Follow! Stream! Views! Party till the world ends!\\nSparxie and Sparkle, the Mask and the Fool are fundamentally the same.\\nWhoever is seen, whoever is liked, is the correct answer!",
+		"en": "Sparxie",
+		"enhance": [],
+		"icon": "Sparxie",
+		"iconUrl": "/hsr/UI/avatarshopicon/1501.webp",
+		"id": "1501",
+		"jp": "火花",
+		"kr": "스파키",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"灵砂": {
 		"baseType": "Priest",
 		"cn": "灵砂",
@@ -602,6 +616,20 @@
 		"kr": "영사",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1727859600
+	},
+	"爻光": {
+		"baseType": "Elation",
+		"cn": "爻光",
+		"damageType": "Physical",
+		"desc": "Mysterious, bold, radical... her quest for change is stunning.\\nWith the \"eye\" of The Hunt, she sees all fates. Though she knows fate is immutable, the Seer Strategist still walks into danger alone.\\nWith the odds stacked against her, how can she possibly change her destiny?",
+		"en": "Yao Guang",
+		"enhance": [],
+		"icon": "yaoguang",
+		"iconUrl": "/hsr/UI/avatarshopicon/1502.webp",
+		"id": "1502",
+		"jp": "爻光",
+		"kr": "효광",
+		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"玲可": {
 		"baseType": "Priest",
@@ -819,7 +847,9 @@
 		"damageType": "Quantum",
 		"desc": "A member of the Masked Fools. Inscrutable and unscrupulous.\\nA dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces.\\nWealth, status, power... None of those matters to Sparkle. The only thing that can get her attention is \"amusement.\"",
 		"en": "Sparkle",
-		"enhance": [],
+		"enhance": [
+			1
+		],
 		"icon": "sparkle",
 		"iconUrl": "/hsr/UI/avatarshopicon/1306.webp",
 		"id": "1306",
@@ -1138,7 +1168,9 @@
 		"damageType": "Wind",
 		"desc": "A Memokeeper of the Garden of Recollection. An indolent and mysterious soothsayer.\\n\"Remembrance\" of men are hers to heed, threads of fate are hers to tug.",
 		"en": "Black Swan",
-		"enhance": [],
+		"enhance": [
+			1
+		],
 		"icon": "blackswan",
 		"iconUrl": "/hsr/UI/avatarshopicon/1307.webp",
 		"id": "1307",
