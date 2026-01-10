@@ -1,17 +1,4 @@
 {
-	"(Test1)千夏测试音擎": {
-		"CHS": "(Test1)千夏测试音擎",
-		"cn": "(Test1)千夏测试音擎",
-		"desc": "Item_Weapon_S_1491_ShortDesc",
-		"EN": "Sunna Test W-Engine",
-		"icon": "Weapon_S_1491",
-		"iconUrl": "/zzz/UI/Weapon_S_1491.webp",
-		"id": "14149",
-		"JA": "千夏テスト用音動機",
-		"KO": "Item_Weapon_S_1491_Name",
-		"rank": 4,
-		"type": 4
-	},
 	"(Test1)爱芮测试音擎": {
 		"CHS": "(Test1)爱芮测试音擎",
 		"cn": "(Test1)爱芮测试音擎",
@@ -518,6 +505,19 @@
 		"KO": "성난 눈의 금강",
 		"rank": 4,
 		"type": 6
+	},
+	"思络成歌": {
+		"CHS": "思络成歌",
+		"cn": "思络成歌",
+		"desc": "Item_Weapon_S_1491_ShortDesc",
+		"EN": "Song of Thoughts",
+		"icon": "Weapon_S_1491",
+		"iconUrl": "/zzz/UI/Weapon_S_1491.webp",
+		"id": "14149",
+		"JA": "思考は歌と化す",
+		"KO": "Item_Weapon_S_1491_Name",
+		"rank": 4,
+		"type": 4
 	},
 	"拘缚者": {
 		"CHS": "拘缚者",

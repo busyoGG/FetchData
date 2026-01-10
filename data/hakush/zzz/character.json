@@ -8,8 +8,8 @@
 		"element": 200,
 		"EN": "Avatar_Female_Size01_Summer",
 		"hit": 102,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
+		"icon": "IconRole58",
+		"iconUrl": "/zzz/UI/IconRoleSelect58.webp",
 		"id": "1491",
 		"JA": "Avatar_Female_Size01_Summer",
 		"KO": "Avatar_Female_Size01_Summer",
@@ -18,7 +18,7 @@
 		"skin": {
 			"3114910": {
 				"Desc": "AvatarSkin_Summer_Desc_000",
-				"Image": "IconRole41",
+				"Image": "IconRole58",
 				"Name": "AvatarSkin_Summer_Name_000"
 			}
 		},
@@ -33,8 +33,8 @@
 		"element": 205,
 		"EN": "Aria",
 		"hit": 102,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
+		"icon": "IconRole57",
+		"iconUrl": "/zzz/UI/IconRoleSelect57.webp",
 		"id": "1501",
 		"JA": "アリア",
 		"KO": "아리아",
@@ -43,7 +43,7 @@
 		"skin": {
 			"3115010": {
 				"Desc": "AvatarSkin_Aria_Desc_000",
-				"Image": "IconRole47",
+				"Image": "IconRole57",
 				"Name": "AvatarSkin_Aria_Name_000"
 			}
 		},
@@ -462,7 +462,14 @@
 		"id": "1201",
 		"JA": "浅羽悠真",
 		"KO": "하루마사",
-		"potential": [],
+		"potential": [
+			120100,
+			120101,
+			120102,
+			120103,
+			120104,
+			120105
+		],
 		"rank": 4,
 		"skin": {
 			"3112010": {
@@ -1093,7 +1100,14 @@
 		"id": "1141",
 		"JA": "ライカン",
 		"KO": "리카온",
-		"potential": [],
+		"potential": [
+			114100,
+			114101,
+			114102,
+			114103,
+			114104,
+			114105
+		],
 		"rank": 4,
 		"skin": {
 			"3111410": {
