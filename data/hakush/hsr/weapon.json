@@ -369,7 +369,7 @@
 		"en": "Sneering",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20023.webp",
 		"id": "20023",
-		"jp": "あざ笑い",
+		"jp": "{RUBY_B#ししょう}嗤笑{RUBY_E#}",
 		"kr": "비웃음",
 		"rank": "CombatPowerLightconeRarity3"
 	},
@@ -608,10 +608,10 @@
 		"baseType": "Elation",
 		"cn": "当她决定看见",
 		"desc": null,
-		"en": "When She Decided To See",
+		"en": "When She Decided to See",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23054.webp",
 		"id": "23054",
-		"jp": "彼女が視ると決めた時",
+		"jp": "{RUBY_B#かのじょ}彼女{RUBY_E#}が{RUBY_B#み}視{RUBY_E#}ると{RUBY_B#き}決{RUBY_E#}めた{RUBY_B#とき}時{RUBY_E#}",
 		"kr": "그녀가 보기로 결심했을 때",
 		"rank": "CombatPowerLightconeRarity5"
 	},
@@ -919,7 +919,7 @@
 		"en": "Lingering Tears",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20024.webp",
 		"id": "20024",
-		"jp": "涙の跡",
+		"jp": "{RUBY_B#ざんるい}残涙{RUBY_E#}",
 		"kr": "눈물의 흔적",
 		"rank": "CombatPowerLightconeRarity3"
 	},
@@ -1301,10 +1301,10 @@
 		"baseType": "Elation",
 		"cn": "花花世界迷人眼",
 		"desc": null,
-		"en": "Dazzled By A Flowery World",
+		"en": "Dazzled by a Flowery World",
 		"iconUrl": "/hsr/UI/lightconemediumicon/23053.webp",
 		"id": "23053",
-		"jp": "きらびやかな世界",
+		"jp": "きらびやかな{RUBY_B#せかい}世界{RUBY_E#}",
 		"kr": "눈부신 파키의 세상",
 		"rank": "CombatPowerLightconeRarity5"
 	},

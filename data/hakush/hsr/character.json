@@ -598,7 +598,7 @@
 		"icon": "Sparxie",
 		"iconUrl": "/hsr/UI/avatarshopicon/1501.webp",
 		"id": "1501",
-		"jp": "火花",
+		"jp": "{RUBY_B#ひばな}火花{RUBY_E#}",
 		"kr": "스파키",
 		"rank": "CombatPowerAvatarRarityType5"
 	},
@@ -627,7 +627,7 @@
 		"icon": "yaoguang",
 		"iconUrl": "/hsr/UI/avatarshopicon/1502.webp",
 		"id": "1502",
-		"jp": "爻光",
+		"jp": "{RUBY_B#コウコウ}爻光{RUBY_E#}",
 		"kr": "효광",
 		"rank": "CombatPowerAvatarRarityType5"
 	},
