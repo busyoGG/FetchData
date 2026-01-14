@@ -19,6 +19,51 @@
 				"nameEn": "Tome of the Eternal Flow",
 				"weaponType": "Catalyst",
 				"rankType": 5
+			},
+			{
+				"itemId": 11418,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Pleroma.webp",
+				"itemType": "Weapon",
+				"name": "西福斯的月光",
+				"nameEn": "Xiphos' Moonlight",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风大剑",
+				"nameEn": "Favonius Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14409,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "Eye of Perception",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "Favonius Warbow",
+				"weaponType": "Bow",
+				"rankType": 4
 			}
 		],
 		"start": "2026-02-03 18:00:00",
@@ -44,6 +89,51 @@
 				"nameEn": "Fractured Halo",
 				"weaponType": "Polearm",
 				"rankType": 5
+			},
+			{
+				"itemId": 11402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "笛剑",
+				"nameEn": "The Flute",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "镇山之钉",
+				"nameEn": "Mountain-Bracing Bolt",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "乘浪的回旋",
+				"nameEn": "Waveriding Whirl",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15412,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Nachtblind.webp",
+				"itemType": "Weapon",
+				"name": "幽夜华尔兹",
+				"nameEn": "Mitternachts Waltz",
+				"weaponType": "Bow",
+				"rankType": 4
 			}
 		],
 		"start": "2026-01-14 10:00:00",
