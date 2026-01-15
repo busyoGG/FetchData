@@ -1006,6 +1006,25 @@
 		"release": "2024-11-19 00:00:00",
 		"weapon": "WEAPON_BOW"
 	},
+	"法尔伽": {
+		"birth": [
+			1,
+			1
+		],
+		"CHS": "法尔伽",
+		"cn": "法尔伽",
+		"desc": "",
+		"element": "Anemo",
+		"EN": "Varka",
+		"icon": "UI_AvatarIcon_Varka",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Varka.webp",
+		"id": "10000128",
+		"JP": "ファルカ",
+		"KR": "바르카",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_CLAYMORE"
+	},
 	"流浪者": {
 		"birth": [
 			1,

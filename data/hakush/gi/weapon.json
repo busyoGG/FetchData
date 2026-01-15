@@ -809,6 +809,21 @@
 		"rank": 5,
 		"type": "WEAPON_CATALYST"
 	},
+	"幻礼·星兆": {
+		"CHS": "幻礼·星兆",
+		"cn": "幻礼·星兆",
+		"desc": "\"In principle, many phenomena in this world can be called 'images.' Therefore, the image you glimpsed in the crystal ball can, in a sense, be considered an extension of physical reality. In short, even if Alice and Nicole don't acknowledge it, the legitimacy of Hydromancy is still very real!\"",
+		"EN": "Radiant Phantasm: Star Omen",
+		"icon": "UI_EquipIcon_Catalyst_Kristall",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kristall.webp",
+		"id": "380001",
+		"JP": "",
+		"KR": "",
+		"rank": 4,
+		"skin": true,
+		"tag": "TAG_TYPE_NONE",
+		"type": "WEAPON_CATALYST"
+	},
 	"幽夜华尔兹": {
 		"CHS": "幽夜华尔兹",
 		"cn": "幽夜华尔兹",
@@ -1080,6 +1095,21 @@
 		"JP": "無工の剣",
 		"KR": "무공의 검",
 		"rank": 5,
+		"type": "WEAPON_CLAYMORE"
+	},
+	"无毁·督兰嘉德": {
+		"CHS": "无毁·督兰嘉德",
+		"cn": "无毁·督兰嘉德",
+		"desc": "A glorious, illusory sword that emerged from the depths of the Ley Lines. It is said that in the past, it was wielded by the white knight under the name Durandal.\\nIts name, in ancient tongues, means \"the blade that is never destroyed.\" Just like the sword he bore, the path the knight believed in has never wavered — no matter how the once-pure steel has since been darkened.",
+		"EN": "Radiant Phantasm: Unbroken",
+		"icon": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_VarkaTunkeldegen.webp",
+		"id": "390001",
+		"JP": "",
+		"KR": "",
+		"rank": 4,
+		"skin": true,
+		"tag": "TAG_TYPE_NONE",
 		"type": "WEAPON_CLAYMORE"
 	},
 	"无锋剑": {
@@ -1482,6 +1512,19 @@
 		"id": "12502",
 		"JP": "狼の末路",
 		"KR": "늑대의 말로",
+		"rank": 5,
+		"type": "WEAPON_CLAYMORE"
+	},
+	"狼的武功歌": {
+		"CHS": "狼的武功歌",
+		"cn": "狼的武功歌",
+		"desc": "",
+		"EN": "Ballad of the Mighty Wolf",
+		"icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_EnsisAquilonis.webp",
+		"id": "12515",
+		"JP": "狼の武勲の歌JP0D",
+		"KR": "늑대의 무공 노래",
 		"rank": 5,
 		"type": "WEAPON_CLAYMORE"
 	},
