@@ -1,17 +1,4 @@
 {
-	"(Test1)爱芮测试音擎": {
-		"CHS": "(Test1)爱芮测试音擎",
-		"cn": "(Test1)爱芮测试音擎",
-		"desc": "Item_Weapon_S_1501_ShortDesc",
-		"EN": "Aria Test W-Engine",
-		"icon": "Weapon_S_1501",
-		"iconUrl": "/zzz/UI/Weapon_S_1501.webp",
-		"id": "14150",
-		"JA": "アリアテスト用音動機",
-		"KO": "Item_Weapon_S_1501_Name",
-		"rank": 4,
-		"type": 3
-	},
 	"「恒等式」-变格": {
 		"CHS": "「恒等式」-变格",
 		"cn": "「恒等式」-变格",
@@ -376,6 +363,19 @@
 		"rank": 4,
 		"type": 1
 	},
+	"壳中之灵": {
+		"CHS": "壳中之灵",
+		"cn": "壳中之灵",
+		"desc": "...",
+		"EN": "Angel in the Shell",
+		"icon": "Weapon_S_1501",
+		"iconUrl": "/zzz/UI/Weapon_S_1501.webp",
+		"id": "14150",
+		"JA": "殻の中の魂",
+		"KO": "Item_Weapon_S_1501_Name",
+		"rank": 4,
+		"type": 3
+	},
 	"奔袭獠牙": {
 		"CHS": "奔袭獠牙",
 		"cn": "奔袭獠牙",
@@ -509,7 +509,7 @@
 	"思络成歌": {
 		"CHS": "思络成歌",
 		"cn": "思络成歌",
-		"desc": "Item_Weapon_S_1491_ShortDesc",
+		"desc": "...",
 		"EN": "Song of Thoughts",
 		"icon": "Weapon_S_1491",
 		"iconUrl": "/zzz/UI/Weapon_S_1491.webp",
