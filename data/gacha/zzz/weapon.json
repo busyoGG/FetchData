@@ -1,5 +1,42 @@
 [
 	{
+		"version": "2.5.2",
+		"items": [
+			{
+				"itemId": 14140,
+				"imageUrl": "/zzz/UI/Weapon_S_1401.webp",
+				"itemType": "Weapon",
+				"name": "十方锻星",
+				"nameEn": "Practiced Perfection",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
+				"itemId": 14138,
+				"imageUrl": "/zzz/UI/Weapon_S_1381.webp",
+				"itemType": "Weapon",
+				"name": "牺牲洁纯",
+				"nameEn": "Severed Innocence",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 14131,
+				"imageUrl": "/zzz/UI/Weapon_S_1311.webp",
+				"itemType": "Weapon",
+				"name": "玲珑妆匣",
+				"nameEn": "Elegant Vanity",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			}
+		],
+		"start": "2026-01-21 12:00:00",
+		"end": "2026-02-05 14:59:59"
+	},
+	{
 		"version": "2.5",
 		"items": [
 			{
