@@ -70,6 +70,7 @@
 		"id": "1461",
 		"JA": "「シード」",
 		"KO": "「시드」",
+		"live2d": "UISpine_Seed",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -95,6 +96,7 @@
 		"id": "1361",
 		"JA": "「トリガー」",
 		"KO": "「트리거」",
+		"live2d": "UIspineTrigger",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -145,6 +147,7 @@
 		"id": "1371",
 		"JA": "儀玄",
 		"KO": "의현",
+		"live2d": "UISpine_Yixuan",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -176,6 +179,7 @@
 		"id": "1051",
 		"JA": "イドリー",
 		"KO": "이드하리",
+		"live2d": "UISpine_Yidhari",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -201,6 +205,7 @@
 		"id": "1321",
 		"JA": "イヴリン",
 		"KO": "이블린",
+		"live2d": "UISpineEvelyn",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -226,6 +231,7 @@
 		"id": "1071",
 		"JA": "シーザー",
 		"KO": "카이사르",
+		"live2d": "UISpineCeasar",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -251,6 +257,7 @@
 		"id": "1451",
 		"JA": "リュシア",
 		"KO": "루시아",
+		"live2d": "UISpineLucia",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -301,6 +308,7 @@
 		"id": "1431",
 		"JA": "葉瞬光",
 		"KO": "엽빛나",
+		"live2d": "UISpine_Yeshunguang",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -332,6 +340,7 @@
 		"id": "1301",
 		"JA": "オルペウス＆「鬼火」",
 		"KO": "오피 & 「도깨비불」",
+		"live2d": "UISpine_Aofeisi",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -437,6 +446,7 @@
 		"id": "1201",
 		"JA": "浅羽悠真",
 		"KO": "하루마사",
+		"live2d": "UISpine_Qianyuyouzhen",
 		"potential": [
 			120100,
 			120101,
@@ -494,6 +504,7 @@
 		"id": "1241",
 		"JA": "朱鳶",
 		"KO": "주연",
+		"live2d": "UISpineZhuyuan",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -519,6 +530,7 @@
 		"id": "1171",
 		"JA": "バーニス",
 		"KO": "버니스",
+		"live2d": "UISpine_Burnice",
 		"potential": [
 			117100,
 			117101,
@@ -551,6 +563,7 @@
 		"id": "1411",
 		"JA": "浮波柚葉",
 		"KO": "유즈하",
+		"live2d": "UISpine_Youye",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -581,6 +594,7 @@
 		"id": "1221",
 		"JA": "月城柳",
 		"KO": "야나기",
+		"live2d": "UISpineYanagi",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -638,6 +652,7 @@
 		"id": "1391",
 		"JA": "橘福福",
 		"KO": "귤복복",
+		"live2d": "UISpineJufufu",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -768,6 +783,7 @@
 		"id": "1341",
 		"JA": "照",
 		"KO": "자오",
+		"live2d": "UISpinezhao",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -793,6 +809,7 @@
 		"id": "1401",
 		"JA": "アリス",
 		"KO": "앨리스",
+		"live2d": "UISpineAlice",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -898,6 +915,7 @@
 		"id": "1481",
 		"JA": "ダイアリン",
 		"KO": "다이아린",
+		"live2d": "UISpine_Liuyin",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -953,6 +971,7 @@
 		"id": "1261",
 		"JA": "ジェーン",
 		"KO": "제인",
+		"live2d": "UISpine_Jian",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -983,6 +1002,7 @@
 		"id": "1311",
 		"JA": "アストラ",
 		"KO": "아스트라",
+		"live2d": "UISpineYaoJiayin",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -1013,6 +1033,7 @@
 		"id": "1471",
 		"JA": "盤岳",
 		"KO": "반악",
+		"live2d": "UISpineBanyue",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -1038,6 +1059,7 @@
 		"id": "1191",
 		"JA": "エレン",
 		"KO": "엘렌",
+		"live2d": "UISpineEllen",
 		"potential": [
 			119100,
 			119101,
@@ -1132,6 +1154,7 @@
 		"id": "1161",
 		"JA": "ライト",
 		"KO": "라이터",
+		"live2d": "UISpine_Lighter",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -1157,6 +1180,7 @@
 		"id": "1331",
 		"JA": "ビビアン",
 		"KO": "비비안",
+		"live2d": "UISpine_Vivian",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -1212,6 +1236,7 @@
 		"id": "1091",
 		"JA": "星見雅",
 		"KO": "미야비",
+		"live2d": "UISpine_Xingjianya",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -1238,6 +1263,7 @@
 		"id": "1291",
 		"JA": "ヒューゴ",
 		"KO": "휴고",
+		"live2d": "UISpine_Hugo",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -1263,6 +1289,7 @@
 		"id": "1381",
 		"JA": "0号・アンビー",
 		"KO": "0호·엔비",
+		"live2d": "UISpineSPAnbi",
 		"potential": [
 			138100,
 			138101,
@@ -1320,6 +1347,7 @@
 		"id": "1251",
 		"JA": "青衣",
 		"KO": "청의",
+		"live2d": "UISpine_Qingyi",
 		"potential": [],
 		"rank": 4,
 		"skin": {
