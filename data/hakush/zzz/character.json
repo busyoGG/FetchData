@@ -1,29 +1,4 @@
 {
-	"(Test1)千夏": {
-		"camp": 13,
-		"CHS": "(Test1)千夏",
-		"cn": "(Test1)千夏",
-		"code": "Avatar_Female_Size01_Summer_En",
-		"desc": "Partner_ProfileDesc_1491",
-		"element": 200,
-		"EN": "Avatar_Female_Size01_Summer",
-		"hit": 102,
-		"icon": "IconRole58",
-		"iconUrl": "/zzz/UI/IconRoleSelect58.webp",
-		"id": "1491",
-		"JA": "Avatar_Female_Size01_Summer",
-		"KO": "Avatar_Female_Size01_Summer",
-		"potential": [],
-		"rank": 4,
-		"skin": {
-			"3114910": {
-				"Desc": "AvatarSkin_Summer_Desc_000",
-				"Image": "IconRole58",
-				"Name": "AvatarSkin_Summer_Name_000"
-			}
-		},
-		"type": 4
-	},
 	"「11号」": {
 		"camp": 5,
 		"CHS": "「11号」",
@@ -242,6 +217,32 @@
 			}
 		},
 		"type": 5
+	},
+	"千夏": {
+		"camp": 13,
+		"CHS": "千夏",
+		"cn": "千夏",
+		"code": "Sunna",
+		"desc": "...",
+		"element": 200,
+		"EN": "Sunna",
+		"hit": 102,
+		"icon": "IconRole58",
+		"iconUrl": "/zzz/UI/IconRoleSelect58.webp",
+		"id": "1491",
+		"JA": "千夏",
+		"KO": "수나",
+		"live2d": "UISpine_Qianxialeimi",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3114910": {
+				"Desc": "AvatarSkin_Summer_Desc_000",
+				"Image": "IconRole58",
+				"Name": "AvatarSkin_Summer_Name_000"
+			}
+		},
+		"type": 4
 	},
 	"卢西娅": {
 		"camp": 11,
@@ -762,9 +763,9 @@
 				"Name": "Pan Yinhu: Hundred Flavors"
 			},
 			"3114211": {
-				"Desc": "AvatarSkin_PanYinhu_Desc_001",
+				"Desc": "...",
 				"Image": "IconRole45_01",
-				"Name": "AvatarSkin_PanYinhu_Name_001"
+				"Name": "Pan Yinhu: Culinary Jewel"
 			}
 		},
 		"type": 5
@@ -831,7 +832,7 @@
 		"CHS": "爱芮",
 		"cn": "爱芮",
 		"code": "Aria",
-		"desc": "Partner_ProfileDesc_1501",
+		"desc": "...",
 		"element": 205,
 		"EN": "Aria",
 		"hit": 102,
@@ -840,6 +841,7 @@
 		"id": "1501",
 		"JA": "アリア",
 		"KO": "아리아",
+		"live2d": "UISpineAria",
 		"potential": [],
 		"rank": 4,
 		"skin": {
