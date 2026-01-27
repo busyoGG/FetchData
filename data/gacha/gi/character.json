@@ -23,16 +23,6 @@
 				"element": "Hydro"
 			},
 			{
-				"itemId": 10000127,
-				"imageUrl": "/gi/UI/UI_AvatarIcon_Illuga.webp",
-				"itemType": "Character",
-				"name": "叶洛亚",
-				"nameEn": "Illuga",
-				"weaponType": "Polearm",
-				"rankType": 4,
-				"element": "Geo"
-			},
-			{
 				"itemId": 10000055,
 				"imageUrl": "/gi/UI/UI_AvatarIcon_Gorou.webp",
 				"itemType": "Character",
@@ -51,6 +41,16 @@
 				"weaponType": "Claymore",
 				"rankType": 4,
 				"element": "Hydro"
+			},
+			{
+				"itemId": 10000127,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Illuga.webp",
+				"itemType": "Character",
+				"name": "叶洛亚",
+				"nameEn": "Illuga",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Geo"
 			}
 		],
 		"start": "2026-02-03 18:00:00",
