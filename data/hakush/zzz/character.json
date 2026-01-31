@@ -237,9 +237,14 @@
 		"rank": 4,
 		"skin": {
 			"3114910": {
-				"Desc": "AvatarSkin_Summer_Desc_000",
+				"Desc": "...",
 				"Image": "IconRole58",
-				"Name": "AvatarSkin_Summer_Name_000"
+				"Name": "Sunna: Dreams on Loop"
+			},
+			"3114911": {
+				"Desc": "...",
+				"Image": "IconRole58_01",
+				"Name": "Sunna: Afternoon Tea Break"
 			}
 		},
 		"type": 4
@@ -846,9 +851,14 @@
 		"rank": 4,
 		"skin": {
 			"3115010": {
-				"Desc": "AvatarSkin_Aria_Desc_000",
+				"Desc": "...",
 				"Image": "IconRole57",
-				"Name": "AvatarSkin_Aria_Name_000"
+				"Name": "Aria: Energetic Idol"
+			},
+			"3115011": {
+				"Desc": "...",
+				"Image": "IconRole57_01",
+				"Name": "Aria: Discordant Note"
 			}
 		},
 		"type": 3
