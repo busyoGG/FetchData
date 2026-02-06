@@ -40,6 +40,16 @@
 		"version": "2.6.1",
 		"items": [
 			{
+				"itemId": 14149,
+				"imageUrl": "/zzz/UI/Weapon_S_1491.webp",
+				"itemType": "Weapon",
+				"name": "思络成歌",
+				"nameEn": "Thoughtbop",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5
+			},
+			{
 				"itemId": 14137,
 				"imageUrl": "/zzz/UI/Weapon_S_1371.webp",
 				"itemType": "Weapon",

@@ -223,7 +223,7 @@
 		"CHS": "千夏",
 		"cn": "千夏",
 		"code": "Sunna",
-		"desc": "...",
+		"desc": "Sunna is a member of the Angels of Delusion idol group and the composer behind all of the group's music. Maintaining top-tier songwriting while keeping pace with rehearsals and stage performances is anything but easy for her. When the pressure piles up, she occasionally employs the tactic of \"retreat is the best option\" to dodge Captain Nangong Yu's brutal scheduling.\nNote: Reliable intelligence suggests that this tactic works largely because Nangong Yu intentionally lets it slide.\n\nSunna and Nangong Yu, another member of the Angels of Delusion, have known each other since they were young and grew up together. While they appear to always squabble, the two are in fact deeply dependent on one another. When it comes to music, Sunna shares a strong connection with their final member, Aria. As Aria puts it, the two frequently spend whole days in the studio discussing melodies for new songs, only to drift off to sleep without even realizing it, heads resting against each other.\n\nSunna is fairly introverted and prefers spending time alone over group activities. That said, her two teammates know her weaknesses all too well — she finds it hard to say no and can't handle praise — and are helping her gradually overcome her social anxiety through desensitization training (progress: about 25%).\n\nWhile most fans see Sunna's \"hopeless\" side as endearing, she herself seems eager to tear off that label and become a confident, \"proper idol.\" As the creative force behind the music, she often wants to flee the stage — yet in truth, she's not as indifferent to performing as she claims to be.\nEvidence: A sticky note by Sunna's bedside that reads \"I can't disappoint the fans. I need to give them my very best on stage!\"",
 		"element": 200,
 		"EN": "Sunna",
 		"hit": 102,
@@ -237,12 +237,12 @@
 		"rank": 4,
 		"skin": {
 			"3114910": {
-				"Desc": "...",
+				"Desc": "Put on the outfit she finds cutest, and she can break free from the crowd, slipping into the lingering echoes of delusion.",
 				"Image": "IconRole58",
 				"Name": "Sunna: Dreams on Loop"
 			},
 			"3114911": {
-				"Desc": "...",
+				"Desc": "Freshly baked cake, rich aromatic coffee, and the warm afternoon sun...\nWrapped in moments of softness, it's time to begin today's tea break",
 				"Image": "IconRole58_01",
 				"Name": "Sunna: Afternoon Tea Break"
 			}
@@ -345,7 +345,7 @@
 		"iconUrl": "/zzz/UI/IconRoleSelect49.webp",
 		"id": "1301",
 		"JA": "オルペウス＆「鬼火」",
-		"KO": "오피 & 「도깨비불」",
+		"KO": "오피&「도깨비불」",
 		"live2d": "UISpine_Aofeisi",
 		"potential": [],
 		"rank": 4,
@@ -768,7 +768,7 @@
 				"Name": "Pan Yinhu: Hundred Flavors"
 			},
 			"3114211": {
-				"Desc": "...",
+				"Desc": "Senior Yinhu once dreamed of becoming a renowned chef, but in this day and age, there's always some thug looking to smash your bowl.\n—\"Go on, try smashing one.\"",
 				"Image": "IconRole45_01",
 				"Name": "Pan Yinhu: Culinary Jewel"
 			}
@@ -837,7 +837,7 @@
 		"CHS": "爱芮",
 		"cn": "爱芮",
 		"code": "Aria",
-		"desc": "...",
+		"desc": "Aria is the lead vocalist and center of the Angels of Delusion. Bright and full of energy, she always shines on stage, bringing warmth and strength to all Delulus.\nShe has a near-perfect voice, even though she was never professionally trained. At first, Aria only sang because she loved her idol, the retired songstress Cersea, copying her performances and singing along, until she realized she had a gift for song of her own.\nThough Aria's vocal skills are undeniably professional, she lacks a solid foundation in dance. Even with dedicated practice, she can still get flustered when faced with more complex moves. Still, fans deeply appreciate her attitude of \"even if I can't dance well, I'll still give it everything I've got.\"\n\"Pushing herself to the limit, wrestling with her own limbs to try and keep up with the rhythm... that's our Angels of Delusion lead vocalist!\" —One Delulu sobbing after a show.",
 		"element": 205,
 		"EN": "Aria",
 		"hit": 102,
@@ -851,12 +851,12 @@
 		"rank": 4,
 		"skin": {
 			"3115010": {
-				"Desc": "...",
+				"Desc": "A touch of pink and white, a hint of lights and sound, plus countless days and nights devoted to singing — all of it comes together as a boundless delusion on stage.",
 				"Image": "IconRole57",
 				"Name": "Aria: Energetic Idol"
 			},
 			"3115011": {
-				"Desc": "...",
+				"Desc": "Aria's performance outfit for special shows, worn only a handful of times.\nA pure-white \"angel\" clad in \"demonic\" wings. Take a deep breath, get ready... once the spotlight comes on, it's the Angels of Delusion's time to rebel.",
 				"Image": "IconRole57_01",
 				"Name": "Aria: Discordant Note"
 			}
