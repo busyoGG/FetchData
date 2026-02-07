@@ -127,7 +127,7 @@
 		"en": "Today's Good Luck",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21065.webp",
 		"id": "21065",
-		"jp": "今日は好運",
+		"jp": "{RUBY_B#きょう}今日{RUBY_E#}は{RUBY_B#こううん}好運{RUBY_E#}",
 		"kr": "오늘의 행운",
 		"rank": "CombatPowerLightconeRarity4"
 	},
@@ -1326,7 +1326,7 @@
 		"en": "Mushy Shroomy's Adventures",
 		"iconUrl": "/hsr/UI/lightconemediumicon/21064.webp",
 		"id": "21064",
-		"jp": "タケタケ冒険記",
+		"jp": "タケタケ{RUBY_B#ぼうけんき}冒険記{RUBY_E#}",
 		"kr": "슈룸 모험기",
 		"rank": "CombatPowerLightconeRarity4"
 	},
