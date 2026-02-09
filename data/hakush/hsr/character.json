@@ -74,6 +74,20 @@
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1722416400
 	},
+	"不死途": {
+		"baseType": "Rogue",
+		"cn": "不死途",
+		"damageType": "Thunder",
+		"desc": null,
+		"en": "Ashveil",
+		"enhance": [],
+		"icon": "ashveil",
+		"iconUrl": "/hsr/UI/avatarshopicon/1504.webp",
+		"id": "1504",
+		"jp": "<unbreak>不死途</unbreak>",
+		"kr": "애쉬베일",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"丹恒": {
 		"baseType": "Rogue",
 		"cn": "丹恒",

@@ -21,6 +21,17 @@
 		"kr": "수술 후의 대화",
 		"rank": "CombatPowerLightconeRarity4"
 	},
+	"一场谎言的终幕": {
+		"baseType": "Rogue",
+		"cn": "一场谎言的终幕",
+		"desc": null,
+		"en": "The Finale of a Lie",
+		"iconUrl": "/hsr/UI/lightconemediumicon/23056.webp",
+		"id": "23056",
+		"jp": "<unbreak>嘘の終幕</unbreak>",
+		"kr": "거짓말의 종막",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"一行往日的血": {
 		"baseType": "Warrior",
 		"cn": "一行往日的血",
@@ -890,6 +901,17 @@
 		"kr": "관의 울림",
 		"rank": "CombatPowerLightconeRarity5"
 	},
+	"欢愉满溢祝福": {
+		"baseType": "Elation",
+		"cn": "欢愉满溢祝福",
+		"desc": null,
+		"en": "Elation Brimming With Blessings",
+		"iconUrl": "/hsr/UI/lightconemediumicon/24006.webp",
+		"id": "24006",
+		"jp": "愉悦溢れる祝福",
+		"kr": "넘치는 환락의 축복",
+		"rank": "CombatPowerLightconeRarity5"
+	},
 	"此时恰好": {
 		"baseType": "Priest",
 		"cn": "此时恰好",
@@ -916,7 +938,7 @@
 		"baseType": "Elation",
 		"cn": "残泪",
 		"desc": null,
-		"en": "Lingering Tears",
+		"en": "Lingering Tear",
 		"iconUrl": "/hsr/UI/lightconemediumicon/20024.webp",
 		"id": "20024",
 		"jp": "{RUBY_B#ざんるい}残涙{RUBY_E#}",
