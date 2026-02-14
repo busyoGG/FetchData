@@ -249,6 +249,25 @@
 		},
 		"type": 4
 	},
+	"南宫羽": {
+		"camp": 13,
+		"CHS": "南宫羽",
+		"cn": "南宫羽",
+		"code": "Avatar_Female_Size01_NangongYu_En",
+		"desc": "Partner_ProfileDesc_1511",
+		"element": 205,
+		"EN": "Avatar_Female_Size01_NangongYu",
+		"hit": 102,
+		"icon": "IconRole59",
+		"iconUrl": "/zzz/UI/IconRoleSelect59.webp",
+		"id": "1511",
+		"JA": "Avatar_Female_Size01_NangongYu",
+		"KO": "Avatar_Female_Size01_NangongYu",
+		"potential": [],
+		"rank": 4,
+		"skin": {},
+		"type": 2
+	},
 	"卢西娅": {
 		"camp": 11,
 		"CHS": "卢西娅",
@@ -437,6 +456,25 @@
 			}
 		},
 		"type": 2
+	},
+	"希希芙": {
+		"camp": 14,
+		"CHS": "希希芙",
+		"cn": "希希芙",
+		"code": "Avatar_Female_Size02_Cissia_En",
+		"desc": "Partner_ProfileDesc_1521",
+		"element": 203,
+		"EN": "Avatar_Female_Size02_Cissia",
+		"hit": 101,
+		"icon": "IconRole60",
+		"iconUrl": "/zzz/UI/IconRoleSelect60.webp",
+		"id": "1521",
+		"JA": "Avatar_Female_Size02_Cissia",
+		"KO": "Avatar_Female_Size02_Cissia",
+		"potential": [],
+		"rank": 4,
+		"skin": {},
+		"type": 1
 	},
 	"悠真": {
 		"camp": 6,

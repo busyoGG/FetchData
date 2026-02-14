@@ -1,4 +1,30 @@
 {
+	"(Test1)南宫羽测试音擎": {
+		"CHS": "(Test1)南宫羽测试音擎",
+		"cn": "(Test1)南宫羽测试音擎",
+		"desc": "There is a soul, even within a shell of steel.",
+		"EN": "Nangong Yu W-Engine Test",
+		"icon": "Weapon_S_1511",
+		"iconUrl": "/zzz/UI/Weapon_S_1511.webp",
+		"id": "14151",
+		"JA": "南宮羽の音動機テスト",
+		"KO": "Item_Weapon_S_1511_Name",
+		"rank": 4,
+		"type": 2
+	},
+	"(Test1)希希芙测试音擎": {
+		"CHS": "(Test1)希希芙测试音擎",
+		"cn": "(Test1)希希芙测试音擎",
+		"desc": "Item_Weapon_S_1521_ShortDesc",
+		"EN": "Cissia Test W-Engine",
+		"icon": "Weapon_S_1521",
+		"iconUrl": "/zzz/UI/Weapon_S_1521.webp",
+		"id": "14152",
+		"JA": "シーシィア 音動機テスト",
+		"KO": "Item_Weapon_S_1521_Name",
+		"rank": 4,
+		"type": 1
+	},
 	"「恒等式」-变格": {
 		"CHS": "「恒等式」-变格",
 		"cn": "「恒等式」-变格",
@@ -193,6 +219,19 @@
 		"KO": "「자기 폭풍」-브라보",
 		"rank": 2,
 		"type": 3
+	},
+	"Item_Weapon_A_Common_20_Name": {
+		"CHS": "Item_Weapon_A_Common_20_Name",
+		"cn": "Item_Weapon_A_Common_20_Name",
+		"desc": "Item_Weapon_A_Common_20_ShortDesc",
+		"EN": "Item_Weapon_A_Common_20_Name",
+		"icon": "Weapon_A_Common_20",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_20.webp",
+		"id": "13020",
+		"JA": "Item_Weapon_A_Common_20_Name",
+		"KO": "Item_Weapon_A_Common_20_Name",
+		"rank": 3,
+		"type": 2
 	},
 	"云霓孤光": {
 		"CHS": "云霓孤光",
