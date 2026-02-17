@@ -1,5 +1,59 @@
 [
 	{
+		"version": "月之五下半",
+		"items": [
+			{
+				"itemId": 10000114,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_SkirkNew.webp",
+				"itemType": "Character",
+				"name": "丝柯克",
+				"nameEn": "Skirk",
+				"weaponType": "Sword",
+				"rankType": 5,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000112,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Escoffier.webp",
+				"itemType": "Character",
+				"name": "爱可菲",
+				"nameEn": "Escoffier",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Cryo"
+			}
+		],
+		"start": "2026-03-17 18:00:00",
+		"end": "2026-04-07 14:59:00"
+	},
+	{
+		"version": "月之五上半",
+		"items": [
+			{
+				"itemId": 10000128,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Varka.webp",
+				"itemType": "Character",
+				"name": "法尔伽",
+				"nameEn": "Varka",
+				"weaponType": "Claymore",
+				"rankType": 5,
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000120,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Flins.webp",
+				"itemType": "Character",
+				"name": "菲林斯",
+				"nameEn": "Flins",
+				"weaponType": "Polearm",
+				"rankType": 5,
+				"element": "Electro"
+			}
+		],
+		"start": "2026-02-25 10:00:00",
+		"end": "2026-03-17 17:59:00"
+	},
+	{
 		"version": "月之四下半",
 		"items": [
 			{

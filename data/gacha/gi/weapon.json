@@ -1,5 +1,46 @@
 [
 	{
+		"version": "月之五下半",
+		"items": [
+			{
+				"itemId": 11517,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_OuterSword.webp",
+				"itemType": "Weapon",
+				"name": "苍耀",
+				"nameEn": "Azurelight",
+				"weaponType": "Sword",
+				"rankType": 5
+			},
+			{
+				"itemId": 13514,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Trident.webp",
+				"itemType": "Weapon",
+				"name": "香韵奏者",
+				"nameEn": "Symphonist of Scents",
+				"weaponType": "Polearm",
+				"rankType": 5
+			}
+		],
+		"start": "2026-03-17 18:00:00",
+		"end": "2026-04-07 14:59:00"
+	},
+	{
+		"version": "月之五上半",
+		"items": [
+			{
+				"itemId": 13516,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_TummaLyhty.webp",
+				"itemType": "Weapon",
+				"name": "血染荒城",
+				"nameEn": "Bloodsoaked Ruins",
+				"weaponType": "Polearm",
+				"rankType": 5
+			}
+		],
+		"start": "2026-02-25 10:00:00",
+		"end": "2026-03-17 17:59:00"
+	},
+	{
 		"version": "月之四下半",
 		"items": [
 			{
