@@ -35,6 +35,15 @@
 				"nameEn": "Bloodsoaked Ruins",
 				"weaponType": "Polearm",
 				"rankType": 5
+			},
+			{
+				"itemId": 12515,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_EnsisAquilonis.webp",
+				"itemType": "Weapon",
+				"name": "狼的武功歌",
+				"nameEn": "Gest of the Mighty Wolf",
+				"weaponType": "Claymore",
+				"rankType": 5
 			}
 		],
 		"start": "2026-02-25 10:00:00",
