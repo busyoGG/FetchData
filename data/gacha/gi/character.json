@@ -48,6 +48,36 @@
 				"weaponType": "Polearm",
 				"rankType": 5,
 				"element": "Electro"
+			},
+			{
+				"itemId": 10000032,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Bennett.webp",
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "Bennett",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000023,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Xiangling.webp",
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "Xiangling",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000043,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Sucrose.webp",
+				"itemType": "Character",
+				"name": "砂糖",
+				"nameEn": "Sucrose",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Anemo"
 			}
 		],
 		"start": "2026-02-25 10:00:00",
