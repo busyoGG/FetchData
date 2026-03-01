@@ -15,6 +15,18 @@
 				"elementCN": "以太"
 			},
 			{
+				"itemId": 1411,
+				"imageUrl": "/zzz/UI/IconRoleSelect47.webp",
+				"itemType": "Character",
+				"name": "柚叶",
+				"nameEn": "Yuzuha",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 5,
+				"element": "Physical",
+				"elementCN": "物理"
+			},
+			{
 				"itemId": 1111,
 				"imageUrl": "/zzz/UI/IconRoleSelect15.webp",
 				"itemType": "Character",
