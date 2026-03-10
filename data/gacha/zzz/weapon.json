@@ -3,6 +3,16 @@
 		"version": "2.6.2",
 		"items": [
 			{
+				"itemId": 14150,
+				"imageUrl": "/zzz/UI/Weapon_S_1501.webp",
+				"itemType": "Weapon",
+				"name": "壳中之灵",
+				"nameEn": "Angel in the Shell",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 5
+			},
+			{
 				"itemId": 14141,
 				"imageUrl": "/zzz/UI/Weapon_S_1411.webp",
 				"itemType": "Weapon",
