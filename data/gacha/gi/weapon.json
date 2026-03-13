@@ -19,6 +19,51 @@
 				"nameEn": "Symphonist of Scents",
 				"weaponType": "Polearm",
 				"rankType": 5
+			},
+			{
+				"itemId": 11402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "笛剑",
+				"nameEn": "The Flute",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12402,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Troupe.webp",
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "The Bell",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13407,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "Favonius Lance",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Zephyrus.webp",
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "Favonius Codex",
+				"weaponType": "Catalyst",
+				"rankType": 4
+			},
+			{
+				"itemId": 15405,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Recluse.webp",
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "Rust",
+				"weaponType": "Bow",
+				"rankType": 4
 			}
 		],
 		"start": "2026-03-17 18:00:00",

@@ -21,6 +21,36 @@
 				"weaponType": "Polearm",
 				"rankType": 5,
 				"element": "Cryo"
+			},
+			{
+				"itemId": 10000072,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Candace.webp",
+				"itemType": "Character",
+				"name": "坎蒂丝",
+				"nameEn": "Candace",
+				"weaponType": "Polearm",
+				"rankType": 4,
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000088,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Charlotte.webp",
+				"itemType": "Character",
+				"name": "夏洛蒂",
+				"nameEn": "Charlotte",
+				"weaponType": "Catalyst",
+				"rankType": 4,
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000115,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Dahlia.webp",
+				"itemType": "Character",
+				"name": "塔利雅",
+				"nameEn": "Dahlia",
+				"weaponType": "Sword",
+				"rankType": 4,
+				"element": "Hydro"
 			}
 		],
 		"start": "2026-03-17 18:00:00",
