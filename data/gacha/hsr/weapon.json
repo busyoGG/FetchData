@@ -1,5 +1,86 @@
 [
 	{
+		"version": "4.1.2",
+		"items": [
+			{
+				"itemId": 23027,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23027.webp",
+				"itemType": "Weapon",
+				"name": "驶向第二次生命",
+				"nameEn": "Sailing Towards a Second Life",
+				"rankType": 5,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			}
+		],
+		"start": "2026-04-08 12:00:00",
+		"end": "2026-04-21 15:00:00"
+	},
+	{
+		"version": "4.1.1",
+		"items": [
+			{
+				"itemId": 23042,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23042.webp",
+				"itemType": "Weapon",
+				"name": "愿虹光永驻天空",
+				"nameEn": "Long May Rainbows Adorn the Sky",
+				"rankType": 5,
+				"avatarBaseType": "memory",
+				"weaponType": "memory"
+			}
+		],
+		"start": "2026-04-22 10:00:00",
+		"end": "2026-04-08 11:59:00"
+	},
+	{
+		"version": "4.1.1",
+		"items": [
+			{
+				"itemId": 23056,
+				"imageUrl": "/hsr/UI/lightconemediumicon/23056.webp",
+				"itemType": "Weapon",
+				"name": "一场谎言的终幕",
+				"nameEn": "The Finale of a Lie",
+				"rankType": 5,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 21013,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
+				"itemType": "Weapon",
+				"name": "别让世界静下来",
+				"nameEn": "Make the World Clamor",
+				"rankType": 4,
+				"avatarBaseType": "mage",
+				"weaponType": "mage"
+			},
+			{
+				"itemId": 21047,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21047.webp",
+				"itemType": "Weapon",
+				"name": "黑夜如影随行",
+				"nameEn": "Shadowed by Night",
+				"rankType": 4,
+				"avatarBaseType": "rogue",
+				"weaponType": "rogue"
+			},
+			{
+				"itemId": 21048,
+				"imageUrl": "/hsr/UI/lightconemediumicon/21048.webp",
+				"itemType": "Weapon",
+				"name": "梦的蒙太奇",
+				"nameEn": "Dream's Montage",
+				"rankType": 4,
+				"avatarBaseType": "priest",
+				"weaponType": "priest"
+			}
+		],
+		"start": "2026-03-25 10:00:00",
+		"end": "2026-04-21 15:00:00"
+	},
+	{
 		"version": "4.0.2",
 		"items": [
 			{
