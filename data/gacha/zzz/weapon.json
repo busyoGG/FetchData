@@ -1,5 +1,79 @@
 [
 	{
+		"version": "2.7.2",
+		"items": [
+			{
+				"itemId": 14146,
+				"imageUrl": "/zzz/UI/Weapon_S_1461.webp",
+				"itemType": "Weapon",
+				"name": "机巧心种",
+				"nameEn": "Cordis Germina",
+				"weaponType": "Attack",
+				"weaponTypeCN": "强攻",
+				"rankType": 5
+			},
+			{
+				"itemId": 13135,
+				"imageUrl": "/zzz/UI/Weapon_A_1351.webp",
+				"itemType": "Weapon",
+				"name": "裁纸刀",
+				"nameEn": "Box Cutter",
+				"weaponType": "Stun",
+				"weaponTypeCN": "击破",
+				"rankType": 4
+			},
+			{
+				"itemId": 13112,
+				"imageUrl": "/zzz/UI/Weapon_A_1121.webp",
+				"itemType": "Weapon",
+				"name": "比格气缸",
+				"nameEn": "Big Cylinder",
+				"weaponType": "Defense",
+				"weaponTypeCN": "防护",
+				"rankType": 4
+			}
+		],
+		"start": "2026-04-15 12:00:00",
+		"end": "2026-05-05 14:59:59"
+	},
+	{
+		"version": "2.7.1",
+		"items": [
+			{
+				"itemId": 14105,
+				"imageUrl": "/zzz/UI/Weapon_S_1051.webp",
+				"itemType": "Weapon",
+				"name": "海妖摇篮",
+				"nameEn": "Kraken's Cradle",
+				"weaponType": "Rupture",
+				"weaponTypeCN": "命破",
+				"rankType": 5
+			},
+			{
+				"itemId": 13103,
+				"imageUrl": "/zzz/UI/Weapon_A_1031.webp",
+				"itemType": "Weapon",
+				"name": "聚宝箱",
+				"nameEn": "The Vault",
+				"weaponType": "Support",
+				"weaponTypeCN": "支援",
+				"rankType": 4
+			},
+			{
+				"itemId": 13128,
+				"imageUrl": "/zzz/UI/Weapon_A_1281.webp",
+				"itemType": "Weapon",
+				"name": "轰鸣座驾",
+				"nameEn": "Roaring Ride",
+				"weaponType": "Anomaly",
+				"weaponTypeCN": "异常",
+				"rankType": 4
+			}
+		],
+		"start": "2026-03-24 10:00:00",
+		"end": "2026-04-15 11:59:59"
+	},
+	{
 		"version": "2.6.2",
 		"items": [
 			{
