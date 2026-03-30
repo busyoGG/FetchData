@@ -1,5 +1,46 @@
 [
 	{
+		"version": "月之六下半",
+		"items": [
+			{
+				"itemId": 14520,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_MenulisRing.webp",
+				"itemType": "Weapon",
+				"name": "纺夜天镜",
+				"nameEn": "Nightweaver's Looking Glass",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			},
+			{
+				"itemId": 14521,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Sistrum.webp",
+				"itemType": "Weapon",
+				"name": "真语秘匣",
+				"nameEn": "Reliquary of Truth",
+				"weaponType": "Catalyst",
+				"rankType": 5
+			}
+		],
+		"start": "2026-04-28 18:00:00",
+		"end": "2026-05-19 14:59:00"
+	},
+	{
+		"version": "月之六上半",
+		"items": [
+			{
+				"itemId": 15514,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Qoyllorsnova.webp",
+				"itemType": "Weapon",
+				"name": "星鹫赤羽",
+				"nameEn": "Astral Vulture's Crimson Plumage",
+				"weaponType": "Bow",
+				"rankType": 5
+			}
+		],
+		"start": "2026-04-08 06:00:00",
+		"end": "2026-04-28 17:59:00"
+	},
+	{
 		"version": "月之五下半",
 		"items": [
 			{
@@ -136,7 +177,7 @@
 				"rankType": 4
 			}
 		],
-		"start": "2026-02-25 10:00:00",
+		"start": "2026-02-25 06:00:00",
 		"end": "2026-03-17 17:59:00"
 	},
 	{

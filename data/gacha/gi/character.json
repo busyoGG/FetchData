@@ -1,5 +1,49 @@
 [
 	{
+		"version": "月之六下半",
+		"items": [
+			{
+				"itemId": 10000119,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Lauma.webp",
+				"itemType": "Character",
+				"name": "菈乌玛",
+				"nameEn": "Lauma",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000122,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Nefer.webp",
+				"itemType": "Character",
+				"name": "奈芙尔",
+				"nameEn": "Nefer",
+				"weaponType": "Catalyst",
+				"rankType": 5,
+				"element": "Dendro"
+			}
+		],
+		"start": "2026-04-28 18:00:00",
+		"end": "2026-05-19 14:59:00"
+	},
+	{
+		"version": "月之六上半",
+		"items": [
+			{
+				"itemId": 10000104,
+				"imageUrl": "/gi/UI/UI_AvatarIcon_Chasca.webp",
+				"itemType": "Character",
+				"name": "恰斯卡",
+				"nameEn": "Chasca",
+				"weaponType": "Bow",
+				"rankType": 5,
+				"element": "Anemo"
+			}
+		],
+		"start": "2026-04-08 06:00:00",
+		"end": "2026-04-28 17:59:00"
+	},
+	{
 		"version": "月之五下半",
 		"items": [
 			{
@@ -110,7 +154,7 @@
 				"element": "Anemo"
 			}
 		],
-		"start": "2026-02-25 10:00:00",
+		"start": "2026-02-25 06:00:00",
 		"end": "2026-03-17 17:59:00"
 	},
 	{
