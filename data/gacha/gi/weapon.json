@@ -35,6 +35,51 @@
 				"nameEn": "Astral Vulture's Crimson Plumage",
 				"weaponType": "Bow",
 				"rankType": 5
+			},
+			{
+				"itemId": 15430,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Bow_Umpakati.webp",
+				"itemType": "Weapon",
+				"name": "缀花之翎",
+				"nameEn": "Flower-Wreathed Feathers",
+				"weaponType": "Bow",
+				"rankType": 4
+			},
+			{
+				"itemId": 11405,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Sword_Rockkiller.webp",
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "Lion's Roar",
+				"weaponType": "Sword",
+				"rankType": 4
+			},
+			{
+				"itemId": 12403,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Claymore_Fossil.webp",
+				"itemType": "Weapon",
+				"name": "祭礼大剑",
+				"nameEn": "Sacrificial Greatsword",
+				"weaponType": "Claymore",
+				"rankType": 4
+			},
+			{
+				"itemId": 13401,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Pole_Stardust.webp",
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "Dragon's Bane",
+				"weaponType": "Polearm",
+				"rankType": 4
+			},
+			{
+				"itemId": 14409,
+				"imageUrl": "/gi/UI/UI_EquipIcon_Catalyst_Truelens.webp",
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "Eye of Perception",
+				"weaponType": "Catalyst",
+				"rankType": 4
 			}
 		],
 		"start": "2026-04-08 06:00:00",
