@@ -13,9 +13,22 @@
 		"id": "1041",
 		"JA": "「11号」",
 		"KO": "「11호」",
-		"potential": [],
+		"potential": [
+			104100,
+			104101,
+			104102,
+			104103,
+			104104,
+			104105
+		],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3110410": {
+				"Desc": "Those warm-toned goggles can't hide her icy, soldier's gaze. Want to see her crack a smile? Pick one: 87.5 one-arm push-ups or a bowl of extra-spicy noodles.",
+				"Image": "IconRole05",
+				"Name": "Soldier 11: Elite Soldier"
+			}
+		},
 		"type": 1
 	},
 	"「席德」": {
@@ -32,9 +45,16 @@
 		"id": "1461",
 		"JA": "「シード」",
 		"KO": "「시드」",
+		"live2d": "UISpine_Seed",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3114610": {
+				"Desc": "A corner of the world blooming in color, a single salty tear, a perfect circle of life — this is where the girl and the construct uncovered the truth of the heart. She never needs to look back; she has already blossomed into her own sea of petals.",
+				"Image": "IconRole48",
+				"Name": "Seed: Flower in Bloom"
+			}
+		},
 		"type": 1
 	},
 	"「扳机」": {
@@ -51,29 +71,17 @@
 		"id": "1361",
 		"JA": "「トリガー」",
 		"KO": "「트리거」",
+		"live2d": "UIspineTrigger",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113610": {
+				"Desc": "In the Hollows, her aim never wavers. She's a teammate one can rely on to cover their back without question. But once she returns to Sixth Street, that constant watchfulness softens, lingering for a moment before disappearing the instant it's sensed.",
+				"Image": "IconRole39",
+				"Name": "Trigger: Gaze Into the Light"
+			}
+		},
 		"type": 2
-	},
-	"Avatar_Male_Size03_BanYue": {
-		"camp": 0,
-		"CHS": "Avatar_Male_Size03_BanYue",
-		"cn": "Avatar_Male_Size03_BanYue",
-		"code": "Avatar_Male_Size03_BanYue_En",
-		"desc": "",
-		"element": 201,
-		"EN": "Avatar_Male_Size03_BanYue",
-		"hit": 102,
-		"icon": "",
-		"iconUrl": "/zzz/UI/.webp",
-		"id": "1471",
-		"JA": "Avatar_Male_Size03_BanYue",
-		"KO": "Avatar_Male_Size03_BanYue",
-		"potential": [],
-		"rank": null,
-		"skin": {},
-		"type": 6
 	},
 	"丽娜": {
 		"camp": 2,
@@ -91,7 +99,13 @@
 		"KO": "리나",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112110": {
+				"Desc": "Her skirt is immaculate and her appearance flawlessly composed — such is the head maid's standard of perfection. Yet in the kitchen, her definition of \"perfect\" appears to be something else entirely...",
+				"Image": "IconRole22",
+				"Name": "Rina: Head Maid's Perfection"
+			}
+		},
 		"type": 4
 	},
 	"仪玄": {
@@ -108,6 +122,7 @@
 		"id": "1371",
 		"JA": "儀玄",
 		"KO": "의현",
+		"live2d": "UISpine_Yixuan",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -130,7 +145,7 @@
 		"CHS": "伊德海莉",
 		"cn": "伊德海莉",
 		"code": "Yidhari",
-		"desc": "...",
+		"desc": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. As a gifted writer of bizarre tales, Yidhari should be more prone than most to immersing herself in the worlds of her own imagination.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
 		"element": 202,
 		"EN": "Yidhari",
 		"hit": 102,
@@ -139,9 +154,16 @@
 		"id": "1051",
 		"JA": "イドリー",
 		"KO": "이드하리",
+		"live2d": "UISpine_Yidhari",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3110510": {
+				"Desc": "Past recollections and novel dreams spill over, inviting her to drown in them as they entwine on paper. With a blank page before her, she pens the opening line at the crossroads of reality and illusion.",
+				"Image": "IconRole52",
+				"Name": "Yidhari: Stream of Consciousness"
+			}
+		},
 		"type": 6
 	},
 	"伊芙琳": {
@@ -158,9 +180,16 @@
 		"id": "1321",
 		"JA": "イヴリン",
 		"KO": "이블린",
+		"live2d": "UISpineEvelyn",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113210": {
+				"Desc": "A sharp, no-nonsense manager's outfit. Its hidden edges are enough to make onlookers back off. Her yellow-brown hair weaves a fine, delicate net, where a quiet pool of starlight seems to rest.",
+				"Image": "IconRole37",
+				"Name": "Evelyn: A Moth to Light"
+			}
+		},
 		"type": 1
 	},
 	"凯撒": {
@@ -177,28 +206,92 @@
 		"id": "1071",
 		"JA": "シーザー",
 		"KO": "카이사르",
+		"live2d": "UISpineCeasar",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3110710": {
+				"Desc": "A ruler ready to ready to sound the triumphal anthem anew, a hero poised to reignite her legend. The not-yet-seasoned leader has finally met the flames of her coronation, yet she still walks the gritty sands of the Outer Ring.\nA light tap on the piano keys sends her desert-tinged song drifting across this land that bears the weight of hope.",
+				"Image": "IconRole25",
+				"Name": "Caesar: Inferno Joyride"
+			}
+		},
+		"type": 5
+	},
+	"千夏": {
+		"camp": 13,
+		"CHS": "千夏",
+		"cn": "千夏",
+		"code": "Sunna",
+		"desc": "Sunna is a member of the Angels of Delusion idol group and the composer behind all of the group's music. Maintaining top-tier songwriting while keeping pace with rehearsals and stage performances is anything but easy for her. When the pressure piles up, she occasionally employs the tactic of \"retreat is the best option\" to dodge Captain Nangong Yu's brutal scheduling.\nNote: Reliable intelligence suggests that this tactic works largely because Nangong Yu intentionally lets it slide.\n\nSunna and Nangong Yu, another member of the Angels of Delusion, have known each other since they were young and grew up together. While they appear to always squabble, the two are in fact deeply dependent on one another. When it comes to music, Sunna shares a strong connection with their final member, Aria. As Aria puts it, the two frequently spend whole days in the studio discussing melodies for new songs, only to drift off to sleep without even realizing it, heads resting against each other.\n\nSunna is fairly introverted and prefers spending time alone over group activities. That said, her two teammates know her weaknesses all too well — she finds it hard to say no and can't handle praise — and are helping her gradually overcome her social anxiety through desensitization training (progress: about 25%).\n\nWhile most fans see Sunna's \"hopeless\" side as endearing, she herself seems eager to tear off that label and become a confident, \"proper idol.\" As the creative force behind the music, she often wants to flee the stage — yet in truth, she's not as indifferent to performing as she claims to be.\nEvidence: A sticky note by Sunna's bedside that reads \"I can't disappoint the fans. I need to give them my very best on stage!\"",
+		"element": 200,
+		"EN": "Sunna",
+		"hit": 102,
+		"icon": "IconRole58",
+		"iconUrl": "/zzz/UI/IconRoleSelect58.webp",
+		"id": "1491",
+		"JA": "千夏",
+		"KO": "수나",
+		"live2d": "UISpine_Qianxialeimi",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3114910": {
+				"Desc": "Put on the outfit she finds cutest, and she can break free from the crowd, slipping into the lingering echoes of delusion.",
+				"Image": "IconRole58",
+				"Name": "Sunna: Dreams on Loop"
+			},
+			"3114911": {
+				"Desc": "Freshly baked cake, rich aromatic coffee, and the warm afternoon sun...\nWrapped in moments of softness, it's time to begin today's tea break",
+				"Image": "IconRole58_01",
+				"Name": "Sunna: Afternoon Tea Break"
+			}
+		},
+		"type": 4
+	},
+	"南宫羽": {
+		"camp": 13,
+		"CHS": "南宫羽",
+		"cn": "南宫羽",
+		"code": "Avatar_Female_Size01_NangongYu_En",
+		"desc": "Partner_ProfileDesc_1511",
+		"element": 205,
+		"EN": "Avatar_Female_Size01_NangongYu",
+		"hit": 102,
+		"icon": "IconRole59",
+		"iconUrl": "/zzz/UI/IconRoleSelect59.webp",
+		"id": "1511",
+		"JA": "Avatar_Female_Size01_NangongYu",
+		"KO": "Avatar_Female_Size01_NangongYu",
 		"potential": [],
 		"rank": 4,
 		"skin": {},
-		"type": 5
+		"type": 2
 	},
 	"卢西娅": {
 		"camp": 11,
 		"CHS": "卢西娅",
 		"cn": "卢西娅",
 		"code": "Lucia",
-		"desc": "...",
+		"desc": "Lucia, a member of Spook Shack, goes by the online name \"Night Emissary.\" She's a backpacker, an Ethereal story enthusiast, and a connoisseur of late-night food stalls.\n\nRecords show that Lucia hails from a tribe living on the outskirts of the city. Legend has it their ancestors once encountered an Ethereal called the \"Night Horror\" (absent from the Hollow Investigative Association archives), which left them with a strange gift: Ethereals tend not to notice them. The cost, though, is that they dream of the Night Horror at night, and under its influence, they sleepwalk into Hollows, where corruption awaits.\nBecause of this, the tribe took on the role of Nightwatchers. They rest during the day and hunt deep in the night, avoiding the Night Horror's pull. And if anyone must sleep at night, their family will keep vigil at their side until dawn.\n\nLucia grew up surrounded by her kin, and even after arriving in New Eridu, she has kept to the Nightwatcher tradition of staying awake through the night and watching over her cherished friends, shielding them from the Night Horror's reach.\nMaster, if you hear a knock at your window late at night, don't be alarmed. It may just be a sleepless night guardian stopping by to say hello.\n\nAdditional note: Lucia's pet is \"Chestnut,\" a small, friendly Hati. It once lived in the Hollow's outskirts, but has since moved deeper inside. Even I can no longer detect its exact whereabouts.",
 		"element": 205,
 		"EN": "Lucia",
 		"hit": 102,
 		"icon": "IconRole50",
 		"iconUrl": "/zzz/UI/IconRoleSelect50.webp",
 		"id": "1451",
-		"JA": "<ruby=りゅしあ>リュシア</ruby>",
+		"JA": "リュシア",
 		"KO": "루시아",
+		"live2d": "UISpineLucia",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3114510": {
+				"Desc": "Her cloak is the curtain of night, and beneath her hood rests the world's quiet whispers. She sings for the dusk and speaks in dreams, gathering the thoughts sleepers leave behind and weaving them into halos and riddles across the stars.",
+				"Image": "IconRole50",
+				"Name": "Lucia: Whispering Dreams"
+			}
+		},
 		"type": 4
 	},
 	"可琳": {
@@ -217,7 +310,45 @@
 		"KO": "코린",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3110610": {
+				"Desc": "From that small frame bursts surprising strength, her roaring chainsaw drowning out her soft whimpers. The well-behaved, ever-professional maid is always short on confidence... so take a moment to wait for her.",
+				"Image": "IconRole09",
+				"Name": "Corin: Matcha Profiterole"
+			}
+		},
+		"type": 1
+	},
+	"叶瞬光": {
+		"camp": 10,
+		"CHS": "叶瞬光",
+		"cn": "叶瞬光",
+		"code": "Ye Shunguang",
+		"desc": "Ye Shunguang is the Sword Keeper of Yunkui Summit's treasured Qingming Sword, a disciple of Yixuan, and the younger sister of Ye Shiyuan, as well as a swordswoman blessed with extraordinary talent.\nShe enjoyed a happy childhood until the fall of the old capital, when her parents lost their lives rescuing others, bringing all her happiness to an abrupt end.\nFrom then on, she relied solely on her brother — up until Yixuan took them in, bringing them into Yunkui Summit. Later, she was chosen by the Qingming Sword, taking up the mantle and duty of Sword Keeper.\n\nRumor has it that the Qingming Sword's favor is less a blessing and more a kind of curse. Though it gives its Sword Keeper Void Hunter level power, it extracts a harsh cost — the loss of one's memories and five senses.\nIn order to subdue this side effect, Yixuan Shifu crafted a custom sword case for Ye Shunguang. It appears effective for the moment, but the true nature of the weapon is still shrouded in mystery.",
+		"element": 200,
+		"EN": "Ye Shunguang",
+		"hit": 101,
+		"icon": "IconRole55",
+		"iconUrl": "/zzz/UI/IconRoleSelect55.webp",
+		"id": "1431",
+		"JA": "葉瞬光",
+		"KO": "엽빛나",
+		"live2d": "UISpine_Yeshunguang",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3114310": {
+				"Desc": "Cloud-woven silk, a blade's gleam reflected in its folds. The attire mirrors the person.\nBut who truly chose this dress? Was it her... or the deeper self within?",
+				"Image": "IconRole55",
+				"Name": "Ye Shunguang: Clouddrift Illumination"
+			},
+			"3114311": {
+				"Desc": "The gentle glow of sunlight and warm breeze seem to welcome your next encounter as you walk down the streets.",
+				"Image": "IconRole55_01",
+				"Name": "Ye Shunguang: Touch of Dawnlight"
+			}
+		},
+		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconHonedEdge.png",
 		"type": 1
 	},
 	"奥菲丝&「鬼火」": {
@@ -233,10 +364,17 @@
 		"iconUrl": "/zzz/UI/IconRoleSelect49.webp",
 		"id": "1301",
 		"JA": "オルペウス＆「鬼火」",
-		"KO": "오피 & 「도깨비불」",
+		"KO": "오피&「도깨비불」",
+		"live2d": "UISpine_Aofeisi",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113010": {
+				"Desc": "A soul of mirrored halves, having twice crossed the river of the dead. One side forged in fire, the other shaped into ice; one looking back on where it came from, the other watching for a new dawn. They wander on — never lost, never ceasing.",
+				"Image": "IconRole49",
+				"Name": "Orphie & Magus: Two Banks of the River"
+			}
+		},
 		"type": 1
 	},
 	"妮可": {
@@ -285,7 +423,13 @@
 		"KO": "앤톤",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3111110": {
+				"Desc": "The jackhammer's bearings rumble without pause, echoing the hot, thunderous beat of its wielder's heart.",
+				"Image": "IconRole15",
+				"Name": "Anton: Earthshaking Axle"
+			}
+		},
 		"type": 1
 	},
 	"安比": {
@@ -304,8 +448,33 @@
 		"KO": "엔비",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3110110": {
+				"Desc": "These casual clothes were hand-picked and styled for Anby by Nicole. They're designed for easy movement and ideal for moving about the streets. The fabrics and accessories cost a lot more than they seem, so (?) Anby treats the outfit with real care.",
+				"Image": "IconRole01",
+				"Name": "Anby: Street Streak"
+			}
+		},
 		"type": 2
+	},
+	"希希芙": {
+		"camp": 14,
+		"CHS": "希希芙",
+		"cn": "希希芙",
+		"code": "Avatar_Female_Size02_Cissia_En",
+		"desc": "Partner_ProfileDesc_1521",
+		"element": 203,
+		"EN": "Avatar_Female_Size02_Cissia",
+		"hit": 101,
+		"icon": "IconRole60",
+		"iconUrl": "/zzz/UI/IconRoleSelect60.webp",
+		"id": "1521",
+		"JA": "Avatar_Female_Size02_Cissia",
+		"KO": "Avatar_Female_Size02_Cissia",
+		"potential": [],
+		"rank": 4,
+		"skin": {},
+		"type": 1
 	},
 	"悠真": {
 		"camp": 6,
@@ -321,9 +490,23 @@
 		"id": "1201",
 		"JA": "浅羽悠真",
 		"KO": "하루마사",
-		"potential": [],
+		"live2d": "UISpine_Qianyuyouzhen",
+		"potential": [
+			120100,
+			120101,
+			120102,
+			120103,
+			120104,
+			120105
+		],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112010": {
+				"Desc": "His eyes are brighter than the streak of bright yellow upon his brow. His arrows pierce through deceit and lies and scatter the past like feathers on the wind. Dawn may not have arrived yet, but beyond the horizon, a golden future shimmers faintly.",
+				"Image": "IconRole35",
+				"Name": "Asaba Harumasa: Full-Fledged Strings"
+			}
+		},
 		"type": 1
 	},
 	"本": {
@@ -342,7 +525,13 @@
 		"KO": "벤",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3111210": {
+				"Desc": "Ignoring the intimidating look meant to cow outsiders, even the Beast King struggles with grooming his fur and sorting out the bills.",
+				"Image": "IconRole16",
+				"Name": "Ben: Fluffy Beastking"
+			}
+		},
 		"type": 5
 	},
 	"朱鸢": {
@@ -359,9 +548,16 @@
 		"id": "1241",
 		"JA": "朱鳶",
 		"KO": "주연",
+		"live2d": "UISpineZhuyuan",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112410": {
+				"Desc": "This high-grade anti-riot uniform from Public Security has been specially modified to suit Zhu Yuan's fighting style.\nWinner of the Janus Precinct's combat tournament three years running, the young top Public Security Officer is on call 24/7, ready to arrest any criminal in her path.",
+				"Image": "IconRole23",
+				"Name": "Zhu Yuan: Suppressor of Evil"
+			}
+		},
 		"type": 1
 	},
 	"柏妮思": {
@@ -378,9 +574,23 @@
 		"id": "1171",
 		"JA": "バーニス",
 		"KO": "버니스",
-		"potential": [],
+		"live2d": "UISpine_Burnice",
+		"potential": [
+			117100,
+			117101,
+			117102,
+			117103,
+			117104,
+			117105
+		],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3111710": {
+				"Desc": "An outfit hotter than any Nitro-Fuel. Wander into a party in the Outer Ring, and odds are you'll bump into Burnice... but drink her signature cocktails at your own risk...\nWait, you've already taken a sip? Well then — 3, 2, 1... fire!",
+				"Image": "IconRole32",
+				"Name": "Burnice: Wildfire Rave"
+			}
+		},
 		"type": 3
 	},
 	"柚叶": {
@@ -388,7 +598,7 @@
 		"CHS": "柚叶",
 		"cn": "柚叶",
 		"code": "Yuzuha",
-		"desc": "Ukinami Yuzuha, a resident of Waifei Peninsula, currently attends a low-tuition company affiliated school in the city. Aside from being part of the Inter-Knot subforum Spook Shack, she's not affiliated with any other groups — though in New Eridu, such forums aren't typically seen as formal organizations, and are, instead, more like hobby clubs.\nYuzuha is the adopted daughter of Li Baorong, owner of the Mystic Wares Porcelume store. Word around Waifei Peninsula is that Baorong lost his wife and two daughters when the old capital fell. In the years that followed, he took in five children. Yuzuha is the second oldest, with an older brother, a younger brother, and two younger sisters. The family lived on the second floor above the store, and with just two bedrooms, Yuzuha shared one with her sisters, while the boys stayed with Baorong. Now that her older brother has moved out and she mostly stays in the school dorm, the apartment feels a bit less crowded. But on weekends and holidays, Yuzuha usually returns from school to help her father at the store.\nEven as a child, Yuzuha showed a surprising level of maturity. Her eloquence and cheerful nature have made her a favorite among neighbors — and a hit with the kids around Waifei Peninsula and Sailume Bay.\nOn the Spook Shack forum, Yuzuha goes by the username \"Yuzupepper.\" In addition to her real life friends Manato and Alice, she is also close with two other users known as \"Night Fiend Messenger\" and \"Strawberry Parfait\" on the forums.",
+		"desc": "Ukinami Yuzuha, a resident of Waifei Peninsula's Failume Heights, currently attends a low-tuition company affiliated school in the city. Aside from being part of the Inter-Knot subforum Spook Shack, she's not affiliated with any other groups — though in New Eridu, such forums aren't typically seen as formal organizations, and are, instead, more like hobby clubs.\nYuzuha is the adopted daughter of Li Baorong, owner of the Mystic Wares Porcelume store. Word around Failume Heights is that Baorong lost his wife and two daughters when the old capital fell. In the years that followed, he took in five children. Yuzuha is the second oldest, with an older brother, a younger brother, and two younger sisters. The family lived on the second floor above the store, and with just two bedrooms, Yuzuha shared one with her sisters, while the boys stayed with Baorong. Now that her older brother has moved out and she mostly stays in the school dorm, the apartment feels a bit less crowded. But on weekends and holidays, Yuzuha usually returns from school to help her father at the store.\nEven as a child, Yuzuha showed a surprising level of maturity. Her eloquence and cheerful nature have made her a favorite among neighbors — and a hit with the kids around Waifei Peninsula and Sailume Bay.\nOn the Spook Shack forum, Yuzuha goes by the username \"Yuzupepper.\" In addition to her real-life friends Manato and Alice, she is also close with two other users known as \"Night Emissary\" and \"Strawberry Parfait\" on the forums.",
 		"element": 200,
 		"EN": "Yuzuha",
 		"hit": 102,
@@ -397,6 +607,7 @@
 		"id": "1411",
 		"JA": "浮波柚葉",
 		"KO": "유즈하",
+		"live2d": "UISpine_Youye",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -427,9 +638,16 @@
 		"id": "1221",
 		"JA": "月城柳",
 		"KO": "야나기",
+		"live2d": "UISpineYanagi",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112210": {
+				"Desc": "Even reflective lenses can't hide the sharp gleam in the Deputy Chief's eyes. She has to constantly keep watch over a warrior obsessed with training, a scout who slacks off whenever possible, and a little one who's forever getting stomachaches.",
+				"Image": "IconRole31",
+				"Name": "Tsukishiro Yanagi: Flowing Moonshade"
+			}
+		},
 		"type": 3
 	},
 	"格莉丝": {
@@ -446,9 +664,22 @@
 		"id": "1181",
 		"JA": "グレース",
 		"KO": "그레이스",
-		"potential": [],
+		"potential": [
+			118100,
+			118101,
+			118102,
+			118103,
+			118104,
+			118105
+		],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3111810": {
+				"Desc": "A clean, no-nonsense work uniform. What the genius mechanic loves most are the many pockets on the outside — big ones, small ones — all perfect for holding screws, gears, and even wrenches of every size.",
+				"Image": "IconRole20",
+				"Name": "Grace: The Iron Witch"
+			}
+		},
 		"type": 3
 	},
 	"橘福福": {
@@ -463,11 +694,18 @@
 		"icon": "IconRole43",
 		"iconUrl": "/zzz/UI/IconRoleSelect43.webp",
 		"id": "1391",
-		"JA": "<ruby=チーフーフ>橘福福</ruby>",
+		"JA": "橘福福",
 		"KO": "귤복복",
+		"live2d": "UISpineJufufu",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113910": {
+				"Desc": "Dressed like a simple mystic, this senior sister looks like she's tucked all her bravado away, but with a tiger in her heart... she still radiates that heroic fire.",
+				"Image": "IconRole43",
+				"Name": "Ju Fufu: Summit's Cute Tiger"
+			}
+		},
 		"type": 2
 	},
 	"比利": {
@@ -486,7 +724,13 @@
 		"KO": "빌리",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3110810": {
+				"Desc": "Style is justice, justice is style. That's the eternal creed of a true knight! Though, yeah... those joint screws really do wear down fast...",
+				"Image": "IconRole10",
+				"Name": "Billy: Shining Starlight Costume"
+			}
+		},
 		"type": 1
 	},
 	"波可娜": {
@@ -505,7 +749,13 @@
 		"KO": "펄크라",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3113510": {
+				"Desc": "A wandering mercenary should be out roaming the world, but the sunlight here is warm — perfect for a nap.",
+				"Image": "IconRole38",
+				"Name": "Pulchra: Rest for a Weary Tail"
+			}
+		},
 		"type": 2
 	},
 	"派派": {
@@ -524,7 +774,13 @@
 		"KO": "파이퍼",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3112810": {
+				"Desc": "Don't be fooled by this truck driver's lazy gaze. One tap on the gas is enough to fling every passenger's soul straight into the back seat.",
+				"Image": "IconRole28",
+				"Name": "Piper: Lazy Speed"
+			}
+		},
 		"type": 3
 	},
 	"潘引壶": {
@@ -543,7 +799,44 @@
 		"KO": "반인호",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3114210": {
+				"Desc": "Yunkui Summit's largest disciple uniform, spacious enough for this senior brother's belly and all his seasonings. And that iron wok on top is a first of its kind. But... putting a pan you just used for stir-frying on your head? Doesn't it burn?",
+				"Image": "IconRole45",
+				"Name": "Pan Yinhu: Hundred Flavors"
+			},
+			"3114211": {
+				"Desc": "Senior Yinhu once dreamed of becoming a renowned chef, but in this day and age, there's always some thug looking to smash your bowl.\n—\"Go on, try smashing one.\"",
+				"Image": "IconRole45_01",
+				"Name": "Pan Yinhu: Culinary Jewel"
+			}
+		},
+		"type": 5
+	},
+	"照": {
+		"camp": 12,
+		"CHS": "照",
+		"cn": "照",
+		"code": "Zhao",
+		"desc": "Zhao, a Krampus Compliance Authority Judge, was one of the elite members who joined in the early days.\n\nThough she looks innocent and cute on the outside, she's actually sharp-minded, meticulous, and principled. She puts great importance on \"value\" and \"equivalent exchange\" — not in the sense of pricing things with money, but in analyzing someone's ability and potential, giving an objective and long-term assessment of the impact they can make.\n\nIt's said this mindset didn't come from Zhao's work at Krampus, but had already taken root during her childhood. She evaluates not only others, but herself as well. \"Only those with value deserve to be seen.\"\n\nThough she rarely shows it openly, Zhao remains cautious toward kindness that comes without reason. It conflicts with her belief in \"equivalent exchange,\" and she tends to assume the other person must have a deeper motive for offering help.\nAs such, when dealing with Zhao, it's best to focus on mutual benefit first. If you want to break through her defenses with sheer sincerity and goodwill, you'll be fighting an uphill battle.\n\nThere's also one piece of intel that can't be fully confirmed: Zhao loves vegetables and dislikes meat, but she seems to be pretending she enjoys meat as well.",
+		"element": 202,
+		"EN": "Zhao",
+		"hit": 101,
+		"icon": "IconRole56",
+		"iconUrl": "/zzz/UI/IconRoleSelect56.webp",
+		"id": "1341",
+		"JA": "照",
+		"KO": "자오",
+		"live2d": "UISpinezhao",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3113410": {
+				"Desc": "Warm, woolly ears and a small build may invite underestimation, but the Judge of \"Value\" won't think twice about bringing her branch down on anyone who tries.",
+				"Image": "IconRole56",
+				"Name": "Zhao: Cuddly Executor"
+			}
+		},
 		"type": 5
 	},
 	"爱丽丝": {
@@ -560,6 +853,7 @@
 		"id": "1401",
 		"JA": "アリス",
 		"KO": "앨리스",
+		"live2d": "UISpineAlice",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -572,6 +866,37 @@
 				"Desc": "Though it wasn't completely symmetrical, she did not mind this gift from a dear friend.\nThe girl pushed open the locked door and walked along the pink beach after the sudden downpour, the cool waves brushing over her ankles. There were no unknowns left to frighten her.",
 				"Image": "IconRole46_01",
 				"Name": "Alice: Sea of Thyme"
+			}
+		},
+		"type": 3
+	},
+	"爱芮": {
+		"camp": 13,
+		"CHS": "爱芮",
+		"cn": "爱芮",
+		"code": "Aria",
+		"desc": "Aria is the lead vocalist and center of the Angels of Delusion. Bright and full of energy, she always shines on stage, bringing warmth and strength to all Delulus.\nShe has a near-perfect voice, even though she was never professionally trained. At first, Aria only sang because she loved her idol, the retired songstress Cersea, copying her performances and singing along, until she realized she had a gift for song of her own.\nThough Aria's vocal skills are undeniably professional, she lacks a solid foundation in dance. Even with dedicated practice, she can still get flustered when faced with more complex moves. Still, fans deeply appreciate her attitude of \"even if I can't dance well, I'll still give it everything I've got.\"\n\"Pushing herself to the limit, wrestling with her own limbs to try and keep up with the rhythm... that's our Angels of Delusion lead vocalist!\" —One Delulu sobbing after a show.",
+		"element": 205,
+		"EN": "Aria",
+		"hit": 102,
+		"icon": "IconRole57",
+		"iconUrl": "/zzz/UI/IconRoleSelect57.webp",
+		"id": "1501",
+		"JA": "アリア",
+		"KO": "아리아",
+		"live2d": "UISpineAria",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3115010": {
+				"Desc": "A touch of pink and white, a hint of lights and sound, plus countless days and nights devoted to singing — all of it comes together as a boundless delusion on stage.",
+				"Image": "IconRole57",
+				"Name": "Aria: Energetic Idol"
+			},
+			"3115011": {
+				"Desc": "Aria's performance outfit for special shows, worn only a handful of times.\nA pure-white \"angel\" clad in \"demonic\" wings. Take a deep breath, get ready... once the spotlight comes on, it's the Angels of Delusion's time to rebel.",
+				"Image": "IconRole57_01",
+				"Name": "Aria: Discordant Note"
 			}
 		},
 		"type": 3
@@ -592,7 +917,13 @@
 		"KO": "네코마타",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3110210": {
+				"Desc": "A lost cat doesn't know where to go — only that it has to keep moving.\nShe wandered through the vast streets of New Eridu, her thin clothes offering no protection from the elements, until a tiny odd-job agency finally took her in.",
+				"Image": "IconRole11",
+				"Name": "Nekomata: Cat's Gratitude"
+			}
+		},
 		"type": 1
 	},
 	"珂蕾妲": {
@@ -611,26 +942,69 @@
 		"KO": "콜레다",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3111010": {
+				"Desc": "A crimson figure swings twin hammers as if she could even shatter time itself.\nStill young, her journey is only just beginning. Growing up can wait; in the end, every person becomes their own true self.",
+				"Image": "IconRole14",
+				"Name": "Koleda: Heart & Hammer"
+			}
+		},
+		"type": 2
+	},
+	"琉音": {
+		"camp": 12,
+		"CHS": "琉音",
+		"cn": "琉音",
+		"code": "Dialyn",
+		"desc": "Dialyn works as a customer service representative for TOPS' Cross-Department Customer Service Center, though few know her other identity — a Krampus Compliance Authority Judge.\n\nShe calls herself TOPS' top-rated representative, yet she also tops the list for the most complaints in the department. Despite never flaunting her authority as a Judge, she always delivers verdicts that cut closest to the truth.\n\nDialyn was born with the ability to hear the voices of those on the brink of death within the Hollows — a talent that's unmatched. Yet to a young Dialyn, it was a tormenting curse.\n\nBe it gift or curse, she has long turned it into a blade for discerning the truth. Despite the trials and tribulations she's borne, she's come far.",
+		"element": 200,
+		"EN": "Dialyn",
+		"hit": 101,
+		"icon": "IconRole54",
+		"iconUrl": "/zzz/UI/IconRoleSelect54.webp",
+		"id": "1481",
+		"JA": "ダイアリン",
+		"KO": "다이아린",
+		"live2d": "UISpine_Liuyin",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3114810": {
+				"Desc": "A sweet voice comes from the receiver, and when you lean in to listen, it softens into a gentle whisper, announcing that the verdict has arrived... just kidding, it's just a standard satisfaction survey.",
+				"Image": "IconRole54",
+				"Name": "Dialyn: Ringing Judgment"
+			}
+		},
 		"type": 2
 	},
 	"真斗": {
 		"camp": 11,
 		"CHS": "真斗",
 		"cn": "真斗",
-		"code": "Avatar_Male_Size03_Norano_En",
-		"desc": "...",
+		"code": "Manato",
+		"desc": "Komano Manato, a member of Spook Shack and an exceptionally reliable person. Having lost his family in the fall of the old capital, he grew up alone in Waifei Peninsula until the day he happened to adopt two street children, A-Cing and A-Yuet. Since then, the three have lived as a family, depending on one another. It may be a young household, but to Manato, nothing matters more than looking after them.\nManato is currently enrolled at a company affiliated school in the city, where rumors paint him as the terrifying \"school delinquent.\" The label likely comes from his intimidating appearance, though in reality, he's far more soft-hearted and generous than he seems.\nAt first, Manato really did want to do something to clear up the misunderstanding about being a delinquent, but for various reasons, his efforts didn't make much of an impact. Still, his optimism soon led him to realize that the title wasn't all bad. It let him dodge unnecessary social events, live without being bothered by strangers, and even leverage the \"delinquent\" image to sniff out stories of school ghost tales, all while standing up for classmates suffering from actual bullying.\nBut when it comes to grades, he really does live up to the \"school delinquent\" label of a company affiliated school student.",
 		"element": 201,
 		"EN": "Manato",
 		"hit": 101,
 		"icon": "IconRole51",
 		"iconUrl": "/zzz/UI/IconRoleSelect51.webp",
 		"id": "1441",
-		"JA": "真斗",
+		"JA": "狛野真斗",
 		"KO": "마나토",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3114410": {
+				"Desc": "The standard attire of the unofficial mediator in Sailume Bay, enough to intimidate petty thugs.\nStill, it sometimes draws wandering eyes.",
+				"Image": "IconRole51",
+				"Name": "Komano Manato: Loyal Wild Soul"
+			},
+			"3114411": {
+				"Desc": "A young Manato made a solitary vow to himself — and from his deep reverie, a lone pale shadow was born.\nMimicking his attire enhances Manato's already exceedingly intimidating presence.",
+				"Image": "IconRole51_01",
+				"Name": "Komano Manato: White Heart Silhouette"
+			}
+		},
 		"type": 6
 	},
 	"简": {
@@ -647,9 +1021,21 @@
 		"id": "1261",
 		"JA": "ジェーン",
 		"KO": "제인",
+		"live2d": "UISpine_Jian",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112610": {
+				"Desc": "Her everyday look when she isn't putting on a disguise. Maybe it's just one of the countless faces she wears. The night becomes her cover, and her mask is the one truth she never sets aside.",
+				"Image": "IconRole24",
+				"Name": "Jane: Hidden Nightfade"
+			},
+			"3112611": {
+				"Desc": "Who says sunlight must accompany a seaside stroll? For lurkers with names unknown, the night is their most faithful companion. The anonymous lady says the evening sea holds unspeakable secrets — is this the truth, or another deception?",
+				"Image": "IconRole24_01",
+				"Name": "Jane: Nocturne of Light"
+			}
+		},
 		"type": 3
 	},
 	"耀嘉音": {
@@ -666,6 +1052,7 @@
 		"id": "1311",
 		"JA": "アストラ",
 		"KO": "아스트라",
+		"live2d": "UISpineYaoJiayin",
 		"potential": [],
 		"rank": 4,
 		"skin": {
@@ -682,6 +1069,32 @@
 		},
 		"type": 4
 	},
+	"般岳": {
+		"camp": 12,
+		"CHS": "般岳",
+		"cn": "般岳",
+		"code": "Banyue",
+		"desc": "Banyue is an Intelligent Construct who runs a martial arts school in Waifei, known to many as \"Banyue Shifu.\" He has lived for a long time, his stone-lion-like presence commanding respect. A martial arts expert of great skill, he shares a long-standing friendship with Yunkui Summit's current High Preceptor, Yixuan.\n\nAs a martial master, Banyue is quiet but dependable. His methods and beliefs are rooted in tradition, and he disciplines his students with strict yet thoughtful guidance, teaching them not just how to fight, but how to learn. Known as a true master of the martial arts, in battle, he can assume a special form known as the Visage of Wrath to vanquish all evil.\n\nA long inhabitant of Waifei, Banyue is quiet and even-tempered. He doesn't express emotions easily and has the manner of someone from another era. Knowing he's out of touch with modern trends, he's been secretly trying to learn the latest internet slang... yet his half-baked grasp of it tends to end in funny little misunderstandings.\n\nBanyue also appears to have a strange liking for round things — stone balls, spherical bollards, and the like. If the conversation ever goes silent while you're alone with him, bringing up something spherical usually does the trick.",
+		"element": 201,
+		"EN": "Banyue",
+		"hit": 102,
+		"icon": "IconRole53",
+		"iconUrl": "/zzz/UI/IconRoleSelect53.webp",
+		"id": "1471",
+		"JA": "盤岳",
+		"KO": "반악",
+		"live2d": "UISpineBanyue",
+		"potential": [],
+		"rank": 4,
+		"skin": {
+			"3114710": {
+				"Desc": "He carries a righteous, unshakable aura — every bit the master he is. Don't judge him by his silence; a stone heart makes no sound, and compassion doesn't speak aloud either.",
+				"Image": "IconRole53",
+				"Name": "Banyue: Blazestone Heart"
+			}
+		},
+		"type": 6
+	},
 	"艾莲": {
 		"camp": 2,
 		"CHS": "艾莲",
@@ -696,8 +1109,14 @@
 		"id": "1191",
 		"JA": "エレン",
 		"KO": "엘렌",
+		"live2d": "UISpineEllen",
 		"potential": [
-			119100
+			119100,
+			119101,
+			119102,
+			119103,
+			119104,
+			119105
 		],
 		"rank": 4,
 		"skin": {
@@ -730,7 +1149,13 @@
 		"KO": "소우카쿠",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3111310": {
+				"Desc": "Swinging a blade-banner as tall as half a person, and with a stomach rumbling with just as big a sound: fwish fwish fwish fwish fwish — work's done! Time to head home for dinner!",
+				"Image": "IconRole17",
+				"Name": "Soukaku: Dance of Azure Ice"
+			}
+		},
 		"type": 4
 	},
 	"莱卡恩": {
@@ -747,9 +1172,22 @@
 		"id": "1141",
 		"JA": "ライカン",
 		"KO": "리카온",
-		"potential": [],
+		"potential": [
+			114100,
+			114101,
+			114102,
+			114103,
+			114104,
+			114105
+		],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3111410": {
+				"Desc": "Under the clear moonlight, the attendant's poise is flawless. Yet with the red moon's ascent, the feral nature hidden beneath this suit emerges with a composure and grace all its own.",
+				"Image": "IconRole18",
+				"Name": "Lycaon: Moonlight Prowl"
+			}
+		},
 		"type": 2
 	},
 	"莱特": {
@@ -766,9 +1204,16 @@
 		"id": "1161",
 		"JA": "ライト",
 		"KO": "라이터",
+		"live2d": "UISpine_Lighter",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3111610": {
+				"Desc": "The undefeated champion never takes off his sunglasses... or his scarf. Glory stopped mattering long ago, but the countless dusks shared with his companions are still worth waiting for.",
+				"Image": "IconRole26",
+				"Name": "Lighter: Everburn Embers"
+			}
+		},
 		"type": 2
 	},
 	"薇薇安": {
@@ -785,9 +1230,21 @@
 		"id": "1331",
 		"JA": "ビビアン",
 		"KO": "비비안",
+		"live2d": "UISpine_Vivian",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113310": {
+				"Desc": "Maintain your elegance, Miss Vivian, from the point of your parasol, right down to your flowing skirt. Maintain your courage, Miss Vivian, through last night's lonely walk, or here today at my side.",
+				"Image": "IconRole41",
+				"Name": "Vivian: Fluttering Violet"
+			},
+			"3113311": {
+				"Desc": "Birds soar into the starlit skies, while irises bloom by the pond. Though this enchanting moonlit night may be brief, please let me see the lingering anticipation in your eyes in the moment I bloom.",
+				"Image": "IconRole41_01",
+				"Name": "Vivian: Iris of the Shore"
+			}
+		},
 		"type": 3
 	},
 	"赛斯": {
@@ -806,7 +1263,13 @@
 		"KO": "세스",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3112710": {
+				"Desc": "He may be slow to pick up on things, slower even than the weight of the shield in his left hand, but his ability to detect evil is keener than the baton in his right.",
+				"Image": "IconRole30",
+				"Name": "Seth: Incorruptible Heart"
+			}
+		},
 		"type": 5
 	},
 	"雅": {
@@ -823,9 +1286,16 @@
 		"id": "1091",
 		"JA": "星見雅",
 		"KO": "미야비",
+		"live2d": "UISpine_Xingjianya",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3110910": {
+				"Desc": "A blade that fells the Hollows, a lighthouse that pierces the fog. People hope for a fighter who hones the world and a helmsman who steers the course; for flags that never fall and honor that lives on. Yet power is finite. Only training remains constant.",
+				"Image": "IconRole13",
+				"Name": "Hoshimi Miyabi: Frostgleam Dew"
+			}
+		},
 		"spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
 		"type": 3
 	},
@@ -843,9 +1313,16 @@
 		"id": "1291",
 		"JA": "ヒューゴ",
 		"KO": "휴고",
+		"live2d": "UISpine_Hugo",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112910": {
+				"Desc": "Never be claimed by fate. Defy its clamps, its control, its taunts, its alms, its curses, and its so-called blessings. Once you return from the abyss, it is fate that should kneel to you.",
+				"Image": "IconRole42",
+				"Name": "Hugo: Crownless Rebellion"
+			}
+		},
 		"type": 1
 	},
 	"零号·安比": {
@@ -862,11 +1339,23 @@
 		"id": "1381",
 		"JA": "0号・アンビー",
 		"KO": "0호·엔비",
+		"live2d": "UISpineSPAnbi",
 		"potential": [
-			138100
+			138100,
+			138101,
+			138102,
+			138103,
+			138104,
+			138105
 		],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3113810": {
+				"Desc": "Anby's old Silver Squad uniform, stained with memories that never truly fade.\nWhen the shadows of the past strike without warning, would you stand and face them, or stumble and flee? No matter the choice, home always awaits your return.",
+				"Image": "IconRole40",
+				"Name": "Soldier 0 - Anby: Silver Soldier"
+			}
+		},
 		"type": 1
 	},
 	"露西": {
@@ -885,7 +1374,13 @@
 		"KO": "루시",
 		"potential": [],
 		"rank": 3,
-		"skin": {},
+		"skin": {
+			"3111510": {
+				"Desc": "Her outfit is considered rather polished by biker standards and said to work wonders in negotiations with outsiders.\nThe runaway princess found her freedom in the Outer Ring, glittering under the starlit night, burning at the edge of dusk, and resting quietly among the grains of sand at her feet.",
+				"Image": "IconRole27",
+				"Name": "Lucy: Ironfist Gentlewoman"
+			}
+		},
 		"type": 4
 	},
 	"青衣": {
@@ -902,9 +1397,16 @@
 		"id": "1251",
 		"JA": "青衣",
 		"KO": "청의",
+		"live2d": "UISpine_Qingyi",
 		"potential": [],
 		"rank": 4,
-		"skin": {},
+		"skin": {
+			"3112510": {
+				"Desc": "Keep your teapot close and drink plenty of hot water — that's ancient wisdom passed down from the old civilization. But why would an intelligent construct drink tea? It must be for health purposes... right?",
+				"Image": "IconRole29",
+				"Name": "Qingyi: Clarity, Peace, and Joy"
+			}
+		},
 		"type": 2
 	}
 }

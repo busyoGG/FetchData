@@ -74,6 +74,20 @@
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1722416400
 	},
+	"不死途": {
+		"baseType": "Rogue",
+		"cn": "不死途",
+		"damageType": "Thunder",
+		"desc": null,
+		"en": "Ashveil",
+		"enhance": [],
+		"icon": "ashveil",
+		"iconUrl": "/hsr/UI/avatarshopicon/1504.webp",
+		"id": "1504",
+		"jp": "不死途",
+		"kr": "애쉬베일",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"丹恒": {
 		"baseType": "Rogue",
 		"cn": "丹恒",
@@ -101,7 +115,8 @@
 		"id": "1414",
 		"jp": "{RUBY_B#たんこう}丹恒{RUBY_E#}・{RUBY_B#とうこう}騰荒{RUBY_E#}",
 		"kr": "단항•등황",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1682460000
 	},
 	"丹恒•饮月": {
 		"baseType": "Warrior",
@@ -223,7 +238,7 @@
 		"jp": "ケリュドラ",
 		"kr": "케리드라",
 		"rank": "CombatPowerAvatarRarityType5",
-		"release": 1756803600
+		"release": 1760518800
 	},
 	"加拉赫": {
 		"baseType": "Priest",
@@ -271,6 +286,21 @@
 		"kr": "루카",
 		"rank": "CombatPowerAvatarRarityType4",
 		"release": 1689757200
+	},
+	"大丽花": {
+		"baseType": "Warlock",
+		"cn": "大丽花",
+		"damageType": "Fire",
+		"desc": "The sweet dream burned down the Ever-Flame Mansion, taking with it every trace of \"her.\"\\nDestruction, Remembrance... flowers of betrayal bloomed wherever they passed.\\nTo return to the dreamscape no one remembers, who will be the one to set her aflame again?",
+		"en": "The Dahlia",
+		"enhance": [],
+		"icon": "dahlia",
+		"iconUrl": "/hsr/UI/avatarshopicon/1321.webp",
+		"id": "1321",
+		"jp": "ダリア",
+		"kr": "달리아",
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1765101600
 	},
 	"大黑塔": {
 		"baseType": "Mage",
@@ -422,6 +452,21 @@
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1698483600
 	},
+	"昔涟": {
+		"baseType": "Memory",
+		"cn": "昔涟",
+		"damageType": "Ice",
+		"desc": "A meteor streaks across the night sky, stirring ripples in the river of life, shimmering with thirteen hues.\\nDaughter of Aedes Elysiae, nurturer of the Chrysos Heir of \"███,\" plants the Seed of Memory, letting yesterday's flowers bloom in tomorrow\\n—<i>\"Now, let's write a different kind of poem together♪\"</i>",
+		"en": "Cyrene",
+		"enhance": [],
+		"icon": "cyrene",
+		"iconUrl": "/hsr/UI/avatarshopicon/1415.webp",
+		"id": "1415",
+		"jp": "キュレネ",
+		"kr": "키레네",
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1762336800
+	},
 	"星期日": {
 		"baseType": "Shaman",
 		"cn": "星期日",
@@ -557,6 +602,20 @@
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1755075600
 	},
+	"火花": {
+		"baseType": "Elation",
+		"cn": "火花",
+		"damageType": "Fire",
+		"desc": "Like! Follow! Stream! Views! Party till the world ends!\\nSparxie and Sparkle, the Mask and the Fool are fundamentally the same.\\nWhoever is seen, whoever is liked, is the correct answer!",
+		"en": "Sparxie",
+		"enhance": [],
+		"icon": "Sparxie",
+		"iconUrl": "/hsr/UI/avatarshopicon/1501.webp",
+		"id": "1501",
+		"jp": "{RUBY_B#ひばな}火花{RUBY_E#}",
+		"kr": "스파키",
+		"rank": "CombatPowerAvatarRarityType5"
+	},
 	"灵砂": {
 		"baseType": "Priest",
 		"cn": "灵砂",
@@ -571,6 +630,20 @@
 		"kr": "영사",
 		"rank": "CombatPowerAvatarRarityType5",
 		"release": 1727859600
+	},
+	"爻光": {
+		"baseType": "Elation",
+		"cn": "爻光",
+		"damageType": "Physical",
+		"desc": "Mysterious, bold, radical... her quest for change is stunning.\\nWith the \"eye\" of The Hunt, she sees all fates. Though she knows fate is immutable, the Seer Strategist still walks into danger alone.\\nWith the odds stacked against her, how can she possibly change her destiny?",
+		"en": "Yao Guang",
+		"enhance": [],
+		"icon": "yaoguang",
+		"iconUrl": "/hsr/UI/avatarshopicon/1502.webp",
+		"id": "1502",
+		"jp": "{RUBY_B#コウコウ}爻光{RUBY_E#}",
+		"kr": "효광",
+		"rank": "CombatPowerAvatarRarityType5"
 	},
 	"玲可": {
 		"baseType": "Priest",
@@ -788,7 +861,9 @@
 		"damageType": "Quantum",
 		"desc": "A member of the Masked Fools. Inscrutable and unscrupulous.\\nA dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces.\\nWealth, status, power... None of those matters to Sparkle. The only thing that can get her attention is \"amusement.\"",
 		"en": "Sparkle",
-		"enhance": [],
+		"enhance": [
+			1
+		],
 		"icon": "sparkle",
 		"iconUrl": "/hsr/UI/avatarshopicon/1306.webp",
 		"id": "1306",
@@ -948,7 +1023,8 @@
 		"id": "1413",
 		"jp": "{RUBY_B#ながよづき}長夜月{RUBY_E#}",
 		"kr": "에버나이트",
-		"rank": "CombatPowerAvatarRarityType5"
+		"rank": "CombatPowerAvatarRarityType5",
+		"release": 1758790800
 	},
 	"阮•梅": {
 		"baseType": "Shaman",
@@ -1106,7 +1182,9 @@
 		"damageType": "Wind",
 		"desc": "A Memokeeper of the Garden of Recollection. An indolent and mysterious soothsayer.\\n\"Remembrance\" of men are hers to heed, threads of fate are hers to tug.",
 		"en": "Black Swan",
-		"enhance": [],
+		"enhance": [
+			1
+		],
 		"icon": "blackswan",
 		"iconUrl": "/hsr/UI/avatarshopicon/1307.webp",
 		"id": "1307",

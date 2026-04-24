@@ -1,4 +1,30 @@
 {
+	"(Test1)南宫羽测试音擎": {
+		"CHS": "(Test1)南宫羽测试音擎",
+		"cn": "(Test1)南宫羽测试音擎",
+		"desc": "There is a soul, even within a shell of steel.",
+		"EN": "Nangong Yu W-Engine Test",
+		"icon": "Weapon_S_1511",
+		"iconUrl": "/zzz/UI/Weapon_S_1511.webp",
+		"id": "14151",
+		"JA": "南宮羽の音動機テスト",
+		"KO": "Item_Weapon_S_1511_Name",
+		"rank": 4,
+		"type": 2
+	},
+	"(Test1)希希芙测试音擎": {
+		"CHS": "(Test1)希希芙测试音擎",
+		"cn": "(Test1)希希芙测试音擎",
+		"desc": "Item_Weapon_S_1521_ShortDesc",
+		"EN": "Cissia Test W-Engine",
+		"icon": "Weapon_S_1521",
+		"iconUrl": "/zzz/UI/Weapon_S_1521.webp",
+		"id": "14152",
+		"JA": "シーシィア 音動機テスト",
+		"KO": "Item_Weapon_S_1521_Name",
+		"rank": 4,
+		"type": 1
+	},
 	"「恒等式」-变格": {
 		"CHS": "「恒等式」-变格",
 		"cn": "「恒等式」-变格",
@@ -194,6 +220,32 @@
 		"rank": 2,
 		"type": 3
 	},
+	"Item_Weapon_A_Common_20_Name": {
+		"CHS": "Item_Weapon_A_Common_20_Name",
+		"cn": "Item_Weapon_A_Common_20_Name",
+		"desc": "Item_Weapon_A_Common_20_ShortDesc",
+		"EN": "Item_Weapon_A_Common_20_Name",
+		"icon": "Weapon_A_Common_20",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_20.webp",
+		"id": "13020",
+		"JA": "Item_Weapon_A_Common_20_Name",
+		"KO": "Item_Weapon_A_Common_20_Name",
+		"rank": 3,
+		"type": 2
+	},
+	"云霓孤光": {
+		"CHS": "云霓孤光",
+		"cn": "云霓孤光",
+		"desc": "The world may change, but my heart remains constant, like clouds standing eternal.",
+		"EN": "Cloudcleave Radiance",
+		"icon": "Weapon_S_1431",
+		"iconUrl": "/zzz/UI/Weapon_S_1431.webp",
+		"id": "14143",
+		"JA": "孤光彩雲",
+		"KO": "구름을 헤친 빛",
+		"rank": 4,
+		"type": 1
+	},
 	"人为刀俎": {
 		"CHS": "人为刀俎",
 		"cn": "人为刀俎",
@@ -285,6 +337,19 @@
 		"rank": 4,
 		"type": 1
 	},
+	"半糖雪兔": {
+		"CHS": "半糖雪兔",
+		"cn": "半糖雪兔",
+		"desc": "Not too sweet, and not too cold.",
+		"EN": "Half-Sugar Bunny",
+		"icon": "Weapon_S_1341",
+		"iconUrl": "/zzz/UI/Weapon_S_1341.webp",
+		"id": "14134",
+		"JA": "甘さ控えめ雪うさぎ",
+		"KO": "당도 50% 눈토끼",
+		"rank": 4,
+		"type": 5
+	},
 	"双生泣星": {
 		"CHS": "双生泣星",
 		"cn": "双生泣星",
@@ -336,6 +401,19 @@
 		"KO": "소란한 총성과 화염",
 		"rank": 4,
 		"type": 1
+	},
+	"壳中之灵": {
+		"CHS": "壳中之灵",
+		"cn": "壳中之灵",
+		"desc": "There is a soul, even within a shell of steel.",
+		"EN": "Angel in the Shell",
+		"icon": "Weapon_S_1501",
+		"iconUrl": "/zzz/UI/Weapon_S_1501.webp",
+		"id": "14150",
+		"JA": "殻の中の魂",
+		"KO": "껍데기 속 영혼",
+		"rank": 4,
+		"type": 3
 	},
 	"奔袭獠牙": {
 		"CHS": "奔袭獠牙",
@@ -454,6 +532,32 @@
 		"rank": 4,
 		"type": 1
 	},
+	"怒目金刚": {
+		"CHS": "怒目金刚",
+		"cn": "怒目金刚",
+		"desc": "The purging flames burned a hundred times, yet never cleansed me.",
+		"EN": "Wrathful Vajra",
+		"icon": "Weapon_S_1471",
+		"iconUrl": "/zzz/UI/Weapon_S_1471.webp",
+		"id": "14147",
+		"JA": "金剛不壊怒髪衝冠",
+		"KO": "성난 눈의 금강",
+		"rank": 4,
+		"type": 6
+	},
+	"思络成歌": {
+		"CHS": "思络成歌",
+		"cn": "思络成歌",
+		"desc": "Thoughts follow the veins of fantasy, weaving themselves into song.",
+		"EN": "Thoughtbop",
+		"icon": "Weapon_S_1491",
+		"iconUrl": "/zzz/UI/Weapon_S_1491.webp",
+		"id": "14149",
+		"JA": "想いが織りなす歌",
+		"KO": "사유로 빚은 노래",
+		"rank": 4,
+		"type": 4
+	},
 	"拘缚者": {
 		"CHS": "拘缚者",
 		"cn": "拘缚者",
@@ -532,6 +636,19 @@
 		"rank": 3,
 		"type": 5
 	},
+	"昨夜来电": {
+		"CHS": "昨夜来电",
+		"cn": "昨夜来电",
+		"desc": "That call you never picked up... she's the one who answered it.",
+		"EN": "Yesterday Calls",
+		"icon": "Weapon_S_1481",
+		"iconUrl": "/zzz/UI/Weapon_S_1481.webp",
+		"id": "14148",
+		"JA": "昨夜からの着信",
+		"KO": "지난밤의 전화",
+		"rank": 4,
+		"type": 2
+	},
 	"机巧心种": {
 		"CHS": "机巧心种",
 		"cn": "机巧心种",
@@ -587,7 +704,7 @@
 	"海妖摇篮": {
 		"CHS": "海妖摇篮",
 		"cn": "海妖摇篮",
-		"desc": "Item_Weapon_S_1051_ShortDesc",
+		"desc": "In chasing illusions, she was entranced by the light that pierced through the mist.",
 		"EN": "Kraken's Cradle",
 		"icon": "Weapon_S_1051",
 		"iconUrl": "/zzz/UI/Weapon_S_1051.webp",
@@ -665,7 +782,7 @@
 	"燔火胧夜": {
 		"CHS": "燔火胧夜",
 		"cn": "燔火胧夜",
-		"desc": "Item_Weapon_A_1441_ShortDesc",
+		"desc": "A flame both fierce and faithful, burning without end.",
 		"EN": "Grill O'Wisp",
 		"icon": "Weapon_A_1441",
 		"iconUrl": "/zzz/UI/Weapon_A_1441.webp",
@@ -883,19 +1000,6 @@
 		"rank": 3,
 		"type": 4
 	},
-	"鎏金花信": {
-		"CHS": "鎏金花信",
-		"cn": "鎏金花信",
-		"desc": "A W-Engine with a grandiose and luxurious appearance equipped with a premium Ether-powered anti-theft device. It's actually used to provide the equipper with energy.",
-		"EN": "Gilded Blossom",
-		"icon": "Weapon_A_Common_13",
-		"iconUrl": "/zzz/UI/Weapon_A_Common_13.webp",
-		"id": "13013",
-		"JA": "金メッキの花信",
-		"KO": "도금된 화신풍",
-		"rank": 3,
-		"type": 1
-	},
 	"钢铁肉垫": {
 		"CHS": "钢铁肉垫",
 		"cn": "钢铁肉垫",
@@ -912,7 +1016,7 @@
 	"铸梦炉歌": {
 		"CHS": "铸梦炉歌",
 		"cn": "铸梦炉歌",
-		"desc": "Item_Weapon_S_1451_ShortDesc",
+		"desc": "After countless years, it remains a silent puzzle.",
 		"EN": "Dreamlit Hearth",
 		"icon": "Weapon_S_1451",
 		"iconUrl": "/zzz/UI/Weapon_S_1451.webp",
@@ -921,6 +1025,19 @@
 		"KO": "꿈을 빚는 용광로의 노래",
 		"rank": 4,
 		"type": 4
+	},
+	"鎏金花信": {
+		"CHS": "鎏金花信",
+		"cn": "鎏金花信",
+		"desc": "A W-Engine with a grandiose and luxurious appearance equipped with a premium Ether-powered anti-theft device. It's actually used to provide the equipper with energy.",
+		"EN": "Gilded Blossom",
+		"icon": "Weapon_A_Common_13",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_13.webp",
+		"id": "13013",
+		"JA": "金メッキの花信",
+		"KO": "도금된 화신풍",
+		"rank": 3,
+		"type": 1
 	},
 	"防暴者Ⅵ型": {
 		"CHS": "防暴者Ⅵ型",
@@ -985,6 +1102,19 @@
 		"JA": "青溟の鳥籠",
 		"KO": "청명의 보금자리",
 		"rank": 4,
+		"type": 6
+	},
+	"青漪灵鼎": {
+		"CHS": "青漪灵鼎",
+		"cn": "青漪灵鼎",
+		"desc": "Countless threads of Sword Will echo through this tiny stretch of sky.",
+		"EN": "Cauldron of Clarity",
+		"icon": "Weapon_A_Common_19",
+		"iconUrl": "/zzz/UI/Weapon_A_Common_19.webp",
+		"id": "13019",
+		"JA": "蒼き波の霊器",
+		"KO": "푸른 물결의 솥",
+		"rank": 3,
 		"type": 6
 	},
 	"飞鸟星梦": {

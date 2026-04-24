@@ -522,7 +522,7 @@
 	"圣祭者的辉杖": {
 		"CHS": "圣祭者的辉杖",
 		"cn": "圣祭者的辉杖",
-		"desc": "",
+		"desc": "A silver-white polearm, pure and completely without blemish. Legend has it that it was used by the Archpriestesses of Hyperborea in ages past to guide their flock of Frostmoon Scions.",
 		"EN": "Sacrificer's Staff",
 		"icon": "UI_EquipIcon_Pole_Krivule",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Pole_Krivule.webp",
@@ -795,6 +795,34 @@
 		"KR": "협만의 노래",
 		"rank": 4,
 		"type": "WEAPON_POLE"
+	},
+	"帷间夜曲": {
+		"CHS": "帷间夜曲",
+		"cn": "帷间夜曲",
+		"desc": "A jade pearl shrouded in the light of the moon. Even in the coldest winter night, its gentle warmth lingers like a song.",
+		"EN": "Nocturne's Curtain Call",
+		"icon": "UI_EquipIcon_Catalyst_Brisingamen",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Brisingamen.webp",
+		"id": "14522",
+		"JP": "帳の夜曲",
+		"KR": "막간의 야상곡",
+		"rank": 5,
+		"type": "WEAPON_CATALYST"
+	},
+	"幻礼·星兆": {
+		"CHS": "幻礼·星兆",
+		"cn": "幻礼·星兆",
+		"desc": "\"In principle, many phenomena in this world can be called 'images.' Therefore, the image you glimpsed in the crystal ball can, in a sense, be considered an extension of physical reality. In short, even if Alice and Nicole don't acknowledge it, Hydromancy is still very much a real thing!\"",
+		"EN": "Phantasmal Gift: Star Omen",
+		"icon": "UI_EquipIcon_Catalyst_Kristall",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Kristall.webp",
+		"id": "380001",
+		"JP": "幻のギフト・スターオーメン",
+		"KR": "선물·마법 구슬",
+		"rank": 4,
+		"skin": true,
+		"tag": "TAG_TYPE_NONE",
+		"type": "WEAPON_CATALYST"
 	},
 	"幽夜华尔兹": {
 		"CHS": "幽夜华尔兹",
@@ -1069,6 +1097,21 @@
 		"rank": 5,
 		"type": "WEAPON_CLAYMORE"
 	},
+	"无毁·督兰嘉德": {
+		"CHS": "无毁·督兰嘉德",
+		"cn": "无毁·督兰嘉德",
+		"desc": "A glorious, illusory sword that emerged from the depths of the Ley Lines. It is said that in the past, it was wielded by the white knight under the name Durandarte.\\nIts name, in ancient tongues, means \"the blade that is never destroyed.\" Just like the sword he bore, the path the knight believed in has never wavered — no matter how the once-pure steel has since been darkened.",
+		"EN": "Unbreakable: Durandarte",
+		"icon": "UI_EquipIcon_Claymore_VarkaTunkeldegen",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_VarkaTunkeldegen.webp",
+		"id": "390001",
+		"JP": "無毀・デュランガルド",
+		"KR": "불멸·듀란달",
+		"rank": 4,
+		"skin": true,
+		"tag": "TAG_TYPE_NONE",
+		"type": "WEAPON_CLAYMORE"
+	},
 	"无锋剑": {
 		"CHS": "无锋剑",
 		"cn": "无锋剑",
@@ -1183,6 +1226,19 @@
 		"id": "11514",
 		"JP": "有楽御簾切",
 		"KR": "우라쿠의 미스기리",
+		"rank": 5,
+		"type": "WEAPON_SWORD_ONE_HAND"
+	},
+	"朏魄含光": {
+		"CHS": "朏魄含光",
+		"cn": "朏魄含光",
+		"desc": "A legendary sword, said to be forged from the glimmering moonlight gathered in a well by an adeptus hidden among clear springs. Its true form is revealed only at the meeting of dusk and dawn.",
+		"EN": "Lightbearing Moonshard",
+		"icon": "UI_EquipIcon_Sword_SilverwareSaw",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_SilverwareSaw.webp",
+		"id": "11519",
+		"JP": "三日月の含光",
+		"KR": "신월의 달빛",
 		"rank": 5,
 		"type": "WEAPON_SWORD_ONE_HAND"
 	},
@@ -1459,6 +1515,19 @@
 		"rank": 5,
 		"type": "WEAPON_CLAYMORE"
 	},
+	"狼的武功歌": {
+		"CHS": "狼的武功歌",
+		"cn": "狼的武功歌",
+		"desc": "Legend has it that this greatsword was forged by the hand of Ravenwood, who inherited the name of Boreas, prior to his ascension to knighthood.",
+		"EN": "Gest of the Mighty Wolf",
+		"icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Claymore_EnsisAquilonis.webp",
+		"id": "12515",
+		"JP": "狼の武勲詩",
+		"KR": "늑대의 무용담",
+		"rank": 5,
+		"type": "WEAPON_CLAYMORE"
+	},
 	"猎人之径": {
 		"CHS": "猎人之径",
 		"cn": "猎人之径",
@@ -1605,7 +1674,7 @@
 	"真语秘匣": {
 		"CHS": "真语秘匣",
 		"cn": "真语秘匣",
-		"desc": "",
+		"desc": "An angular box carved from gold and jade. Legend has it that it was once enshrined in a temple deep within Tulaytullah, the Sapphire City.",
 		"EN": "Reliquary of Truth",
 		"icon": "UI_EquipIcon_Catalyst_Sistrum",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Sistrum.webp",
@@ -2112,6 +2181,19 @@
 		"KR": "무지개의 행적",
 		"rank": 4,
 		"type": "WEAPON_POLE"
+	},
+	"虹蛇的雨弦": {
+		"CHS": "虹蛇的雨弦",
+		"cn": "虹蛇的雨弦",
+		"desc": "An ancient ceremonial weapon passed down by the Masters of the Night-Wind. This dark bow is forever wreathed in an unshakable chill.",
+		"EN": "Rainbow Serpent's Rain Bow",
+		"icon": "UI_EquipIcon_Bow_ElegguaBow",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_ElegguaBow.webp",
+		"id": "15434",
+		"JP": "虹蛇の雨弦",
+		"KR": "무지개뱀의 현",
+		"rank": 4,
+		"type": "WEAPON_BOW"
 	},
 	"蛇噬": {
 		"CHS": "蛇噬",
@@ -2752,7 +2834,7 @@
 	"霜辰": {
 		"CHS": "霜辰",
 		"cn": "霜辰",
-		"desc": "",
+		"desc": "A silver-forged ritual vessel, pure and completely without blemish. It is said to be a sacred relic passed down for generations among the priestesses of the far north.",
 		"EN": "Dawning Frost",
 		"icon": "UI_EquipIcon_Catalyst_Ziedas",
 		"iconUrl": "/gi/UI/UI_EquipIcon_Catalyst_Ziedas.webp",
@@ -2944,6 +3026,19 @@
 		"rank": 4,
 		"type": "WEAPON_BOW"
 	},
+	"黎明破晓之史": {
+		"CHS": "黎明破晓之史",
+		"cn": "黎明破晓之史",
+		"desc": "The songs of resistance come hither on the wind to settle as gentle tones upon these strings, their combined power great enough to rip boundless darkness asunder with the light of the breaking dawn.",
+		"EN": "The Daybreak Chronicles",
+		"icon": "UI_EquipIcon_Bow_Arianna",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Bow_Arianna.webp",
+		"id": "15515",
+		"JP": "暁を告げる歴史",
+		"KR": "여명이 트는 역사",
+		"rank": 5,
+		"type": "WEAPON_BOW"
+	},
 	"黎明神剑": {
 		"CHS": "黎明神剑",
 		"cn": "黎明神剑",
@@ -3047,6 +3142,19 @@
 		"KR": "흑술창",
 		"rank": 3,
 		"type": "WEAPON_POLE"
+	},
+	"黑蚀": {
+		"CHS": "黑蚀",
+		"cn": "黑蚀",
+		"desc": "A precious sword gifted by the Day King to the brave hero in the little witch's story, only for the witch to take it and defeat the hero herself.",
+		"EN": "Athame Artis",
+		"icon": "UI_EquipIcon_Sword_Motsognir",
+		"iconUrl": "/gi/UI/UI_EquipIcon_Sword_Motsognir.webp",
+		"id": "11518",
+		"JP": "黒蝕",
+		"KR": "검은 침식",
+		"rank": 5,
+		"type": "WEAPON_SWORD_ONE_HAND"
 	},
 	"龙脊长枪": {
 		"CHS": "龙脊长枪",

@@ -246,6 +246,25 @@
 		"release": "2022-02-16 00:00:00",
 		"weapon": "WEAPON_CATALYST"
 	},
+	"兹白": {
+		"birth": [
+			5,
+			15
+		],
+		"CHS": "兹白",
+		"cn": "兹白",
+		"desc": "The White Horse Adeptus from Liyue's legends, known as Zibai. The most mysterious figure in Liyue's myths.",
+		"element": "Geo",
+		"EN": "Zibai",
+		"icon": "UI_AvatarIcon_Zibai",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Zibai.webp",
+		"id": "10000126",
+		"JP": "兹白",
+		"KR": "자백",
+		"rank": "QUALITY_ORANGE",
+		"release": "2026-02-03 18:00:00",
+		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
 	"凝光": {
 		"birth": [
 			8,
@@ -396,6 +415,44 @@
 		"KR": "클레",
 		"rank": "QUALITY_ORANGE",
 		"release": "2020-09-15 04:00:00",
+		"weapon": "WEAPON_CATALYST"
+	},
+	"叶洛亚": {
+		"birth": [
+			12,
+			23
+		],
+		"CHS": "叶洛亚",
+		"cn": "叶洛亚",
+		"desc": "Member of the investigation squad, the Nightmare Orioles. The youngest squad leader among the Lightkeepers.",
+		"element": "Geo",
+		"EN": "Illuga",
+		"icon": "UI_AvatarIcon_Illuga",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Illuga.webp",
+		"id": "10000127",
+		"JP": "イルーガ",
+		"KR": "일루가",
+		"rank": "QUALITY_PURPLE",
+		"release": "2026-02-03 18:00:00",
+		"weapon": "WEAPON_POLE"
+	},
+	"哥伦比娅": {
+		"birth": [
+			1,
+			14
+		],
+		"CHS": "哥伦比娅",
+		"cn": "哥伦比娅",
+		"desc": "The Moon Maiden born in Nod-Krai, and also the welkin moon returning home.",
+		"element": "Hydro",
+		"EN": "Columbina",
+		"icon": "UI_AvatarIcon_Columbina",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Columbina.webp",
+		"id": "10000125",
+		"JP": "コロンビーナ",
+		"KR": "콜롬비나",
+		"rank": "QUALITY_ORANGE",
+		"release": "2026-01-13 00:00:00",
 		"weapon": "WEAPON_CATALYST"
 	},
 	"嘉明": {
@@ -585,7 +642,7 @@
 		"JP": "ドール（女）",
 		"KR": "별인형·여성",
 		"rank": "QUALITY_ORANGE_SP",
-		"release": "1970-01-01 00:00:00",
+		"release": "2025-10-21 00:00:00",
 		"weapon": "WEAPON_SWORD_ONE_HAND"
 	},
 	"奇偶·男性": {
@@ -604,7 +661,7 @@
 		"JP": "ドール（男）",
 		"KR": "별인형·남성",
 		"rank": "QUALITY_ORANGE_SP",
-		"release": "1970-01-01 00:00:00",
+		"release": "2025-10-21 00:00:00",
 		"weapon": "WEAPON_SWORD_ONE_HAND"
 	},
 	"奈芙尔": {
@@ -614,7 +671,7 @@
 		],
 		"CHS": "奈芙尔",
 		"cn": "奈芙尔",
-		"desc": "",
+		"desc": "The remarkably resourceful owner of the Curatorium of Secrets.",
 		"element": "Dendro",
 		"EN": "Nefer",
 		"icon": "UI_AvatarIcon_Nefer",
@@ -623,7 +680,7 @@
 		"JP": "ネフェル",
 		"KR": "네페르",
 		"rank": "QUALITY_ORANGE",
-		"release": "1970-01-01 00:00:00",
+		"release": "2025-10-21 00:00:00",
 		"weapon": "WEAPON_CATALYST"
 	},
 	"妮露": {
@@ -835,6 +892,25 @@
 		"release": "2021-08-10 18:00:00",
 		"weapon": "WEAPON_CLAYMORE"
 	},
+	"杜林": {
+		"birth": [
+			3,
+			14
+		],
+		"CHS": "杜林",
+		"cn": "杜林",
+		"desc": "A dragon born from M's pen, who came to alight in the human world. His \"story\" continues to unfold.",
+		"element": "Pyro",
+		"EN": "Durin",
+		"icon": "UI_AvatarIcon_Durin",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Durin.webp",
+		"id": "10000123",
+		"JP": "ドゥリン",
+		"KR": "두린",
+		"rank": "QUALITY_ORANGE",
+		"release": "2025-12-02 00:00:00",
+		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
 	"林尼": {
 		"birth": [
 			2,
@@ -929,6 +1005,25 @@
 		"rank": "QUALITY_PURPLE",
 		"release": "2024-11-19 00:00:00",
 		"weapon": "WEAPON_BOW"
+	},
+	"法尔伽": {
+		"birth": [
+			2,
+			17
+		],
+		"CHS": "法尔伽",
+		"cn": "法尔伽",
+		"desc": "",
+		"element": "Anemo",
+		"EN": "Varka",
+		"icon": "UI_AvatarIcon_Varka",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Varka.webp",
+		"id": "10000128",
+		"JP": "ファルカ",
+		"KR": "바르카",
+		"rank": "QUALITY_ORANGE",
+		"release": "1970-01-01 00:00:00",
+		"weapon": "WEAPON_CLAYMORE"
 	},
 	"流浪者": {
 		"birth": [
@@ -1955,6 +2050,25 @@
 		"rank": "QUALITY_ORANGE",
 		"release": "2020-12-22 00:00:00",
 		"weapon": "WEAPON_SWORD_ONE_HAND"
+	},
+	"雅珂达": {
+		"birth": [
+			1,
+			5
+		],
+		"CHS": "雅珂达",
+		"cn": "雅珂达",
+		"desc": "The Curatorium of Secrets' extremely reliable, do-it-all super employee (or so she claims).",
+		"element": "Anemo",
+		"EN": "Jahoda",
+		"icon": "UI_AvatarIcon_Jahoda",
+		"iconUrl": "/gi/UI/UI_AvatarIcon_Jahoda.webp",
+		"id": "10000124",
+		"JP": "ヤフォダ",
+		"KR": "야호다",
+		"rank": "QUALITY_PURPLE",
+		"release": "2025-12-02 00:00:00",
+		"weapon": "WEAPON_BOW"
 	},
 	"雷泽": {
 		"birth": [
