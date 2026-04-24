@@ -3,7 +3,7 @@ const fs = require("fs")
 const path = require('path')
 const sortJson = require('sort-json');
 
-const options = { ignoreCase: true, reverse: false, depth: 10};
+const options = { ignoreCase: true, reverse: false, depth: 10 };
 axios.defaults.withCredentials = true
 
 let params = [
@@ -65,7 +65,7 @@ let getConfig = (game, menu_id) => ({
 
 async function fetchAllPages(id) {
     for (let param of params.filter(a => !id || a.game === id)) {
-        let game = param.game.replace("genshin","gi")
+        let game = param.game.replace("genshin", "gi")
         let menu_id = param.menu_id
         let type = param.type
         let list = []
@@ -75,21 +75,21 @@ async function fetchAllPages(id) {
             let response = await axios(getConfig(game, menu_id))
             let data = response.data
 
-            // console.log(data)
+            console.log(data)
             const newData = Object.keys(data).reduce((acc, key) => {
                 const item = data[key];
-                let iconUrl =`/${game}/UI/${item.icon}.webp`
-                if (game==="hsr"){
-                    iconUrl =`/${game}/UI/${type==="weapon"?"lightconemediumicon":"avatarshopicon"}/${key}.webp`
+                let iconUrl = `/${game}/UI/${item.icon}.webp`
+                if (game === "hsr") {
+                    iconUrl = `/${game}/UI/${type === "weapon" ? "lightconemediumicon" : "avatarshopicon"}/${key}.webp`
                 }
-                let newKey=item.CHS||item.cn
+                let newKey = item.CHS || item.cn
                 acc[newKey] = {
                     ...item,
                     // 可以在这里添加或修改属性，例如删除原始的键
                     // 如果你不想在新对象中保留cn属性
-                    iconUrl: iconUrl.replace("IconRole","IconRoleSelect"),
-                    cn:item.cn||item.CHS,
-                    id:key,
+                    iconUrl: iconUrl.replace("IconRole", "IconRoleSelect"),
+                    cn: item.cn || item.CHS,
+                    id: key,
                 };
                 return acc;
             }, {});
@@ -97,7 +97,7 @@ async function fetchAllPages(id) {
                 console.log(`Total items for ${game}-${type}:`, Object.keys(newData).length)
                 let directoryPath = path.join(__dirname, `../data/hakush/${game}`)
                 if (!fs.existsSync(directoryPath)) {
-                    fs.mkdirSync(directoryPath, {recursive: true})
+                    fs.mkdirSync(directoryPath, { recursive: true })
                 }
                 fs.writeFileSync(path.join(directoryPath, `${type}.json`), JSON.stringify(newData, null, "\t"))
                 sortJson.overwrite(path.join(directoryPath, `${type}.json`), options)

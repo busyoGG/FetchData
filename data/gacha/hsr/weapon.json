@@ -1,2433 +1,1849 @@
 [
-	{
-		"version": "3.5.2",
-		"items": [
-			{
-				"itemId": 23048,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23048.webp",
-				"itemType": "Weapon",
-				"name": "金血铭刻的时代",
-				"nameEn": "Epoch Etched in Golden Blood",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 23007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23007.webp",
-				"itemType": "Weapon",
-				"name": "雨一直下",
-				"nameEn": "Incessant Rain",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
-				"itemType": "Weapon",
-				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
-				"itemType": "Weapon",
-				"name": "论剑",
-				"nameEn": "Swordplay",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
-				"itemType": "Weapon",
-				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2025-09-02 12:00:00",
-		"end": "2025-09-23 15:00:00"
-	},
-	{
-		"version": "3.5.1",
-		"items": [
-			{
-				"itemId": 23047,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23047.webp",
-				"itemType": "Weapon",
-				"name": "海洋为何而歌",
-				"nameEn": "Why Does the Ocean Sing",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23006.webp",
-				"itemType": "Weapon",
-				"name": "只需等待",
-				"nameEn": "Patience Is All You Need",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
-				"itemType": "Weapon",
-				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21046,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21046.webp",
-				"itemType": "Weapon",
-				"name": "芳华待灼",
-				"nameEn": "Poised to Bloom",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21042,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21042.webp",
-				"itemType": "Weapon",
-				"name": "铭记于心的约定",
-				"nameEn": "Indelible Promise",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2025-08-13 10:00:00",
-		"end": "2025-09-02 11:59:00"
-	},
-	{
-		"version": "3.4.2",
-		"items": [
-			{
-				"itemId": 23025,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
-				"itemType": "Weapon",
-				"name": "梦应归于何处",
-				"nameEn": "Whereabouts Should Dreams Rest",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 23014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23014.webp",
-				"itemType": "Weapon",
-				"name": "此身为剑",
-				"nameEn": "I Shall Be My Own Sword",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 23009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23009.webp",
-				"itemType": "Weapon",
-				"name": "到不了的彼岸",
-				"nameEn": "The Unreachable Side",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
-				"itemType": "Weapon",
-				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
-				"itemType": "Weapon",
-				"name": "点个关注吧！",
-				"nameEn": "Subscribe for More!",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
-				"itemType": "Weapon",
-				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2025-07-23 12:00:00",
-		"end": "2025-08-12 15:00:00"
-	},
-	{
-		"version": "3.4.1",
-		"items": [
-			{
-				"itemId": 23045,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23045.webp",
-				"itemType": "Weapon",
-				"name": "没有回报的加冕",
-				"nameEn": "A Thankless Coronation",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 23046,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23046.webp",
-				"itemType": "Weapon",
-				"name": "理想燃烧的地狱",
-				"nameEn": "The Hell Where Ideals Burn",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2025-07-11 12:00:00",
-		"end": "长期-undefined-undefined 00:00:00"
-	},
-	{
-		"version": "3.4.1",
-		"items": [
-			{
-				"itemId": 23044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23044.webp",
-				"itemType": "Weapon",
-				"name": "黎明恰如此燃烧",
-				"nameEn": "Thus Burns the Dawn",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 23038,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23038.webp",
-				"itemType": "Weapon",
-				"name": "如果时间是一朵花",
-				"nameEn": "If Time Were a Flower",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 23034,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23034.webp",
-				"itemType": "Weapon",
-				"name": "回到大地的飞行",
-				"nameEn": "A Grounded Ascent",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 23021,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23021.webp",
-				"itemType": "Weapon",
-				"name": "游戏尘寰",
-				"nameEn": "Earthly Escapade",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21054,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21054.webp",
-				"itemType": "Weapon",
-				"name": "故事的下一页",
-				"nameEn": "The Story's Next Page",
-				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
-				"itemType": "Weapon",
-				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
-				"itemType": "Weapon",
-				"name": "在蓝天下",
-				"nameEn": "Under the Blue Sky",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2025-07-02 10:00:00",
-		"end": "2025-07-23 11:59:00"
-	},
-	{
-		"version": "3.3.2",
-		"items": [
-			{
-				"itemId": 23043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23043.webp",
-				"itemType": "Weapon",
-				"name": "谎言在风中飘扬",
-				"nameEn": "Lies Dance on the Breeze",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23036,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23036.webp",
-				"itemType": "Weapon",
-				"name": "将光阴织成黄金",
-				"nameEn": "Time Woven Into Gold",
-				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 21051,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21051.webp",
-				"itemType": "Weapon",
-				"name": "天才们的问候",
-				"nameEn": "Geniuses' Greetings",
-				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
-				"itemType": "Weapon",
-				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
-				"itemType": "Weapon",
-				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			}
-		],
-		"start": "2025-06-11 12:00:00",
-		"end": "2025-07-01 15:00:00"
-	},
-	{
-		"version": "3.3.1",
-		"items": [
-			{
-				"itemId": 23042,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23042.webp",
-				"itemType": "Weapon",
-				"name": "愿虹光永驻天空",
-				"nameEn": "Long May Rainbows Adorn the Sky",
-				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 23037,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23037.webp",
-				"itemType": "Weapon",
-				"name": "向着不可追问处",
-				"nameEn": "Into the Unreachable Veil",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21013,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
-				"itemType": "Weapon",
-				"name": "别让世界静下来",
-				"nameEn": "Make the World Clamor",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21047,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21047.webp",
-				"itemType": "Weapon",
-				"name": "黑夜如影随行",
-				"nameEn": "Shadowed by Night",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21002,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
-				"itemType": "Weapon",
-				"name": "余生的第一天",
-				"nameEn": "Day One of My New Life",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			}
-		],
-		"start": "2025-05-21 10:00:00",
-		"end": "2025-06-11 11:59:00"
-	},
-	{
-		"version": "3.2.2",
-		"items": [
-			{
-				"itemId": 23041,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23041.webp",
-				"itemType": "Weapon",
-				"name": "生命当付之一炬",
-				"nameEn": "Life Should Be Cast to Flames",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 23020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23020.webp",
-				"itemType": "Weapon",
-				"name": "纯粹思维的洗礼",
-				"nameEn": "Baptism of Pure Thought",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
-				"itemType": "Weapon",
-				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21045,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
-				"itemType": "Weapon",
-				"name": "谐乐静默之后",
-				"nameEn": "After the Charmony Fall",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21005,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
-				"itemType": "Weapon",
-				"name": "鼹鼠党欢迎你",
-				"nameEn": "The Moles Welcome You",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2025-04-30 12:00:00",
-		"end": "2025-05-20 15:00:00"
-	},
-	{
-		"version": "3.2.1",
-		"items": [
-			{
-				"itemId": 23040,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23040.webp",
-				"itemType": "Weapon",
-				"name": "让告别，更美一些",
-				"nameEn": "Make Farewells More Beautiful",
-				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 23035,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23035.webp",
-				"itemType": "Weapon",
-				"name": "长路终有归途",
-				"nameEn": "Long Road Leads Home",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23029,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23029.webp",
-				"itemType": "Weapon",
-				"name": "那无数个春天",
-				"nameEn": "Those Many Springs",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23024,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23024.webp",
-				"itemType": "Weapon",
-				"name": "行于流逝的岸",
-				"nameEn": "Along the Passing Shore",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
-				"itemType": "Weapon",
-				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
-				"itemType": "Weapon",
-				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
-				"itemType": "Weapon",
-				"name": "无边曼舞",
-				"nameEn": "Boundless Choreo",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2025-04-09 10:00:00",
-		"end": "2025-04-30 11:59:00"
-	},
-	{
-		"version": "3.1.2",
-		"items": [
-			{
-				"itemId": 23039,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23039.webp",
-				"itemType": "Weapon",
-				"name": "血火啊，燃烧前路",
-				"nameEn": "Flame of Blood, Blaze My Path",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 23017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23017.webp",
-				"itemType": "Weapon",
-				"name": "惊魂夜",
-				"nameEn": "Night of Fright",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
-				"itemType": "Weapon",
-				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
-				"itemType": "Weapon",
-				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21004,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
-				"itemType": "Weapon",
-				"name": "记忆中的模样",
-				"nameEn": "Memories of the Past",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2025-03-19 12:00:00",
-		"end": "2025-04-08 15:00:00"
-	},
-	{
-		"version": "3.1.1",
-		"items": [
-			{
-				"itemId": 23038,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23038.webp",
-				"itemType": "Weapon",
-				"name": "如果时间是一朵花",
-				"nameEn": "If Time Were a Flower",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 23030,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23030.webp",
-				"itemType": "Weapon",
-				"name": "落日时起舞",
-				"nameEn": "Dance at Sunset",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
-				"itemType": "Weapon",
-				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
-				"itemType": "Weapon",
-				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
-				"itemType": "Weapon",
-				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			}
-		],
-		"start": "2025-02-26 10:00:00",
-		"end": "2025-03-19 11:59:00"
-	},
-	{
-		"version": "3.0.2",
-		"items": [
-			{
-				"itemId": 23036,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23036.webp",
-				"itemType": "Weapon",
-				"name": "将光阴织成黄金",
-				"nameEn": "Time Woven Into Gold",
-				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 23027,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23027.webp",
-				"itemType": "Weapon",
-				"name": "驶向第二次生命",
-				"nameEn": "Sailing Towards a Second Life",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 23026,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23026.webp",
-				"itemType": "Weapon",
-				"name": "夜色流光溢彩",
-				"nameEn": "Flowing Nightglow",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 23007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23007.webp",
-				"itemType": "Weapon",
-				"name": "雨一直下",
-				"nameEn": "Incessant Rain",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21051,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21051.webp",
-				"itemType": "Weapon",
-				"name": "天才们的问候",
-				"nameEn": "Geniuses' Greetings",
-				"rankType": 4,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 21017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
-				"itemType": "Weapon",
-				"name": "点个关注吧！",
-				"nameEn": "Subscribe for More!",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
-				"itemType": "Weapon",
-				"name": "舞！舞！舞！",
-				"nameEn": "Dance! Dance! Dance!",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2025-02-05 12:00:00",
-		"end": "2025-02-25 15:00:00"
-	},
-	{
-		"version": "3.0.1",
-		"items": [
-			{
-				"itemId": 23037,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23037.webp",
-				"itemType": "Weapon",
-				"name": "向着不可追问处",
-				"nameEn": "Into the Unreachable Veil",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 23032,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23032.webp",
-				"itemType": "Weapon",
-				"name": "唯有香如故",
-				"nameEn": "Scent Alone Stays True",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 23031,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23031.webp",
-				"itemType": "Weapon",
-				"name": "我将，巡征追猎",
-				"nameEn": "I Venture Forth to Hunt",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 23028,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23028.webp",
-				"itemType": "Weapon",
-				"name": "偏偏希望无价",
-				"nameEn": "Yet Hope Is Priceless",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21003,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21003.webp",
-				"itemType": "Weapon",
-				"name": "唯有沉默",
-				"nameEn": "Only Silence Remains",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21009.webp",
-				"itemType": "Weapon",
-				"name": "朗道的选择",
-				"nameEn": "Landau's Choice",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21020.webp",
-				"itemType": "Weapon",
-				"name": "天才们的休憩",
-				"nameEn": "Geniuses' Repose",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2025-01-15 10:00:00",
-		"end": "2025-02-05 11:59:00"
-	},
-	{
-		"version": "2.7.2",
-		"items": [
-			{
-				"itemId": 23035,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23035.webp",
-				"itemType": "Weapon",
-				"name": "长路终有归途",
-				"nameEn": "Long Road Leads Home",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23025,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
-				"itemType": "Weapon",
-				"name": "梦应归于何处",
-				"nameEn": "Whereabouts Should Dreams Rest",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21042,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21042.webp",
-				"itemType": "Weapon",
-				"name": "铭记于心的约定",
-				"nameEn": "Indelible Promise",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
-				"itemType": "Weapon",
-				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
-				"itemType": "Weapon",
-				"name": "两个人的演唱会",
-				"nameEn": "Concert for Two",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			}
-		],
-		"start": "2024-12-25 12:00:00",
-		"end": "2025-01-14 15:00:00"
-	},
-	{
-		"version": "2.7.1",
-		"items": [
-			{
-				"itemId": 23034,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23034.webp",
-				"itemType": "Weapon",
-				"name": "回到大地的飞行",
-				"nameEn": "A Grounded Ascent",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 23010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23010.webp",
-				"itemType": "Weapon",
-				"name": "拂晓之前",
-				"nameEn": "Before Dawn",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21046,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21046.webp",
-				"itemType": "Weapon",
-				"name": "芳华待灼",
-				"nameEn": "Poised to Bloom",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
-				"itemType": "Weapon",
-				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
-				"itemType": "Weapon",
-				"name": "论剑",
-				"nameEn": "Swordplay",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2024-12-04 10:00:00",
-		"end": "2024-12-25 11:59:00"
-	},
-	{
-		"version": "2.6.2",
-		"items": [
-			{
-				"itemId": 23024,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23024.webp",
-				"itemType": "Weapon",
-				"name": "行于流逝的岸",
-				"nameEn": "Along the Passing Shore",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23023,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23023.webp",
-				"itemType": "Weapon",
-				"name": "命运从未公平",
-				"nameEn": "Inherently Unjust Destiny",
-				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21002,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
-				"itemType": "Weapon",
-				"name": "余生的第一天",
-				"nameEn": "Day One of My New Life",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
-				"itemType": "Weapon",
-				"name": "无边曼舞",
-				"nameEn": "Boundless Choreo",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21013,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
-				"itemType": "Weapon",
-				"name": "别让世界静下来",
-				"nameEn": "Make the World Clamor",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2024-11-13 12:00:00",
-		"end": "2024-12-03 15:00:00"
-	},
-	{
-		"version": "2.6.1",
-		"items": [
-			{
-				"itemId": 23033,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23033.webp",
-				"itemType": "Weapon",
-				"name": "忍法帖•缭乱破魔",
-				"nameEn": "Ninjutsu Inscription: Dazzling Evilbreaker",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 23015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23015.webp",
-				"itemType": "Weapon",
-				"name": "比阳光更明亮的",
-				"nameEn": "Brighter Than the Sun",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21048,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21048.webp",
-				"itemType": "Weapon",
-				"name": "梦的蒙太奇",
-				"nameEn": "Dream's Montage",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21045,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
-				"itemType": "Weapon",
-				"name": "谐乐静默之后",
-				"nameEn": "After the Charmony Fall",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
-				"itemType": "Weapon",
-				"name": "在蓝天下",
-				"nameEn": "Under the Blue Sky",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2024-10-23 10:00:00",
-		"end": "2024-11-13 11:59:00"
-	},
-	{
-		"version": "2.5.2",
-		"items": [
-			{
-				"itemId": 23032,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23032.webp",
-				"itemType": "Weapon",
-				"name": "唯有香如故",
-				"nameEn": "Scent Alone Stays True",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 23016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23016.webp",
-				"itemType": "Weapon",
-				"name": "烦恼着，幸福着",
-				"nameEn": "Worrisome, Blissful",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21047,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21047.webp",
-				"itemType": "Weapon",
-				"name": "黑夜如影随行",
-				"nameEn": "Shadowed by Night",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
-				"itemType": "Weapon",
-				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
-				"itemType": "Weapon",
-				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2024-10-02 12:00:00",
-		"end": "2024-10-22 15:00:00"
-	},
-	{
-		"version": "2.5.1",
-		"items": [
-			{
-				"itemId": 23031,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23031.webp",
-				"itemType": "Weapon",
-				"name": "我将，巡征追猎",
-				"nameEn": "I Venture Forth to Hunt",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 23006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23006.webp",
-				"itemType": "Weapon",
-				"name": "只需等待",
-				"nameEn": "Patience Is All You Need",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23022,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23022.webp",
-				"itemType": "Weapon",
-				"name": "重塑时光之忆",
-				"nameEn": "Reforged Remembrance",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23026,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23026.webp",
-				"itemType": "Weapon",
-				"name": "夜色流光溢彩",
-				"nameEn": "Flowing Nightglow",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
-				"itemType": "Weapon",
-				"name": "论剑",
-				"nameEn": "Swordplay",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
-				"itemType": "Weapon",
-				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
-				"itemType": "Weapon",
-				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2024-09-10 10:00:00",
-		"end": "2024-10-02 11:59:00"
-	},
-	{
-		"version": "2.4.2",
-		"items": [
-			{
-				"itemId": 23029,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23029.webp",
-				"itemType": "Weapon",
-				"name": "那无数个春天",
-				"nameEn": "Those Many Springs",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23021,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23021.webp",
-				"itemType": "Weapon",
-				"name": "游戏尘寰",
-				"nameEn": "Earthly Escapade",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21046,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21046.webp",
-				"itemType": "Weapon",
-				"name": "芳华待灼",
-				"nameEn": "Poised to Bloom",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
-				"itemType": "Weapon",
-				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
-				"itemType": "Weapon",
-				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2024-08-21 12:00:00",
-		"end": "2024-09-09 15:00:00"
-	},
-	{
-		"version": "2.4.1",
-		"items": [
-			{
-				"itemId": 23030,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23030.webp",
-				"itemType": "Weapon",
-				"name": "落日时起舞",
-				"nameEn": "Dance at Sunset",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 23017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23017.webp",
-				"itemType": "Weapon",
-				"name": "惊魂夜",
-				"nameEn": "Night of Fright",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21005,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
-				"itemType": "Weapon",
-				"name": "鼹鼠党欢迎你",
-				"nameEn": "The Moles Welcome You",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
-				"itemType": "Weapon",
-				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
-				"itemType": "Weapon",
-				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2024-07-31 10:00:00",
-		"end": "2024-08-21 11:59:00"
-	},
-	{
-		"version": "2.3.2",
-		"items": [
-			{
-				"itemId": 23028,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23028.webp",
-				"itemType": "Weapon",
-				"name": "偏偏希望无价",
-				"nameEn": "Yet Hope Is Priceless",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 23018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23018.webp",
-				"itemType": "Weapon",
-				"name": "片刻，留在眼底",
-				"nameEn": "An Instant Before A Gaze",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
-				"itemType": "Weapon",
-				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
-				"itemType": "Weapon",
-				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21045,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21045.webp",
-				"itemType": "Weapon",
-				"name": "谐乐静默之后",
-				"nameEn": "After the Charmony Fall",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2024-07-10 12:00:00",
-		"end": "2024-07-30 15:00:00"
-	},
-	{
-		"version": "2.3.1",
-		"items": [
-			{
-				"itemId": 23025,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23025.webp",
-				"itemType": "Weapon",
-				"name": "梦应归于何处",
-				"nameEn": "Whereabouts Should Dreams Rest",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 23019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23019.webp",
-				"itemType": "Weapon",
-				"name": "镜中故我",
-				"nameEn": "Past Self in Mirror",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21004,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
-				"itemType": "Weapon",
-				"name": "记忆中的模样",
-				"nameEn": "Memories of the Past",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21002,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
-				"itemType": "Weapon",
-				"name": "余生的第一天",
-				"nameEn": "Day One of My New Life",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
-				"itemType": "Weapon",
-				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2024-06-19 10:00:00",
-		"end": "2024-07-10 11:59:00"
-	},
-	{
-		"version": "2.2.2",
-		"items": [
-			{
-				"itemId": 23027,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23027.webp",
-				"itemType": "Weapon",
-				"name": "驶向第二次生命",
-				"nameEn": "Sailing Towards a Second Life",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 23011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23011.webp",
-				"itemType": "Weapon",
-				"name": "她已闭上双眼",
-				"nameEn": "She Already Shut Her Eyes",
-				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21020.webp",
-				"itemType": "Weapon",
-				"name": "天才们的休憩",
-				"nameEn": "Geniuses' Repose",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
-				"itemType": "Weapon",
-				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21009.webp",
-				"itemType": "Weapon",
-				"name": "朗道的选择",
-				"nameEn": "Landau's Choice",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			}
-		],
-		"start": "2024-05-29 12:00:00",
-		"end": "2024-06-18 15:00:00"
-	},
-	{
-		"version": "2.2.1",
-		"items": [
-			{
-				"itemId": 23026,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23026.webp",
-				"itemType": "Weapon",
-				"name": "夜色流光溢彩",
-				"nameEn": "Flowing Nightglow",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 23016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23016.webp",
-				"itemType": "Weapon",
-				"name": "烦恼着，幸福着",
-				"nameEn": "Worrisome, Blissful",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21044,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21044.webp",
-				"itemType": "Weapon",
-				"name": "无边曼舞",
-				"nameEn": "Boundless Choreo",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
-				"itemType": "Weapon",
-				"name": "论剑",
-				"nameEn": "Swordplay",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
-				"itemType": "Weapon",
-				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			}
-		],
-		"start": "2024-05-08 10:00:00",
-		"end": "2024-05-29 11:59:00"
-	},
-	{
-		"version": "2.1.2",
-		"items": [
-			{
-				"itemId": 23023,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23023.webp",
-				"itemType": "Weapon",
-				"name": "命运从未公平",
-				"nameEn": "Inherently Unjust Destiny",
-				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 23014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23014.webp",
-				"itemType": "Weapon",
-				"name": "此身为剑",
-				"nameEn": "I Shall Be My Own Sword",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21043,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21043.webp",
-				"itemType": "Weapon",
-				"name": "两个人的演唱会",
-				"nameEn": "Concert for Two",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
-				"itemType": "Weapon",
-				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21013,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
-				"itemType": "Weapon",
-				"name": "别让世界静下来",
-				"nameEn": "Make the World Clamor",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2024-04-17 12:00:00",
-		"end": "2024-05-07 15:00:00"
-	},
-	{
-		"version": "2.1.1",
-		"items": [
-			{
-				"itemId": 23024,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23024.webp",
-				"itemType": "Weapon",
-				"name": "行于流逝的岸",
-				"nameEn": "Along the Passing Shore",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23008.webp",
-				"itemType": "Weapon",
-				"name": "棺的回响",
-				"nameEn": "Echoes of the Coffin",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
-				"itemType": "Weapon",
-				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
-				"itemType": "Weapon",
-				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
-				"itemType": "Weapon",
-				"name": "点个关注吧！",
-				"nameEn": "Subscribe for More!",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2024-03-27 10:00:00",
-		"end": "2024-04-17 11:59:00"
-	},
-	{
-		"version": "2.0.2",
-		"items": [
-			{
-				"itemId": 23021,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23021.webp",
-				"itemType": "Weapon",
-				"name": "游戏尘寰",
-				"nameEn": "Earthly Escapade",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 23010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23010.webp",
-				"itemType": "Weapon",
-				"name": "拂晓之前",
-				"nameEn": "Before Dawn",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
-				"itemType": "Weapon",
-				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
-				"itemType": "Weapon",
-				"name": "在蓝天下",
-				"nameEn": "Under the Blue Sky",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21020.webp",
-				"itemType": "Weapon",
-				"name": "天才们的休憩",
-				"nameEn": "Geniuses' Repose",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2024-02-29 12:00:00",
-		"end": "2024-03-26 15:00:00"
-	},
-	{
-		"version": "2.0.1",
-		"items": [
-			{
-				"itemId": 23022,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23022.webp",
-				"itemType": "Weapon",
-				"name": "重塑时光之忆",
-				"nameEn": "Reforged Remembrance",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 23015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23015.webp",
-				"itemType": "Weapon",
-				"name": "比阳光更明亮的",
-				"nameEn": "Brighter Than the Sun",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21042,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21042.webp",
-				"itemType": "Weapon",
-				"name": "铭记于心的约定",
-				"nameEn": "Indelible Promise",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
-				"itemType": "Weapon",
-				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
-				"itemType": "Weapon",
-				"name": "舞！舞！舞！",
-				"nameEn": "Dance! Dance! Dance!",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2024-02-06 10:00:00",
-		"end": "2024-02-29 11:59:00"
-	},
-	{
-		"version": "1.6.2",
-		"items": [
-			{
-				"itemId": 23020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23020.webp",
-				"itemType": "Weapon",
-				"name": "纯粹思维的洗礼",
-				"nameEn": "Baptism of Pure Thought",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 23006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23006.webp",
-				"itemType": "Weapon",
-				"name": "只需等待",
-				"nameEn": "Patience Is All You Need",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
-				"itemType": "Weapon",
-				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21003,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21003.webp",
-				"itemType": "Weapon",
-				"name": "唯有沉默",
-				"nameEn": "Only Silence Remains",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21009.webp",
-				"itemType": "Weapon",
-				"name": "朗道的选择",
-				"nameEn": "Landau's Choice",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			}
-		],
-		"start": "2024-01-17 12:00:00",
-		"end": "2024-02-05 15:00:00"
-	},
-	{
-		"version": "1.6.1",
-		"items": [
-			{
-				"itemId": 23019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23019.webp",
-				"itemType": "Weapon",
-				"name": "镜中故我",
-				"nameEn": "Past Self in Mirror",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 23009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23009.webp",
-				"itemType": "Weapon",
-				"name": "到不了的彼岸",
-				"nameEn": "The Unreachable Side",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
-				"itemType": "Weapon",
-				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21002,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
-				"itemType": "Weapon",
-				"name": "余生的第一天",
-				"nameEn": "Day One of My New Life",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
-				"itemType": "Weapon",
-				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2023-12-27 10:00:00",
-		"end": "2024-01-17 11:59:00"
-	},
-	{
-		"version": "1.5.2",
-		"items": [
-			{
-				"itemId": 23018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23018.webp",
-				"itemType": "Weapon",
-				"name": "片刻，留在眼底",
-				"nameEn": "An Instant Before A Gaze",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 23007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23007.webp",
-				"itemType": "Weapon",
-				"name": "雨一直下",
-				"nameEn": "Incessant Rain",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
-				"itemType": "Weapon",
-				"name": "在蓝天下",
-				"nameEn": "Under the Blue Sky",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
-				"itemType": "Weapon",
-				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
-				"itemType": "Weapon",
-				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2023-12-06 12:00:00",
-		"end": "2023-12-26 15:00:00"
-	},
-	{
-		"version": "1.5.1",
-		"items": [
-			{
-				"itemId": 23017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23017.webp",
-				"itemType": "Weapon",
-				"name": "惊魂夜",
-				"nameEn": "Night of Fright",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
-				"itemType": "Weapon",
-				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
-				"itemType": "Weapon",
-				"name": "点个关注吧！",
-				"nameEn": "Subscribe for More!",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
-				"itemType": "Weapon",
-				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			}
-		],
-		"start": "2023-11-15 10:00:00",
-		"end": "2023-12-06 11:59:00"
-	},
-	{
-		"version": "1.4.2",
-		"items": [
-			{
-				"itemId": 23016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23016.webp",
-				"itemType": "Weapon",
-				"name": "烦恼着，幸福着",
-				"nameEn": "Worrisome, Blissful",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 23001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23001.webp",
-				"itemType": "Weapon",
-				"name": "于夜色中",
-				"nameEn": "In the Night",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21005,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
-				"itemType": "Weapon",
-				"name": "鼹鼠党欢迎你",
-				"nameEn": "The Moles Welcome You",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
-				"itemType": "Weapon",
-				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21003,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21003.webp",
-				"itemType": "Weapon",
-				"name": "唯有沉默",
-				"nameEn": "Only Silence Remains",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2023-10-27 12:00:00",
-		"end": "2023-11-14 15:00:00"
-	},
-	{
-		"version": "1.4.1",
-		"items": [
-			{
-				"itemId": 23014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23014.webp",
-				"itemType": "Weapon",
-				"name": "此身为剑",
-				"nameEn": "I Shall Be My Own Sword",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21004,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
-				"itemType": "Weapon",
-				"name": "记忆中的模样",
-				"nameEn": "Memories of the Past",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21013,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
-				"itemType": "Weapon",
-				"name": "别让世界静下来",
-				"nameEn": "Make the World Clamor",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
-				"itemType": "Weapon",
-				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2023-10-11 10:00:00",
-		"end": "2023-10-27 11:59:00"
-	},
-	{
-		"version": "1.3.2",
-		"items": [
-			{
-				"itemId": 23011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23011.webp",
-				"itemType": "Weapon",
-				"name": "她已闭上双眼",
-				"nameEn": "She Already Shut Her Eyes",
-				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 21014,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21014.webp",
-				"itemType": "Weapon",
-				"name": "此时恰好",
-				"nameEn": "Perfect Timing",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21019,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21019.webp",
-				"itemType": "Weapon",
-				"name": "在蓝天下",
-				"nameEn": "Under the Blue Sky",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21016,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21016.webp",
-				"itemType": "Weapon",
-				"name": "宇宙市场趋势",
-				"nameEn": "Trend of the Universal Market",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			}
-		],
-		"start": "2023-09-20 12:00:00",
-		"end": "2023-10-10 15:00:00"
-	},
-	{
-		"version": "1.3.1",
-		"items": [
-			{
-				"itemId": 23015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23015.webp",
-				"itemType": "Weapon",
-				"name": "比阳光更明亮的",
-				"nameEn": "Brighter Than the Sun",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
-				"itemType": "Weapon",
-				"name": "舞！舞！舞！",
-				"nameEn": "Dance! Dance! Dance!",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
-				"itemType": "Weapon",
-				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21009.webp",
-				"itemType": "Weapon",
-				"name": "朗道的选择",
-				"nameEn": "Landau's Choice",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			}
-		],
-		"start": "2023-08-30 10:00:00",
-		"end": "2023-09-20 11:59:00"
-	},
-	{
-		"version": "1.2.2",
-		"items": [
-			{
-				"itemId": 23006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23006.webp",
-				"itemType": "Weapon",
-				"name": "只需等待",
-				"nameEn": "Patience Is All You Need",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21015,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21015.webp",
-				"itemType": "Weapon",
-				"name": "决心如汗珠般闪耀",
-				"nameEn": "Resolution Shines As Pearls of Sweat",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21008.webp",
-				"itemType": "Weapon",
-				"name": "猎物的视线",
-				"nameEn": "Eyes of the Prey",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21006,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21006.webp",
-				"itemType": "Weapon",
-				"name": "「我」的诞生",
-				"nameEn": "The Birth of the Self",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2023-08-09 12:00:00",
-		"end": "2023-08-29 15:00:00"
-	},
-	{
-		"version": "1.2.1",
-		"items": [
-			{
-				"itemId": 23009,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23009.webp",
-				"itemType": "Weapon",
-				"name": "到不了的彼岸",
-				"nameEn": "The Unreachable Side",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21012,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21012.webp",
-				"itemType": "Weapon",
-				"name": "秘密誓心",
-				"nameEn": "A Secret Vow",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21007.webp",
-				"itemType": "Weapon",
-				"name": "同一种心情",
-				"nameEn": "Shared Feeling",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21010.webp",
-				"itemType": "Weapon",
-				"name": "论剑",
-				"nameEn": "Swordplay",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2023-07-19 10:00:00",
-		"end": "2023-08-09 11:59:00"
-	},
-	{
-		"version": "1.1.2",
-		"items": [
-			{
-				"itemId": 23008,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23008.webp",
-				"itemType": "Weapon",
-				"name": "棺的回响",
-				"nameEn": "Echoes of the Coffin",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
-				"itemType": "Weapon",
-				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21020,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21020.webp",
-				"itemType": "Weapon",
-				"name": "天才们的休憩",
-				"nameEn": "Geniuses' Repose",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21018,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21018.webp",
-				"itemType": "Weapon",
-				"name": "舞！舞！舞！",
-				"nameEn": "Dance! Dance! Dance!",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2023-06-28 12:00:00",
-		"end": "2023-07-18 15:00:00"
-	},
-	{
-		"version": "1.1.1",
-		"items": [
-			{
-				"itemId": 23007,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23007.webp",
-				"itemType": "Weapon",
-				"name": "雨一直下",
-				"nameEn": "Incessant Rain",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 21017,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21017.webp",
-				"itemType": "Weapon",
-				"name": "点个关注吧！",
-				"nameEn": "Subscribe for More!",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21004,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21004.webp",
-				"itemType": "Weapon",
-				"name": "记忆中的模样",
-				"nameEn": "Memories of the Past",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21013,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21013.webp",
-				"itemType": "Weapon",
-				"name": "别让世界静下来",
-				"nameEn": "Make the World Clamor",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2023-06-07 10:00:00",
-		"end": "2023-06-28 11:59:00"
-	},
-	{
-		"version": "1.0.2",
-		"items": [
-			{
-				"itemId": 23010,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23010.webp",
-				"itemType": "Weapon",
-				"name": "拂晓之前",
-				"nameEn": "Before Dawn",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 21011,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21011.webp",
-				"itemType": "Weapon",
-				"name": "与行星相会",
-				"nameEn": "Planetary Rendezvous",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 21003,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21003.webp",
-				"itemType": "Weapon",
-				"name": "唯有沉默",
-				"nameEn": "Only Silence Remains",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21002,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21002.webp",
-				"itemType": "Weapon",
-				"name": "余生的第一天",
-				"nameEn": "Day One of My New Life",
-				"rankType": 4,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			}
-		],
-		"start": "2023-05-17 18:00:00",
-		"end": "2023-06-06 15:00:00"
-	},
-	{
-		"version": "1.0.1",
-		"items": [
-			{
-				"itemId": 23001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/23001.webp",
-				"itemType": "Weapon",
-				"name": "于夜色中",
-				"nameEn": "In the Night",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 21005,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21005.webp",
-				"itemType": "Weapon",
-				"name": "鼹鼠党欢迎你",
-				"nameEn": "The Moles Welcome You",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 21000,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21000.webp",
-				"itemType": "Weapon",
-				"name": "一场术后对话",
-				"nameEn": "Post-Op Conversation",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 21001,
-				"imageUrl": "/hsr/UI/lightconemediumicon/21001.webp",
-				"itemType": "Weapon",
-				"name": "晚安与睡颜",
-				"nameEn": "Good Night and Sleep Well",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2023-04-26 10:00:00",
-		"end": "2023-05-17 17:59:00"
-	}
+  {
+    "version": "4.2.2",
+    "start": "2026-05-13 12:00:00",
+    "end": "2026-06-01 03:59:00",
+    "items": [
+      {
+        "name": "如果时间是一朵花",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "回到大地的飞行",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "我将，巡征追猎",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "邂逅于下一个花季",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "论剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "记忆中的模样",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "同一种心情",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.2.1",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 11:59:00",
+    "items": [
+      {
+        "name": "勿忘她的火焰",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "让告别，更美一些",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "梦应归于何处",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "欢迎来到银河城",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "芳华待灼",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "铭记于心的约定",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "猎物的视线",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.1.2",
+    "start": "2026-04-08 12:00:00",
+    "end": "2026-04-21 15:00:00",
+    "items": [
+      {
+        "name": "驶向第二次生命",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "一场谎言的终幕",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "别让世界静下来",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "黑夜如影随行",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "梦的蒙太奇",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.1.1",
+    "start": "2026-03-25 10:00:00",
+    "end": "2026-04-08 11:59:00",
+    "items": [
+      {
+        "name": "愿虹光永驻天空",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "一场谎言的终幕",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "别让世界静下来",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "黑夜如影随行",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "梦的蒙太奇",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.0.2",
+    "start": "2026-03-03 12:00:00",
+    "end": "2026-03-24 15:00:00",
+    "items": [
+      {
+        "name": "花花世界迷人眼",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "金血铭刻的时代",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "忍法帖•缭乱破魔",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "游戏尘寰",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "当她决定看见",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "与行星相会",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "决心如汗珠般闪耀",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "故事的下一页",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.0.1",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-03 11:59:00",
+    "items": [
+      {
+        "name": "致长夜的星光",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "海洋为何而歌",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "重塑时光之忆",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "当她决定看见",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "与行星相会",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "决心如汗珠般闪耀",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "故事的下一页",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.8.3",
+    "start": "2026-01-28 12:00:00",
+    "end": "2026-02-12 15:00:00",
+    "items": [
+      {
+        "name": "将光阴织成黄金",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "回到大地的飞行",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "天才们的问候",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "宇宙市场趋势",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "舞！舞！舞！",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.8.2",
+    "start": "2026-01-07 12:00:00",
+    "end": "2026-01-28 11:59:00",
+    "items": [
+      {
+        "name": "长路终有归途",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "唯有香如故",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "天才们的休憩",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "鼹鼠党欢迎你",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "一场术后对话",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.8.1",
+    "start": "2025-12-17 10:00:00",
+    "end": "2026-01-07 11:59:00",
+    "items": [
+      {
+        "name": "勿忘她的火焰",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "梦应归于何处",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "晚安与睡颜",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "记忆中的模样",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "两个人的演唱会",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.7.2",
+    "start": "2025-11-26 12:00:00",
+    "end": "2025-12-16 15:00:00",
+    "items": [
+      {
+        "name": "黎明恰如此燃烧",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "谎言在风中飘扬",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "血火啊，燃烧前路",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "爱如此刻永恒",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "故事的下一页",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "两个人的演唱会",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "无边曼舞",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.7.1",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-11-26 11:59:00",
+    "items": [
+      {
+        "name": "愿虹光永驻天空",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "让告别，更美一些",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "如果时间是一朵花",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "爱如此刻永恒",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "故事的下一页",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "两个人的演唱会",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "无边曼舞",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.6.2",
+    "start": "2025-10-15 12:00:00",
+    "end": "2025-11-04 15:00:00",
+    "items": [
+      {
+        "name": "纵然山河万程",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "生命当付之一炬",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "朗道的选择",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "唯有沉默",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "此时恰好",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.6.1",
+    "start": "2025-09-24 10:00:00",
+    "end": "2025-10-15 11:59:00",
+    "items": [
+      {
+        "name": "致长夜的星光",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "向着不可追问处",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "梦的蒙太奇",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "谐乐静默之后",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "舞！舞！舞！",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.5.2",
+    "start": "2025-09-02 12:00:00",
+    "end": "2025-09-23 15:00:00",
+    "items": [
+      {
+        "name": "金血铭刻的时代",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "雨一直下",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "「我」的诞生",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "论剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "晚安与睡颜",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.5.1",
+    "start": "2025-08-13 10:00:00",
+    "end": "2025-09-02 11:59:00",
+    "items": [
+      {
+        "name": "海洋为何而歌",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "只需等待",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "猎物的视线",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "芳华待灼",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "铭记于心的约定",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.4.2",
+    "start": "2025-07-23 12:00:00",
+    "end": "2025-08-12 15:00:00",
+    "items": [
+      {
+        "name": "梦应归于何处",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "此身为剑",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "到不了的彼岸",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "秘密誓心",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "点个关注吧！",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "决心如汗珠般闪耀",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.4.1",
+    "start": "2025-07-11 12:00:00",
+    "end": "长期-undefined-undefined 00:00:00",
+    "items": [
+      {
+        "name": "没有回报的加冕",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "理想燃烧的地狱",
+        "itemType": "Weapon",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "3.4.1",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 11:59:00",
+    "items": [
+      {
+        "name": "黎明恰如此燃烧",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "如果时间是一朵花",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "回到大地的飞行",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "游戏尘寰",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "故事的下一页",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "与行星相会",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "在蓝天下",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.3.2",
+    "start": "2025-06-11 12:00:00",
+    "end": "2025-07-01 15:00:00",
+    "items": [
+      {
+        "name": "谎言在风中飘扬",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "将光阴织成黄金",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "天才们的问候",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "猎物的视线",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "同一种心情",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.3.1",
+    "start": "2025-05-21 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "items": [
+      {
+        "name": "愿虹光永驻天空",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "向着不可追问处",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "别让世界静下来",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "黑夜如影随行",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "余生的第一天",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.2.2",
+    "start": "2025-04-30 12:00:00",
+    "end": "2025-05-20 15:00:00",
+    "items": [
+      {
+        "name": "生命当付之一炬",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "纯粹思维的洗礼",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "宇宙市场趋势",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "谐乐静默之后",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "鼹鼠党欢迎你",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.2.1",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 11:59:00",
+    "items": [
+      {
+        "name": "让告别，更美一些",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "长路终有归途",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "那无数个春天",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "行于流逝的岸",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "晚安与睡颜",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "一场术后对话",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "无边曼舞",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.1.2",
+    "start": "2025-03-19 12:00:00",
+    "end": "2025-04-08 15:00:00",
+    "items": [
+      {
+        "name": "血火啊，燃烧前路",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "惊魂夜",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "此时恰好",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "秘密誓心",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "记忆中的模样",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.1.1",
+    "start": "2025-02-26 10:00:00",
+    "end": "2025-03-19 11:59:00",
+    "items": [
+      {
+        "name": "如果时间是一朵花",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "落日时起舞",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "与行星相会",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "一场术后对话",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "宇宙市场趋势",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.0.2",
+    "start": "2025-02-05 12:00:00",
+    "end": "2025-02-25 15:00:00",
+    "items": [
+      {
+        "name": "将光阴织成黄金",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "驶向第二次生命",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "夜色流光溢彩",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "雨一直下",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "天才们的问候",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "点个关注吧！",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "舞！舞！舞！",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.0.1",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 11:59:00",
+    "items": [
+      {
+        "name": "向着不可追问处",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "唯有香如故",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "我将，巡征追猎",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "偏偏希望无价",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "唯有沉默",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "朗道的选择",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "天才们的休憩",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.7.2",
+    "start": "2024-12-25 12:00:00",
+    "end": "2025-01-14 15:00:00",
+    "items": [
+      {
+        "name": "长路终有归途",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "梦应归于何处",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "铭记于心的约定",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "决心如汗珠般闪耀",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "两个人的演唱会",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.7.1",
+    "start": "2024-12-04 10:00:00",
+    "end": "2024-12-25 11:59:00",
+    "items": [
+      {
+        "name": "回到大地的飞行",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "拂晓之前",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "芳华待灼",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "「我」的诞生",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "论剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.6.2",
+    "start": "2024-11-13 12:00:00",
+    "end": "2024-12-03 15:00:00",
+    "items": [
+      {
+        "name": "行于流逝的岸",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "命运从未公平",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "余生的第一天",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "无边曼舞",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "别让世界静下来",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.6.1",
+    "start": "2024-10-23 10:00:00",
+    "end": "2024-11-13 11:59:00",
+    "items": [
+      {
+        "name": "忍法帖•缭乱破魔",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "比阳光更明亮的",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "梦的蒙太奇",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "谐乐静默之后",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "在蓝天下",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.5.2",
+    "start": "2024-10-02 12:00:00",
+    "end": "2024-10-22 15:00:00",
+    "items": [
+      {
+        "name": "唯有香如故",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "烦恼着，幸福着",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "黑夜如影随行",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "同一种心情",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "与行星相会",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.5.1",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 11:59:00",
+    "items": [
+      {
+        "name": "我将，巡征追猎",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "只需等待",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "重塑时光之忆",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "夜色流光溢彩",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "论剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "决心如汗珠般闪耀",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "「我」的诞生",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.4.2",
+    "start": "2024-08-21 12:00:00",
+    "end": "2024-09-09 15:00:00",
+    "items": [
+      {
+        "name": "那无数个春天",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "游戏尘寰",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "芳华待灼",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "猎物的视线",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "秘密誓心",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.4.1",
+    "start": "2024-07-31 10:00:00",
+    "end": "2024-08-21 11:59:00",
+    "items": [
+      {
+        "name": "落日时起舞",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "惊魂夜",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "鼹鼠党欢迎你",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "此时恰好",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "「我」的诞生",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.3.2",
+    "start": "2024-07-10 12:00:00",
+    "end": "2024-07-30 15:00:00",
+    "items": [
+      {
+        "name": "偏偏希望无价",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "片刻，留在眼底",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "同一种心情",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "宇宙市场趋势",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "谐乐静默之后",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.3.1",
+    "start": "2024-06-19 10:00:00",
+    "end": "2024-07-10 11:59:00",
+    "items": [
+      {
+        "name": "梦应归于何处",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "镜中故我",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "记忆中的模样",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "余生的第一天",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "猎物的视线",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.2.2",
+    "start": "2024-05-29 12:00:00",
+    "end": "2024-06-18 15:00:00",
+    "items": [
+      {
+        "name": "驶向第二次生命",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "她已闭上双眼",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "天才们的休憩",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "秘密誓心",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "朗道的选择",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.2.1",
+    "start": "2024-05-08 10:00:00",
+    "end": "2024-05-29 11:59:00",
+    "items": [
+      {
+        "name": "夜色流光溢彩",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "烦恼着，幸福着",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "论剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "无边曼舞",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "此时恰好",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.1.2",
+    "start": "2024-04-17 12:00:00",
+    "end": "2024-05-07 15:00:00",
+    "items": [
+      {
+        "name": "命运从未公平",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "此身为剑",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "两个人的演唱会",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "同一种心情",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "别让世界静下来",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.1.1",
+    "start": "2024-03-27 10:00:00",
+    "end": "2024-04-17 11:59:00",
+    "items": [
+      {
+        "name": "行于流逝的岸",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "棺的回响",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "晚安与睡颜",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "一场术后对话",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "点个关注吧！",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.0.2",
+    "start": "2024-02-29 12:00:00",
+    "end": "2024-03-26 15:00:00",
+    "items": [
+      {
+        "name": "游戏尘寰",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "拂晓之前",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "与行星相会",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "在蓝天下",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "天才们的休憩",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.0.1",
+    "start": "2024-02-06 10:00:00",
+    "end": "2024-02-29 11:59:00",
+    "items": [
+      {
+        "name": "重塑时光之忆",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "比阳光更明亮的",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "铭记于心的约定",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "决心如汗珠般闪耀",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "舞！舞！舞！",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.6.2",
+    "start": "2024-01-17 12:00:00",
+    "end": "2024-02-05 15:00:00",
+    "items": [
+      {
+        "name": "纯粹思维的洗礼",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "只需等待",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "此时恰好",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "唯有沉默",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "朗道的选择",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.6.1",
+    "start": "2023-12-27 10:00:00",
+    "end": "2024-01-17 11:59:00",
+    "items": [
+      {
+        "name": "镜中故我",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "到不了的彼岸",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "与行星相会",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "余生的第一天",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "秘密誓心",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.5.2",
+    "start": "2023-12-06 12:00:00",
+    "end": "2023-12-26 15:00:00",
+    "items": [
+      {
+        "name": "片刻，留在眼底",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "雨一直下",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "在蓝天下",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "一场术后对话",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "「我」的诞生",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.5.1",
+    "start": "2023-11-15 10:00:00",
+    "end": "2023-12-06 11:59:00",
+    "items": [
+      {
+        "name": "惊魂夜",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "同一种心情",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "点个关注吧！",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "宇宙市场趋势",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.4.2",
+    "start": "2023-10-27 12:00:00",
+    "end": "2023-11-14 15:00:00",
+    "items": [
+      {
+        "name": "烦恼着，幸福着",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "于夜色中",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "鼹鼠党欢迎你",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "决心如汗珠般闪耀",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "唯有沉默",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.4.1",
+    "start": "2023-10-11 10:00:00",
+    "end": "2023-10-27 11:59:00",
+    "items": [
+      {
+        "name": "此身为剑",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "别让世界静下来",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "记忆中的模样",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "猎物的视线",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.3.2",
+    "start": "2023-09-20 12:00:00",
+    "end": "2023-10-10 15:00:00",
+    "items": [
+      {
+        "name": "她已闭上双眼",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "宇宙市场趋势",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "此时恰好",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "在蓝天下",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.3.1",
+    "start": "2023-08-30 10:00:00",
+    "end": "2023-09-20 11:59:00",
+    "items": [
+      {
+        "name": "比阳光更明亮的",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "与行星相会",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "舞！舞！舞！",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "朗道的选择",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.2.2",
+    "start": "2023-08-09 12:00:00",
+    "end": "2023-08-29 15:00:00",
+    "items": [
+      {
+        "name": "只需等待",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "决心如汗珠般闪耀",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "猎物的视线",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "「我」的诞生",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.2.1",
+    "start": "2023-07-19 10:00:00",
+    "end": "2023-08-09 11:59:00",
+    "items": [
+      {
+        "name": "到不了的彼岸",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "秘密誓心",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "论剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "同一种心情",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.1.2",
+    "start": "2023-06-28 12:00:00",
+    "end": "2023-07-18 15:00:00",
+    "items": [
+      {
+        "name": "棺的回响",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "晚安与睡颜",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "舞！舞！舞！",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "天才们的休憩",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.1.1",
+    "start": "2023-06-07 10:00:00",
+    "end": "2023-06-28 11:59:00",
+    "items": [
+      {
+        "name": "雨一直下",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "点个关注吧！",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "记忆中的模样",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "别让世界静下来",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.0.2",
+    "start": "2023-05-17 18:00:00",
+    "end": "2023-06-06 15:00:00",
+    "items": [
+      {
+        "name": "拂晓之前",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "唯有沉默",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "余生的第一天",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "与行星相会",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.0.1",
+    "start": "2023-04-26 10:00:00",
+    "end": "2023-05-17 17:59:00",
+    "items": [
+      {
+        "name": "于夜色中",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "晚安与睡颜",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "鼹鼠党欢迎你",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "一场术后对话",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  }
 ]

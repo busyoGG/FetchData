@@ -5,6 +5,8 @@ const yaml = require('js-yaml');
 
 const url = 'https://wiki.biligame.com/sr/%E5%8E%86%E5%8F%B2%E8%B7%83%E8%BF%81';
 
+var fixTimeMap = new Map();
+
 function addOneDayKeepTime(datetimeStr) {
     // console.log('input datetimeStr:', JSON.stringify(datetimeStr));
     // 如果无效或包含特定字符串，直接返回固定时间
@@ -30,11 +32,12 @@ function addOneDayKeepTime(datetimeStr) {
 
 function normalizeVersion(ver) {
     if (!ver) return ver;
-    const m = ver.match(/^(\d+\.\d+)(上半|下半)?$/);
+    const m = ver.match(/^(\d+\.\d+)(上半|下半|额外)?$/);
     if (m) {
         let base = m[1];
         if (m[2] === '上半') return `${base}.1`;
         if (m[2] === '下半') return `${base}.2`;
+        if (m[2] === '额外') return `${base}.3`;
         return base;
     }
     return ver;
@@ -49,6 +52,36 @@ function formatTime(datetimeStr) {
     const time = timePart ? (timePart.length === 5 ? timePart + ':00' : timePart) : '00:00:00';
     // console.log('formatTime:', year, month, day, time);
     return `${year}-${month}-${day} ${time}`;
+}
+
+function convertRawToJSON(list, itemType) {
+    return list.map(entry => {
+        const items = [];
+        // 5星
+        for (const name of entry.five || []) {
+            items.push({
+                name,
+                itemType,
+                rankType: 5
+            });
+        }
+
+        // 4星
+        for (const name of entry.four || []) {
+            items.push({
+                name,
+                itemType,
+                rankType: 4
+            });
+        }
+
+        return {
+            version: entry.version,
+            start: entry.from,
+            end: entry.to,
+            items
+        };
+    });
 }
 
 (async () => {
@@ -103,6 +136,7 @@ function formatTime(datetimeStr) {
     const mergeByTime = (list) => {
         const map = new Map();
         for (const item of list) {
+            // if (item.end)
             const key = `${item.start}|${item.end}`;
             if (!map.has(key)) {
                 map.set(key, {
@@ -136,17 +170,70 @@ function formatTime(datetimeStr) {
         for (let i = 0; i < list.length; i++) {
             const cur = list[i];
             if (cur.start.includes('版本更新') || cur.start.includes('上线') || cur.start.includes('后')) {
-                const prev = list[i + 1];
-                if (prev && prev.end) {
+                let index = i + 1;
+                let prev = list[index];
+                while (prev && (prev.start.includes('版本更新') || prev.start.includes('上线') || prev.start.includes('后'))) {
+                    index++;
+                    prev = list[index];
+                }
+                let oldTime = cur.start;
+                if (fixTimeMap.has(cur.start)) {
+                    cur.start = fixTimeMap.get(cur.start);
+                } else if (prev && prev.end) {
                     cur.start = addOneDayKeepTime(prev.end);
+                    fixTimeMap.set(oldTime, cur.start);
                 } else {
                     cur.start = '2023/04/26 10:00:00';
+                    fixTimeMap.set(oldTime, cur.start);
                 }
             }
         }
     }
     fixTime(characterWarps);
     fixTime(lightconeWarps);
+
+    function splitCrossPools(list) {
+        for (let i = 0; i < list.length; i++) {
+            const A = list[i];
+            const A_start = new Date(A.start.replace(/\//g, '-')).getTime();
+            const A_end = new Date(A.end.replace(/\//g, '-')).getTime();
+
+            let distributed = false; // 👈 标记 A 是否被拆分
+
+            for (let j = 0; j < list.length; j++) {
+                if (i === j) continue;
+
+                const B = list[j];
+                const B_start = new Date(B.start.replace(/\//g, '-')).getTime();
+                const B_end = new Date(B.end.replace(/\//g, '-')).getTime();
+
+                const isInside = B_start >= A_start && B_end <= A_end;
+                const isSame = (B_start === A_start && B_end === A_end);
+
+                if (isInside && !isSame) {
+                    // 👉 分配
+                    A.up_5.forEach(x => B.up_5.push(x));
+                    A.up_4.forEach(x => B.up_4.push(x));
+
+                    distributed = true;
+                }
+            }
+
+            // 👇 如果 A 被拆分了，就清空它
+            if (distributed) {
+                A.up_5 = [];
+                A.up_4 = [];
+            }
+        }
+
+        // 去重
+        for (const item of list) {
+            item.up_5 = Array.from(new Set(item.up_5));
+            item.up_4 = Array.from(new Set(item.up_4));
+        }
+
+        return list.filter(item => item.up_5.length || item.up_4.length);
+    }
 
     // 统一时间格式为 YYYY-MM-DD HH:mm:ss
     const unifyFormat = (list) => list.map(item => ({
@@ -157,13 +244,30 @@ function formatTime(datetimeStr) {
         four: item.up_4
     }));
 
-    const outChar = unifyFormat(characterWarps);
-    const outWeapon = unifyFormat(lightconeWarps);
+    const outChar = unifyFormat(splitCrossPools(characterWarps));
+    const outWeapon = unifyFormat(splitCrossPools(lightconeWarps));
+    // const outChar = unifyFormat(characterWarps);
+    // const outWeapon = unifyFormat(lightconeWarps);
 
     // 写文件
     fs.writeFileSync('./data/manual/11.yaml', yaml.dump(outChar, { lineWidth: 120 }), 'utf-8');
     fs.writeFileSync('./data/manual/12.yaml', yaml.dump(outWeapon, { lineWidth: 120 }), 'utf-8');
 
+    fs.writeFileSync(
+        './data/gacha/hsr/character.json',
+        JSON.stringify(convertRawToJSON(outChar, 'Character'), null, 2),
+        'utf-8'
+    );
+
+    fs.writeFileSync(
+        './data/gacha/hsr/weapon.json',
+        JSON.stringify(convertRawToJSON(outWeapon, 'Weapon'), null, 2),
+        'utf-8'
+    );
+    // console.log("test1", convertRawToJSON(outChar, 'character'));
+    // console.log("test2", convertRawToJSON(outWeapon, 'lightcone'));
+
     console.log(`✅ 成功抓取角色池 ${outChar.length} 条，武器池 ${outWeapon.length} 条`);
     console.log(`✅ 已生成 YAML 文件：./data/manual/11.yaml 和 ./data/manual/12.yaml`);
+    console.log(`✅ 已生成 JSON 文件：./data/gacha/hsr/character.json 和 ./data/gacha/hsr/weapon.json`);
 })();

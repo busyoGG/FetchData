@@ -15,22 +15,40 @@ function requireJson(relativePath) {
     }
 }
 
-function getImg(game, type, name) {
-    if (game === "genshin") {
-        game = "gi"
+async function getImg(game, type, name) {
+    // if (game === "genshin") {
+    //     game = "gi"
+    // }
+    // if (name === "三月七 - 存护") {
+    //     return ""
+    // } else if (name === "『我』的诞生") {
+    //     name = "「我」的诞生"
+    // } else if (name === "防暴者VI型") {
+    //     name = "防暴者Ⅵ型"
+    // } else if (name === "维序者·特化型") {
+    //     name = "维序者-特化型"
+    // }
+    // let data = requireJson(`../data/hakush/${game}/${type.toLowerCase()}.json`)
+    // // console.log(name, data[name])
+    // return data?.[name]["iconUrl"]
+    let url = "";
+    switch (game) {
+        case "hsr":
+            url = "https://act-api-takumi-static.mihoyo.com/common/blackboard/sr_wiki/v1/home/content/list";
+            break;
     }
-    if (name === "三月七 - 存护") {
-        return ""
-    } else if (name === "『我』的诞生") {
-        name = "「我」的诞生"
-    } else if (name === "防暴者VI型") {
-        name = "防暴者Ⅵ型"
-    } else if (name === "维序者·特化型") {
-        name = "维序者-特化型"
-    }
-    let data = requireJson(`../data/hakush/${game}/${type.toLowerCase()}.json`)
-    // console.log(name, data[name])
-    return data?.[name]["iconUrl"]
+
+    const res = await get(
+        url,
+        {
+            params: {
+                app_sn: "sr_wiki",
+                channel_id: 17
+            }
+        }
+    );
+
+    return res.data.list[0].children[0].list.find(item => item.title === name)?.picture.list[1] || "";
 }
 
 function getRelativePath(game, type) {

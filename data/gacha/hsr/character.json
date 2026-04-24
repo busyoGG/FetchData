@@ -1,2859 +1,1849 @@
 [
-	{
-		"version": "3.5.2",
-		"items": [
-			{
-				"itemId": 1412,
-				"imageUrl": "/hsr/UI/avatarshopicon/1412.webp",
-				"itemType": "Character",
-				"name": "刻律德菈",
-				"nameEn": "Cerydra",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1006,
-				"imageUrl": "/hsr/UI/avatarshopicon/1006.webp",
-				"itemType": "Character",
-				"name": "银狼",
-				"nameEn": "Silver Wolf",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1108,
-				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
-				"itemType": "Character",
-				"name": "桑博",
-				"nameEn": "Sampo",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1201,
-				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
-				"itemType": "Character",
-				"name": "青雀",
-				"nameEn": "Qingque",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1002,
-				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
-				"itemType": "Character",
-				"name": "丹恒",
-				"nameEn": "Dan Heng",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2025-09-02 12:00:00",
-		"end": "2025-09-23 15:00:00"
-	},
-	{
-		"version": "3.5.1",
-		"items": [
-			{
-				"itemId": 1410,
-				"imageUrl": "/hsr/UI/avatarshopicon/1410.webp",
-				"itemType": "Character",
-				"name": "海瑟音",
-				"nameEn": "Hysilens",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1005,
-				"imageUrl": "/hsr/UI/avatarshopicon/1005.webp",
-				"itemType": "Character",
-				"name": "卡芙卡",
-				"nameEn": "Kafka",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1009,
-				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
-				"itemType": "Character",
-				"name": "艾丝妲",
-				"nameEn": "Asta",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1008,
-				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
-				"itemType": "Character",
-				"name": "阿兰",
-				"nameEn": "Arlan",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1109,
-				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
-				"itemType": "Character",
-				"name": "虎克",
-				"nameEn": "Hook",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2025-08-13 10:00:00",
-		"end": "2025-09-02 11:59:00"
-	},
-	{
-		"version": "3.4.2",
-		"items": [
-			{
-				"itemId": 1310,
-				"imageUrl": "/hsr/UI/avatarshopicon/1310.webp",
-				"itemType": "Character",
-				"name": "流萤",
-				"nameEn": "Firefly",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1212,
-				"imageUrl": "/hsr/UI/avatarshopicon/1212.webp",
-				"itemType": "Character",
-				"name": "镜流",
-				"nameEn": "Jingliu",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1205,
-				"imageUrl": "/hsr/UI/avatarshopicon/1205.webp",
-				"itemType": "Character",
-				"name": "刃",
-				"nameEn": "Blade",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1215,
-				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
-				"itemType": "Character",
-				"name": "寒鸦",
-				"nameEn": "Hanya",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1110,
-				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
-				"itemType": "Character",
-				"name": "玲可",
-				"nameEn": "Lynx",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
-				"itemType": "Character",
-				"name": "卢卡",
-				"nameEn": "Luka",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2025-07-23 12:00:00",
-		"end": "2025-08-12 15:00:00"
-	},
-	{
-		"version": "3.4.1",
-		"items": [
-			{
-				"itemId": 1014,
-				"imageUrl": "/hsr/UI/avatarshopicon/1014.webp",
-				"itemType": "Character",
-				"name": "Saber",
-				"nameEn": "Saber",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1015,
-				"imageUrl": "/hsr/UI/avatarshopicon/1015.webp",
-				"itemType": "Character",
-				"name": "Archer",
-				"nameEn": "Archer",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2025-07-11 12:00:00",
-		"end": "长期-undefined-undefined 00:00:00"
-	},
-	{
-		"version": "3.4.1",
-		"items": [
-			{
-				"itemId": 1408,
-				"imageUrl": "/hsr/UI/avatarshopicon/1408.webp",
-				"itemType": "Character",
-				"name": "白厄",
-				"nameEn": "Phainon",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1403,
-				"imageUrl": "/hsr/UI/avatarshopicon/1403.webp",
-				"itemType": "Character",
-				"name": "缇宝",
-				"nameEn": "Tribbie",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1313,
-				"imageUrl": "/hsr/UI/avatarshopicon/1313.webp",
-				"itemType": "Character",
-				"name": "星期日",
-				"nameEn": "Sunday",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1306,
-				"imageUrl": "/hsr/UI/avatarshopicon/1306.webp",
-				"itemType": "Character",
-				"name": "花火",
-				"nameEn": "Sparkle",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1202,
-				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
-				"itemType": "Character",
-				"name": "停云",
-				"nameEn": "Tingyun",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1224,
-				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
-				"itemType": "Character",
-				"name": "三月七",
-				"nameEn": "March 7th",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1207,
-				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
-				"itemType": "Character",
-				"name": "驭空",
-				"nameEn": "Yukong",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2025-07-02 10:00:00",
-		"end": "2025-07-23 11:59:00"
-	},
-	{
-		"version": "3.3.2",
-		"items": [
-			{
-				"itemId": 1406,
-				"imageUrl": "/hsr/UI/avatarshopicon/1406.webp",
-				"itemType": "Character",
-				"name": "赛飞儿",
-				"nameEn": "Cipher",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1402,
-				"imageUrl": "/hsr/UI/avatarshopicon/1402.webp",
-				"itemType": "Character",
-				"name": "阿格莱雅",
-				"nameEn": "Aglaea",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 1201,
-				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
-				"itemType": "Character",
-				"name": "青雀",
-				"nameEn": "Qingque",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1214,
-				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
-				"itemType": "Character",
-				"name": "雪衣",
-				"nameEn": "Xueyi",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1206,
-				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
-				"itemType": "Character",
-				"name": "素裳",
-				"nameEn": "Sushang",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2025-06-11 12:00:00",
-		"end": "2025-07-01 15:00:00"
-	},
-	{
-		"version": "3.3.1",
-		"items": [
-			{
-				"itemId": 1409,
-				"imageUrl": "/hsr/UI/avatarshopicon/1409.webp",
-				"itemType": "Character",
-				"name": "风堇",
-				"nameEn": "Hyacine",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 1401,
-				"imageUrl": "/hsr/UI/avatarshopicon/1401.webp",
-				"itemType": "Character",
-				"name": "大黑塔",
-				"nameEn": "The Herta",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1312,
-				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
-				"itemType": "Character",
-				"name": "米沙",
-				"nameEn": "Misha",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1103,
-				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
-				"itemType": "Character",
-				"name": "希露瓦",
-				"nameEn": "Serval",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1105,
-				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
-				"itemType": "Character",
-				"name": "娜塔莎",
-				"nameEn": "Natasha",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			}
-		],
-		"start": "2025-05-21 10:00:00",
-		"end": "2025-06-11 11:59:00"
-	},
-	{
-		"version": "3.2.2",
-		"items": [
-			{
-				"itemId": 1405,
-				"imageUrl": "/hsr/UI/avatarshopicon/1405.webp",
-				"itemType": "Character",
-				"name": "那刻夏",
-				"nameEn": "Anaxa",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1305,
-				"imageUrl": "/hsr/UI/avatarshopicon/1305.webp",
-				"itemType": "Character",
-				"name": "真理医生",
-				"nameEn": "Dr. Ratio",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1002,
-				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
-				"itemType": "Character",
-				"name": "丹恒",
-				"nameEn": "Dan Heng",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1103,
-				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
-				"itemType": "Character",
-				"name": "希露瓦",
-				"nameEn": "Serval",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1223,
-				"imageUrl": "/hsr/UI/avatarshopicon/1223.webp",
-				"itemType": "Character",
-				"name": "貊泽",
-				"nameEn": "Moze",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2025-04-30 12:00:00",
-		"end": "2025-05-20 15:00:00"
-	},
-	{
-		"version": "3.2.1",
-		"items": [
-			{
-				"itemId": 1407,
-				"imageUrl": "/hsr/UI/avatarshopicon/1407.webp",
-				"itemType": "Character",
-				"name": "遐蝶",
-				"nameEn": "Castorice",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 1225,
-				"imageUrl": "/hsr/UI/avatarshopicon/1225.webp",
-				"itemType": "Character",
-				"name": "忘归人",
-				"nameEn": "Fugue",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1218,
-				"imageUrl": "/hsr/UI/avatarshopicon/1218.webp",
-				"itemType": "Character",
-				"name": "椒丘",
-				"nameEn": "Jiaoqiu",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1308,
-				"imageUrl": "/hsr/UI/avatarshopicon/1308.webp",
-				"itemType": "Character",
-				"name": "黄泉",
-				"nameEn": "Acheron",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1106,
-				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
-				"itemType": "Character",
-				"name": "佩拉",
-				"nameEn": "Pela",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1301,
-				"imageUrl": "/hsr/UI/avatarshopicon/1301.webp",
-				"itemType": "Character",
-				"name": "加拉赫",
-				"nameEn": "Gallagher",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1110,
-				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
-				"itemType": "Character",
-				"name": "玲可",
-				"nameEn": "Lynx",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			}
-		],
-		"start": "2025-04-09 10:00:00",
-		"end": "2025-04-30 11:59:00"
-	},
-	{
-		"version": "3.1.2",
-		"items": [
-			{
-				"itemId": 1404,
-				"imageUrl": "/hsr/UI/avatarshopicon/1404.webp",
-				"itemType": "Character",
-				"name": "万敌",
-				"nameEn": "Mydei",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1217,
-				"imageUrl": "/hsr/UI/avatarshopicon/1217.webp",
-				"itemType": "Character",
-				"name": "藿藿",
-				"nameEn": "Huohuo",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1008,
-				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
-				"itemType": "Character",
-				"name": "阿兰",
-				"nameEn": "Arlan",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1214,
-				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
-				"itemType": "Character",
-				"name": "雪衣",
-				"nameEn": "Xueyi",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1105,
-				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
-				"itemType": "Character",
-				"name": "娜塔莎",
-				"nameEn": "Natasha",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			}
-		],
-		"start": "2025-03-19 12:00:00",
-		"end": "2025-04-08 15:00:00"
-	},
-	{
-		"version": "3.1.1",
-		"items": [
-			{
-				"itemId": 1403,
-				"imageUrl": "/hsr/UI/avatarshopicon/1403.webp",
-				"itemType": "Character",
-				"name": "缇宝",
-				"nameEn": "Tribbie",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1221,
-				"imageUrl": "/hsr/UI/avatarshopicon/1221.webp",
-				"itemType": "Character",
-				"name": "云璃",
-				"nameEn": "Yunli",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1110,
-				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
-				"itemType": "Character",
-				"name": "玲可",
-				"nameEn": "Lynx",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1109,
-				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
-				"itemType": "Character",
-				"name": "虎克",
-				"nameEn": "Hook",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1210,
-				"imageUrl": "/hsr/UI/avatarshopicon/1210.webp",
-				"itemType": "Character",
-				"name": "桂乃芬",
-				"nameEn": "Guinaifen",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2025-02-26 10:00:00",
-		"end": "2025-03-19 11:59:00"
-	},
-	{
-		"version": "3.0.2",
-		"items": [
-			{
-				"itemId": 1402,
-				"imageUrl": "/hsr/UI/avatarshopicon/1402.webp",
-				"itemType": "Character",
-				"name": "阿格莱雅",
-				"nameEn": "Aglaea",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "memory",
-				"weaponType": "memory"
-			},
-			{
-				"itemId": 1315,
-				"imageUrl": "/hsr/UI/avatarshopicon/1315.webp",
-				"itemType": "Character",
-				"name": "波提欧",
-				"nameEn": "Boothill",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1309,
-				"imageUrl": "/hsr/UI/avatarshopicon/1309.webp",
-				"itemType": "Character",
-				"name": "知更鸟",
-				"nameEn": "Robin",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1006,
-				"imageUrl": "/hsr/UI/avatarshopicon/1006.webp",
-				"itemType": "Character",
-				"name": "银狼",
-				"nameEn": "Silver Wolf",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1202,
-				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
-				"itemType": "Character",
-				"name": "停云",
-				"nameEn": "Tingyun",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1215,
-				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
-				"itemType": "Character",
-				"name": "寒鸦",
-				"nameEn": "Hanya",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1206,
-				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
-				"itemType": "Character",
-				"name": "素裳",
-				"nameEn": "Sushang",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2025-02-05 12:00:00",
-		"end": "2025-02-25 15:00:00"
-	},
-	{
-		"version": "3.0.1",
-		"items": [
-			{
-				"itemId": 1401,
-				"imageUrl": "/hsr/UI/avatarshopicon/1401.webp",
-				"itemType": "Character",
-				"name": "大黑塔",
-				"nameEn": "The Herta",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1222,
-				"imageUrl": "/hsr/UI/avatarshopicon/1222.webp",
-				"itemType": "Character",
-				"name": "灵砂",
-				"nameEn": "Lingsha",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1220,
-				"imageUrl": "/hsr/UI/avatarshopicon/1220.webp",
-				"itemType": "Character",
-				"name": "飞霄",
-				"nameEn": "Feixiao",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1314,
-				"imageUrl": "/hsr/UI/avatarshopicon/1314.webp",
-				"itemType": "Character",
-				"name": "翡翠",
-				"nameEn": "Jade",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1105,
-				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
-				"itemType": "Character",
-				"name": "娜塔莎",
-				"nameEn": "Natasha",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1009,
-				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
-				"itemType": "Character",
-				"name": "艾丝妲",
-				"nameEn": "Asta",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1223,
-				"imageUrl": "/hsr/UI/avatarshopicon/1223.webp",
-				"itemType": "Character",
-				"name": "貊泽",
-				"nameEn": "Moze",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2025-01-15 10:00:00",
-		"end": "2025-02-05 11:59:00"
-	},
-	{
-		"version": "2.7.2",
-		"items": [
-			{
-				"itemId": 1225,
-				"imageUrl": "/hsr/UI/avatarshopicon/1225.webp",
-				"itemType": "Character",
-				"name": "忘归人",
-				"nameEn": "Fugue",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1310,
-				"imageUrl": "/hsr/UI/avatarshopicon/1310.webp",
-				"itemType": "Character",
-				"name": "流萤",
-				"nameEn": "Firefly",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1301,
-				"imageUrl": "/hsr/UI/avatarshopicon/1301.webp",
-				"itemType": "Character",
-				"name": "加拉赫",
-				"nameEn": "Gallagher",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1207,
-				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
-				"itemType": "Character",
-				"name": "驭空",
-				"nameEn": "Yukong",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1312,
-				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
-				"itemType": "Character",
-				"name": "米沙",
-				"nameEn": "Misha",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2024-12-25 12:00:00",
-		"end": "2025-01-14 15:00:00"
-	},
-	{
-		"version": "2.7.1",
-		"items": [
-			{
-				"itemId": 1313,
-				"imageUrl": "/hsr/UI/avatarshopicon/1313.webp",
-				"itemType": "Character",
-				"name": "星期日",
-				"nameEn": "Sunday",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1204,
-				"imageUrl": "/hsr/UI/avatarshopicon/1204.webp",
-				"itemType": "Character",
-				"name": "景元",
-				"nameEn": "Jing Yuan",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1201,
-				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
-				"itemType": "Character",
-				"name": "青雀",
-				"nameEn": "Qingque",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1008,
-				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
-				"itemType": "Character",
-				"name": "阿兰",
-				"nameEn": "Arlan",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1202,
-				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
-				"itemType": "Character",
-				"name": "停云",
-				"nameEn": "Tingyun",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2024-12-04 10:00:00",
-		"end": "2024-12-25 11:59:00"
-	},
-	{
-		"version": "2.6.2",
-		"items": [
-			{
-				"itemId": 1308,
-				"imageUrl": "/hsr/UI/avatarshopicon/1308.webp",
-				"itemType": "Character",
-				"name": "黄泉",
-				"nameEn": "Acheron",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1304,
-				"imageUrl": "/hsr/UI/avatarshopicon/1304.webp",
-				"itemType": "Character",
-				"name": "砂金",
-				"nameEn": "Aventurine",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 1224,
-				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
-				"itemType": "Character",
-				"name": "三月七",
-				"nameEn": "March 7th",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1108,
-				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
-				"itemType": "Character",
-				"name": "桑博",
-				"nameEn": "Sampo",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1106,
-				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
-				"itemType": "Character",
-				"name": "佩拉",
-				"nameEn": "Pela",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2024-11-13 12:00:00",
-		"end": "2024-12-03 15:00:00"
-	},
-	{
-		"version": "2.6.1",
-		"items": [
-			{
-				"itemId": 1317,
-				"imageUrl": "/hsr/UI/avatarshopicon/1317.webp",
-				"itemType": "Character",
-				"name": "乱破",
-				"nameEn": "Rappa",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1213,
-				"imageUrl": "/hsr/UI/avatarshopicon/1213.webp",
-				"itemType": "Character",
-				"name": "丹恒•饮月",
-				"nameEn": "Dan Heng • Imbibitor Lunae",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1110,
-				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
-				"itemType": "Character",
-				"name": "玲可",
-				"nameEn": "Lynx",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1214,
-				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
-				"itemType": "Character",
-				"name": "雪衣",
-				"nameEn": "Xueyi",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1207,
-				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
-				"itemType": "Character",
-				"name": "驭空",
-				"nameEn": "Yukong",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2024-10-23 10:00:00",
-		"end": "2024-11-13 11:59:00"
-	},
-	{
-		"version": "2.5.2",
-		"items": [
-			{
-				"itemId": 1222,
-				"imageUrl": "/hsr/UI/avatarshopicon/1222.webp",
-				"itemType": "Character",
-				"name": "灵砂",
-				"nameEn": "Lingsha",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1112,
-				"imageUrl": "/hsr/UI/avatarshopicon/1112.webp",
-				"itemType": "Character",
-				"name": "托帕&账账",
-				"nameEn": "Topaz & Numby",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1312,
-				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
-				"itemType": "Character",
-				"name": "米沙",
-				"nameEn": "Misha",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1105,
-				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
-				"itemType": "Character",
-				"name": "娜塔莎",
-				"nameEn": "Natasha",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1210,
-				"imageUrl": "/hsr/UI/avatarshopicon/1210.webp",
-				"itemType": "Character",
-				"name": "桂乃芬",
-				"nameEn": "Guinaifen",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2024-10-02 12:00:00",
-		"end": "2024-10-22 15:00:00"
-	},
-	{
-		"version": "2.5.1",
-		"items": [
-			{
-				"itemId": 1220,
-				"imageUrl": "/hsr/UI/avatarshopicon/1220.webp",
-				"itemType": "Character",
-				"name": "飞霄",
-				"nameEn": "Feixiao",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1005,
-				"imageUrl": "/hsr/UI/avatarshopicon/1005.webp",
-				"itemType": "Character",
-				"name": "卡芙卡",
-				"nameEn": "Kafka",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1307,
-				"imageUrl": "/hsr/UI/avatarshopicon/1307.webp",
-				"itemType": "Character",
-				"name": "黑天鹅",
-				"nameEn": "Black Swan",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1309,
-				"imageUrl": "/hsr/UI/avatarshopicon/1309.webp",
-				"itemType": "Character",
-				"name": "知更鸟",
-				"nameEn": "Robin",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1223,
-				"imageUrl": "/hsr/UI/avatarshopicon/1223.webp",
-				"itemType": "Character",
-				"name": "貊泽",
-				"nameEn": "Moze",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1009,
-				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
-				"itemType": "Character",
-				"name": "艾丝妲",
-				"nameEn": "Asta",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
-				"itemType": "Character",
-				"name": "卢卡",
-				"nameEn": "Luka",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2024-09-10 10:00:00",
-		"end": "2024-10-02 11:59:00"
-	},
-	{
-		"version": "2.4.2",
-		"items": [
-			{
-				"itemId": 1218,
-				"imageUrl": "/hsr/UI/avatarshopicon/1218.webp",
-				"itemType": "Character",
-				"name": "椒丘",
-				"nameEn": "Jiaoqiu",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1306,
-				"imageUrl": "/hsr/UI/avatarshopicon/1306.webp",
-				"itemType": "Character",
-				"name": "花火",
-				"nameEn": "Sparkle",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1109,
-				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
-				"itemType": "Character",
-				"name": "虎克",
-				"nameEn": "Hook",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1210,
-				"imageUrl": "/hsr/UI/avatarshopicon/1210.webp",
-				"itemType": "Character",
-				"name": "桂乃芬",
-				"nameEn": "Guinaifen",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1008,
-				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
-				"itemType": "Character",
-				"name": "阿兰",
-				"nameEn": "Arlan",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2024-08-21 12:00:00",
-		"end": "2024-09-09 15:00:00"
-	},
-	{
-		"version": "2.4.1",
-		"items": [
-			{
-				"itemId": 1221,
-				"imageUrl": "/hsr/UI/avatarshopicon/1221.webp",
-				"itemType": "Character",
-				"name": "云璃",
-				"nameEn": "Yunli",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1217,
-				"imageUrl": "/hsr/UI/avatarshopicon/1217.webp",
-				"itemType": "Character",
-				"name": "藿藿",
-				"nameEn": "Huohuo",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1215,
-				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
-				"itemType": "Character",
-				"name": "寒鸦",
-				"nameEn": "Hanya",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1207,
-				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
-				"itemType": "Character",
-				"name": "驭空",
-				"nameEn": "Yukong",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1110,
-				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
-				"itemType": "Character",
-				"name": "玲可",
-				"nameEn": "Lynx",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			}
-		],
-		"start": "2024-07-31 10:00:00",
-		"end": "2024-08-21 11:59:00"
-	},
-	{
-		"version": "2.3.2",
-		"items": [
-			{
-				"itemId": 1314,
-				"imageUrl": "/hsr/UI/avatarshopicon/1314.webp",
-				"itemType": "Character",
-				"name": "翡翠",
-				"nameEn": "Jade",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1302,
-				"imageUrl": "/hsr/UI/avatarshopicon/1302.webp",
-				"itemType": "Character",
-				"name": "银枝",
-				"nameEn": "Argenti",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1103,
-				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
-				"itemType": "Character",
-				"name": "希露瓦",
-				"nameEn": "Serval",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1105,
-				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
-				"itemType": "Character",
-				"name": "娜塔莎",
-				"nameEn": "Natasha",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1009,
-				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
-				"itemType": "Character",
-				"name": "艾丝妲",
-				"nameEn": "Asta",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2024-07-10 12:00:00",
-		"end": "2024-07-30 15:00:00"
-	},
-	{
-		"version": "2.3.1",
-		"items": [
-			{
-				"itemId": 1310,
-				"imageUrl": "/hsr/UI/avatarshopicon/1310.webp",
-				"itemType": "Character",
-				"name": "流萤",
-				"nameEn": "Firefly",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1303,
-				"imageUrl": "/hsr/UI/avatarshopicon/1303.webp",
-				"itemType": "Character",
-				"name": "阮•梅",
-				"nameEn": "Ruan Mei",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1301,
-				"imageUrl": "/hsr/UI/avatarshopicon/1301.webp",
-				"itemType": "Character",
-				"name": "加拉赫",
-				"nameEn": "Gallagher",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1312,
-				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
-				"itemType": "Character",
-				"name": "米沙",
-				"nameEn": "Misha",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1214,
-				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
-				"itemType": "Character",
-				"name": "雪衣",
-				"nameEn": "Xueyi",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2024-06-19 10:00:00",
-		"end": "2024-07-10 11:59:00"
-	},
-	{
-		"version": "2.2.2",
-		"items": [
-			{
-				"itemId": 1315,
-				"imageUrl": "/hsr/UI/avatarshopicon/1315.webp",
-				"itemType": "Character",
-				"name": "波提欧",
-				"nameEn": "Boothill",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1208,
-				"imageUrl": "/hsr/UI/avatarshopicon/1208.webp",
-				"itemType": "Character",
-				"name": "符玄",
-				"nameEn": "Fu Xuan",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 1106,
-				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
-				"itemType": "Character",
-				"name": "佩拉",
-				"nameEn": "Pela",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
-				"itemType": "Character",
-				"name": "卢卡",
-				"nameEn": "Luka",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1109,
-				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
-				"itemType": "Character",
-				"name": "虎克",
-				"nameEn": "Hook",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2024-05-29 12:00:00",
-		"end": "2024-06-18 15:00:00"
-	},
-	{
-		"version": "2.2.1",
-		"items": [
-			{
-				"itemId": 1309,
-				"imageUrl": "/hsr/UI/avatarshopicon/1309.webp",
-				"itemType": "Character",
-				"name": "知更鸟",
-				"nameEn": "Robin",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1112,
-				"imageUrl": "/hsr/UI/avatarshopicon/1112.webp",
-				"itemType": "Character",
-				"name": "托帕&账账",
-				"nameEn": "Topaz & Numby",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1224,
-				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
-				"itemType": "Character",
-				"name": "三月七",
-				"nameEn": "March 7th",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1215,
-				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
-				"itemType": "Character",
-				"name": "寒鸦",
-				"nameEn": "Hanya",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1214,
-				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
-				"itemType": "Character",
-				"name": "雪衣",
-				"nameEn": "Xueyi",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2024-05-08 10:00:00",
-		"end": "2024-05-29 11:59:00"
-	},
-	{
-		"version": "2.1.2",
-		"items": [
-			{
-				"itemId": 1304,
-				"imageUrl": "/hsr/UI/avatarshopicon/1304.webp",
-				"itemType": "Character",
-				"name": "砂金",
-				"nameEn": "Aventurine",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 1212,
-				"imageUrl": "/hsr/UI/avatarshopicon/1212.webp",
-				"itemType": "Character",
-				"name": "镜流",
-				"nameEn": "Jingliu",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1110,
-				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
-				"itemType": "Character",
-				"name": "玲可",
-				"nameEn": "Lynx",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
-				"itemType": "Character",
-				"name": "卢卡",
-				"nameEn": "Luka",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1103,
-				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
-				"itemType": "Character",
-				"name": "希露瓦",
-				"nameEn": "Serval",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2024-04-17 12:00:00",
-		"end": "2024-05-07 15:00:00"
-	},
-	{
-		"version": "2.1.1",
-		"items": [
-			{
-				"itemId": 1308,
-				"imageUrl": "/hsr/UI/avatarshopicon/1308.webp",
-				"itemType": "Character",
-				"name": "黄泉",
-				"nameEn": "Acheron",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1203,
-				"imageUrl": "/hsr/UI/avatarshopicon/1203.webp",
-				"itemType": "Character",
-				"name": "罗刹",
-				"nameEn": "Luocha",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1301,
-				"imageUrl": "/hsr/UI/avatarshopicon/1301.webp",
-				"itemType": "Character",
-				"name": "加拉赫",
-				"nameEn": "Gallagher",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1106,
-				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
-				"itemType": "Character",
-				"name": "佩拉",
-				"nameEn": "Pela",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1002,
-				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
-				"itemType": "Character",
-				"name": "丹恒",
-				"nameEn": "Dan Heng",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2024-03-27 10:00:00",
-		"end": "2024-04-17 11:59:00"
-	},
-	{
-		"version": "2.0.2",
-		"items": [
-			{
-				"itemId": 1306,
-				"imageUrl": "/hsr/UI/avatarshopicon/1306.webp",
-				"itemType": "Character",
-				"name": "花火",
-				"nameEn": "Sparkle",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1204,
-				"imageUrl": "/hsr/UI/avatarshopicon/1204.webp",
-				"itemType": "Character",
-				"name": "景元",
-				"nameEn": "Jing Yuan",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1108,
-				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
-				"itemType": "Character",
-				"name": "桑博",
-				"nameEn": "Sampo",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1201,
-				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
-				"itemType": "Character",
-				"name": "青雀",
-				"nameEn": "Qingque",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1215,
-				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
-				"itemType": "Character",
-				"name": "寒鸦",
-				"nameEn": "Hanya",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2024-02-29 12:00:00",
-		"end": "2024-03-26 15:00:00"
-	},
-	{
-		"version": "2.0.1",
-		"items": [
-			{
-				"itemId": 1307,
-				"imageUrl": "/hsr/UI/avatarshopicon/1307.webp",
-				"itemType": "Character",
-				"name": "黑天鹅",
-				"nameEn": "Black Swan",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1213,
-				"imageUrl": "/hsr/UI/avatarshopicon/1213.webp",
-				"itemType": "Character",
-				"name": "丹恒•饮月",
-				"nameEn": "Dan Heng • Imbibitor Lunae",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1312,
-				"imageUrl": "/hsr/UI/avatarshopicon/1312.webp",
-				"itemType": "Character",
-				"name": "米沙",
-				"nameEn": "Misha",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1202,
-				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
-				"itemType": "Character",
-				"name": "停云",
-				"nameEn": "Tingyun",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1210,
-				"imageUrl": "/hsr/UI/avatarshopicon/1210.webp",
-				"itemType": "Character",
-				"name": "桂乃芬",
-				"nameEn": "Guinaifen",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2024-02-06 10:00:00",
-		"end": "2024-02-29 11:59:00"
-	},
-	{
-		"version": "1.6.2",
-		"items": [
-			{
-				"itemId": 1305,
-				"imageUrl": "/hsr/UI/avatarshopicon/1305.webp",
-				"itemType": "Character",
-				"name": "真理医生",
-				"nameEn": "Dr. Ratio",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1005,
-				"imageUrl": "/hsr/UI/avatarshopicon/1005.webp",
-				"itemType": "Character",
-				"name": "卡芙卡",
-				"nameEn": "Kafka",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1206,
-				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
-				"itemType": "Character",
-				"name": "素裳",
-				"nameEn": "Sushang",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1105,
-				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
-				"itemType": "Character",
-				"name": "娜塔莎",
-				"nameEn": "Natasha",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1109,
-				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
-				"itemType": "Character",
-				"name": "虎克",
-				"nameEn": "Hook",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			}
-		],
-		"start": "2024-01-17 12:00:00",
-		"end": "2024-02-05 15:00:00"
-	},
-	{
-		"version": "1.6.1",
-		"items": [
-			{
-				"itemId": 1303,
-				"imageUrl": "/hsr/UI/avatarshopicon/1303.webp",
-				"itemType": "Character",
-				"name": "阮•梅",
-				"nameEn": "Ruan Mei",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 5,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1205,
-				"imageUrl": "/hsr/UI/avatarshopicon/1205.webp",
-				"itemType": "Character",
-				"name": "刃",
-				"nameEn": "Blade",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1214,
-				"imageUrl": "/hsr/UI/avatarshopicon/1214.webp",
-				"itemType": "Character",
-				"name": "雪衣",
-				"nameEn": "Xueyi",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1224,
-				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
-				"itemType": "Character",
-				"name": "三月七",
-				"nameEn": "March 7th",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1202,
-				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
-				"itemType": "Character",
-				"name": "停云",
-				"nameEn": "Tingyun",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2023-12-27 10:00:00",
-		"end": "2024-01-17 11:59:00"
-	},
-	{
-		"version": "1.5.2",
-		"items": [
-			{
-				"itemId": 1302,
-				"imageUrl": "/hsr/UI/avatarshopicon/1302.webp",
-				"itemType": "Character",
-				"name": "银枝",
-				"nameEn": "Argenti",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1006,
-				"imageUrl": "/hsr/UI/avatarshopicon/1006.webp",
-				"itemType": "Character",
-				"name": "银狼",
-				"nameEn": "Silver Wolf",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1215,
-				"imageUrl": "/hsr/UI/avatarshopicon/1215.webp",
-				"itemType": "Character",
-				"name": "寒鸦",
-				"nameEn": "Hanya",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1110,
-				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
-				"itemType": "Character",
-				"name": "玲可",
-				"nameEn": "Lynx",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1009,
-				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
-				"itemType": "Character",
-				"name": "艾丝妲",
-				"nameEn": "Asta",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2023-12-06 12:00:00",
-		"end": "2023-12-26 15:00:00"
-	},
-	{
-		"version": "1.5.1",
-		"items": [
-			{
-				"itemId": 1217,
-				"imageUrl": "/hsr/UI/avatarshopicon/1217.webp",
-				"itemType": "Character",
-				"name": "藿藿",
-				"nameEn": "Huohuo",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1002,
-				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
-				"itemType": "Character",
-				"name": "丹恒",
-				"nameEn": "Dan Heng",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1008,
-				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
-				"itemType": "Character",
-				"name": "阿兰",
-				"nameEn": "Arlan",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1103,
-				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
-				"itemType": "Character",
-				"name": "希露瓦",
-				"nameEn": "Serval",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2023-11-15 10:00:00",
-		"end": "2023-12-06 11:59:00"
-	},
-	{
-		"version": "1.4.2",
-		"items": [
-			{
-				"itemId": 1112,
-				"imageUrl": "/hsr/UI/avatarshopicon/1112.webp",
-				"itemType": "Character",
-				"name": "托帕&账账",
-				"nameEn": "Topaz & Numby",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1102,
-				"imageUrl": "/hsr/UI/avatarshopicon/1102.webp",
-				"itemType": "Character",
-				"name": "希儿",
-				"nameEn": "Seele",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1210,
-				"imageUrl": "/hsr/UI/avatarshopicon/1210.webp",
-				"itemType": "Character",
-				"name": "桂乃芬",
-				"nameEn": "Guinaifen",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
-				"itemType": "Character",
-				"name": "卢卡",
-				"nameEn": "Luka",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1206,
-				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
-				"itemType": "Character",
-				"name": "素裳",
-				"nameEn": "Sushang",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2023-10-27 12:00:00",
-		"end": "2023-11-14 15:00:00"
-	},
-	{
-		"version": "1.4.1",
-		"items": [
-			{
-				"itemId": 1212,
-				"imageUrl": "/hsr/UI/avatarshopicon/1212.webp",
-				"itemType": "Character",
-				"name": "镜流",
-				"nameEn": "Jingliu",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1202,
-				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
-				"itemType": "Character",
-				"name": "停云",
-				"nameEn": "Tingyun",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1201,
-				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
-				"itemType": "Character",
-				"name": "青雀",
-				"nameEn": "Qingque",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1108,
-				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
-				"itemType": "Character",
-				"name": "桑博",
-				"nameEn": "Sampo",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2023-10-11 10:00:00",
-		"end": "2023-10-27 11:59:00"
-	},
-	{
-		"version": "1.3.2",
-		"items": [
-			{
-				"itemId": 1208,
-				"imageUrl": "/hsr/UI/avatarshopicon/1208.webp",
-				"itemType": "Character",
-				"name": "符玄",
-				"nameEn": "Fu Xuan",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "knight",
-				"weaponType": "knight"
-			},
-			{
-				"itemId": 1110,
-				"imageUrl": "/hsr/UI/avatarshopicon/1110.webp",
-				"itemType": "Character",
-				"name": "玲可",
-				"nameEn": "Lynx",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1109,
-				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
-				"itemType": "Character",
-				"name": "虎克",
-				"nameEn": "Hook",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1106,
-				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
-				"itemType": "Character",
-				"name": "佩拉",
-				"nameEn": "Pela",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2023-09-20 12:00:00",
-		"end": "2023-10-10 15:00:00"
-	},
-	{
-		"version": "1.3.1",
-		"items": [
-			{
-				"itemId": 1213,
-				"imageUrl": "/hsr/UI/avatarshopicon/1213.webp",
-				"itemType": "Character",
-				"name": "丹恒•饮月",
-				"nameEn": "Dan Heng • Imbibitor Lunae",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1207,
-				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
-				"itemType": "Character",
-				"name": "驭空",
-				"nameEn": "Yukong",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1009,
-				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
-				"itemType": "Character",
-				"name": "艾丝妲",
-				"nameEn": "Asta",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1224,
-				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
-				"itemType": "Character",
-				"name": "三月七",
-				"nameEn": "March 7th",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2023-08-30 10:00:00",
-		"end": "2023-09-20 11:59:00"
-	},
-	{
-		"version": "1.2.2",
-		"items": [
-			{
-				"itemId": 1005,
-				"imageUrl": "/hsr/UI/avatarshopicon/1005.webp",
-				"itemType": "Character",
-				"name": "卡芙卡",
-				"nameEn": "Kafka",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1111,
-				"imageUrl": "/hsr/UI/avatarshopicon/1111.webp",
-				"itemType": "Character",
-				"name": "卢卡",
-				"nameEn": "Luka",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1108,
-				"imageUrl": "/hsr/UI/avatarshopicon/1108.webp",
-				"itemType": "Character",
-				"name": "桑博",
-				"nameEn": "Sampo",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1103,
-				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
-				"itemType": "Character",
-				"name": "希露瓦",
-				"nameEn": "Serval",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2023-08-09 12:00:00",
-		"end": "2023-08-29 15:00:00"
-	},
-	{
-		"version": "1.2.1",
-		"items": [
-			{
-				"itemId": 1205,
-				"imageUrl": "/hsr/UI/avatarshopicon/1205.webp",
-				"itemType": "Character",
-				"name": "刃",
-				"nameEn": "Blade",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 5,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1008,
-				"imageUrl": "/hsr/UI/avatarshopicon/1008.webp",
-				"itemType": "Character",
-				"name": "阿兰",
-				"nameEn": "Arlan",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1105,
-				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
-				"itemType": "Character",
-				"name": "娜塔莎",
-				"nameEn": "Natasha",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1206,
-				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
-				"itemType": "Character",
-				"name": "素裳",
-				"nameEn": "Sushang",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			}
-		],
-		"start": "2023-07-19 10:00:00",
-		"end": "2023-08-09 11:59:00"
-	},
-	{
-		"version": "1.1.2",
-		"items": [
-			{
-				"itemId": 1203,
-				"imageUrl": "/hsr/UI/avatarshopicon/1203.webp",
-				"itemType": "Character",
-				"name": "罗刹",
-				"nameEn": "Luocha",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 5,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1207,
-				"imageUrl": "/hsr/UI/avatarshopicon/1207.webp",
-				"itemType": "Character",
-				"name": "驭空",
-				"nameEn": "Yukong",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1106,
-				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
-				"itemType": "Character",
-				"name": "佩拉",
-				"nameEn": "Pela",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1201,
-				"imageUrl": "/hsr/UI/avatarshopicon/1201.webp",
-				"itemType": "Character",
-				"name": "青雀",
-				"nameEn": "Qingque",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2023-06-28 12:00:00",
-		"end": "2023-07-18 15:00:00"
-	},
-	{
-		"version": "1.1.1",
-		"items": [
-			{
-				"itemId": 1006,
-				"imageUrl": "/hsr/UI/avatarshopicon/1006.webp",
-				"itemType": "Character",
-				"name": "银狼",
-				"nameEn": "Silver Wolf",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			},
-			{
-				"itemId": 1002,
-				"imageUrl": "/hsr/UI/avatarshopicon/1002.webp",
-				"itemType": "Character",
-				"name": "丹恒",
-				"nameEn": "Dan Heng",
-				"damageType": "wind",
-				"element": "wind",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1009,
-				"imageUrl": "/hsr/UI/avatarshopicon/1009.webp",
-				"itemType": "Character",
-				"name": "艾丝妲",
-				"nameEn": "Asta",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			},
-			{
-				"itemId": 1103,
-				"imageUrl": "/hsr/UI/avatarshopicon/1103.webp",
-				"itemType": "Character",
-				"name": "希露瓦",
-				"nameEn": "Serval",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			}
-		],
-		"start": "2023-06-07 10:00:00",
-		"end": "2023-06-28 11:59:00"
-	},
-	{
-		"version": "1.0.2",
-		"items": [
-			{
-				"itemId": 1204,
-				"imageUrl": "/hsr/UI/avatarshopicon/1204.webp",
-				"itemType": "Character",
-				"name": "景元",
-				"nameEn": "Jing Yuan",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 5,
-				"avatarBaseType": "mage",
-				"weaponType": "mage"
-			},
-			{
-				"itemId": 1206,
-				"imageUrl": "/hsr/UI/avatarshopicon/1206.webp",
-				"itemType": "Character",
-				"name": "素裳",
-				"nameEn": "Sushang",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1224,
-				"imageUrl": "/hsr/UI/avatarshopicon/1224.webp",
-				"itemType": "Character",
-				"name": "三月七",
-				"nameEn": "March 7th",
-				"damageType": "imaginary",
-				"element": "imaginary",
-				"rankType": 4,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1202,
-				"imageUrl": "/hsr/UI/avatarshopicon/1202.webp",
-				"itemType": "Character",
-				"name": "停云",
-				"nameEn": "Tingyun",
-				"damageType": "thunder",
-				"element": "thunder",
-				"rankType": 4,
-				"avatarBaseType": "shaman",
-				"weaponType": "shaman"
-			}
-		],
-		"start": "2023-05-17 18:00:00",
-		"end": "2023-06-06 15:00:00"
-	},
-	{
-		"version": "1.0.1",
-		"items": [
-			{
-				"itemId": 1102,
-				"imageUrl": "/hsr/UI/avatarshopicon/1102.webp",
-				"itemType": "Character",
-				"name": "希儿",
-				"nameEn": "Seele",
-				"damageType": "quantum",
-				"element": "quantum",
-				"rankType": 5,
-				"avatarBaseType": "rogue",
-				"weaponType": "rogue"
-			},
-			{
-				"itemId": 1109,
-				"imageUrl": "/hsr/UI/avatarshopicon/1109.webp",
-				"itemType": "Character",
-				"name": "虎克",
-				"nameEn": "Hook",
-				"damageType": "fire",
-				"element": "fire",
-				"rankType": 4,
-				"avatarBaseType": "warrior",
-				"weaponType": "warrior"
-			},
-			{
-				"itemId": 1105,
-				"imageUrl": "/hsr/UI/avatarshopicon/1105.webp",
-				"itemType": "Character",
-				"name": "娜塔莎",
-				"nameEn": "Natasha",
-				"damageType": "physical",
-				"element": "physical",
-				"rankType": 4,
-				"avatarBaseType": "priest",
-				"weaponType": "priest"
-			},
-			{
-				"itemId": 1106,
-				"imageUrl": "/hsr/UI/avatarshopicon/1106.webp",
-				"itemType": "Character",
-				"name": "佩拉",
-				"nameEn": "Pela",
-				"damageType": "ice",
-				"element": "ice",
-				"rankType": 4,
-				"avatarBaseType": "warlock",
-				"weaponType": "warlock"
-			}
-		],
-		"start": "2023-04-26 10:00:00",
-		"end": "2023-05-17 17:59:00"
-	}
+  {
+    "version": "4.2.2",
+    "start": "2026-05-13 12:00:00",
+    "end": "2026-06-01 03:59:00",
+    "items": [
+      {
+        "name": "缇宝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "星期日",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "飞霄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "绯英",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.2.1",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 11:59:00",
+    "items": [
+      {
+        "name": "大丽花",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "遐蝶",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "流萤",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "银狼LV.999",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.1.2",
+    "start": "2026-04-08 12:00:00",
+    "end": "2026-04-21 15:00:00",
+    "items": [
+      {
+        "name": "波提欧",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "不死途",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.1.1",
+    "start": "2026-03-25 10:00:00",
+    "end": "2026-04-08 11:59:00",
+    "items": [
+      {
+        "name": "风堇",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "不死途",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.0.2",
+    "start": "2026-03-03 12:00:00",
+    "end": "2026-03-24 15:00:00",
+    "items": [
+      {
+        "name": "火花",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "刻律德菈",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "乱破",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "花火",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "爻光",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.0.1",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-03 11:59:00",
+    "items": [
+      {
+        "name": "长夜月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "海瑟音",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "黑天鹅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "爻光",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.8.3",
+    "start": "2026-01-28 12:00:00",
+    "end": "2026-02-12 15:00:00",
+    "items": [
+      {
+        "name": "阿格莱雅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "星期日",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.8.2",
+    "start": "2026-01-07 12:00:00",
+    "end": "2026-01-28 11:59:00",
+    "items": [
+      {
+        "name": "忘归人",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "灵砂",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.8.1",
+    "start": "2025-12-17 10:00:00",
+    "end": "2026-01-07 11:59:00",
+    "items": [
+      {
+        "name": "大丽花",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "流萤",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.7.2",
+    "start": "2025-11-26 12:00:00",
+    "end": "2025-12-16 15:00:00",
+    "items": [
+      {
+        "name": "白厄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "赛飞儿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "万敌",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "昔涟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.7.1",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-11-26 11:59:00",
+    "items": [
+      {
+        "name": "风堇",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "遐蝶",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "缇宝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "昔涟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.6.2",
+    "start": "2025-10-15 12:00:00",
+    "end": "2025-11-04 15:00:00",
+    "items": [
+      {
+        "name": "丹恒•腾荒",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "那刻夏",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.6.1",
+    "start": "2025-09-24 10:00:00",
+    "end": "2025-10-15 11:59:00",
+    "items": [
+      {
+        "name": "长夜月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "大黑塔",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.5.2",
+    "start": "2025-09-02 12:00:00",
+    "end": "2025-09-23 15:00:00",
+    "items": [
+      {
+        "name": "刻律德菈",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "银狼",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.5.1",
+    "start": "2025-08-13 10:00:00",
+    "end": "2025-09-02 11:59:00",
+    "items": [
+      {
+        "name": "海瑟音",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "卡芙卡",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.4.2",
+    "start": "2025-07-23 12:00:00",
+    "end": "2025-08-12 15:00:00",
+    "items": [
+      {
+        "name": "流萤",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "镜流",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "刃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.4.1",
+    "start": "2025-07-11 12:00:00",
+    "end": "长期-undefined-undefined 00:00:00",
+    "items": [
+      {
+        "name": "Saber",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "Archer",
+        "itemType": "Character",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "3.4.1",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 11:59:00",
+    "items": [
+      {
+        "name": "白厄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "缇宝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "星期日",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "花火",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.3.2",
+    "start": "2025-06-11 12:00:00",
+    "end": "2025-07-01 15:00:00",
+    "items": [
+      {
+        "name": "赛飞儿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "阿格莱雅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.3.1",
+    "start": "2025-05-21 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "items": [
+      {
+        "name": "风堇",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "大黑塔",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.2.2",
+    "start": "2025-04-30 12:00:00",
+    "end": "2025-05-20 15:00:00",
+    "items": [
+      {
+        "name": "那刻夏",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "真理医生",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.2.1",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 11:59:00",
+    "items": [
+      {
+        "name": "遐蝶",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "忘归人",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "椒丘",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "黄泉",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.1.2",
+    "start": "2025-03-19 12:00:00",
+    "end": "2025-04-08 15:00:00",
+    "items": [
+      {
+        "name": "万敌",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "藿藿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.1.1",
+    "start": "2025-02-26 10:00:00",
+    "end": "2025-03-19 11:59:00",
+    "items": [
+      {
+        "name": "缇宝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "云璃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.0.2",
+    "start": "2025-02-05 12:00:00",
+    "end": "2025-02-25 15:00:00",
+    "items": [
+      {
+        "name": "阿格莱雅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "波提欧",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "知更鸟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "银狼",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.0.1",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 11:59:00",
+    "items": [
+      {
+        "name": "大黑塔",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "灵砂",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "飞霄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "翡翠",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.7.2",
+    "start": "2024-12-25 12:00:00",
+    "end": "2025-01-14 15:00:00",
+    "items": [
+      {
+        "name": "忘归人",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "流萤",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.7.1",
+    "start": "2024-12-04 10:00:00",
+    "end": "2024-12-25 11:59:00",
+    "items": [
+      {
+        "name": "星期日",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "景元",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.6.2",
+    "start": "2024-11-13 12:00:00",
+    "end": "2024-12-03 15:00:00",
+    "items": [
+      {
+        "name": "黄泉",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "砂金",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.6.1",
+    "start": "2024-10-23 10:00:00",
+    "end": "2024-11-13 11:59:00",
+    "items": [
+      {
+        "name": "乱破",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒•饮月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.5.2",
+    "start": "2024-10-02 12:00:00",
+    "end": "2024-10-22 15:00:00",
+    "items": [
+      {
+        "name": "灵砂",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "托帕&账账",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.5.1",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 11:59:00",
+    "items": [
+      {
+        "name": "飞霄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "卡芙卡",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "黑天鹅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "知更鸟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.4.2",
+    "start": "2024-08-21 12:00:00",
+    "end": "2024-09-09 15:00:00",
+    "items": [
+      {
+        "name": "椒丘",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "花火",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.4.1",
+    "start": "2024-07-31 10:00:00",
+    "end": "2024-08-21 11:59:00",
+    "items": [
+      {
+        "name": "云璃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "藿藿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.3.2",
+    "start": "2024-07-10 12:00:00",
+    "end": "2024-07-30 15:00:00",
+    "items": [
+      {
+        "name": "翡翠",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "银枝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.3.1",
+    "start": "2024-06-19 10:00:00",
+    "end": "2024-07-10 11:59:00",
+    "items": [
+      {
+        "name": "流萤",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "阮•梅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.2.2",
+    "start": "2024-05-29 12:00:00",
+    "end": "2024-06-18 15:00:00",
+    "items": [
+      {
+        "name": "波提欧",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "符玄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.2.1",
+    "start": "2024-05-08 10:00:00",
+    "end": "2024-05-29 11:59:00",
+    "items": [
+      {
+        "name": "知更鸟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "托帕&账账",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.1.2",
+    "start": "2024-04-17 12:00:00",
+    "end": "2024-05-07 15:00:00",
+    "items": [
+      {
+        "name": "砂金",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "镜流",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.1.1",
+    "start": "2024-03-27 10:00:00",
+    "end": "2024-04-17 11:59:00",
+    "items": [
+      {
+        "name": "黄泉",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "罗刹",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.0.2",
+    "start": "2024-02-29 12:00:00",
+    "end": "2024-03-26 15:00:00",
+    "items": [
+      {
+        "name": "花火",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "景元",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.0.1",
+    "start": "2024-02-06 10:00:00",
+    "end": "2024-02-29 11:59:00",
+    "items": [
+      {
+        "name": "黑天鹅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒•饮月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.6.2",
+    "start": "2024-01-17 12:00:00",
+    "end": "2024-02-05 15:00:00",
+    "items": [
+      {
+        "name": "真理医生",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "卡芙卡",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.6.1",
+    "start": "2023-12-27 10:00:00",
+    "end": "2024-01-17 11:59:00",
+    "items": [
+      {
+        "name": "阮•梅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "刃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.5.2",
+    "start": "2023-12-06 12:00:00",
+    "end": "2023-12-26 15:00:00",
+    "items": [
+      {
+        "name": "银枝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "银狼",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.5.1",
+    "start": "2023-11-15 10:00:00",
+    "end": "2023-12-06 11:59:00",
+    "items": [
+      {
+        "name": "藿藿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.4.2",
+    "start": "2023-10-27 12:00:00",
+    "end": "2023-11-14 15:00:00",
+    "items": [
+      {
+        "name": "托帕&账账",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "希儿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.4.1",
+    "start": "2023-10-11 10:00:00",
+    "end": "2023-10-27 11:59:00",
+    "items": [
+      {
+        "name": "镜流",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.3.2",
+    "start": "2023-09-20 12:00:00",
+    "end": "2023-10-10 15:00:00",
+    "items": [
+      {
+        "name": "符玄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.3.1",
+    "start": "2023-08-30 10:00:00",
+    "end": "2023-09-20 11:59:00",
+    "items": [
+      {
+        "name": "丹恒•饮月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.2.2",
+    "start": "2023-08-09 12:00:00",
+    "end": "2023-08-29 15:00:00",
+    "items": [
+      {
+        "name": "卡芙卡",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.2.1",
+    "start": "2023-07-19 10:00:00",
+    "end": "2023-08-09 11:59:00",
+    "items": [
+      {
+        "name": "刃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.1.2",
+    "start": "2023-06-28 12:00:00",
+    "end": "2023-07-18 15:00:00",
+    "items": [
+      {
+        "name": "罗刹",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.1.1",
+    "start": "2023-06-07 10:00:00",
+    "end": "2023-06-28 11:59:00",
+    "items": [
+      {
+        "name": "银狼",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.0.2",
+    "start": "2023-05-17 18:00:00",
+    "end": "2023-06-06 15:00:00",
+    "items": [
+      {
+        "name": "景元",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.0.1",
+    "start": "2023-04-26 10:00:00",
+    "end": "2023-05-17 17:59:00",
+    "items": [
+      {
+        "name": "希儿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  }
 ]
