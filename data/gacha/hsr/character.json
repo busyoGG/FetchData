@@ -1,1849 +1,1849 @@
 [
-	{
-		"version": "4.2.2",
-		"start": "2026-05-13 12:00:00",
-		"end": "2026-06-01 03:59:00",
-		"items": [
-			{
-				"name": "缇宝",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "星期日",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "飞霄",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "绯英",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "桂乃芬",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "素裳",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "4.2.1",
-		"start": "2026-04-22 10:00:00",
-		"end": "2026-05-13 11:59:00",
-		"items": [
-			{
-				"name": "大丽花",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "遐蝶",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "流萤",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "银狼LV.999",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "加拉赫",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "雪衣",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "虎克",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "4.1.2",
-		"start": "2026-04-08 12:00:00",
-		"end": "2026-04-21 15:00:00",
-		"items": [
-			{
-				"name": "波提欧",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "不死途",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "艾丝妲",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "貊泽",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "米沙",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "4.1.1",
-		"start": "2026-03-25 10:00:00",
-		"end": "2026-04-08 11:59:00",
-		"items": [
-			{
-				"name": "风堇",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "不死途",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "艾丝妲",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "貊泽",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "米沙",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "4.0.2",
-		"start": "2026-03-03 12:00:00",
-		"end": "2026-03-24 15:00:00",
-		"items": [
-			{
-				"name": "火花",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "刻律德菈",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "乱破",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "花火",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "爻光",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "寒鸦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "青雀",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "4.0.1",
-		"start": "2026-02-13 10:00:00",
-		"end": "2026-03-03 11:59:00",
-		"items": [
-			{
-				"name": "长夜月",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "海瑟音",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "黑天鹅",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "爻光",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "寒鸦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "青雀",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.8.3",
-		"start": "2026-01-28 12:00:00",
-		"end": "2026-02-12 15:00:00",
-		"items": [
-			{
-				"name": "阿格莱雅",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "星期日",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "驭空",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "停云",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "丹恒",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.8.2",
-		"start": "2026-01-07 12:00:00",
-		"end": "2026-01-28 11:59:00",
-		"items": [
-			{
-				"name": "忘归人",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "灵砂",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "桑博",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "娜塔莎",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "阿兰",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.8.1",
-		"start": "2025-12-17 10:00:00",
-		"end": "2026-01-07 11:59:00",
-		"items": [
-			{
-				"name": "大丽花",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "流萤",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "三月七•存护",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "卢卡",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "加拉赫",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.7.2",
-		"start": "2025-11-26 12:00:00",
-		"end": "2025-12-16 15:00:00",
-		"items": [
-			{
-				"name": "白厄",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "赛飞儿",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "万敌",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "昔涟",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "貊泽",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.7.1",
-		"start": "2025-11-05 10:00:00",
-		"end": "2025-11-26 11:59:00",
-		"items": [
-			{
-				"name": "风堇",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "遐蝶",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "缇宝",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "昔涟",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "貊泽",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.6.2",
-		"start": "2025-10-15 12:00:00",
-		"end": "2025-11-04 15:00:00",
-		"items": [
-			{
-				"name": "丹恒•腾荒",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "那刻夏",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "素裳",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "寒鸦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "希露瓦",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.6.1",
-		"start": "2025-09-24 10:00:00",
-		"end": "2025-10-15 11:59:00",
-		"items": [
-			{
-				"name": "长夜月",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "大黑塔",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "米沙",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "桂乃芬",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "雪衣",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.5.2",
-		"start": "2025-09-02 12:00:00",
-		"end": "2025-09-23 15:00:00",
-		"items": [
-			{
-				"name": "刻律德菈",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "银狼",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "桑博",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "青雀",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "丹恒",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.5.1",
-		"start": "2025-08-13 10:00:00",
-		"end": "2025-09-02 11:59:00",
-		"items": [
-			{
-				"name": "海瑟音",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "卡芙卡",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "艾丝妲",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "阿兰",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "虎克",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.4.2",
-		"start": "2025-07-23 12:00:00",
-		"end": "2025-08-12 15:00:00",
-		"items": [
-			{
-				"name": "流萤",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "镜流",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "刃",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "寒鸦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "卢卡",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.4.1",
-		"start": "2025-07-11 12:00:00",
-		"end": "长期-undefined-undefined 00:00:00",
-		"items": [
-			{
-				"name": "Saber",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "Archer",
-				"itemType": "Character",
-				"rankType": 5
-			}
-		]
-	},
-	{
-		"version": "3.4.1",
-		"start": "2025-07-02 10:00:00",
-		"end": "2025-07-23 11:59:00",
-		"items": [
-			{
-				"name": "白厄",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "缇宝",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "星期日",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "花火",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "停云",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "三月七•存护",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "驭空",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.3.2",
-		"start": "2025-06-11 12:00:00",
-		"end": "2025-07-01 15:00:00",
-		"items": [
-			{
-				"name": "赛飞儿",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "阿格莱雅",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "青雀",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "雪衣",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "素裳",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.3.1",
-		"start": "2025-05-21 10:00:00",
-		"end": "2025-06-11 11:59:00",
-		"items": [
-			{
-				"name": "风堇",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "大黑塔",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "米沙",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "希露瓦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "娜塔莎",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.2.2",
-		"start": "2025-04-30 12:00:00",
-		"end": "2025-05-20 15:00:00",
-		"items": [
-			{
-				"name": "那刻夏",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "真理医生",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "丹恒",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "希露瓦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "貊泽",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.2.1",
-		"start": "2025-04-09 10:00:00",
-		"end": "2025-04-30 11:59:00",
-		"items": [
-			{
-				"name": "遐蝶",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "忘归人",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "椒丘",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "黄泉",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "加拉赫",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.1.2",
-		"start": "2025-03-19 12:00:00",
-		"end": "2025-04-08 15:00:00",
-		"items": [
-			{
-				"name": "万敌",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "藿藿",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "阿兰",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "雪衣",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "娜塔莎",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.1.1",
-		"start": "2025-02-26 10:00:00",
-		"end": "2025-03-19 11:59:00",
-		"items": [
-			{
-				"name": "缇宝",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "云璃",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "虎克",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "桂乃芬",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.0.2",
-		"start": "2025-02-05 12:00:00",
-		"end": "2025-02-25 15:00:00",
-		"items": [
-			{
-				"name": "阿格莱雅",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "波提欧",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "知更鸟",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "银狼",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "停云",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "寒鸦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "素裳",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "3.0.1",
-		"start": "2025-01-15 10:00:00",
-		"end": "2025-02-05 11:59:00",
-		"items": [
-			{
-				"name": "大黑塔",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "灵砂",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "飞霄",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "翡翠",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "娜塔莎",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "艾丝妲",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "貊泽",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.7.2",
-		"start": "2024-12-25 12:00:00",
-		"end": "2025-01-14 15:00:00",
-		"items": [
-			{
-				"name": "忘归人",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "流萤",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "加拉赫",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "驭空",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "米沙",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.7.1",
-		"start": "2024-12-04 10:00:00",
-		"end": "2024-12-25 11:59:00",
-		"items": [
-			{
-				"name": "星期日",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "景元",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "青雀",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "阿兰",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "停云",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.6.2",
-		"start": "2024-11-13 12:00:00",
-		"end": "2024-12-03 15:00:00",
-		"items": [
-			{
-				"name": "黄泉",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "砂金",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "三月七•存护",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "桑博",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.6.1",
-		"start": "2024-10-23 10:00:00",
-		"end": "2024-11-13 11:59:00",
-		"items": [
-			{
-				"name": "乱破",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "丹恒•饮月",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "雪衣",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "驭空",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.5.2",
-		"start": "2024-10-02 12:00:00",
-		"end": "2024-10-22 15:00:00",
-		"items": [
-			{
-				"name": "灵砂",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "托帕&账账",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "米沙",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "娜塔莎",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "桂乃芬",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.5.1",
-		"start": "2024-09-10 10:00:00",
-		"end": "2024-10-02 11:59:00",
-		"items": [
-			{
-				"name": "飞霄",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "卡芙卡",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "黑天鹅",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "知更鸟",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "貊泽",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "艾丝妲",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "卢卡",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.4.2",
-		"start": "2024-08-21 12:00:00",
-		"end": "2024-09-09 15:00:00",
-		"items": [
-			{
-				"name": "椒丘",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "花火",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "虎克",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "桂乃芬",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "阿兰",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.4.1",
-		"start": "2024-07-31 10:00:00",
-		"end": "2024-08-21 11:59:00",
-		"items": [
-			{
-				"name": "云璃",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "藿藿",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "寒鸦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "驭空",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.3.2",
-		"start": "2024-07-10 12:00:00",
-		"end": "2024-07-30 15:00:00",
-		"items": [
-			{
-				"name": "翡翠",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "银枝",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "希露瓦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "娜塔莎",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "艾丝妲",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.3.1",
-		"start": "2024-06-19 10:00:00",
-		"end": "2024-07-10 11:59:00",
-		"items": [
-			{
-				"name": "流萤",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "阮•梅",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "加拉赫",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "米沙",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "雪衣",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.2.2",
-		"start": "2024-05-29 12:00:00",
-		"end": "2024-06-18 15:00:00",
-		"items": [
-			{
-				"name": "波提欧",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "符玄",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "卢卡",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "虎克",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.2.1",
-		"start": "2024-05-08 10:00:00",
-		"end": "2024-05-29 11:59:00",
-		"items": [
-			{
-				"name": "知更鸟",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "托帕&账账",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "三月七•存护",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "寒鸦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "雪衣",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.1.2",
-		"start": "2024-04-17 12:00:00",
-		"end": "2024-05-07 15:00:00",
-		"items": [
-			{
-				"name": "砂金",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "镜流",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "卢卡",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "希露瓦",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.1.1",
-		"start": "2024-03-27 10:00:00",
-		"end": "2024-04-17 11:59:00",
-		"items": [
-			{
-				"name": "黄泉",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "罗刹",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "加拉赫",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "丹恒",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.0.2",
-		"start": "2024-02-29 12:00:00",
-		"end": "2024-03-26 15:00:00",
-		"items": [
-			{
-				"name": "花火",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "景元",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "桑博",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "青雀",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "寒鸦",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "2.0.1",
-		"start": "2024-02-06 10:00:00",
-		"end": "2024-02-29 11:59:00",
-		"items": [
-			{
-				"name": "黑天鹅",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "丹恒•饮月",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "米沙",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "停云",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "桂乃芬",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.6.2",
-		"start": "2024-01-17 12:00:00",
-		"end": "2024-02-05 15:00:00",
-		"items": [
-			{
-				"name": "真理医生",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "卡芙卡",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "素裳",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "娜塔莎",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "虎克",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.6.1",
-		"start": "2023-12-27 10:00:00",
-		"end": "2024-01-17 11:59:00",
-		"items": [
-			{
-				"name": "阮•梅",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "刃",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "三月七•存护",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "停云",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "雪衣",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.5.2",
-		"start": "2023-12-06 12:00:00",
-		"end": "2023-12-26 15:00:00",
-		"items": [
-			{
-				"name": "银枝",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "银狼",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "寒鸦",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "艾丝妲",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.5.1",
-		"start": "2023-11-15 10:00:00",
-		"end": "2023-12-06 11:59:00",
-		"items": [
-			{
-				"name": "藿藿",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "丹恒",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "阿兰",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "希露瓦",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.4.2",
-		"start": "2023-10-27 12:00:00",
-		"end": "2023-11-14 15:00:00",
-		"items": [
-			{
-				"name": "托帕&账账",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "希儿",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "桂乃芬",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "卢卡",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "素裳",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.4.1",
-		"start": "2023-10-11 10:00:00",
-		"end": "2023-10-27 11:59:00",
-		"items": [
-			{
-				"name": "镜流",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "停云",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "青雀",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "桑博",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.3.2",
-		"start": "2023-09-20 12:00:00",
-		"end": "2023-10-10 15:00:00",
-		"items": [
-			{
-				"name": "符玄",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "玲可",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "虎克",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.3.1",
-		"start": "2023-08-30 10:00:00",
-		"end": "2023-09-20 11:59:00",
-		"items": [
-			{
-				"name": "丹恒•饮月",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "驭空",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "艾丝妲",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "三月七•存护",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.2.2",
-		"start": "2023-08-09 12:00:00",
-		"end": "2023-08-29 15:00:00",
-		"items": [
-			{
-				"name": "卡芙卡",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "卢卡",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "桑博",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "希露瓦",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.2.1",
-		"start": "2023-07-19 10:00:00",
-		"end": "2023-08-09 11:59:00",
-		"items": [
-			{
-				"name": "刃",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "阿兰",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "素裳",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "娜塔莎",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.1.2",
-		"start": "2023-06-28 12:00:00",
-		"end": "2023-07-18 15:00:00",
-		"items": [
-			{
-				"name": "罗刹",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "青雀",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "驭空",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.1.1",
-		"start": "2023-06-07 10:00:00",
-		"end": "2023-06-28 11:59:00",
-		"items": [
-			{
-				"name": "银狼",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "丹恒",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "艾丝妲",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "希露瓦",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.0.2",
-		"start": "2023-05-17 18:00:00",
-		"end": "2023-06-06 15:00:00",
-		"items": [
-			{
-				"name": "景元",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "素裳",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "三月七•存护",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "停云",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	},
-	{
-		"version": "1.0.1",
-		"start": "2023-04-26 10:00:00",
-		"end": "2023-05-17 17:59:00",
-		"items": [
-			{
-				"name": "希儿",
-				"itemType": "Character",
-				"rankType": 5
-			},
-			{
-				"name": "娜塔莎",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "虎克",
-				"itemType": "Character",
-				"rankType": 4
-			},
-			{
-				"name": "佩拉",
-				"itemType": "Character",
-				"rankType": 4
-			}
-		]
-	}
+  {
+    "version": "4.2.2",
+    "start": "2026-05-13 12:00:00",
+    "end": "2026-06-01 03:59:00",
+    "items": [
+      {
+        "name": "缇宝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "星期日",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "飞霄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "绯英",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.2.1",
+    "start": "2026-04-22 10:00:00",
+    "end": "2026-05-13 11:59:00",
+    "items": [
+      {
+        "name": "大丽花",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "遐蝶",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "流萤",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "银狼LV.999",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.1.2",
+    "start": "2026-04-08 12:00:00",
+    "end": "2026-04-21 15:00:00",
+    "items": [
+      {
+        "name": "波提欧",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "不死途",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.1.1",
+    "start": "2026-03-25 10:00:00",
+    "end": "2026-04-08 11:59:00",
+    "items": [
+      {
+        "name": "风堇",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "不死途",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.0.2",
+    "start": "2026-03-03 12:00:00",
+    "end": "2026-03-24 15:00:00",
+    "items": [
+      {
+        "name": "火花",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "刻律德菈",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "乱破",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "花火",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "爻光",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.0.1",
+    "start": "2026-02-13 10:00:00",
+    "end": "2026-03-03 11:59:00",
+    "items": [
+      {
+        "name": "长夜月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "海瑟音",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "黑天鹅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "爻光",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.8.3",
+    "start": "2026-01-28 12:00:00",
+    "end": "2026-02-12 15:00:00",
+    "items": [
+      {
+        "name": "阿格莱雅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "星期日",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.8.2",
+    "start": "2026-01-07 12:00:00",
+    "end": "2026-01-28 11:59:00",
+    "items": [
+      {
+        "name": "忘归人",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "灵砂",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.8.1",
+    "start": "2025-12-17 10:00:00",
+    "end": "2026-01-07 11:59:00",
+    "items": [
+      {
+        "name": "大丽花",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "流萤",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.7.2",
+    "start": "2025-11-26 12:00:00",
+    "end": "2025-12-16 15:00:00",
+    "items": [
+      {
+        "name": "白厄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "赛飞儿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "万敌",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "昔涟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.7.1",
+    "start": "2025-11-05 10:00:00",
+    "end": "2025-11-26 11:59:00",
+    "items": [
+      {
+        "name": "风堇",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "遐蝶",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "缇宝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "昔涟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.6.2",
+    "start": "2025-10-15 12:00:00",
+    "end": "2025-11-04 15:00:00",
+    "items": [
+      {
+        "name": "丹恒•腾荒",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "那刻夏",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.6.1",
+    "start": "2025-09-24 10:00:00",
+    "end": "2025-10-15 11:59:00",
+    "items": [
+      {
+        "name": "长夜月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "大黑塔",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.5.2",
+    "start": "2025-09-02 12:00:00",
+    "end": "2025-09-23 15:00:00",
+    "items": [
+      {
+        "name": "刻律德菈",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "银狼",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.5.1",
+    "start": "2025-08-13 10:00:00",
+    "end": "2025-09-02 11:59:00",
+    "items": [
+      {
+        "name": "海瑟音",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "卡芙卡",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.4.2",
+    "start": "2025-07-23 12:00:00",
+    "end": "2025-08-12 15:00:00",
+    "items": [
+      {
+        "name": "流萤",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "镜流",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "刃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.4.1",
+    "start": "2025-07-11 12:00:00",
+    "end": "长期-undefined-undefined 00:00:00",
+    "items": [
+      {
+        "name": "Saber",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "Archer",
+        "itemType": "Character",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "3.4.1",
+    "start": "2025-07-02 10:00:00",
+    "end": "2025-07-23 11:59:00",
+    "items": [
+      {
+        "name": "白厄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "缇宝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "星期日",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "花火",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.3.2",
+    "start": "2025-06-11 12:00:00",
+    "end": "2025-07-01 15:00:00",
+    "items": [
+      {
+        "name": "赛飞儿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "阿格莱雅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.3.1",
+    "start": "2025-05-21 10:00:00",
+    "end": "2025-06-11 11:59:00",
+    "items": [
+      {
+        "name": "风堇",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "大黑塔",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.2.2",
+    "start": "2025-04-30 12:00:00",
+    "end": "2025-05-20 15:00:00",
+    "items": [
+      {
+        "name": "那刻夏",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "真理医生",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.2.1",
+    "start": "2025-04-09 10:00:00",
+    "end": "2025-04-30 11:59:00",
+    "items": [
+      {
+        "name": "遐蝶",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "忘归人",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "椒丘",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "黄泉",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.1.2",
+    "start": "2025-03-19 12:00:00",
+    "end": "2025-04-08 15:00:00",
+    "items": [
+      {
+        "name": "万敌",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "藿藿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.1.1",
+    "start": "2025-02-26 10:00:00",
+    "end": "2025-03-19 11:59:00",
+    "items": [
+      {
+        "name": "缇宝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "云璃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.0.2",
+    "start": "2025-02-05 12:00:00",
+    "end": "2025-02-25 15:00:00",
+    "items": [
+      {
+        "name": "阿格莱雅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "波提欧",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "知更鸟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "银狼",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.0.1",
+    "start": "2025-01-15 10:00:00",
+    "end": "2025-02-05 11:59:00",
+    "items": [
+      {
+        "name": "大黑塔",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "灵砂",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "飞霄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "翡翠",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.7.2",
+    "start": "2024-12-25 12:00:00",
+    "end": "2025-01-14 15:00:00",
+    "items": [
+      {
+        "name": "忘归人",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "流萤",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.7.1",
+    "start": "2024-12-04 10:00:00",
+    "end": "2024-12-25 11:59:00",
+    "items": [
+      {
+        "name": "星期日",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "景元",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.6.2",
+    "start": "2024-11-13 12:00:00",
+    "end": "2024-12-03 15:00:00",
+    "items": [
+      {
+        "name": "黄泉",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "砂金",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.6.1",
+    "start": "2024-10-23 10:00:00",
+    "end": "2024-11-13 11:59:00",
+    "items": [
+      {
+        "name": "乱破",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒•饮月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.5.2",
+    "start": "2024-10-02 12:00:00",
+    "end": "2024-10-22 15:00:00",
+    "items": [
+      {
+        "name": "灵砂",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "托帕&账账",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.5.1",
+    "start": "2024-09-10 10:00:00",
+    "end": "2024-10-02 11:59:00",
+    "items": [
+      {
+        "name": "飞霄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "卡芙卡",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "黑天鹅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "知更鸟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.4.2",
+    "start": "2024-08-21 12:00:00",
+    "end": "2024-09-09 15:00:00",
+    "items": [
+      {
+        "name": "椒丘",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "花火",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.4.1",
+    "start": "2024-07-31 10:00:00",
+    "end": "2024-08-21 11:59:00",
+    "items": [
+      {
+        "name": "云璃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "藿藿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.3.2",
+    "start": "2024-07-10 12:00:00",
+    "end": "2024-07-30 15:00:00",
+    "items": [
+      {
+        "name": "翡翠",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "银枝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.3.1",
+    "start": "2024-06-19 10:00:00",
+    "end": "2024-07-10 11:59:00",
+    "items": [
+      {
+        "name": "流萤",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "阮•梅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.2.2",
+    "start": "2024-05-29 12:00:00",
+    "end": "2024-06-18 15:00:00",
+    "items": [
+      {
+        "name": "波提欧",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "符玄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.2.1",
+    "start": "2024-05-08 10:00:00",
+    "end": "2024-05-29 11:59:00",
+    "items": [
+      {
+        "name": "知更鸟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "托帕&账账",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.1.2",
+    "start": "2024-04-17 12:00:00",
+    "end": "2024-05-07 15:00:00",
+    "items": [
+      {
+        "name": "砂金",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "镜流",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.1.1",
+    "start": "2024-03-27 10:00:00",
+    "end": "2024-04-17 11:59:00",
+    "items": [
+      {
+        "name": "黄泉",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "罗刹",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.0.2",
+    "start": "2024-02-29 12:00:00",
+    "end": "2024-03-26 15:00:00",
+    "items": [
+      {
+        "name": "花火",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "景元",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.0.1",
+    "start": "2024-02-06 10:00:00",
+    "end": "2024-02-29 11:59:00",
+    "items": [
+      {
+        "name": "黑天鹅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒•饮月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "米沙",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.6.2",
+    "start": "2024-01-17 12:00:00",
+    "end": "2024-02-05 15:00:00",
+    "items": [
+      {
+        "name": "真理医生",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "卡芙卡",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.6.1",
+    "start": "2023-12-27 10:00:00",
+    "end": "2024-01-17 11:59:00",
+    "items": [
+      {
+        "name": "阮•梅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "刃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.5.2",
+    "start": "2023-12-06 12:00:00",
+    "end": "2023-12-26 15:00:00",
+    "items": [
+      {
+        "name": "银枝",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "银狼",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.5.1",
+    "start": "2023-11-15 10:00:00",
+    "end": "2023-12-06 11:59:00",
+    "items": [
+      {
+        "name": "藿藿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.4.2",
+    "start": "2023-10-27 12:00:00",
+    "end": "2023-11-14 15:00:00",
+    "items": [
+      {
+        "name": "托帕&账账",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "希儿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.4.1",
+    "start": "2023-10-11 10:00:00",
+    "end": "2023-10-27 11:59:00",
+    "items": [
+      {
+        "name": "镜流",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.3.2",
+    "start": "2023-09-20 12:00:00",
+    "end": "2023-10-10 15:00:00",
+    "items": [
+      {
+        "name": "符玄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "玲可",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.3.1",
+    "start": "2023-08-30 10:00:00",
+    "end": "2023-09-20 11:59:00",
+    "items": [
+      {
+        "name": "丹恒•饮月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.2.2",
+    "start": "2023-08-09 12:00:00",
+    "end": "2023-08-29 15:00:00",
+    "items": [
+      {
+        "name": "卡芙卡",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.2.1",
+    "start": "2023-07-19 10:00:00",
+    "end": "2023-08-09 11:59:00",
+    "items": [
+      {
+        "name": "刃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.1.2",
+    "start": "2023-06-28 12:00:00",
+    "end": "2023-07-18 15:00:00",
+    "items": [
+      {
+        "name": "罗刹",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.1.1",
+    "start": "2023-06-07 10:00:00",
+    "end": "2023-06-28 11:59:00",
+    "items": [
+      {
+        "name": "银狼",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "艾丝妲",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.0.2",
+    "start": "2023-05-17 18:00:00",
+    "end": "2023-06-06 15:00:00",
+    "items": [
+      {
+        "name": "景元",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "1.0.1",
+    "start": "2023-04-26 10:00:00",
+    "end": "2023-05-17 17:59:00",
+    "items": [
+      {
+        "name": "希儿",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "娜塔莎",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "佩拉",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  }
 ]
