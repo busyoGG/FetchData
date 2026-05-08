@@ -1,5 +1,32 @@
 [
   {
+    "version": "2.8.1",
+    "start": "2026-05-06 10:00:00",
+    "end": "2026-05-27 11:59:59",
+    "items": [
+      {
+        "name": "普罗米娅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "卢西娅",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "苍角",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "露西",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "2.7.2",
     "start": "2026-04-15 12:00:00",
     "end": "2026-05-05 14:59:59",
