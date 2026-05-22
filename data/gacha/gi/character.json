@@ -1,5 +1,54 @@
 [
   {
+    "version": "月之七下半",
+    "start": "2026-06-09 18:00:00",
+    "end": "2026-06-29 14:59:00",
+    "items": [
+      {
+        "name": "洛恩",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "玛薇卡",
+        "itemType": "Character",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "月之七上半",
+    "start": "2026-05-20 06:00:00",
+    "end": "2026-06-09 17:59:00",
+    "items": [
+      {
+        "name": "尼可",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "杜林",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "布伦妮",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雷泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "菲谢尔",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "月之六下半",
     "start": "2026-04-28 18:00:00",
     "end": "2026-05-19 14:59:00",

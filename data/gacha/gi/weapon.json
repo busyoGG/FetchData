@@ -1,5 +1,59 @@
 [
   {
+    "version": "月之七下半",
+    "start": "2026-06-09 18:00:00",
+    "end": "2026-06-29 14:59:00",
+    "items": [
+      {
+        "name": "灾悔（页面不存在）",
+        "itemType": "Weapon",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "月之七上半",
+    "start": "2026-05-20 06:00:00",
+    "end": "2026-06-09 17:59:00",
+    "items": [
+      {
+        "name": "尘光七谕",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "黑蚀",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "织月者的曙色",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "幽夜华尔兹",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "钟剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "匣里灭辰",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "流浪乐章",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "月之六下半",
     "start": "2026-04-28 18:00:00",
     "end": "2026-05-19 14:59:00",
