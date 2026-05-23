@@ -1,5 +1,74 @@
 [
   {
+    "version": "4.3.2",
+    "start": "2026-06-24 12:00:00",
+    "end": "2026-07-14 15:00:00",
+    "items": [
+      {
+        "name": "黎明恰如此燃烧",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "爱如此刻永恒",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "秘密誓心",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "点个关注吧！",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "舞！舞！舞！",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.3.1",
+    "start": "2026-06-02 10:00:00",
+    "end": "2026-06-24 11:59:00",
+    "items": [
+      {
+        "name": "当她决定看见",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "文件:灼尽炼狱的新骸.png",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "灼尽炼狱的新骸",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "晚安与睡颜",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "余生的第一天",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "鼹鼠党欢迎你",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "4.2.2",
     "start": "2026-05-13 12:00:00",
     "end": "2026-06-01 03:59:00",

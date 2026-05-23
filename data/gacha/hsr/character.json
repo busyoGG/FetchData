@@ -1,5 +1,74 @@
 [
   {
+    "version": "4.3.2",
+    "start": "2026-06-24 12:00:00",
+    "end": "2026-07-14 15:00:00",
+    "items": [
+      {
+        "name": "白厄",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "昔涟",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "三月七•存护",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "阿兰",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "驭空",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.3.1",
+    "start": "2026-06-02 10:00:00",
+    "end": "2026-06-24 11:59:00",
+    "items": [
+      {
+        "name": "爻光",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "文件:千冶•刃.png",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "千冶•刃",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "卢卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "停云",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "4.2.2",
     "start": "2026-05-13 12:00:00",
     "end": "2026-06-01 03:59:00",
