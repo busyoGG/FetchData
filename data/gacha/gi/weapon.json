@@ -2,12 +2,42 @@
   {
     "version": "月之七下半",
     "start": "2026-06-09 18:00:00",
-    "end": "2026-06-29 14:59:00",
+    "end": "2026-06-30 14:59:00",
     "items": [
       {
         "name": "灾悔（页面不存在）",
         "itemType": "Weapon",
         "rankType": 5
+      },
+      {
+        "name": "焚曜千阳",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "暗巷闪光",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "暗巷的酒与诗",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "暗巷猎手",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "雨裁",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "西风长枪",
+        "itemType": "Weapon",
+        "rankType": 4
       }
     ]
   },

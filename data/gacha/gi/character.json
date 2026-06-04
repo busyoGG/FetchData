@@ -2,7 +2,7 @@
   {
     "version": "月之七下半",
     "start": "2026-06-09 18:00:00",
-    "end": "2026-06-29 14:59:00",
+    "end": "2026-06-30 14:59:00",
     "items": [
       {
         "name": "洛恩",
@@ -13,6 +13,21 @@
         "name": "玛薇卡",
         "itemType": "Character",
         "rankType": 5
+      },
+      {
+        "name": "米卡",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "香菱",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "班尼特",
+        "itemType": "Character",
+        "rankType": 4
       }
     ]
   },
