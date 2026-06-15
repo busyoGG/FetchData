@@ -1,5 +1,86 @@
 [
   {
+    "version": "3.0.2",
+    "start": "2026-07-08 12:00:00",
+    "end": "2026-07-28 14:59:59",
+    "items": [
+      {
+        "name": "首席跟班（页面不存在）",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "思络成歌",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "裁纸刀",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "比格气缸",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "3.0.1",
+    "start": "2026-06-17 10:00:00",
+    "end": "2026-07-08 11:59:59",
+    "items": [
+      {
+        "name": "朔月裁霜",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "云霓孤光",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "聚宝箱",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "轰鸣座驾",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "2.8.2",
+    "start": "2026-05-27 12:00:00",
+    "end": "2026-06-16 14:59:59",
+    "items": [
+      {
+        "name": "辉骑面铠",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "嚣枪喧焰",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "震元奇枢",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "燔火胧夜",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "2.8.1",
     "start": "2026-05-06 10:00:00",
     "end": "2026-05-27 11:59:59",
