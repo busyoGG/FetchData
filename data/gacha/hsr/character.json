@@ -1,5 +1,126 @@
 [
   {
+    "version": "4.4.2",
+    "start": "2026-08-05 12:00:00",
+    "end": "2026-08-25 15:00:00",
+    "items": [
+      {
+        "name": "刻律德菈",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "那刻夏",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "砂金",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "文件:姬子•启行.png",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "姬子•启行",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.4.1",
+    "start": "2026-07-24 12:00:00",
+    "end": "长期-undefined-undefined 00:00:00",
+    "items": [
+      {
+        "name": "文件:吉尔伽美什.png",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "吉尔伽美什",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "文件:远坂凛.png",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "远坂凛",
+        "itemType": "Character",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "4.4.1",
+    "start": "2026-07-15 10:00:00",
+    "end": "2026-08-05 11:59:00",
+    "items": [
+      {
+        "name": "火花",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒•腾荒",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "长夜月",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "文件:姬子•启行.png",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "姬子•启行",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "貊泽",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "寒鸦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "希露瓦",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "4.3.2",
     "start": "2026-06-24 12:00:00",
     "end": "2026-07-14 15:00:00",

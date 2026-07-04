@@ -1,5 +1,126 @@
 [
   {
+    "version": "4.4.2",
+    "start": "2026-08-05 12:00:00",
+    "end": "2026-08-25 15:00:00",
+    "items": [
+      {
+        "name": "金血铭刻的时代",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "生命当付之一炬",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "命运从未公平",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "文件:当一颗星照亮夜空.png",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "当一颗星照亮夜空",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "谐乐静默之后",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "在蓝天下",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "「我」的诞生",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.4.1",
+    "start": "2026-07-24 12:00:00",
+    "end": "长期-undefined-undefined 00:00:00",
+    "items": [
+      {
+        "name": "文件:所见即我.png",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "所见即我",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "文件:星火悄然闪耀.png",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "星火悄然闪耀",
+        "itemType": "Weapon",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "4.4.1",
+    "start": "2026-07-15 10:00:00",
+    "end": "2026-08-05 11:59:00",
+    "items": [
+      {
+        "name": "花花世界迷人眼",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "纵然山河万程",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "致长夜的星光",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "文件:当一颗星照亮夜空.png",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "当一颗星照亮夜空",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "谐乐静默之后",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "在蓝天下",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "「我」的诞生",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "4.3.2",
     "start": "2026-06-24 12:00:00",
     "end": "2026-07-14 15:00:00",
