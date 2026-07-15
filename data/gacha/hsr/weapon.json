@@ -20,11 +20,6 @@
         "rankType": 5
       },
       {
-        "name": "文件:当一颗星照亮夜空.png",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
         "name": "当一颗星照亮夜空",
         "itemType": "Weapon",
         "rankType": 5
@@ -52,17 +47,7 @@
     "end": "长期-undefined-undefined 00:00:00",
     "items": [
       {
-        "name": "文件:所见即我.png",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
         "name": "所见即我",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
-        "name": "文件:星火悄然闪耀.png",
         "itemType": "Weapon",
         "rankType": 5
       },
@@ -90,11 +75,6 @@
       },
       {
         "name": "致长夜的星光",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
-        "name": "文件:当一颗星照亮夜空.png",
         "itemType": "Weapon",
         "rankType": 5
       },
