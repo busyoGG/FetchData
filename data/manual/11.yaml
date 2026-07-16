@@ -14,9 +14,7 @@
   from: '2026-07-24 12:00:00'
   to: 长期-undefined-undefined 00:00:00
   five:
-    - 文件:吉尔伽美什.png
     - 吉尔伽美什
-    - 文件:远坂凛.png
     - 远坂凛
   four: []
 - version: 4.4.1

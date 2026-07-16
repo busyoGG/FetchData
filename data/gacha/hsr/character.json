@@ -47,17 +47,7 @@
     "end": "长期-undefined-undefined 00:00:00",
     "items": [
       {
-        "name": "文件:吉尔伽美什.png",
-        "itemType": "Character",
-        "rankType": 5
-      },
-      {
         "name": "吉尔伽美什",
-        "itemType": "Character",
-        "rankType": 5
-      },
-      {
-        "name": "文件:远坂凛.png",
         "itemType": "Character",
         "rankType": 5
       },
