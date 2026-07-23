@@ -13,6 +13,21 @@
         "name": "雷电将军",
         "itemType": "Character",
         "rankType": 5
+      },
+      {
+        "name": "雅珂达",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "欧洛伦",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "赛索斯",
+        "itemType": "Character",
+        "rankType": 4
       }
     ]
   },

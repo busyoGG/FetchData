@@ -13,6 +13,31 @@
         "name": "薙草之稻光",
         "itemType": "Weapon",
         "rankType": 5
+      },
+      {
+        "name": "乘浪的回旋",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "祭礼剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "钟剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "西风长枪",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "西风猎弓",
+        "itemType": "Weapon",
+        "rankType": 4
       }
     ]
   },
