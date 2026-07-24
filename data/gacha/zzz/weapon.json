@@ -1,9 +1,29 @@
 [
   {
-    "version": "3.0.2",
+    "version": "3.1.2",
     "start": "2026-07-08 12:00:00",
     "end": "2026-07-28 14:59:59",
     "items": [
+      {
+        "name": "骁骑礼赞（页面不存在）",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "昨夜来电",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "狸法七变化",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "残心青囊",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
       {
         "name": "首席跟班",
         "itemType": "Weapon",
@@ -11,6 +31,16 @@
       },
       {
         "name": "思络成歌",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "空羽复归之诗（页面不存在）",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "壳中之灵",
         "itemType": "Weapon",
         "rankType": 5
       },
@@ -38,6 +68,16 @@
       },
       {
         "name": "云霓孤光",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "空羽复归之诗（页面不存在）",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "壳中之灵",
         "itemType": "Weapon",
         "rankType": 5
       },

@@ -1,9 +1,41 @@
 [
   {
-    "version": "3.0.2",
+    "version": "3.1.2",
+    "start": "2026-08-19 12:00:00",
+    "end": "2026-09-08 14:59:59",
+    "items": [
+      {
+        "name": "希格莉德（页面不存在）",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "蕾米埃尔（页面不存在）",
+        "itemType": "Character",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "3.1.2",
     "start": "2026-07-08 12:00:00",
     "end": "2026-07-28 14:59:59",
     "items": [
+      {
+        "name": "琉音",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "柚叶",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "悠真",
+        "itemType": "Character",
+        "rankType": 5
+      },
       {
         "name": "诺姆",
         "itemType": "Character",
@@ -11,6 +43,16 @@
       },
       {
         "name": "千夏",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "蕾米埃尔（页面不存在）",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "爱芮",
         "itemType": "Character",
         "rankType": 5
       },
@@ -38,6 +80,16 @@
       },
       {
         "name": "叶瞬光",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "蕾米埃尔（页面不存在）",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "爱芮",
         "itemType": "Character",
         "rankType": 5
       },
