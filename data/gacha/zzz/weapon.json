@@ -1,14 +1,26 @@
 [
   {
     "version": "3.1.2",
-    "start": "2026-07-08 12:00:00",
-    "end": "2026-07-28 14:59:59",
+    "start": "2026-08-19 12:00:00",
+    "end": "2026-09-08 14:59:59",
     "items": [
       {
         "name": "骁骑礼赞（页面不存在）",
         "itemType": "Weapon",
         "rankType": 5
       },
+      {
+        "name": "空羽复归之诗（页面不存在）",
+        "itemType": "Weapon",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "3.1.2",
+    "start": "2026-08-18 12:00:00",
+    "end": "2026-09-07 14:59:59",
+    "items": [
       {
         "name": "昨夜来电",
         "itemType": "Weapon",
@@ -25,12 +37,19 @@
         "rankType": 5
       },
       {
-        "name": "首席跟班",
+        "name": "空羽复归之诗（页面不存在）",
         "itemType": "Weapon",
         "rankType": 5
-      },
+      }
+    ]
+  },
+  {
+    "version": "3.1",
+    "start": "2026-07-29 10:00:00",
+    "end": "2026-08-19 11:59:59",
+    "items": [
       {
-        "name": "思络成歌",
+        "name": "壳中之灵",
         "itemType": "Weapon",
         "rankType": 5
       },
@@ -38,9 +57,21 @@
         "name": "空羽复归之诗（页面不存在）",
         "itemType": "Weapon",
         "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "3.0.2",
+    "start": "2026-07-08 12:00:00",
+    "end": "2026-07-28 14:59:59",
+    "items": [
+      {
+        "name": "首席跟班",
+        "itemType": "Weapon",
+        "rankType": 5
       },
       {
-        "name": "壳中之灵",
+        "name": "思络成歌",
         "itemType": "Weapon",
         "rankType": 5
       },
@@ -68,16 +99,6 @@
       },
       {
         "name": "云霓孤光",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
-        "name": "空羽复归之诗（页面不存在）",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
-        "name": "壳中之灵",
         "itemType": "Weapon",
         "rankType": 5
       },
