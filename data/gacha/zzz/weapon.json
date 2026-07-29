@@ -5,12 +5,7 @@
     "end": "2026-09-08 14:59:59",
     "items": [
       {
-        "name": "骁骑礼赞（页面不存在）",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
-        "name": "空羽复归之诗（页面不存在）",
+        "name": "空羽复归之诗",
         "itemType": "Weapon",
         "rankType": 5
       }
@@ -18,7 +13,7 @@
   },
   {
     "version": "3.1.2",
-    "start": "2026-08-18 12:00:00",
+    "start": "2026-08-19 12:00:00",
     "end": "2026-09-07 14:59:59",
     "items": [
       {
@@ -37,14 +32,19 @@
         "rankType": 5
       },
       {
-        "name": "空羽复归之诗（页面不存在）",
+        "name": "骁骑礼赞（页面不存在）",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "空羽复归之诗",
         "itemType": "Weapon",
         "rankType": 5
       }
     ]
   },
   {
-    "version": "3.1",
+    "version": "3.1.1",
     "start": "2026-07-29 10:00:00",
     "end": "2026-08-19 11:59:59",
     "items": [
@@ -54,7 +54,7 @@
         "rankType": 5
       },
       {
-        "name": "空羽复归之诗（页面不存在）",
+        "name": "空羽复归之诗",
         "itemType": "Weapon",
         "rankType": 5
       }
