@@ -35,6 +35,16 @@
         "name": "阿罗夏",
         "itemType": "Character",
         "rankType": 4
+      },
+      {
+        "name": "砂糖",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "琳妮特",
+        "itemType": "Character",
+        "rankType": 4
       }
     ]
   },

@@ -30,6 +30,31 @@
         "name": "赤月之形",
         "itemType": "Weapon",
         "rankType": 5
+      },
+      {
+        "name": "西风剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "钟剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "匣里灭辰",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "祭礼残章",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "弓藏",
+        "itemType": "Weapon",
+        "rankType": 4
       }
     ]
   },
