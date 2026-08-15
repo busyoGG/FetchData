@@ -1,5 +1,84 @@
 [
   {
+    "version": "4.5.2",
+    "start": "2026-09-12 12:00:00",
+    "end": "2026-09-28 03:59:00",
+    "items": [
+      {
+        "name": "文件:向浪花掷下盛夏.png",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "向浪花掷下盛夏",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "一场谎言的终幕",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "唯有沉默",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "此时恰好",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "故事的下一页",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.5.1",
+    "start": "2026-08-26 10:00:00",
+    "end": "2026-09-12 11:59:00",
+    "items": [
+      {
+        "name": "文件:你将起身歌唱.png",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "你将起身歌唱",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "愿虹光永驻天空",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "梦的蒙太奇",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "天才们的问候",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "文件:放个短假.png",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "放个短假",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "4.4.2",
     "start": "2026-08-05 12:00:00",
     "end": "2026-08-25 15:00:00",
@@ -138,12 +217,12 @@
     "end": "2026-06-24 11:59:00",
     "items": [
       {
-        "name": "当她决定看见",
+        "name": "灼尽炼狱的新骸",
         "itemType": "Weapon",
         "rankType": 5
       },
       {
-        "name": "灼尽炼狱的新骸",
+        "name": "当她决定看见",
         "itemType": "Weapon",
         "rankType": 5
       },
@@ -170,6 +249,11 @@
     "end": "2026-06-01 03:59:00",
     "items": [
       {
+        "name": "邂逅于下一个花季",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
         "name": "如果时间是一朵花",
         "itemType": "Weapon",
         "rankType": 5
@@ -181,11 +265,6 @@
       },
       {
         "name": "我将，巡征追猎",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
-        "name": "邂逅于下一个花季",
         "itemType": "Weapon",
         "rankType": 5
       },
@@ -212,6 +291,11 @@
     "end": "2026-05-13 11:59:00",
     "items": [
       {
+        "name": "欢迎来到银河城",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
         "name": "勿忘她的火焰",
         "itemType": "Weapon",
         "rankType": 5
@@ -223,11 +307,6 @@
       },
       {
         "name": "梦应归于何处",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
-        "name": "欢迎来到银河城",
         "itemType": "Weapon",
         "rankType": 5
       },

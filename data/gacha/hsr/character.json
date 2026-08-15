@@ -1,5 +1,99 @@
 [
   {
+    "version": "4.5.2",
+    "start": "2026-09-12 12:00:00",
+    "end": "2026-09-28 03:59:00",
+    "items": [
+      {
+        "name": "文件:砂金•戏浪.png",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "砂金•戏浪",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "不死途",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.5.1",
+    "start": "2026-08-26 10:00:00",
+    "end": "2026-09-12 11:59:00",
+    "items": [
+      {
+        "name": "文件:知更鸟•晴歌.png",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "知更鸟•晴歌",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "风堇",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "不死途",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "丹恒",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "青雀",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桑博",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "桂乃芬",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "4.4.2",
     "start": "2026-08-05 12:00:00",
     "end": "2026-08-25 15:00:00",
@@ -138,12 +232,12 @@
     "end": "2026-06-24 11:59:00",
     "items": [
       {
-        "name": "爻光",
+        "name": "千冶•刃",
         "itemType": "Character",
         "rankType": 5
       },
       {
-        "name": "千冶•刃",
+        "name": "爻光",
         "itemType": "Character",
         "rankType": 5
       },
@@ -170,6 +264,11 @@
     "end": "2026-06-01 03:59:00",
     "items": [
       {
+        "name": "绯英",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
         "name": "缇宝",
         "itemType": "Character",
         "rankType": 5
@@ -181,11 +280,6 @@
       },
       {
         "name": "飞霄",
-        "itemType": "Character",
-        "rankType": 5
-      },
-      {
-        "name": "绯英",
         "itemType": "Character",
         "rankType": 5
       },
@@ -212,6 +306,11 @@
     "end": "2026-05-13 11:59:00",
     "items": [
       {
+        "name": "银狼LV.999",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
         "name": "大丽花",
         "itemType": "Character",
         "rankType": 5
@@ -223,11 +322,6 @@
       },
       {
         "name": "流萤",
-        "itemType": "Character",
-        "rankType": 5
-      },
-      {
-        "name": "银狼LV.999",
         "itemType": "Character",
         "rankType": 5
       },
