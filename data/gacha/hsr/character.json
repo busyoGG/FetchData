@@ -57,11 +57,6 @@
         "rankType": 5
       },
       {
-        "name": "不死途",
-        "itemType": "Character",
-        "rankType": 5
-      },
-      {
         "name": "丹恒",
         "itemType": "Character",
         "rankType": 4
@@ -73,21 +68,6 @@
       },
       {
         "name": "加拉赫",
-        "itemType": "Character",
-        "rankType": 4
-      },
-      {
-        "name": "桑博",
-        "itemType": "Character",
-        "rankType": 4
-      },
-      {
-        "name": "虎克",
-        "itemType": "Character",
-        "rankType": 4
-      },
-      {
-        "name": "桂乃芬",
         "itemType": "Character",
         "rankType": 4
       }
@@ -295,6 +275,21 @@
       },
       {
         "name": "素裳",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "加拉赫",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "雪衣",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "虎克",
         "itemType": "Character",
         "rankType": 4
       }

@@ -282,6 +282,21 @@
         "name": "同一种心情",
         "itemType": "Weapon",
         "rankType": 4
+      },
+      {
+        "name": "芳华待灼",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "铭记于心的约定",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "猎物的视线",
+        "itemType": "Weapon",
+        "rankType": 4
       }
     ]
   },
