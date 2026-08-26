@@ -5,11 +5,6 @@
     "end": "2026-09-28 03:59:00",
     "items": [
       {
-        "name": "文件:向浪花掷下盛夏.png",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
         "name": "向浪花掷下盛夏",
         "itemType": "Weapon",
         "rankType": 5
@@ -42,11 +37,6 @@
     "end": "2026-09-12 11:59:00",
     "items": [
       {
-        "name": "文件:你将起身歌唱.png",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
         "name": "你将起身歌唱",
         "itemType": "Weapon",
         "rankType": 5
@@ -63,11 +53,6 @@
       },
       {
         "name": "天才们的问候",
-        "itemType": "Weapon",
-        "rankType": 4
-      },
-      {
-        "name": "文件:放个短假.png",
         "itemType": "Weapon",
         "rankType": 4
       },
