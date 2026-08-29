@@ -13,6 +13,31 @@
         "name": "支离轮光",
         "itemType": "Weapon",
         "rankType": 5
+      },
+      {
+        "name": "笛剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "西风大剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "西风长枪",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "昭心",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "绝弦",
+        "itemType": "Weapon",
+        "rankType": 4
       }
     ]
   },
