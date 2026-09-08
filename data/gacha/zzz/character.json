@@ -5,17 +5,10 @@
     "end": "2026-09-08 14:59:59",
     "items": [
       {
-        "name": "蕾米埃尔",
+        "name": "希格莉德",
         "itemType": "Character",
         "rankType": 5
-      }
-    ]
-  },
-  {
-    "version": "3.1.2",
-    "start": "2026-08-19 12:00:00",
-    "end": "2026-09-07 14:59:59",
-    "items": [
+      },
       {
         "name": "琉音",
         "itemType": "Character",
@@ -28,11 +21,6 @@
       },
       {
         "name": "悠真",
-        "itemType": "Character",
-        "rankType": 5
-      },
-      {
-        "name": "希格莉德",
         "itemType": "Character",
         "rankType": 5
       },

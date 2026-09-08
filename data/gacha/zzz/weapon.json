@@ -5,17 +5,10 @@
     "end": "2026-09-08 14:59:59",
     "items": [
       {
-        "name": "空羽复归之诗",
+        "name": "骁骑礼赞",
         "itemType": "Weapon",
         "rankType": 5
-      }
-    ]
-  },
-  {
-    "version": "3.1.2",
-    "start": "2026-08-19 12:00:00",
-    "end": "2026-09-07 14:59:59",
-    "items": [
+      },
       {
         "name": "昨夜来电",
         "itemType": "Weapon",
@@ -28,11 +21,6 @@
       },
       {
         "name": "残心青囊",
-        "itemType": "Weapon",
-        "rankType": 5
-      },
-      {
-        "name": "骁骑礼赞",
         "itemType": "Weapon",
         "rankType": 5
       },
