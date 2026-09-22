@@ -1,5 +1,54 @@
 [
   {
+    "version": "7.1.2",
+    "start": "2026-10-13 18:00:00",
+    "end": "2026-11-03 14:59:00",
+    "items": [
+      {
+        "name": "丝柯克",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "爱可菲",
+        "itemType": "Character",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "7.1.1",
+    "start": "2026-09-23 06:00:00",
+    "end": "2026-10-13 17:59:00",
+    "items": [
+      {
+        "name": "薇斯纳",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "沃雅妮莎",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "迪奥娜",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "珐露珊",
+        "itemType": "Character",
+        "rankType": 4
+      },
+      {
+        "name": "重云",
+        "itemType": "Character",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "7.0.2",
     "start": "2026-09-01 18:00:00",
     "end": "2026-09-22 14:59:00",
