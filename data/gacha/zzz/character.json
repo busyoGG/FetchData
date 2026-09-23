@@ -1,5 +1,39 @@
 [
   {
+    "version": "3.2.2",
+    "start": "2026-09-30 12:00:00",
+    "end": "2026-10-20 14:59:59",
+    "items": [
+      {
+        "name": "洛克茜",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "普罗米娅",
+        "itemType": "Character",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "3.2.1",
+    "start": "2026-09-09 10:00:00",
+    "end": "2026-09-30 11:59:59",
+    "items": [
+      {
+        "name": "克拉蕾",
+        "itemType": "Character",
+        "rankType": 5
+      },
+      {
+        "name": "南宫羽",
+        "itemType": "Character",
+        "rankType": 5
+      }
+    ]
+  },
+  {
     "version": "3.1.2",
     "start": "2026-08-19 12:00:00",
     "end": "2026-09-08 14:59:59",

@@ -1,5 +1,39 @@
 [
   {
+    "version": "3.2.2",
+    "start": "2026-09-30 12:00:00",
+    "end": "2026-10-20 14:59:59",
+    "items": [
+      {
+        "name": "绯月银棺（页面不存在）",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "朔月裁霜",
+        "itemType": "Weapon",
+        "rankType": 5
+      }
+    ]
+  },
+  {
+    "version": "3.2.1",
+    "start": "2026-09-09 10:00:00",
+    "end": "2026-09-30 11:59:59",
+    "items": [
+      {
+        "name": "猩红渴望",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "霓虹妄想",
+        "itemType": "Weapon",
+        "rankType": 5
+      }
+    ]
+  },
+  {
     "version": "3.1.2",
     "start": "2026-08-19 12:00:00",
     "end": "2026-09-08 14:59:59",
