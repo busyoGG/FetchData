@@ -10,11 +10,6 @@
         "rankType": 5
       },
       {
-        "name": "文件:真珠.png",
-        "itemType": "Character",
-        "rankType": 5
-      },
-      {
         "name": "真珠",
         "itemType": "Character",
         "rankType": 5
@@ -43,11 +38,6 @@
     "items": [
       {
         "name": "绯英",
-        "itemType": "Character",
-        "rankType": 5
-      },
-      {
-        "name": "文件:真珠.png",
         "itemType": "Character",
         "rankType": 5
       },
