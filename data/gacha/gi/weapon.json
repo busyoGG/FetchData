@@ -13,6 +13,31 @@
         "name": "香韵奏者",
         "itemType": "Weapon",
         "rankType": 5
+      },
+      {
+        "name": "弥坚骨",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "祭礼大剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "西风长枪",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "流浪乐章",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "祭礼弓",
+        "itemType": "Weapon",
+        "rankType": 4
       }
     ]
   },
