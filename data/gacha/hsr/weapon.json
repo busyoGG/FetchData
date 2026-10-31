@@ -1,5 +1,99 @@
 [
   {
+    "version": "4.7.2",
+    "start": "2026-12-02 12:00:00",
+    "end": "2026-12-22 15:00:00",
+    "items": [
+      {
+        "name": "行于流逝的岸",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "比阳光更明亮的",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "拂晓之前",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "文件:当第一声「阿哈」响起.png",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "当第一声「阿哈」响起",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "宇宙市场趋势",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "天才们的休憩",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "黑夜如影随行",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
+    "version": "4.7.1",
+    "start": "2026-11-11 10:00:00",
+    "end": "2026-12-02 11:59:00",
+    "items": [
+      {
+        "name": "欢迎来到银河城",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "花花世界迷人眼",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "当她决定看见",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "文件:当第一声「阿哈」响起.png",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "当第一声「阿哈」响起",
+        "itemType": "Weapon",
+        "rankType": 5
+      },
+      {
+        "name": "宇宙市场趋势",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "天才们的休憩",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "黑夜如影随行",
+        "itemType": "Weapon",
+        "rankType": 4
+      }
+    ]
+  },
+  {
     "version": "4.6.2",
     "start": "2026-10-21 12:00:00",
     "end": "2026-11-10 15:00:00",
