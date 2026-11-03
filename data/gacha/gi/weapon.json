@@ -30,6 +30,31 @@
         "name": "静水流涌之辉",
         "itemType": "Weapon",
         "rankType": 5
+      },
+      {
+        "name": "船坞长剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "勘探钻机",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "霜辰",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "雨裁",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "弓藏",
+        "itemType": "Weapon",
+        "rankType": 4
       }
     ]
   },
