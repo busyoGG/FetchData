@@ -13,6 +13,31 @@
         "name": "霜结的誓金枝",
         "itemType": "Weapon",
         "rankType": 5
+      },
+      {
+        "name": "便携动力锯",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "测距规",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "祭礼剑",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "西风长枪",
+        "itemType": "Weapon",
+        "rankType": 4
+      },
+      {
+        "name": "昭心",
+        "itemType": "Weapon",
+        "rankType": 4
       }
     ]
   },
